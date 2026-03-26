@@ -118,8 +118,44 @@ export default function WordFilters({
     return pages;
   };
 
+  const handleSearch = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const form = e.currentTarget;
+    const input = form.elements.namedItem("q") as HTMLInputElement;
+    const q = input?.value.trim();
+    if (q) window.location.href = `/search?q=${encodeURIComponent(q)}`;
+  };
+
   return (
-    <div className="lang-body">
+    <div className="lang-body-wrap">
+      {/* Search bar */}
+      <form onSubmit={handleSearch} className="lang-search-form">
+        <div className="lang-search-wrap">
+          <svg
+            className="lang-search-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+          >
+            <circle cx="11" cy="11" r="8" />
+            <path d="m21 21-4.3-4.3" />
+          </svg>
+          <input
+            type="text"
+            name="q"
+            placeholder={`Search words in ${languageName}...`}
+            className="lang-search-input"
+          />
+        </div>
+      </form>
+
+      <div className="lang-body">
       {/* Sidebar */}
       <aside className="lang-sidebar">
         <div className="sidebar-section">
@@ -255,6 +291,7 @@ export default function WordFilters({
           </>
         )}
       </div>
+    </div>
     </div>
   );
 }

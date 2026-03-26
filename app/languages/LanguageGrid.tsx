@@ -38,12 +38,15 @@ export default function LanguageGrid({
 
     if (search.trim()) {
       const q = search.toLowerCase();
-      result = result.filter(
+      const matches = result.filter(
         (l) =>
           l.name.toLowerCase().includes(q) ||
           (l.native_name && l.native_name.toLowerCase().includes(q)) ||
           l.slug.includes(q)
       );
+      // Only filter if at least one language matches — otherwise the user
+      // is likely typing a word to search, so keep showing all languages.
+      if (matches.length > 0) result = matches;
     }
 
     switch (sort) {
@@ -76,10 +79,16 @@ export default function LanguageGrid({
     return `Explore swear words in ${lang.name}.`;
   };
 
+  const handleSearchSubmit = (e: React.FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    const q = search.trim();
+    if (q) window.location.href = `/search?q=${encodeURIComponent(q)}`;
+  };
+
   return (
     <>
-      {/* Search + Sort */}
-      <div className="languages-controls">
+      {/* Filter languages + Sort */}
+      <form onSubmit={handleSearchSubmit} className="languages-controls">
         <div className="languages-search-wrap">
           <svg
             className="languages-search-icon"
@@ -98,7 +107,7 @@ export default function LanguageGrid({
           </svg>
           <input
             type="text"
-            placeholder="Search languages... (e.g. Spanish, Japanese)"
+            placeholder="Search languages or words... (press Enter to search words)"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             className="languages-search-input"
@@ -113,7 +122,7 @@ export default function LanguageGrid({
           <option value="words_asc">Fewest Words</option>
           <option value="alpha">Alphabetical</option>
         </select>
-      </div>
+      </form>
 
       {/* Empty state */}
       {filtered.length === 0 && (
