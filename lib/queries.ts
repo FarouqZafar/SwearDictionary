@@ -57,3 +57,44 @@ export async function getTotalWordCount(): Promise<number> {
   if (error) return 0;
   return count ?? 0;
 }
+
+export async function getLanguageBySlug(slug: string): Promise<Language | null> {
+  const { data, error } = await supabase
+    .from("languages")
+    .select("*")
+    .eq("slug", slug)
+    .single();
+
+  if (error) {
+    console.error("Failed to fetch language:", error.message);
+    return null;
+  }
+  return data;
+}
+
+export async function getAllWordsByLanguage(languageId: string): Promise<Word[]> {
+  const { data, error } = await supabase
+    .from("words")
+    .select("*")
+    .eq("language_id", languageId)
+    .eq("is_published", true)
+    .order("views", { ascending: false });
+
+  if (error) {
+    console.error("Failed to fetch words:", error.message);
+    return [];
+  }
+  return data ?? [];
+}
+
+export async function getAllLanguageSlugs(): Promise<string[]> {
+  const { data, error } = await supabase
+    .from("languages")
+    .select("slug");
+
+  if (error) {
+    console.error("Failed to fetch language slugs:", error.message);
+    return [];
+  }
+  return (data ?? []).map((l) => l.slug);
+}
