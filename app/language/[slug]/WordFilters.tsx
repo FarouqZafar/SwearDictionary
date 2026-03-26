@@ -5,7 +5,7 @@ import Link from "next/link";
 import type { Word } from "@/types";
 import { type SeverityLevel } from "@/types";
 
-const CARDS_PER_PAGE = 6;
+const CARDS_PER_PAGE = 18;
 
 const SEVERITY_OPTIONS = [
   { value: 0, label: "All", min: 1, max: 5 },

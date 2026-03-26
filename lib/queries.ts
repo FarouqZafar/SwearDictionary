@@ -98,3 +98,100 @@ export async function getAllLanguageSlugs(): Promise<string[]> {
   }
   return (data ?? []).map((l) => l.slug);
 }
+
+export async function getWordBySlug(
+  languageSlug: string,
+  wordSlug: string
+): Promise<(Word & { language: Language }) | null> {
+  const lang = await getLanguageBySlug(languageSlug);
+  if (!lang) return null;
+
+  const { data, error } = await supabase
+    .from("words")
+    .select("*")
+    .eq("language_id", lang.id)
+    .eq("slug", wordSlug)
+    .eq("is_published", true)
+    .single();
+
+  if (error) {
+    console.error("Failed to fetch word:", error.message);
+    return null;
+  }
+  return data ? { ...data, language: lang } : null;
+}
+
+export async function getRelatedWords(
+  languageId: string,
+  excludeSlug: string,
+  limit = 3
+): Promise<Word[]> {
+  const { data, error } = await supabase
+    .from("words")
+    .select("*")
+    .eq("language_id", languageId)
+    .eq("is_published", true)
+    .neq("slug", excludeSlug)
+    .order("views", { ascending: false })
+    .limit(limit);
+
+  if (error) {
+    console.error("Failed to fetch related words:", error.message);
+    return [];
+  }
+  return data ?? [];
+}
+
+export async function searchWords(
+  query: string,
+  limit = 50
+): Promise<(Word & { language: Language })[]> {
+  const q = query.trim();
+  if (!q) return [];
+
+  const { data, error } = await supabase
+    .from("words")
+    .select("*, language:languages(*)")
+    .eq("is_published", true)
+    .or(
+      `word.ilike.%${q}%,literal_translation.ilike.%${q}%,english_equivalent.ilike.%${q}%,meaning.ilike.%${q}%`
+    )
+    .order("views", { ascending: false })
+    .limit(limit);
+
+  if (error) {
+    console.error("Failed to search words:", error.message);
+    return [];
+  }
+  return (data ?? []) as (Word & { language: Language })[];
+}
+
+export async function getAllWords(): Promise<(Word & { language: Language })[]> {
+  const { data, error } = await supabase
+    .from("words")
+    .select("*, language:languages(*)")
+    .eq("is_published", true)
+    .order("views", { ascending: false });
+
+  if (error) {
+    console.error("Failed to fetch all words:", error.message);
+    return [];
+  }
+  return (data ?? []) as (Word & { language: Language })[];
+}
+
+export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: string }[]> {
+  const { data, error } = await supabase
+    .from("words")
+    .select("slug, language:languages(slug)")
+    .eq("is_published", true);
+
+  if (error) {
+    console.error("Failed to fetch word slugs:", error.message);
+    return [];
+  }
+  return (data ?? []).map((w: Record<string, unknown>) => ({
+    slug: (w.language as Record<string, string>)?.slug ?? "",
+    wordSlug: w.slug as string,
+  }));
+}

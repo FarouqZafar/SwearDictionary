@@ -12,6 +12,13 @@ export const metadata: Metadata = {
     title: "All Languages — SwearDictionary",
     description:
       "Browse profanity across 40+ languages. Discover how the world swears.",
+    type: "website",
+    url: "https://sweardictionary.com/languages",
+    siteName: "SwearDictionary",
+  },
+  twitter: {
+    card: "summary",
+    title: "All Languages — SwearDictionary",
   },
 };
 

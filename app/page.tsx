@@ -1,93 +1,114 @@
+import Link from "next/link";
 import { getLanguages, getTrendingWords, getTotalWordCount } from "@/lib/queries";
 import { SEVERITY_LABELS, SEVERITY_CLASSES, type SeverityLevel } from "@/types";
 
-// Language flag mapping (for languages that don't have flag_emoji in DB)
 const FLAG_MAP: Record<string, string> = {
-  arabic: "🇸🇦",
-  english: "🇬🇧",
-  german: "🇩🇪",
-  turkish: "🇹🇷",
-  "farsi-persian": "🇮🇷",
-  spanish: "🇪🇸",
-  french: "🇫🇷",
-  japanese: "🇯🇵",
-  russian: "🇷🇺",
-  korean: "🇰🇷",
-  italian: "🇮🇹",
-  portuguese: "🇧🇷",
+  arabic: "🇸🇦", english: "🇬🇧", german: "🇩🇪", turkish: "🇹🇷",
+  "farsi-persian": "🇮🇷", spanish: "🇪🇸", french: "🇫🇷", japanese: "🇯🇵",
+  russian: "🇷🇺", korean: "🇰🇷", italian: "🇮🇹", portuguese: "🇧🇷",
 };
 
-// Short previews for featured language cards
-const LANG_PREVIEWS: Record<string, string> = {
-  turkish:
-    'Turkish profanity is deeply tied to honor and family respect. From the versatile <em>siktir</em> to creative animal insults like <em>eşşoğlueşşek</em>, it\'s an art form.',
-  german:
-    'Strong, guttural, satisfying. <em>Scheiße</em> is just the beginning — Germans compound everything into gems like <em>Arschgeige</em> (butt violin).',
-  arabic:
-    'Arabic profanity revolves around family honor. Insults targeting mothers or sisters can provoke physical violence — it\'s serious business.',
-  english:
-    'The global standard. <em>Fuck</em> works as every part of speech, and <em>cunt</em> ranges from nuclear (US) to casual greeting (Australia).',
-  "farsi-persian":
-    'Persian insults are poetic yet devastating. Combining animal comparisons with creative compound curses.',
-};
-
-export const revalidate = 3600; // revalidate every hour
+export const revalidate = 3600;
 
 export default async function HomePage() {
   const [languages, trendingWords, totalWords] = await Promise.all([
     getLanguages(),
-    getTrendingWords(6),
+    getTrendingWords(8),
     getTotalWordCount(),
   ]);
 
-  // Sort: most words first for the featured card
-  const sortedLangs = [...languages].sort(
-    (a, b) => b.word_count - a.word_count
+  // Word of the Day: pick based on day-of-year for daily rotation
+  const dayOfYear = Math.floor(
+    (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000
   );
-  const featured = sortedLangs[0];
-  const gridLangs = sortedLangs.slice(1, 5);
-  const miniLangs = sortedLangs.slice(0, 5);
+  const wotd = trendingWords.length > 0
+    ? trendingWords[dayOfYear % trendingWords.length]
+    : null;
 
-  // Split trending: first is big, next 2 are stacked, rest are in flat row
-  const bigWord = trendingWords[0];
-  const stackedWords = trendingWords.slice(1, 3);
-  const rowWords = trendingWords.slice(3, 6);
+  // Trending: exclude word of the day, take top 6
+  const trending = trendingWords
+    .filter((w) => w.id !== wotd?.id)
+    .slice(0, 6);
+
+  // Severity scale examples (pick one word per level from trending data)
+  const severityExamples: { level: number; label: string; color: string; desc: string }[] = [
+    { level: 1, label: "Mild", color: "var(--green)", desc: "Casual, everyday. Your coworker might use it." },
+    { level: 2, label: "Moderate", color: "var(--yellow)", desc: "Common but not for polite company." },
+    { level: 3, label: "Strong", color: "var(--orange)", desc: "Will turn heads. Normal among close friends." },
+    { level: 4, label: "Severe", color: "var(--red)", desc: "Not for public. Reserved for strong emotions." },
+    { level: 5, label: "Nuclear", color: "var(--skull)", desc: "The worst it gets. Will provoke reactions." },
+  ];
 
   return (
-    <>
-      {/* HERO — intentionally left-aligned, not centered */}
-      <section className="hero">
-        <div className="hero-eyebrow">
-          {totalWords.toLocaleString()}+ words · {languages.length} languages ·
-          zero filter
+    <main className="home-page">
+      <div className="home-container">
+      {/* HEADER — same layout as words/languages pages */}
+      <div className="home-header">
+        <div className="home-header-left">
+          <div className="hero-eyebrow">
+            {totalWords.toLocaleString()}+ words · {languages.length} languages ·
+            zero filter
+          </div>
+          <h1 className="home-title">
+            Learn how to offend
+            <br />
+            people <em>properly.</em>
+          </h1>
+          <p className="home-subtitle">
+            The only dictionary your teacher <strong>definitely</strong> didn&apos;t
+            recommend. Explore swear words, insults, and creative profanity across
+            every language — with severity ratings, cultural context, and the kind
+            of detail you won&apos;t find on Duolingo.
+          </p>
         </div>
-        <h1>
-          Learn how to offend
-          <br />
-          people <span className="italic">properly.</span>
-        </h1>
-        <p className="hero-sub">
-          The only dictionary your teacher <strong>definitely</strong> didn't
-          recommend. Explore swear words, insults, and creative profanity across
-          every language — with severity ratings, cultural context, and the kind
-          of detail you won't find on Duolingo.
-        </p>
+        <div className="home-header-right">
+          <span className="home-stat-label">total words</span>
+          <span className="home-stat-count">{totalWords.toLocaleString()}</span>
+        </div>
+      </div>
 
-        <div className="search-wrap">
-          <span className="search-icon">🔍</span>
-          <input
-            type="text"
-            placeholder='Try "scheisse", "putain", or just "fuck"...'
-          />
-        </div>
-        <div className="search-hint">
-          Popular right now: <span>joder</span> · <span>kuso</span> ·{" "}
-          <span>cazzo</span> · <span>blyat</span>
-        </div>
-      </section>
+      {/* SEARCH */}
+      <div className="home-search-row">
+        <form action="/search" method="GET" className="home-search-form">
+          <div className="home-search-wrap">
+            <svg
+              className="home-search-icon"
+              xmlns="http://www.w3.org/2000/svg"
+              width="16"
+              height="16"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+            >
+              <circle cx="11" cy="11" r="8" />
+              <path d="m21 21-4.3-4.3" />
+            </svg>
+            <input
+              type="text"
+              name="q"
+              placeholder='Try "scheisse", "putain", or just "fuck"...'
+              className="home-search-input"
+            />
+          </div>
+        </form>
+      </div>
+      <div className="home-search-hint">
+        Popular right now:{" "}
+        {trending.slice(0, 4).map((w, i) => (
+          <span key={w.id}>
+            {i > 0 && " · "}
+            <Link href={`/language/${w.language?.slug}/${w.slug}`} className="search-hint-link">
+              {w.word}
+            </Link>
+          </span>
+        ))}
+      </div>
 
       {/* STATS */}
-      <div className="stats-row">
+      <div className="home-stats-row">
         <div className="stat-chip">
           <b>{languages.length}</b> languages
         </div>
@@ -102,199 +123,176 @@ export default async function HomePage() {
         </div>
       </div>
 
-      {/* LANGUAGES — asymmetric grid */}
-      <div className="section-head">
-        <h2>Browse by language</h2>
-        <a href="/languages" className="see-all">
-          all {languages.length} languages →
-        </a>
+      {/* QUICK LINKS */}
+      <div className="home-quick-links">
+        <Link href="/words" className="home-quick-card">
+          <span className="home-quick-icon">📖</span>
+          <div>
+            <h3>Browse All Words</h3>
+            <p>{totalWords.toLocaleString()}+ words with filters, sorting, and search</p>
+          </div>
+          <span className="home-quick-arrow">→</span>
+        </Link>
+        <Link href="/languages" className="home-quick-card">
+          <span className="home-quick-icon">🌍</span>
+          <div>
+            <h3>Browse by Language</h3>
+            <p>{languages.length} languages from Arabic to Vietnamese</p>
+          </div>
+          <span className="home-quick-arrow">→</span>
+        </Link>
+        <Link href="/submit" className="home-quick-card">
+          <span className="home-quick-icon">✍️</span>
+          <div>
+            <h3>Submit a Word</h3>
+            <p>Help us build the most complete profanity database</p>
+          </div>
+          <span className="home-quick-arrow">→</span>
+        </Link>
       </div>
 
-      <div className="lang-grid">
-        {/* Featured: tall card spanning 2 rows */}
-        {featured && (
-          <a
-            href={`/language/${featured.slug}`}
-            className="lang-card featured"
-          >
-            <div>
-              <span className="flag">
-                {featured.flag_emoji || FLAG_MAP[featured.slug] || "🌍"}
-              </span>
-              <div className="lang-name">{featured.name}</div>
-              <div className="lang-count">{featured.word_count} words</div>
+      {/* WORD OF THE DAY */}
+      {wotd && (
+        <>
+          <div className="section-head">
+            <h2>Word of the Day</h2>
+            <span className="see-all home-wotd-date">
+              {new Date().toLocaleDateString("en-US", {
+                month: "short",
+                day: "numeric",
+              })}
+            </span>
+          </div>
+          <div className="home-wotd">
+            <Link
+              href={`/language/${wotd.language?.slug}/${wotd.slug}`}
+              className="home-wotd-card"
+            >
+              <div className="home-wotd-top">
+                <div>
+                  <span className="home-wotd-word">{wotd.word}</span>
+                  <span className="home-wotd-flag">
+                    {wotd.language?.flag_emoji || FLAG_MAP[wotd.language?.slug] || ""}
+                  </span>
+                </div>
+                <span
+                  className={`severity-badge ${SEVERITY_CLASSES[wotd.severity as SeverityLevel]}`}
+                >
+                  {SEVERITY_LABELS[wotd.severity as SeverityLevel]}
+                </span>
+              </div>
+              <div className="home-wotd-lang">
+                {wotd.language?.name}
+                {wotd.english_equivalent && (
+                  <> · &ldquo;{wotd.english_equivalent}&rdquo;</>
+                )}
+              </div>
+              <div className="home-wotd-meaning">{wotd.meaning}</div>
+              {wotd.cultural_context && (
+                <div className="home-wotd-context">
+                  <strong>Cultural note:</strong> {wotd.cultural_context}
+                </div>
+              )}
+            </Link>
+          </div>
+        </>
+      )}
+
+      {/* HOW BAD IS IT? — Severity Scale */}
+      <div className="section-head">
+        <h2>How bad is it?</h2>
+        <span className="see-all">the scale</span>
+      </div>
+      <div className="home-severity-scale">
+        {severityExamples.map((s) => (
+          <div key={s.level} className="home-sev-item">
+            <div className="home-sev-num" style={{ color: s.color }}>
+              {s.level}
+            </div>
+            <div className="home-sev-bar-track">
               <div
-                className="preview"
-                dangerouslySetInnerHTML={{
-                  __html:
-                    LANG_PREVIEWS[featured.slug] ||
-                    featured.description ||
-                    "",
-                }}
+                className="home-sev-bar-fill"
+                style={{ width: `${s.level * 20}%`, background: s.color }}
               />
             </div>
-          </a>
-        )}
-
-        {/* Remaining 4 grid cards */}
-        {gridLangs.map((lang) => (
-          <a
-            key={lang.id}
-            href={`/language/${lang.slug}`}
-            className="lang-card"
-          >
-            <span className="flag">
-              {lang.flag_emoji || FLAG_MAP[lang.slug] || "🌍"}
-            </span>
-            <div className="lang-name">{lang.name}</div>
-            <div className="lang-count">{lang.word_count} words</div>
-            <div
-              className="preview"
-              dangerouslySetInnerHTML={{
-                __html:
-                  LANG_PREVIEWS[lang.slug] ||
-                  (lang.description
-                    ? lang.description.split(".").slice(0, 1).join(".") + "."
-                    : ""),
-              }}
-            />
-          </a>
+            <div className="home-sev-info">
+              <span className="home-sev-label" style={{ color: s.color }}>
+                {s.label}
+              </span>
+              <span className="home-sev-desc">{s.desc}</span>
+            </div>
+          </div>
         ))}
       </div>
 
-      {/* Mini row */}
-      <div className="lang-row">
-        {miniLangs.map((lang) => (
-          <a
-            key={lang.id}
-            href={`/language/${lang.slug}`}
-            className="lang-mini"
-          >
-            <span className="flag">
-              {lang.flag_emoji || FLAG_MAP[lang.slug] || "🌍"}
-            </span>
-            <div className="name">{lang.name}</div>
-            <div className="ct">{lang.word_count} words</div>
-          </a>
-        ))}
-      </div>
-
-      {/* TRENDING / WORTH KNOWING */}
+      {/* TRENDING */}
       <div className="section-head">
-        <h2>Worth knowing</h2>
-        <a href="#" className="see-all">
-          trending →
-        </a>
+        <h2>Trending Right Now</h2>
+        <Link href="/words" className="see-all">
+          all words →
+        </Link>
       </div>
-
-      <div className="editorial">
-        {/* Big card */}
-        {bigWord && (
-          <a
-            href={`/language/${bigWord.language?.slug}/${bigWord.slug}`}
-            className="word-card"
+      <div className="home-trending-grid">
+        {trending.map((w) => (
+          <Link
+            key={w.id}
+            href={`/language/${w.language?.slug}/${w.slug}`}
+            className="home-trending-card"
           >
-            <div className="word-card-top">
-              <div>
-                <span className="word">{bigWord.word}</span>
-                <span className="word-lang">
-                  {" "}
-                  {bigWord.language?.flag_emoji ||
-                    FLAG_MAP[bigWord.language?.slug] ||
-                    ""}
-                </span>
-              </div>
+            <div className="home-trending-top">
+              <span className="home-trending-word">{w.word}</span>
               <span
-                className={`severity-badge ${SEVERITY_CLASSES[bigWord.severity as SeverityLevel]}`}
+                className={`severity-badge ${SEVERITY_CLASSES[w.severity as SeverityLevel]}`}
               >
-                {SEVERITY_LABELS[bigWord.severity as SeverityLevel]}
+                {SEVERITY_LABELS[w.severity as SeverityLevel]}
               </span>
             </div>
-            <div className="meaning">{bigWord.meaning}</div>
-            {bigWord.cultural_context && (
-              <div className="context">
-                <strong>Cultural note:</strong> {bigWord.cultural_context}
-              </div>
-            )}
-          </a>
-        )}
-
-        {/* Stacked smaller cards */}
-        <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
-          {stackedWords.map((w) => (
-            <a
-              key={w.id}
-              href={`/language/${w.language?.slug}/${w.slug}`}
-              className="word-card"
-            >
-              <div className="word-card-top">
-                <div>
-                  <span className="word" style={{ fontSize: "22px" }}>
-                    {w.word}
-                  </span>
-                  <span className="word-lang">
-                    {" "}
-                    {w.language?.flag_emoji ||
-                      FLAG_MAP[w.language?.slug] ||
-                      ""}
-                  </span>
-                </div>
-                <span
-                  className={`severity-badge ${SEVERITY_CLASSES[w.severity as SeverityLevel]}`}
-                >
-                  {SEVERITY_LABELS[w.severity as SeverityLevel]}
-                </span>
-              </div>
-              <div className="meaning">{w.meaning}</div>
-            </a>
-          ))}
-        </div>
+            <div className="home-trending-lang">
+              {w.language?.flag_emoji || FLAG_MAP[w.language?.slug] || "🌍"}{" "}
+              {w.language?.name}
+            </div>
+            <div className="home-trending-meaning">{w.meaning}</div>
+            <div className="home-trending-views">
+              {w.views.toLocaleString()} views
+            </div>
+          </Link>
+        ))}
       </div>
 
-      {/* More words in a flat row */}
-      {rowWords.length > 0 && (
-        <div className="word-row">
-          {rowWords.map((w) => (
-            <a
-              key={w.id}
-              href={`/language/${w.language?.slug}/${w.slug}`}
-              className="word-card"
-            >
-              <div className="word-card-top">
-                <div>
-                  <span className="word">{w.word}</span>
-                  <span className="word-lang">
-                    {" "}
-                    {w.language?.flag_emoji ||
-                      FLAG_MAP[w.language?.slug] ||
-                      ""}
-                  </span>
-                </div>
-                <span
-                  className={`severity-badge ${SEVERITY_CLASSES[w.severity as SeverityLevel]}`}
-                >
-                  {SEVERITY_LABELS[w.severity as SeverityLevel]}
-                </span>
-              </div>
-              <div className="meaning">{w.meaning}</div>
-            </a>
-          ))}
-        </div>
-      )}
+      {/* WHY DOES THIS EXIST? */}
+      <div className="section-head">
+        <h2>Why does this exist?</h2>
+      </div>
+      <div className="home-mission">
+        <p>
+          Profanity is one of the most universal — and least documented — parts
+          of human language. Every culture has words that shock, insult, and
+          release tension. SwearDictionary catalogs them with the same rigor
+          linguists give any other vocabulary: etymology, severity, regional
+          variation, cultural context.
+        </p>
+        <p>
+          This is an educational project. We believe understanding taboo language
+          is part of understanding culture — whether you&apos;re a language
+          learner, a traveler, a writer, or just curious about the words your
+          phrasebook left out.
+        </p>
+      </div>
 
       {/* CALLOUT */}
       <div className="callout">
         <div className="callout-icon">🤬</div>
         <div>
-          <h3>Know a word we're missing?</h3>
+          <h3>Know a word we&apos;re missing?</h3>
           <p>
-            We're building the most comprehensive profanity database on the
+            We&apos;re building the most comprehensive profanity database on the
             internet — and we need native speakers.{" "}
-            <a href="/submit">Submit a word</a> and help us fill the gaps. Your
-            grandmother would be so proud.
+            <Link href="/submit">Submit a word</Link> and help us fill the gaps.
+            Your grandmother would be so proud.
           </p>
         </div>
       </div>
-    </>
+      </div>
+    </main>
   );
 }

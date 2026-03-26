@@ -31,7 +31,14 @@ export async function generateMetadata({
   return {
     title,
     description,
-    openGraph: { title, description },
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      url: `https://sweardictionary.com/language/${slug}`,
+      siteName: "SwearDictionary",
+    },
+    twitter: { card: "summary", title, description },
   };
 }
 
