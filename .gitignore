@@ -1,0 +1,22 @@
+# env / secrets
+.env
+.env.*
+!.env.example
+
+# dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# next.js
+.next/
+out/
+
+# seed data (contains content IP)
+data/seeds/
+
+# build / misc
+*.tsbuildinfo
+next-env.d.ts
