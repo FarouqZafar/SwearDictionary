@@ -1,29 +1,36 @@
 import type { Metadata } from "next";
-import { getLanguages, getTotalWordCount } from "@/lib/queries";
+import Link from "next/link";
+import { getLanguages, getTotalWordCount, getTrendingWords } from "@/lib/queries";
 
 export const metadata: Metadata = {
-  title: "About — SwearDictionary",
+  title: "About SwearDictionary — Multilingual Profanity Encyclopedia",
   description:
-    "SwearDictionary is the internet's most comprehensive multilingual profanity encyclopedia. Severity ratings, cultural context, and real usage examples across 40+ languages.",
+    "SwearDictionary catalogs swear words & profanity from 40+ languages with severity ratings, cultural context & real usage examples.",
   openGraph: {
-    title: "About — SwearDictionary",
+    title: "About SwearDictionary — Multilingual Profanity Encyclopedia",
     description:
-      "The internet's most comprehensive multilingual profanity encyclopedia.",
+      "SwearDictionary catalogs swear words & profanity from 40+ languages with severity ratings, cultural context & real usage examples.",
     type: "website",
     url: "https://sweardictionary.com/about",
     siteName: "SwearDictionary",
   },
   twitter: {
     card: "summary",
-    title: "About — SwearDictionary",
+    title: "About SwearDictionary — Multilingual Profanity Encyclopedia",
+    description:
+      "SwearDictionary catalogs swear words & profanity from 40+ languages with severity ratings, cultural context & real usage examples.",
   },
+  alternates: { canonical: "https://sweardictionary.com/about" },
 };
 
 export default async function AboutPage() {
-  const [languages, wordCount] = await Promise.all([
+  const [languages, wordCount, trendingWords] = await Promise.all([
     getLanguages(),
     getTotalWordCount(),
+    getTrendingWords(5),
   ]);
+
+  const topLanguages = languages.slice(0, 5);
 
   return (
     <main className="about-page">
@@ -90,6 +97,28 @@ export default async function AboutPage() {
           </a>
           .
         </p>
+      </section>
+
+      <section className="about-section">
+        <h2 className="about-section-label">Popular languages</h2>
+        <div className="about-links">
+          {topLanguages.map((lang) => (
+            <Link key={lang.id} href={`/language/${lang.slug}`} className="about-link">
+              {lang.flag_emoji || "🌍"} {lang.name} ({lang.word_count} words)
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <section className="about-section">
+        <h2 className="about-section-label">Most viewed words</h2>
+        <div className="about-links">
+          {trendingWords.map((w) => (
+            <Link key={w.id} href={`/language/${w.language?.slug}/${w.slug}`} className="about-link">
+              {w.word} — {w.language?.name}
+            </Link>
+          ))}
+        </div>
       </section>
 
       <p className="about-footer-note">Made with questionable intentions.</p>

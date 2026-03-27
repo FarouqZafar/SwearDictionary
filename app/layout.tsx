@@ -37,6 +37,7 @@ export const metadata: Metadata = {
     card: "summary",
     title: "SwearDictionary — The world's rudest encyclopedia",
   },
+  alternates: { canonical: "https://sweardictionary.com" },
 };
 
 export default function RootLayout({
@@ -52,16 +53,43 @@ export default function RootLayout({
         <Navbar />
 
         {children}
-        
-        <footer className="mt-auto border-t border-white/5 py-12 px-6 sm:px-12 text-center sm:text-left">
-          <div className="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
-            <p className="font-serif italic text-text-dim text-lg">
-              Not for the faint of heart.
-            </p>
-            <div className="flex gap-6 font-mono text-xs uppercase tracking-widest text-text-dim">
-              <Link href="/about" className="hover:text-accent transition-colors">About</Link>
-              <Link href="/submit" className="hover:text-accent transition-colors">Submit</Link>
-              <Link href="/languages" className="hover:text-accent transition-colors">Languages</Link>
+
+        <footer className="site-footer">
+          <div className="footer-inner">
+            <div className="footer-top">
+              <div className="footer-brand">
+                <Link href="/" className="logo">
+                  <span className="logo-swear">swear</span>
+                  <span className="logo-dict">dictionary</span>
+                </Link>
+                <p>The internet&apos;s most comprehensive profanity database. Exploring how the world swears — with cultural context, severity ratings, and zero filter.</p>
+                <div className="stat-line"><strong>2,030</strong> words &middot; <strong>31</strong> languages</div>
+              </div>
+              <div className="footer-col">
+                <h4>Explore</h4>
+                <Link href="/words">All words</Link>
+                <Link href="/languages">All languages</Link>
+              </div>
+              <div className="footer-col">
+                <h4>Top languages</h4>
+                <Link href="/language/turkish">🇹🇷 Turkish</Link>
+                <Link href="/language/spanish">🇪🇸 Spanish</Link>
+                <Link href="/language/german">🇩🇪 German</Link>
+                <Link href="/language/arabic">🇸🇦 Arabic</Link>
+                <Link href="/language/french">🇫🇷 French</Link>
+              </div>
+              <div className="footer-col">
+                <h4>Site</h4>
+                <Link href="/about">About</Link>
+                <Link href="/submit">Submit a word</Link>
+              </div>
+            </div>
+            <div className="footer-divider" />
+            <div className="footer-bottom">
+              <div className="footer-copy">
+                &copy; 2026 <Link href="/">sweardictionary</Link> &middot; made with questionable intentions
+              </div>
+              <div className="footer-tagline">Not for the faint of heart.</div>
             </div>
           </div>
         </footer>

@@ -4,25 +4,6 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import type { Language } from "@/types";
 
-const FLAG_MAP: Record<string, string> = {
-  arabic: "🇸🇦",
-  chinese: "🇨🇳",
-  english: "🇬🇧",
-  french: "🇫🇷",
-  german: "🇩🇪",
-  hindi: "🇮🇳",
-  italian: "🇮🇹",
-  japanese: "🇯🇵",
-  korean: "🇰🇷",
-  kurdish: "🇮🇶",
-  portuguese: "🇧🇷",
-  russian: "🇷🇺",
-  spanish: "🇪🇸",
-  turkish: "🇹🇷",
-  vietnamese: "🇻🇳",
-  "farsi-persian": "🇮🇷",
-};
-
 type SortOption = "words_desc" | "words_asc" | "alpha";
 
 export default function LanguageGrid({
@@ -69,7 +50,7 @@ export default function LanguageGrid({
   const grid = filtered.slice(1);
 
   const flag = (lang: Language) =>
-    lang.flag_emoji || FLAG_MAP[lang.slug] || "🌍";
+    lang.flag_emoji || "🌍";
 
   const preview = (lang: Language) => {
     if (lang.description) return lang.description;

@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import type { Word } from "@/types";
 import { type SeverityLevel } from "@/types";
+import PronounceButton from "@/app/language/[slug]/[word-slug]/PronounceButton";
 
 const CARDS_PER_PAGE = 18;
 
@@ -45,11 +46,13 @@ export default function WordFilters({
   languageSlug,
   languageName,
   nativeName,
+  isoCode,
 }: {
   words: Word[];
   languageSlug: string;
   languageName: string;
   nativeName: string | null;
+  isoCode: string | null;
 }) {
   const [severityFilter, setSeverityFilter] = useState(0);
   const [selectedCategories, setSelectedCategories] = useState<Set<string>>(new Set());
@@ -245,7 +248,16 @@ export default function WordFilters({
                       {categoryLabel(w.categories)}
                     </span>
                   </div>
-                  <h3 className="word-card-name">{w.word}</h3>
+                  <div className="word-card-name-row">
+                    <h3 className="word-card-name">{w.word}</h3>
+                    <PronounceButton
+                      word={w.word}
+                      languageSlug={languageSlug}
+                      isoCode={isoCode}
+                      className="pronounce-btn--card"
+                      iconSize={14}
+                    />
+                  </div>
                   {w.ipa_pronunciation && (
                     <span className="word-card-ipa">/{w.ipa_pronunciation}/</span>
                   )}

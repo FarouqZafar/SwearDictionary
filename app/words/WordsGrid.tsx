@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import type { Word, Language } from "@/types";
+import PronounceButton from "@/app/language/[slug]/[word-slug]/PronounceButton";
 
 const CARDS_PER_PAGE = 12;
 
@@ -348,7 +349,16 @@ export default function WordsGrid({
                     {categoryLabel(w.categories)}
                   </span>
                 </div>
-                <h3 className="word-card-name">{w.word}</h3>
+                <div className="word-card-name-row">
+                  <h3 className="word-card-name">{w.word}</h3>
+                  <PronounceButton
+                    word={w.word}
+                    languageSlug={w.language.slug}
+                    isoCode={w.language.iso_code}
+                    className="pronounce-btn--card"
+                    iconSize={14}
+                  />
+                </div>
                 <div className="word-card-lang">
                   <span className="word-card-flag">
                     {w.language.flag_emoji || "🌍"}

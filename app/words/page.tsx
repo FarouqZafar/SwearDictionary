@@ -6,8 +6,9 @@ export const revalidate = 3600;
 
 export async function generateMetadata(): Promise<Metadata> {
   const words = await getAllWords();
-  const title = `All Swear Words — ${words.length} curse words across every language | SwearDictionary`;
-  const description = `Browse ${words.length} swear words across ${new Set(words.map((w) => w.language.id)).size}+ languages. Filter by severity, category, or language. Every word rated, translated, and explained.`;
+  const langCount = new Set(words.map((w) => w.language.id)).size;
+  const title = `Swear Words from Every Language | SwearDictionary`;
+  const description = `Browse ${words.length.toLocaleString()} swear words & curse words from ${langCount}+ languages. Filter by severity, category, or language. Every word rated, translated & explained.`;
 
   return {
     title,
@@ -20,6 +21,7 @@ export async function generateMetadata(): Promise<Metadata> {
       siteName: "SwearDictionary",
     },
     twitter: { card: "summary", title, description },
+    alternates: { canonical: "https://sweardictionary.com/words" },
   };
 }
 
@@ -35,11 +37,6 @@ export default async function WordsPage() {
         {/* Header */}
         <div className="words-header">
           <div className="words-header-left">
-            <nav className="breadcrumb">
-              <span>words</span>
-              <span className="sep">/</span>
-              <span>all</span>
-            </nav>
             <h1 className="words-title">
               Every Swear Word. <em>Every Language.</em>
             </h1>

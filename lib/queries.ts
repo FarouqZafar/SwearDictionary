@@ -106,25 +106,28 @@ export async function getWordBySlug(
   const lang = await getLanguageBySlug(languageSlug);
   if (!lang) return null;
 
+  const decoded = decodeURIComponent(wordSlug);
+
   const { data, error } = await supabase
     .from("words")
     .select("*")
     .eq("language_id", lang.id)
-    .eq("slug", wordSlug)
+    .eq("slug", decoded)
     .eq("is_published", true)
-    .single();
+    .limit(1);
 
   if (error) {
     console.error("Failed to fetch word:", error.message);
     return null;
   }
-  return data ? { ...data, language: lang } : null;
+  const word = data?.[0];
+  return word ? { ...word, language: lang } : null;
 }
 
 export async function getRelatedWords(
   languageId: string,
   excludeSlug: string,
-  limit = 3
+  limit = 6
 ): Promise<Word[]> {
   const { data, error } = await supabase
     .from("words")
@@ -167,17 +170,30 @@ export async function searchWords(
 }
 
 export async function getAllWords(): Promise<(Word & { language: Language })[]> {
-  const { data, error } = await supabase
-    .from("words")
-    .select("*, language:languages(*)")
-    .eq("is_published", true)
-    .order("views", { ascending: false });
+  // Supabase default limit is 1000 rows — fetch in batches
+  const all: (Word & { language: Language })[] = [];
+  const batchSize = 1000;
+  let offset = 0;
 
-  if (error) {
-    console.error("Failed to fetch all words:", error.message);
-    return [];
+  while (true) {
+    const { data, error } = await supabase
+      .from("words")
+      .select("*, language:languages(*)")
+      .eq("is_published", true)
+      .order("views", { ascending: false })
+      .range(offset, offset + batchSize - 1);
+
+    if (error) {
+      console.error("Failed to fetch all words:", error.message);
+      break;
+    }
+    const batch = (data ?? []) as (Word & { language: Language })[];
+    all.push(...batch);
+    if (batch.length < batchSize) break;
+    offset += batchSize;
   }
-  return (data ?? []) as (Word & { language: Language })[];
+
+  return all;
 }
 
 export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: string }[]> {

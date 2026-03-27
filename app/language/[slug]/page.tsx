@@ -24,9 +24,9 @@ export async function generateMetadata({
   const language = await getLanguageBySlug(slug);
   if (!language) return { title: "Language not found" };
 
-  const title = `${language.name} swear words — ${language.word_count} curse words with meaning & severity`;
+  const title = `${language.name} swear words — ${language.word_count} curse words & insults`;
   const description = language.description
-    || `Browse ${language.word_count} swear words in ${language.name} with severity ratings, translations, and cultural context.`;
+    || `Browse ${language.word_count} ${language.name} swear words, curse words & insults. Severity ratings, translations, and cultural context.`;
 
   return {
     title,
@@ -39,6 +39,7 @@ export async function generateMetadata({
       siteName: "SwearDictionary",
     },
     twitter: { card: "summary", title, description },
+    alternates: { canonical: `https://sweardictionary.com/language/${slug}` },
   };
 }
 
@@ -53,18 +54,51 @@ export default async function LanguagePage({
 
   const words = await getAllWordsByLanguage(language.id);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "DefinedTermSet",
+    name: `${language.name} swear words`,
+    description:
+      language.description ||
+      `Browse ${language.word_count} swear words in ${language.name} with severity ratings, translations, and cultural context.`,
+    inLanguage: language.name,
+    url: `https://sweardictionary.com/language/${slug}`,
+  };
+
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://sweardictionary.com" },
+      { "@type": "ListItem", position: 2, name: "Languages", item: "https://sweardictionary.com/languages" },
+      { "@type": "ListItem", position: 3, name: language.name },
+    ],
+  };
+
   return (
-    <div className="lang-page">
+    <main className="lang-main">
+      <div className="lang-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
       {/* Header */}
       <div className="lang-page-header">
         <div className="lang-page-header-left">
-          <nav className="breadcrumb">
+          <nav className="word-breadcrumb">
             <Link href="/languages">languages</Link>
-            <span className="sep">/</span>
-            <span>{language.slug}</span>
+            <span className="word-bc-sep">/</span>
+            <span className="word-bc-lang">
+              <span className="word-bc-flag">{language.flag_emoji || "🌍"}</span>
+              <span className="word-bc-current">{language.slug}</span>
+            </span>
           </nav>
           <h1 className="lang-page-title">
-            {language.name} <em>Vocabulary</em>
+            {language.name} <em>swear words</em>
           </h1>
         </div>
         <div className="lang-page-header-right">
@@ -79,7 +113,9 @@ export default async function LanguagePage({
         languageSlug={slug}
         languageName={language.name}
         nativeName={language.native_name}
+        isoCode={language.iso_code}
       />
     </div>
+    </main>
   );
 }

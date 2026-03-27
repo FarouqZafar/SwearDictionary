@@ -17,13 +17,6 @@ export async function generateMetadata({
   };
 }
 
-const FLAG_MAP: Record<string, string> = {
-  arabic: "🇸🇦", chinese: "🇨🇳", english: "🇬🇧", french: "🇫🇷",
-  german: "🇩🇪", hindi: "🇮🇳", italian: "🇮🇹", japanese: "🇯🇵",
-  korean: "🇰🇷", kurdish: "🇮🇶", portuguese: "🇧🇷", russian: "🇷🇺",
-  spanish: "🇪🇸", turkish: "🇹🇷", vietnamese: "🇻🇳", "farsi-persian": "🇮🇷",
-};
-
 export default async function SearchPage({
   searchParams,
 }: {
@@ -114,7 +107,7 @@ export default async function SearchPage({
           <section key={language.id} className="search-lang-group">
             <div className="search-lang-header">
               <span className="search-lang-flag">
-                {language.flag_emoji || FLAG_MAP[language.slug] || "🌍"}
+                {language.flag_emoji || "🌍"}
               </span>
               <h2 className="search-lang-name">{language.name}</h2>
               <span className="search-lang-count">{words.length}</span>

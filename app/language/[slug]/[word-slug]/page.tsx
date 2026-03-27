@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { getWordBySlug, getRelatedWords, getAllWordSlugs } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
+import PronounceButton from "./PronounceButton";
 
 export const revalidate = 3600;
 
@@ -21,9 +22,11 @@ export async function generateMetadata({
   const word = await getWordBySlug(slug, wordSlug);
   if (!word) return { title: "Word not found" };
 
-  const title = `${word.word} — ${word.language.name} swear word meaning, severity & usage`;
-  const description = word.meaning
-    || `Learn the meaning, severity, and cultural context of "${word.word}" in ${word.language.name}.`;
+  const title = `${word.word} meaning in ${word.language.name} — SwearDictionary`;
+  const meaningSnippet = word.meaning
+    ? word.meaning.slice(0, 70).trimEnd()
+    : `a ${word.language.name} swear word`;
+  const description = `What does "${word.word}" mean? ${meaningSnippet}... Severity rating & cultural context.`;
 
   return {
     title,
@@ -36,15 +39,9 @@ export async function generateMetadata({
       siteName: "SwearDictionary",
     },
     twitter: { card: "summary", title, description },
+    alternates: { canonical: `https://sweardictionary.com/language/${slug}/${wordSlug}` },
   };
 }
-
-const FLAG_MAP: Record<string, string> = {
-  arabic: "🇸🇦", chinese: "🇨🇳", english: "🇬🇧", french: "🇫🇷",
-  german: "🇩🇪", hindi: "🇮🇳", italian: "🇮🇹", japanese: "🇯🇵",
-  korean: "🇰🇷", kurdish: "🇮🇶", portuguese: "🇧🇷", russian: "🇷🇺",
-  spanish: "🇪🇸", turkish: "🇹🇷", vietnamese: "🇻🇳", "farsi-persian": "🇮🇷",
-};
 
 function severityColor(sev: number): string {
   if (sev <= 1) return "var(--green)";
@@ -75,7 +72,7 @@ export default async function WordPage({
   if (!word) notFound();
 
   const related = await getRelatedWords(word.language_id, word.slug);
-  const flag = word.language.flag_emoji || FLAG_MAP[slug] || "🌍";
+  const flag = word.language.flag_emoji || "🌍";
   const categories = word.categories.map((c) => c.replace("_", " ")).join(", ");
 
   const jsonLd = {
@@ -83,10 +80,11 @@ export default async function WordPage({
     "@type": "DefinedTerm",
     name: word.word,
     description: word.meaning || `${word.word} — a ${word.language.name} swear word`,
+    url: `https://sweardictionary.com/language/${slug}/${wordSlug}`,
     inDefinedTermSet: {
       "@type": "DefinedTermSet",
-      name: "SwearDictionary",
-      url: "https://sweardictionary.com",
+      name: `${word.language.name} swear words`,
+      url: `https://sweardictionary.com/language/${slug}`,
     },
     inLanguage: word.language.iso_code || word.language.name,
   };
@@ -135,6 +133,11 @@ export default async function WordPage({
                 {word.ipa_pronunciation && (
                   <span className="word-ipa-badge">/{word.ipa_pronunciation}/</span>
                 )}
+                <PronounceButton
+                  word={word.word}
+                  languageSlug={slug}
+                  isoCode={word.language.iso_code}
+                />
                 {categories && (
                   <>
                     <span className="word-meta-dot" />
@@ -142,6 +145,15 @@ export default async function WordPage({
                   </>
                 )}
               </div>
+              <p className="word-intro-sentence">
+                What does <strong>{word.word}</strong> mean?{" "}
+                {word.word} is a {word.language.name}{" "}
+                {SEVERITY_LABELS[word.severity as SeverityLevel] || "swear word"}
+                {word.english_equivalent
+                  ? <> that translates to &ldquo;{word.english_equivalent}&rdquo; in English.</>
+                  : <>.</>
+                }
+              </p>
 
               {word.literal_translation && (
                 <div className="word-literal">
@@ -288,17 +300,6 @@ export default async function WordPage({
               </div>
             )}
 
-            {/* Audio button placeholder */}
-            {word.ipa_pronunciation && (
-              <button className="word-audio-btn">
-                <div className="word-audio-icon">
-                  <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M8 5v14l11-7z" />
-                  </svg>
-                </div>
-                <span>Listen to pronunciation</span>
-              </button>
-            )}
           </aside>
         </div>
       </div>

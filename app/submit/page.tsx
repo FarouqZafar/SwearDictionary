@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Submit a word — SwearDictionary",
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
     url: "https://sweardictionary.com/submit",
     siteName: "SwearDictionary",
   },
+  alternates: { canonical: "https://sweardictionary.com/submit" },
 };
 
 export default function SubmitPage() {
@@ -47,6 +49,14 @@ export default function SubmitPage() {
         <a href="mailto:hello@sweardictionary.com">hello@sweardictionary.com</a>{" "}
         with the word, language, translation, and any context you can share.
       </p>
+
+      <div className="submit-browse">
+        <p>In the meantime, explore what we have:</p>
+        <div className="submit-browse-links">
+          <Link href="/words" className="submit-browse-link">Browse existing words</Link>
+          <Link href="/languages" className="submit-browse-link">Browse by language</Link>
+        </div>
+      </div>
     </main>
   );
 }

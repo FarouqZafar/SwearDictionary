@@ -1,14 +1,46 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getLanguages, getTrendingWords, getTotalWordCount } from "@/lib/queries";
 import { SEVERITY_LABELS, SEVERITY_CLASSES, type SeverityLevel } from "@/types";
 
-const FLAG_MAP: Record<string, string> = {
-  arabic: "🇸🇦", english: "🇬🇧", german: "🇩🇪", turkish: "🇹🇷",
-  "farsi-persian": "🇮🇷", spanish: "🇪🇸", french: "🇫🇷", japanese: "🇯🇵",
-  russian: "🇷🇺", korean: "🇰🇷", italian: "🇮🇹", portuguese: "🇧🇷",
+export const metadata: Metadata = {
+  title: "SwearDictionary — Curse Words & Profanity in 30+ Languages",
+  description:
+    "Browse 2,000+ swear words, curse words & profanity from 30+ languages. Severity ratings, cultural context, translations & example sentences.",
+  openGraph: {
+    title: "SwearDictionary — Curse Words & Profanity in 30+ Languages",
+    description:
+      "Browse 2,000+ swear words, curse words & profanity from 30+ languages. Severity ratings, cultural context, translations & example sentences.",
+    type: "website",
+    url: "https://sweardictionary.com",
+    siteName: "SwearDictionary",
+  },
+  twitter: {
+    card: "summary",
+    title: "SwearDictionary — Curse Words & Profanity in 30+ Languages",
+    description:
+      "Browse 2,000+ swear words, curse words & profanity from 30+ languages. Severity ratings, cultural context, translations & example sentences.",
+  },
+  alternates: { canonical: "https://sweardictionary.com" },
 };
 
 export const revalidate = 3600;
+
+const websiteJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "SwearDictionary",
+  url: "https://sweardictionary.com",
+  description: "The world's most comprehensive multilingual profanity encyclopedia. Swear words, curse words and profanity from 30+ languages with severity ratings and cultural context.",
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: "https://sweardictionary.com/search?q={search_term_string}",
+    },
+    "query-input": "required name=search_term_string",
+  },
+};
 
 export default async function HomePage() {
   const [languages, trendingWords, totalWords] = await Promise.all([
@@ -41,6 +73,10 @@ export default async function HomePage() {
 
   return (
     <main className="home-page">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+      />
       <div className="home-container">
       {/* HEADER — same layout as words/languages pages */}
       <div className="home-header">
@@ -50,9 +86,9 @@ export default async function HomePage() {
             zero filter
           </div>
           <h1 className="home-title">
-            Learn how to offend
+            The world&apos;s swear words,
             <br />
-            people <em>properly.</em>
+            <em>properly documented.</em>
           </h1>
           <p className="home-subtitle">
             The only dictionary your teacher <strong>definitely</strong> didn&apos;t
@@ -172,7 +208,7 @@ export default async function HomePage() {
                 <div>
                   <span className="home-wotd-word">{wotd.word}</span>
                   <span className="home-wotd-flag">
-                    {wotd.language?.flag_emoji || FLAG_MAP[wotd.language?.slug] || ""}
+                    {wotd.language?.flag_emoji || "🌍"}
                   </span>
                 </div>
                 <span
@@ -248,7 +284,7 @@ export default async function HomePage() {
               </span>
             </div>
             <div className="home-trending-lang">
-              {w.language?.flag_emoji || FLAG_MAP[w.language?.slug] || "🌍"}{" "}
+              {w.language?.flag_emoji || "🌍"}{" "}
               {w.language?.name}
             </div>
             <div className="home-trending-meaning">{w.meaning}</div>
