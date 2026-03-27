@@ -2868,6 +2868,7 @@ body {
    =========================== */
 
 [data-theme="light"] {
+  /* CSS custom properties (used directly in globals.css) */
   --bg: #f5f3ee;
   --surface: #ffffff;
   --surface-hover: #eeebe3;
@@ -2878,6 +2879,17 @@ body {
   --text-muted: rgba(0, 0, 0, 0.35);
   --accent: #c97a24;
   --accent-dim: rgba(201, 122, 36, 0.1);
+
+  /* Tailwind @theme variables (used by bg-bg, text-text etc. utility classes) */
+  --color-bg: #f5f3ee;
+  --color-surface: #ffffff;
+  --color-surface-hover: #eeebe3;
+  --color-border: rgba(0, 0, 0, 0.08);
+  --color-text: #1a1919;
+  --color-text-dim: rgba(0, 0, 0, 0.55);
+  --color-text-muted: rgba(0, 0, 0, 0.35);
+  --color-accent: #c97a24;
+  --color-accent-dim: rgba(201, 122, 36, 0.1);
 }
 
 /* Header */
