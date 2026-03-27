@@ -2863,3 +2863,124 @@ body {
     text-align: center;
   }
 }
+/* ===========================
+   LIGHT THEME
+   =========================== */
+
+[data-theme="light"] {
+  --bg: #f5f3ee;
+  --surface: #ffffff;
+  --surface-hover: #eeebe3;
+  --border: rgba(0, 0, 0, 0.08);
+  --border-hover: rgba(0, 0, 0, 0.15);
+  --text: #1a1919;
+  --text-dim: rgba(0, 0, 0, 0.55);
+  --text-muted: rgba(0, 0, 0, 0.35);
+  --accent: #c97a24;
+  --accent-dim: rgba(201, 122, 36, 0.1);
+}
+
+/* Header */
+[data-theme="light"] .site-header {
+  background: rgba(245, 243, 238, 0.88);
+}
+
+/* Nav hover/active */
+[data-theme="light"] .nav-link:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+[data-theme="light"] .nav-link.active {
+  background: rgba(0, 0, 0, 0.07);
+}
+
+/* Cards & surfaces with hardcoded white alpha borders */
+[data-theme="light"] .word-card,
+[data-theme="light"] .lang-card,
+[data-theme="light"] .sidebar-section,
+[data-theme="light"] .word-severity-card,
+[data-theme="light"] .word-context-block,
+[data-theme="light"] .word-related,
+[data-theme="light"] .word-definition-card {
+  border-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="light"] .word-card:hover {
+  border-color: rgba(0, 0, 0, 0.15);
+  background: var(--surface);
+}
+
+/* Filters & inputs */
+[data-theme="light"] .words-lang-select,
+[data-theme="light"] .words-sort-select,
+[data-theme="light"] .lang-search-input,
+[data-theme="light"] .words-search-input,
+[data-theme="light"] .submit-email-input {
+  background: var(--surface);
+  color: var(--text);
+  border-color: rgba(0, 0, 0, 0.12);
+}
+
+/* Select dropdown arrow — light stroke */
+[data-theme="light"] .words-lang-select,
+[data-theme="light"] .words-sort-select {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='rgba(0,0,0,0.4)' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+}
+
+/* Severity pills */
+[data-theme="light"] .sev-pill {
+  border-color: rgba(0, 0, 0, 0.1);
+  color: var(--text-dim);
+}
+[data-theme="light"] .sev-pill:hover {
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Pagination */
+[data-theme="light"] .page-btn {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+[data-theme="light"] .page-btn:hover {
+  border-color: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.04);
+}
+
+/* Footer */
+[data-theme="light"] .site-footer {
+  border-top-color: rgba(0, 0, 0, 0.08);
+  background: #edeae3;
+}
+
+/* Word page sidebar segments */
+[data-theme="light"] .word-sev-segment {
+  opacity: 0.9;
+}
+
+/* Pronounce button */
+[data-theme="light"] .pronounce-btn {
+  border-color: rgba(0, 0, 0, 0.12);
+  color: var(--text-dim);
+}
+[data-theme="light"] .pronounce-btn:hover {
+  border-color: rgba(0, 0, 0, 0.25);
+  color: var(--text);
+}
+
+/* Theme toggle button */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  border: none;
+  background: transparent;
+  color: var(--text-dim);
+  cursor: pointer;
+  transition: color 0.15s, background 0.15s;
+  flex-shrink: 0;
+}
+.theme-toggle:hover {
+  color: var(--text);
+  background: var(--border);
+}
