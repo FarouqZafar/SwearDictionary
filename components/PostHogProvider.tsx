@@ -10,6 +10,9 @@ export function PostHogProvider({ children }: { children: React.ReactNode }) {
       api_host: 'https://us.i.posthog.com',
       capture_pageview: true,
       capture_pageleave: true,
+      loaded: (posthog) => {
+        if (process.env.NODE_ENV !== 'production') posthog.opt_out_capturing()
+      }
     })
   }, [])
 

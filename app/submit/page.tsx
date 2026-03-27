@@ -46,7 +46,7 @@ export default function SubmitPage() {
 
       <p className="submit-contact">
         Can&apos;t wait? Email us directly at{" "}
-        <a href="mailto:hello@sweardictionary.com">hello@sweardictionary.com</a>{" "}
+        <a href="mailto:support@sweardictionary.com">support@sweardictionary.com</a>{" "}
         with the word, language, translation, and any context you can share.
       </p>
 

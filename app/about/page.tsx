@@ -92,8 +92,8 @@ export default async function AboutPage() {
           Know a word we&apos;re missing? We&apos;re building a submission
           system so native speakers can contribute words, corrections, and
           cultural context. In the meantime, reach out at{" "}
-          <a href="mailto:hello@sweardictionary.com" style={{ color: "var(--accent)" }}>
-            hello@sweardictionary.com
+          <a href="mailto:support@sweardictionary.com" style={{ color: "var(--accent)" }}>
+            support@sweardictionary.com
           </a>
           .
         </p>
