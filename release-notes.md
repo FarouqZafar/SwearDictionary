@@ -116,6 +116,44 @@
 
 ---
 
+## v0.5.0 — Pre-Deploy Fixes (2026-03-27)
+
+### SEO Fixes
+- Added `generateMetadata` to homepage with full title, description, Open Graph, and Twitter card tags
+- Added canonical URLs (`alternates.canonical`) to every page: homepage, `/words`, `/languages`, `/language/[slug]`, `/language/[slug]/[word-slug]`, `/about`, `/submit`, and root layout
+- Added JSON-LD structured data to language pages: `DefinedTermSet` schema + `BreadcrumbList` (Home > Languages > [Language])
+
+### Code Cleanup
+- Removed hardcoded `FLAG_MAP` from all 4 files (`app/page.tsx`, `app/language/[slug]/[word-slug]/page.tsx`, `app/search/page.tsx`, `app/languages/LanguageGrid.tsx`) — now uses `flag_emoji` from database everywhere with "🌍" fallback
+
+### Security & Config
+- Configured `next.config.ts`: `poweredByHeader: false`, `compress: true`, security headers (X-Frame-Options DENY, X-Content-Type-Options nosniff, Referrer-Policy strict-origin-when-cross-origin, X-DNS-Prefetch-Control on, Permissions-Policy)
+
+### Build Verification
+- Clean `npm run build` passes with zero TypeScript errors
+- All 1,043 static pages generated successfully (31 language pages + 1,000 word pages + static pages)
+
+---
+
+## v0.6.0 — SEO Content & Internal Linking (2026-03-27)
+
+### SEO Improvements
+- **Word page intro sentence** (`app/language/[slug]/[word-slug]/page.tsx`): Added "What does [word] mean? [Word] is a [language] [severity] that translates to '[equivalent]' in English." at the top of every word detail page for search snippet targeting
+- **Related words expanded** (`lib/queries.ts`): `getRelatedWords` default limit increased from 3 to 6, more internal links per word page
+- **Sitemap dates fixed** (`app/sitemap.ts`): Static pages use fixed date `2026-03-27`, language pages use most recent `word.updated_at` for that language, word pages use individual `word.updated_at`
+
+### Internal Linking
+- **About page** (`app/about/page.tsx`): Added "Popular languages" section (top 5 by word count with links) and "Most viewed words" section (5 trending words with links)
+- **Submit page** (`app/submit/page.tsx`): Added "Browse existing words" and "Browse by language" links at bottom pointing to `/words` and `/languages`
+
+### CSS
+- **`app/globals.css`**: Added `.about-links`, `.about-link`, `.submit-browse`, `.submit-browse-links`, `.submit-browse-link`, `.word-intro-sentence` styles
+
+### Build
+- Clean `npm run build` — zero TypeScript errors, 1,043 pages generated
+
+---
+
 ## v0.7.0 — Pronunciation (2026-03-27)
 
 ### Web Speech API Pronunciation
@@ -146,41 +184,38 @@
 
 ---
 
-## v0.6.0 — SEO Content & Internal Linking (2026-03-27)
+## v0.9.0 — Analytics, Light/Dark Mode & Email Waitlist (2026-03-27)
 
-### SEO Improvements
-- **Word page intro sentence** (`app/language/[slug]/[word-slug]/page.tsx`): Added "What does [word] mean? [Word] is a [language] [severity] that translates to '[equivalent]' in English." at the top of every word detail page for search snippet targeting
-- **Related words expanded** (`lib/queries.ts`): `getRelatedWords` default limit increased from 3 to 6, more internal links per word page
-- **Sitemap dates fixed** (`app/sitemap.ts`): Static pages use fixed date `2026-03-27`, language pages use most recent `word.updated_at` for that language, word pages use individual `word.updated_at`
+### Analytics
+- **PostHog** (`components/PostHogProvider.tsx`): Added PostHog session analytics, wraps `{children}` in `app/layout.tsx`. Only captures in production (`loaded` callback calls `opt_out_capturing()` in non-production environments)
+- **Vercel Analytics** (`@vercel/analytics`): Installed and added `<Analytics />` to layout via Vercel's auto-integration
 
-### Internal Linking
-- **About page** (`app/about/page.tsx`): Added "Popular languages" section (top 5 by word count with links) and "Most viewed words" section (5 trending words with links)
-- **Submit page** (`app/submit/page.tsx`): Added "Browse existing words" and "Browse by language" links at bottom pointing to `/words` and `/languages`
+### Light/Dark Mode
+- **`ThemeToggle` component** (`components/ThemeToggle.tsx`): Sun/moon icon button in navbar, persists preference to `localStorage`
+- **Light mode is default** — dark applied only if user previously selected it
+- **No-flash script**: `next/script` with `strategy="beforeInteractive"` reads `localStorage` before React hydrates
+- **`suppressHydrationWarning`** on `<html>` to suppress server/client `data-theme` mismatch
+- **Light theme CSS**: Full `[data-theme="light"]` block appended to `globals.css` overriding both `:root` and `@theme` (Tailwind) variables — zero existing CSS lines changed
 
-### CSS
-- **`app/globals.css`**: Added `.about-links`, `.about-link`, `.submit-browse`, `.submit-browse-links`, `.submit-browse-link`, `.word-intro-sentence` styles
+### Email Waitlist
+- **`waitlist` Supabase table**: `id`, `email` (unique), `created_at` with RLS policy allowing public inserts
+- **`POST /api/waitlist`** (`app/api/waitlist/route.ts`): Validates email, inserts to Supabase via service role key, returns 409 on duplicate
+- **Submit page wired up** (`app/submit/page.tsx`): Converted to client component with email input state, loading/success/error states, posts to `/api/waitlist`
+
+### Sitemap Fix
+- **Paginated words query** (`app/sitemap.ts`): Replaced single `.select()` with batched while loop using `.range()` — now fetches all 2,030 words instead of first 1,000
+- **`revalidate = 86400`**: Sitemap now revalidates every 24h instead of never
+
+### Favicon
+- Replaced default Next.js favicon with custom book+exclamation icon (`app/icon.png`)
+- Auto-trimmed whitespace using alpha channel bounding box, resized to 512×512
+
+### Other
+- Support email updated from `hello@` to `support@sweardictionary.com` in `/submit` and `/about`
+- Deployed to Vercel with env vars (`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`)
 
 ### Build
 - Clean `npm run build` — zero TypeScript errors, 1,043 pages generated
-
----
-
-## v0.5.0 — Pre-Deploy Fixes (2026-03-27)
-
-### SEO Fixes
-- Added `generateMetadata` to homepage with full title, description, Open Graph, and Twitter card tags
-- Added canonical URLs (`alternates.canonical`) to every page: homepage, `/words`, `/languages`, `/language/[slug]`, `/language/[slug]/[word-slug]`, `/about`, `/submit`, and root layout
-- Added JSON-LD structured data to language pages: `DefinedTermSet` schema + `BreadcrumbList` (Home > Languages > [Language])
-
-### Code Cleanup
-- Removed hardcoded `FLAG_MAP` from all 4 files (`app/page.tsx`, `app/language/[slug]/[word-slug]/page.tsx`, `app/search/page.tsx`, `app/languages/LanguageGrid.tsx`) — now uses `flag_emoji` from database everywhere with "🌍" fallback
-
-### Security & Config
-- Configured `next.config.ts`: `poweredByHeader: false`, `compress: true`, security headers (X-Frame-Options DENY, X-Content-Type-Options nosniff, Referrer-Policy strict-origin-when-cross-origin, X-DNS-Prefetch-Control on, Permissions-Policy)
-
-### Build Verification
-- Clean `npm run build` passes with zero TypeScript errors
-- All 1,043 static pages generated successfully (31 language pages + 1,000 word pages + static pages)
 
 ---
 
@@ -190,17 +225,18 @@
 
 | Route | File | Meta | StaticParams | JSON-LD | Canonical | Revalidate |
 |-------|------|------|-------------|---------|-----------|------------|
-| `/` | `app/page.tsx` | Yes | No | No | Yes | 1h |
+| `/` | `app/page.tsx` | Yes | No | Yes | Yes | 1h |
 | `/words` | `app/words/page.tsx` | Yes | No | No | Yes | 1h |
 | `/languages` | `app/languages/page.tsx` | Yes | No | No | Yes | 1h |
 | `/language/[slug]` | `app/language/[slug]/page.tsx` | Yes | Yes | Yes | Yes | 1h |
 | `/language/[slug]/[word-slug]` | `app/language/[slug]/[word-slug]/page.tsx` | Yes | Yes | Yes | Yes | 1h |
-| `/search?q=` | `app/search/page.tsx` | Yes | No | No | Dynamic |
-| `/about` | `app/about/page.tsx` | Yes | No | No | None |
-| `/submit` | `app/submit/page.tsx` | Yes | No | No | None |
-| `/api/track-view` | `app/api/track-view/route.ts` | N/A | N/A | N/A | N/A |
-| `/sitemap.xml` | `app/sitemap.ts` | N/A | N/A | N/A | N/A |
-| `/robots.txt` | `app/robots.ts` | N/A | N/A | N/A | N/A |
+| `/search?q=` | `app/search/page.tsx` | Yes | No | No | Dynamic | — |
+| `/about` | `app/about/page.tsx` | Yes | No | No | Yes | — |
+| `/submit` | `app/submit/page.tsx` | Yes | No | No | Yes | — |
+| `/api/track-view` | `app/api/track-view/route.ts` | N/A | N/A | N/A | N/A | — |
+| `/api/waitlist` | `app/api/waitlist/route.ts` | N/A | N/A | N/A | N/A | — |
+| `/sitemap.xml` | `app/sitemap.ts` | N/A | N/A | N/A | N/A | 24h |
+| `/robots.txt` | `app/robots.ts` | N/A | N/A | N/A | N/A | — |
 
 ### Data
 
@@ -211,14 +247,17 @@
 - All languages have flag emojis in DB
 - All words have: severity (1-5), categories (from 6 valid options), meaning, cultural context, IPA pronunciation, slugs
 
-### Components (5 total)
+### Components (8 total)
 
 | Component | File | Lines |
 |-----------|------|-------|
-| Navbar | `components/Navbar.tsx` | 134 |
-| WordFilters | `app/language/[slug]/WordFilters.tsx` | 298 |
-| WordsGrid | `app/words/WordsGrid.tsx` | 413 |
-| LanguageGrid | `app/languages/LanguageGrid.tsx` | 200 |
+| Navbar | `components/Navbar.tsx` | ~35 |
+| ThemeToggle | `components/ThemeToggle.tsx` | ~50 |
+| PostHogProvider | `components/PostHogProvider.tsx` | ~20 |
+| LanguageGrid | `app/languages/LanguageGrid.tsx` | ~200 |
+| WordFilters | `app/language/[slug]/WordFilters.tsx` | ~300 |
+| WordsGrid | `app/words/WordsGrid.tsx` | ~430 |
+| PronounceButton | `app/language/[slug]/[word-slug]/PronounceButton.tsx` | ~90 |
 | ViewTracker | `app/language/[slug]/[word-slug]/ViewTracker.tsx` | 15 |
 
 ### Queries (12 functions in `lib/queries.ts`)
@@ -227,7 +266,7 @@
 
 ---
 
-## Phase 1 Checklist (from CLAUDE.md)
+## Phase 1 Checklist
 
 | Task | Status | Notes |
 |------|--------|-------|
@@ -235,10 +274,10 @@
 | Database schema and seed script | Done | Schema in Supabase, seed JSONs in `data/seeds/`, upload script in `data/upload_seeds.py` |
 | Homepage | Done | Redesigned with hero, search, quick links, WotD, severity scale, trending, mission |
 | Language page with filters | Done | Severity pills, category checkboxes, search bar, 18-per-page pagination |
-| Word detail page with pronunciation | Done | IPA display, severity bar, cultural context, examples, related words. No audio playback yet |
+| Word detail page with pronunciation | Done | IPA display + Web Speech API button, severity bar, cultural context, examples, related words |
 | Search | Done | Server-side ilike search, grouped by language, severity badges |
-| SEO: sitemap, meta tags, structured data | Done | Sitemap, robots.txt, meta tags on all pages, JSON-LD on language + word pages, canonical URLs on all pages |
-| Deploy to Vercel | Not started | Build verified clean, `next.config.ts` configured with security headers |
+| SEO: sitemap, meta tags, structured data | Done | Sitemap (2,065 URLs), robots.txt, meta tags on all pages, JSON-LD on all key pages, canonical URLs everywhere |
+| Deploy to Vercel | Done | Live at sweardictionary.com, env vars set, PostHog + Vercel Analytics running |
 
 ---
 
@@ -248,28 +287,23 @@
 2. ~~**FLAG_MAP hardcoded in 4 files**~~ — Removed in v0.5.0, uses DB `flag_emoji` everywhere
 3. ~~**No JSON-LD on language pages**~~ — Added DefinedTermSet + BreadcrumbList in v0.5.0
 4. ~~**No canonical URLs**~~ — Added to all pages in v0.5.0
-5. **Audio pronunciation is placeholder** — button exists on word pages but no audio files or TTS
-6. **Submit page is a placeholder** — email form only, no actual submission to DB
-7. ~~**`next.config.ts` is empty**~~ — Configured with security headers in v0.5.0
+5. ~~**Submit page is a placeholder**~~ — Email waitlist wired up in v0.9.0
+6. ~~**`next.config.ts` is empty**~~ — Configured with security headers in v0.5.0
+7. **Audio pronunciation** — Web Speech API works for most languages; no pre-generated audio files
 8. **Robots disallows `/api/`** — but ViewTracker calls `/api/track-view` from client (works fine, crawlers just won't index it)
-9. **Low word counts for original languages** — English (26), Farsi (26), Vietnamese (27) need more content
+9. **Low word counts for some languages** — English (26), Farsi (26), Vietnamese (27) need more content
 10. **No error logging** — `error.tsx` catches but doesn't report errors anywhere
-11. **Duplicate word slugs in DB** — ~49 words have duplicate slugs within their language, causing "Cannot coerce to single JSON object" warnings during build (pages 404 gracefully)
+11. **Duplicate word slugs in DB** — ~49 words have duplicate slugs within their language (pages 404 gracefully)
 
 ---
 
-## What's Left Before Deploy (Priority Order)
+## What's Next (Priority Order)
 
-1. ~~Add `generateMetadata` to homepage~~ — Done
-2. ~~Consolidate FLAG_MAP~~ — Done (removed entirely)
-3. ~~Add JSON-LD to language pages~~ — Done
-4. ~~Configure `next.config.ts`~~ — Done
-5. ~~Verify Vercel build~~ — Done (zero errors, 1,043 pages)
-6. **Deploy to Vercel** — connect repo, set env vars, deploy
-7. ~~Add canonical URLs~~ — Done
-8. **Expand low-count languages** — target 50+ words for English, Farsi, Vietnamese
-9. **Google AdSense setup** — add ad script, ensure content passes review
-10. **Fix duplicate word slugs in DB** — ~49 duplicates causing build warnings
+1. **Add `SUPABASE_SERVICE_ROLE_KEY` to Vercel env** — required for waitlist API to work in production
+2. **Google AdSense setup** — add ad script, ensure content passes review
+3. **Expand low-count languages** — target 50+ words for English, Farsi, Vietnamese
+4. **Fix duplicate word slugs in DB** — ~49 duplicates causing build warnings
+5. **Phase 2: Community submissions** — auth, moderation queue, upvotes
 
 ---
 

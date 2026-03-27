@@ -196,6 +196,40 @@ export async function getAllWords(): Promise<(Word & { language: Language })[]> 
   return all;
 }
 
+// Returns one high-severity word per language (top N languages by word count).
+// Used as a diverse fallback for trending/WotD when views are all zero.
+export async function getDiverseFeaturedWords(
+  languageCount = 8
+): Promise<(Word & { language: Language })[]> {
+  // Get top languages by word count
+  const { data: langs, error: langError } = await supabase
+    .from("languages")
+    .select("id, name, slug, flag_emoji, native_name, word_count")
+    .order("word_count", { ascending: false })
+    .limit(languageCount);
+
+  if (langError || !langs) return [];
+
+  // For each language, get the highest-severity published word
+  const results: (Word & { language: Language })[] = [];
+  await Promise.all(
+    langs.map(async (lang) => {
+      const { data: words } = await supabase
+        .from("words")
+        .select("*")
+        .eq("language_id", lang.id)
+        .eq("is_published", true)
+        .order("severity", { ascending: false })
+        .limit(1);
+      if (words?.[0]) {
+        results.push({ ...words[0], language: lang as Language });
+      }
+    })
+  );
+
+  return results;
+}
+
 export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: string }[]> {
   const { data, error } = await supabase
     .from("words")

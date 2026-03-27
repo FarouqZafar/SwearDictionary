@@ -1,21 +1,34 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+"use client";
 
-export const metadata: Metadata = {
-  title: "Submit a word — SwearDictionary",
-  description:
-    "Help us build the world's most comprehensive profanity database. Submit a swear word with its translation, severity, and cultural context.",
-  openGraph: {
-    title: "Submit a word — SwearDictionary",
-    description: "Help us build the world's most comprehensive profanity database.",
-    type: "website",
-    url: "https://sweardictionary.com/submit",
-    siteName: "SwearDictionary",
-  },
-  alternates: { canonical: "https://sweardictionary.com/submit" },
-};
+import Link from "next/link";
+import { useState } from "react";
 
 export default function SubmitPage() {
+  const [email, setEmail] = useState("");
+  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
+  const [errorMsg, setErrorMsg] = useState("");
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    setStatus("loading");
+    setErrorMsg("");
+
+    const res = await fetch("/api/waitlist", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ email }),
+    });
+
+    const data = await res.json();
+
+    if (res.ok) {
+      setStatus("success");
+    } else {
+      setStatus("error");
+      setErrorMsg(data.error || "Something went wrong");
+    }
+  };
+
   return (
     <main className="submit-page">
       <h1>Submit a word</h1>
@@ -30,18 +43,34 @@ export default function SubmitPage() {
           Drop your email and we&apos;ll let you know the moment you can start
           contributing.
         </p>
-        <form className="submit-email-form" action="#" method="POST">
-          <input
-            type="email"
-            name="email"
-            placeholder="you@example.com"
-            className="submit-email-input"
-            required
-          />
-          <button type="submit" className="submit-email-btn">
-            Notify me
-          </button>
-        </form>
+
+        {status === "success" ? (
+          <p className="submit-success">You&apos;re on the list!</p>
+        ) : (
+          <form className="submit-email-form" onSubmit={handleSubmit}>
+            <input
+              type="email"
+              name="email"
+              placeholder="you@example.com"
+              className="submit-email-input"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              required
+              disabled={status === "loading"}
+            />
+            <button
+              type="submit"
+              className="submit-email-btn"
+              disabled={status === "loading"}
+            >
+              {status === "loading" ? "Saving..." : "Notify me"}
+            </button>
+          </form>
+        )}
+
+        {status === "error" && (
+          <p className="submit-error">{errorMsg}</p>
+        )}
       </div>
 
       <p className="submit-contact">

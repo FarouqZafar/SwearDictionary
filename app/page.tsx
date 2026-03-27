@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getLanguages, getTrendingWords, getTotalWordCount } from "@/lib/queries";
+import { getLanguages, getTrendingWords, getDiverseFeaturedWords, getTotalWordCount } from "@/lib/queries";
 import { SEVERITY_LABELS, SEVERITY_CLASSES, type SeverityLevel } from "@/types";
 
 export const metadata: Metadata = {
@@ -43,22 +43,27 @@ const websiteJsonLd = {
 };
 
 export default async function HomePage() {
-  const [languages, trendingWords, totalWords] = await Promise.all([
+  const [languages, trendingWords, diverseWords, totalWords] = await Promise.all([
     getLanguages(),
     getTrendingWords(8),
+    getDiverseFeaturedWords(8),
     getTotalWordCount(),
   ]);
+
+  // If all trending words have 0 views (cold start), use diverse fallback
+  const hasRealViews = trendingWords.some((w) => w.views > 0);
+  const featuredWords = hasRealViews ? trendingWords : diverseWords;
 
   // Word of the Day: pick based on day-of-year for daily rotation
   const dayOfYear = Math.floor(
     (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000
   );
-  const wotd = trendingWords.length > 0
-    ? trendingWords[dayOfYear % trendingWords.length]
+  const wotd = featuredWords.length > 0
+    ? featuredWords[dayOfYear % featuredWords.length]
     : null;
 
   // Trending: exclude word of the day, take top 6
-  const trending = trendingWords
+  const trending = featuredWords
     .filter((w) => w.id !== wotd?.id)
     .slice(0, 6);
 

@@ -2996,3 +2996,14 @@ body {
   color: var(--text);
   background: var(--border);
 }
+
+.submit-success {
+  color: var(--green);
+  font-weight: 500;
+  margin-top: 8px;
+}
+.submit-error {
+  color: var(--red);
+  font-size: 13px;
+  margin-top: 8px;
+}
