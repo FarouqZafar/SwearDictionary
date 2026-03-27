@@ -14,6 +14,7 @@ import json
 import os
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 try:
@@ -46,11 +47,15 @@ if not SUPABASE_URL or not SUPABASE_KEY:
 
 
 def slugify(text: str) -> str:
-    """Create a URL-safe slug."""
-    text = re.sub(r'\s*\([^)]*\)\s*', '', text)
+    """Create a URL-safe ASCII slug. Strips non-Latin scripts, keeps romanizations from parentheses."""
     text = text.strip().lower()
-    text = re.sub(r'[\s_]+', '-', text)
-    text = re.sub(r'[^\w\-]', '', text, flags=re.UNICODE)
+    # NFD normalize so diacritics become separate combining chars
+    text = unicodedata.normalize("NFD", text)
+    # Strip combining diacritical marks (U+0300-U+036F)
+    text = re.sub(r'[\u0300-\u036f]', '', text)
+    # Replace everything non a-z0-9 with dashes
+    text = re.sub(r'[^a-z0-9]+', '-', text)
+    # Collapse multiple dashes and trim
     text = re.sub(r'-+', '-', text)
     return text.strip('-') or 'unknown'
 

@@ -231,17 +231,30 @@ export async function getDiverseFeaturedWords(
 }
 
 export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: string }[]> {
-  const { data, error } = await supabase
-    .from("words")
-    .select("slug, language:languages(slug)")
-    .eq("is_published", true);
+  // Supabase default limit is 1000 rows — fetch in batches
+  const all: { slug: string; wordSlug: string }[] = [];
+  const batchSize = 1000;
+  let offset = 0;
 
-  if (error) {
-    console.error("Failed to fetch word slugs:", error.message);
-    return [];
+  while (true) {
+    const { data, error } = await supabase
+      .from("words")
+      .select("slug, language:languages(slug)")
+      .eq("is_published", true)
+      .range(offset, offset + batchSize - 1);
+
+    if (error) {
+      console.error("Failed to fetch word slugs:", error.message);
+      break;
+    }
+    const batch = (data ?? []).map((w: Record<string, unknown>) => ({
+      slug: (w.language as Record<string, string>)?.slug ?? "",
+      wordSlug: w.slug as string,
+    }));
+    all.push(...batch);
+    if ((data ?? []).length < batchSize) break;
+    offset += batchSize;
   }
-  return (data ?? []).map((w: Record<string, unknown>) => ({
-    slug: (w.language as Record<string, string>)?.slug ?? "",
-    wordSlug: w.slug as string,
-  }));
+
+  return all;
 }
