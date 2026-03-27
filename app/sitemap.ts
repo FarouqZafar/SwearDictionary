@@ -2,16 +2,30 @@ import type { MetadataRoute } from "next";
 import { getLanguages } from "@/lib/queries";
 import { supabase } from "@/lib/supabase";
 
+export const revalidate = 86400;
+
 const BASE_URL = "https://sweardictionary.com";
 const FIXED_DATE = "2026-03-27";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const languages = await getLanguages();
 
-  const { data: words } = await supabase
-    .from("words")
-    .select("slug, updated_at, language_id, language:languages(slug)")
-    .eq("is_published", true);
+  let words: Record<string, unknown>[] = [];
+  let from = 0;
+  const batchSize = 1000;
+
+  while (true) {
+    const { data } = await supabase
+      .from("words")
+      .select("slug, updated_at, language_id, language:languages(slug)")
+      .eq("is_published", true)
+      .range(from, from + batchSize - 1);
+
+    if (!data || data.length === 0) break;
+    words = [...words, ...data];
+    if (data.length < batchSize) break;
+    from += batchSize;
+  }
 
   // Build a map of language_id → most recent word updated_at
   const langLastUpdated = new Map<string, string>();
