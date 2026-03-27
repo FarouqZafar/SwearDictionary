@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, DM_Sans, JetBrains_Mono } from "next/font/google";
 import Link from "next/link";
+import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 
@@ -46,11 +47,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" data-theme="light">
+    <html lang="en" data-theme="light" suppressHydrationWarning>
       <body
         className={`${instrumentSerif.variable} ${dmSans.variable} ${jetbrainsMono.variable} antialiased bg-bg text-text min-h-screen flex flex-col`}
       >
-        <script dangerouslySetInnerHTML={{ __html: `(function(){var t=localStorage.getItem('theme');var d=window.matchMedia('(prefers-color-scheme: dark)').matches;document.documentElement.setAttribute('data-theme',t||'light');})();` }} />
+        <Script id="theme-init" strategy="beforeInteractive">{`(function(){var t=localStorage.getItem('theme');document.documentElement.setAttribute('data-theme',t||'light');})();`}</Script>
         <Navbar />
 
         {children}
