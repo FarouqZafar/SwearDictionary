@@ -4,6 +4,7 @@ import Link from "next/link";
 import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import { Analytics } from "@vercel/analytics/next";
+import { PostHogProvider } from "@/components/PostHogProvider";
 import "./globals.css";
 
 const instrumentSerif = Instrument_Serif({
@@ -55,7 +56,9 @@ export default function RootLayout({
         <Script id="theme-init" strategy="beforeInteractive">{`(function(){var t=localStorage.getItem('theme');document.documentElement.setAttribute('data-theme',t||'light');})();`}</Script>
         <Navbar />
 
+        <PostHogProvider>
         {children}
+        </PostHogProvider>
 
         <footer className="site-footer">
           <div className="footer-inner">
