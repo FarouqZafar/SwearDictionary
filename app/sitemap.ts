@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getLanguages } from "@/lib/queries";
+import { getLanguages, getPublishedArticles } from "@/lib/queries";
 import { supabase } from "@/lib/supabase";
 
 export const revalidate = 86400;
@@ -8,7 +8,10 @@ const BASE_URL = "https://sweardictionary.com";
 const FIXED_DATE = "2026-03-27";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const languages = await getLanguages();
+  const [languages, articles] = await Promise.all([
+    getLanguages(),
+    getPublishedArticles(),
+  ]);
 
   let words: Record<string, unknown>[] = [];
   let from = 0;
@@ -42,6 +45,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${BASE_URL}/words`, lastModified: FIXED_DATE, changeFrequency: "daily", priority: 0.9 },
     { url: `${BASE_URL}/languages`, lastModified: FIXED_DATE, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE_URL}/about`, lastModified: FIXED_DATE, changeFrequency: "monthly", priority: 0.3 },
+    { url: `${BASE_URL}/blog`, lastModified: FIXED_DATE, changeFrequency: "weekly", priority: 0.7 },
   ];
 
   const languagePages: MetadataRoute.Sitemap = languages.map((lang) => ({
@@ -60,5 +64,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })
   );
 
-  return [...staticPages, ...languagePages, ...wordPages];
+  const articlePages: MetadataRoute.Sitemap = articles.map((a) => ({
+    url: `${BASE_URL}/blog/${a.slug}`,
+    lastModified: a.updated_at ? new Date(a.updated_at) : FIXED_DATE,
+    changeFrequency: "monthly" as const,
+    priority: 0.7,
+  }));
+
+  return [...staticPages, ...languagePages, ...wordPages, ...articlePages];
 }

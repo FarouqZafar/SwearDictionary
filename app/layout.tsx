@@ -35,9 +35,10 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://sweardictionary.com",
     siteName: "SwearDictionary",
+    images: [{ url: "https://sweardictionary.com/og-default.png", width: 1200, height: 630 }],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "SwearDictionary — The world's rudest encyclopedia",
   },
   alternates: { canonical: "https://sweardictionary.com" },
@@ -75,6 +76,7 @@ export default function RootLayout({
                 <h4>Explore</h4>
                 <Link href="/words">All words</Link>
                 <Link href="/languages">All languages</Link>
+                <Link href="/blog">Blog</Link>
               </div>
               <div className="footer-col">
                 <h4>Top languages</h4>

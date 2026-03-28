@@ -8,22 +8,27 @@ const supabaseAdmin = createClient(
 
 export async function POST(request: Request) {
   try {
-    const { wordId } = await request.json();
-    if (!wordId || typeof wordId !== "string") {
-      return NextResponse.json({ error: "Invalid wordId" }, { status: 400 });
+    const body = await request.json();
+    const { wordId, articleId } = body;
+
+    const table = articleId ? "articles" : "words";
+    const id = articleId || wordId;
+
+    if (!id || typeof id !== "string") {
+      return NextResponse.json({ error: "Invalid id" }, { status: 400 });
     }
 
     const { data } = await supabaseAdmin
-      .from("words")
+      .from(table)
       .select("views")
-      .eq("id", wordId)
+      .eq("id", id)
       .single();
 
     if (data) {
       await supabaseAdmin
-        .from("words")
+        .from(table)
         .update({ views: (data.views || 0) + 1 })
-        .eq("id", wordId);
+        .eq("id", id);
     }
 
     return NextResponse.json({ ok: true });

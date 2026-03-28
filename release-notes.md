@@ -219,6 +219,89 @@
 
 ---
 
+## v1.1.0 — SEO Enhancements, Article Sidebar & Hreflang (2026-03-28)
+
+### og:image — Social Sharing Image
+- Generated branded 1200x630 default OG image (`public/og-default.png`) using sharp — dark background, "sweardictionary" logo, tagline
+- Added `og:image` to root layout metadata (inherited by all pages)
+- Explicit `og:image` on homepage, word pages, and blog articles
+- Blog articles use `cover_image_url` if available, fall back to default
+- Upgraded all pages from `twitter:card: summary` to `summary_large_image`
+
+### FAQ Schema
+- **Word pages** (`app/language/[slug]/[word-slug]/page.tsx`): Added FAQPage JSON-LD with up to 3 dynamic questions — "What does [word] mean?", "How do you pronounce [word]?" (if IPA exists), "What is the English equivalent?" (if equivalent exists)
+- **Blog articles** (`app/blog/[slug]/page.tsx`): Added FAQPage JSON-LD extracted from H3 headings — each heading becomes a question, answered by the first paragraph after it (stripped of markdown, max 300 chars). Category-aware prefixes: "How profane is..." (movie-tv), "How does..." (celebrity), "What is..." (linguistic). Min 2 H3s required, max 8 questions.
+
+### Article SEO Keywords
+- Auto-extract H3 headings from article content as additional keywords
+- Combined with manual `tags` array (deduplicated) for `<meta name="keywords">`, `og:article:tag`, and JSON-LD `keywords`
+- Visible tags on article pages capped at 4; all keywords remain in meta tags
+
+### Article Table of Contents Sidebar
+- **`ArticleTOC` component** (`app/blog/[slug]/ArticleTOC.tsx`): Client component with sticky sidebar showing H2/H3 headings
+- Active section highlighting via IntersectionObserver as user scrolls
+- Smooth scroll on click, H3s indented as sub-items
+- Article page restructured to two-column grid layout (content + TOC)
+- Headings in rendered HTML get auto-generated `id` attributes for anchor links
+- Hidden on screens under 900px for clean mobile reading
+
+### Hreflang Tags
+- **`lib/hreflang.ts`**: Locale mapping for all 31 languages (fallback)
+- **Dynamic from database**: Uses `iso_code` from Supabase `languages` table as primary source, falls back to hardcoded map, then `"en"`
+- Added `alternates.languages` to language pages, word pages, and `/languages` index
+- New languages with `iso_code` set in Supabase get correct hreflang automatically — zero code changes needed
+
+### Build
+- Clean `npm run build` — zero TypeScript errors, 2,079 pages generated (including 4 blog articles)
+
+---
+
+## v1.0.0 — Unicode Slug Fix, Mobile Menu, Blog Infrastructure (2026-03-27)
+
+### Unicode Slug Fix
+- **Root cause**: `upload_seeds.py` preserved non-Latin Unicode in slugs (e.g. Arabic, Cyrillic, Thai) while Vercel ISR fails to serve non-ASCII dynamic route params
+- **Migration script** (`data/fix_unicode_slugs.py`): Converted 561 non-ASCII slugs to ASCII transliterations in Supabase with collision detection
+- **Fixed `upload_seeds.py`**: `slugify()` now normalizes NFD, strips combining marks, and replaces non-ASCII with hyphens — matching `seed.mjs` behavior
+- **Paginated `getAllWordSlugs()`**: Fixed Supabase 1000-row default limit with `.range()` batching — build now generates all 2,074 word pages (was 1,044)
+
+### View Tracking Fix
+- **`track-view` API**: Fixed to use `supabaseAdmin` (service role key) to bypass RLS for view count increments
+- **Diverse fallback**: Added `getDiverseFeaturedWords(n)` query — picks one high-severity word per top-N language as trending fallback when all views are 0
+
+### Mobile Menu
+- **`MobileMenu` component** (`components/MobileMenu.tsx`): Hamburger/X toggle, full-screen overlay, closes on route change, body scroll lock
+- **Active page indicator**: Orange dot + italic text for current page in both mobile and desktop nav
+- **Non-sticky mobile navbar**: Header uses `position: relative` on mobile, `sticky` only on desktop (768px+)
+
+### Desktop Nav Refresh
+- **`NavLinks` component** (`components/NavLinks.tsx`): Client component with `usePathname()` for active state
+- **Restyled**: Instrument Serif font, orange dot indicator below active link
+
+### Light Mode Fix
+- **Dropdown backgrounds**: Fixed invisible select dropdowns in light mode — `background` shorthand was wiping `background-image` (SVG arrow). Changed to `background-color`.
+
+### Blog Infrastructure
+- **Database**: `articles` table SQL migration (`supabase/create_articles.sql`) with title, slug, excerpt, content (markdown), category, published_at, views, RLS policies, indexes
+- **Types**: `Article` interface and `ARTICLE_CATEGORIES` constant in `types/index.ts`
+- **Queries** (5 new in `lib/queries.ts`): `getPublishedArticles`, `getArticleBySlug`, `getArticlesByCategory`, `getAllArticleSlugs`, `getLatestArticles`
+- **Blog index** (`app/blog/page.tsx`): Server component with SEO metadata, ISR 1h
+- **BlogGrid** (`app/blog/BlogGrid.tsx`): Client component with category filter pills, empty state
+- **Article page** (`app/blog/[slug]/page.tsx`): Markdown rendering via `marked`, JSON-LD Article schema, breadcrumb, `generateStaticParams`, `generateMetadata`, view tracking
+- **ArticleViewTracker** (`app/blog/[slug]/ArticleViewTracker.tsx`): Client component, reuses track-view API with `articleId`
+- **`track-view` API extended**: Handles both `wordId` and `articleId` parameters
+- **Integrated**: Blog link in navbar, mobile menu, footer, homepage ("Latest from the Blog" section), sitemap
+- **Styled**: Full blog page CSS, article prose styling with heading anchors, code blocks, blockquotes, tables
+
+### Build
+- Clean `npm run build` — zero TypeScript errors, 2,075 pages generated
+- Blog pages compile and render correctly (articles table gracefully returns empty until SQL migration is run)
+
+### Manual Steps Required
+- Run `supabase/create_articles.sql` in Supabase SQL editor to create the articles table
+- Add `SUPABASE_SERVICE_ROLE_KEY` to Vercel environment variables (needed for view tracking and waitlist)
+
+---
+
 ## Current State — Honest Assessment
 
 ### What's Built and Working
@@ -235,6 +318,8 @@
 | `/submit` | `app/submit/page.tsx` | Yes | No | No | Yes | — |
 | `/api/track-view` | `app/api/track-view/route.ts` | N/A | N/A | N/A | N/A | — |
 | `/api/waitlist` | `app/api/waitlist/route.ts` | N/A | N/A | N/A | N/A | — |
+| `/blog` | `app/blog/page.tsx` | Yes | No | No | Yes | 1h |
+| `/blog/[slug]` | `app/blog/[slug]/page.tsx` | Yes | Yes | Yes | Yes | 1h |
 | `/sitemap.xml` | `app/sitemap.ts` | N/A | N/A | N/A | N/A | 24h |
 | `/robots.txt` | `app/robots.ts` | N/A | N/A | N/A | N/A | — |
 
@@ -259,10 +344,14 @@
 | WordsGrid | `app/words/WordsGrid.tsx` | ~430 |
 | PronounceButton | `app/language/[slug]/[word-slug]/PronounceButton.tsx` | ~90 |
 | ViewTracker | `app/language/[slug]/[word-slug]/ViewTracker.tsx` | 15 |
+| MobileMenu | `components/MobileMenu.tsx` | ~77 |
+| NavLinks | `components/NavLinks.tsx` | ~40 |
+| BlogGrid | `app/blog/BlogGrid.tsx` | ~80 |
+| ArticleViewTracker | `app/blog/[slug]/ArticleViewTracker.tsx` | ~15 |
 
-### Queries (12 functions in `lib/queries.ts`)
+### Queries (17 functions in `lib/queries.ts`)
 
-`getLanguages`, `getTrendingWords`, `getWordsByLanguage`, `getTotalWordCount`, `getLanguageBySlug`, `getAllWordsByLanguage`, `getAllLanguageSlugs`, `getWordBySlug`, `getRelatedWords`, `searchWords`, `getAllWords`, `getAllWordSlugs`
+`getLanguages`, `getTrendingWords`, `getDiverseFeaturedWords`, `getWordsByLanguage`, `getTotalWordCount`, `getLanguageBySlug`, `getAllWordsByLanguage`, `getAllLanguageSlugs`, `getWordBySlug`, `getRelatedWords`, `searchWords`, `getAllWords`, `getAllWordSlugs`, `getPublishedArticles`, `getArticleBySlug`, `getArticlesByCategory`, `getAllArticleSlugs`, `getLatestArticles`
 
 ---
 

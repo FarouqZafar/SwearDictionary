@@ -49,6 +49,7 @@ export default function MobileMenu() {
             {[
               { href: "/words", label: "Words" },
               { href: "/languages", label: "Languages" },
+              { href: "/blog", label: "Blog" },
               { href: "/search", label: "Search" },
               { href: "/about", label: "About" },
             ].map((item) => (

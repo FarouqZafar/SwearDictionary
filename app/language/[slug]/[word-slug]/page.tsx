@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import { getWordBySlug, getRelatedWords, getAllWordSlugs } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
+import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 import PronounceButton from "./PronounceButton";
 
 export const revalidate = 3600;
@@ -37,9 +38,16 @@ export async function generateMetadata({
       type: "website",
       url: `https://sweardictionary.com/language/${slug}/${wordSlug}`,
       siteName: "SwearDictionary",
+      images: [{ url: "https://sweardictionary.com/og-default.png", width: 1200, height: 630 }],
     },
-    twitter: { card: "summary", title, description },
-    alternates: { canonical: `https://sweardictionary.com/language/${slug}/${wordSlug}` },
+    twitter: { card: "summary_large_image", title, description },
+    alternates: {
+      canonical: `https://sweardictionary.com/language/${slug}/${wordSlug}`,
+      languages: {
+        [word.language.iso_code || LANGUAGE_LOCALE_MAP[slug] || "en"]: `https://sweardictionary.com/language/${slug}/${wordSlug}`,
+        "x-default": "https://sweardictionary.com",
+      },
+    },
   };
 }
 
@@ -89,6 +97,42 @@ export default async function WordPage({
     inLanguage: word.language.iso_code || word.language.name,
   };
 
+  const faqEntries: { "@type": string; name: string; acceptedAnswer: { "@type": string; text: string } }[] = [
+    {
+      "@type": "Question",
+      name: `What does ${word.word} mean?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: word.meaning || `${word.word} is a ${word.language.name} swear word.`,
+      },
+    },
+  ];
+  if (word.ipa_pronunciation) {
+    faqEntries.push({
+      "@type": "Question",
+      name: `How do you pronounce ${word.word}?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: `${word.word} is pronounced /${word.ipa_pronunciation}/.`,
+      },
+    });
+  }
+  if (word.english_equivalent) {
+    faqEntries.push({
+      "@type": "Question",
+      name: `What is the English equivalent of ${word.word}?`,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: `The closest English equivalent of ${word.word} is "${word.english_equivalent}".`,
+      },
+    });
+  }
+  const faqLd = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqEntries,
+  };
+
   const breadcrumbLd = {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
@@ -109,6 +153,10 @@ export default async function WordPage({
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
       />
       <div className="word-page-container">
         {/* Breadcrumb */}

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getLanguages, getTrendingWords, getDiverseFeaturedWords, getTotalWordCount } from "@/lib/queries";
-import { SEVERITY_LABELS, SEVERITY_CLASSES, type SeverityLevel } from "@/types";
+import { getLanguages, getTrendingWords, getDiverseFeaturedWords, getTotalWordCount, getLatestArticles } from "@/lib/queries";
+import { SEVERITY_LABELS, SEVERITY_CLASSES, type SeverityLevel, ARTICLE_CATEGORIES } from "@/types";
 
 export const metadata: Metadata = {
   title: "SwearDictionary — Curse Words & Profanity in 30+ Languages",
@@ -14,9 +14,10 @@ export const metadata: Metadata = {
     type: "website",
     url: "https://sweardictionary.com",
     siteName: "SwearDictionary",
+    images: [{ url: "https://sweardictionary.com/og-default.png", width: 1200, height: 630 }],
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "SwearDictionary — Curse Words & Profanity in 30+ Languages",
     description:
       "Browse 2,000+ swear words, curse words & profanity from 30+ languages. Severity ratings, cultural context, translations & example sentences.",
@@ -43,11 +44,12 @@ const websiteJsonLd = {
 };
 
 export default async function HomePage() {
-  const [languages, trendingWords, diverseWords, totalWords] = await Promise.all([
+  const [languages, trendingWords, diverseWords, totalWords, latestArticles] = await Promise.all([
     getLanguages(),
     getTrendingWords(8),
     getDiverseFeaturedWords(8),
     getTotalWordCount(),
+    getLatestArticles(2),
   ]);
 
   // If all trending words have 0 views (cold start), use diverse fallback
@@ -299,6 +301,41 @@ export default async function HomePage() {
           </Link>
         ))}
       </div>
+
+      {/* LATEST FROM THE BLOG */}
+      {latestArticles.length > 0 && (
+        <>
+          <div className="section-head">
+            <h2>Latest from the Blog</h2>
+            <Link href="/blog" className="see-all">
+              all articles →
+            </Link>
+          </div>
+          <div className="home-blog-grid">
+            {latestArticles.map((article) => (
+              <Link
+                key={article.id}
+                href={`/blog/${article.slug}`}
+                className="home-blog-card"
+              >
+                <div className="home-blog-meta">
+                  <span className="home-blog-category">
+                    {ARTICLE_CATEGORIES[article.category]}
+                  </span>
+                  <span className="home-blog-date">
+                    {new Date(article.published_at).toLocaleDateString("en-US", {
+                      month: "short",
+                      day: "numeric",
+                    })}
+                  </span>
+                </div>
+                <h3 className="home-blog-title">{article.title}</h3>
+                <p className="home-blog-excerpt">{article.excerpt}</p>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
 
       {/* WHY DOES THIS EXIST? */}
       <div className="section-head">

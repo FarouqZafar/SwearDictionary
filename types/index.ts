@@ -35,6 +35,29 @@ export interface Word {
   updated_at: string;
 }
 
+export interface Article {
+  id: string;
+  slug: string;
+  title: string;
+  excerpt: string;
+  content: string;
+  cover_image_url: string | null;
+  category: "linguistic" | "cultural" | "celebrity" | "movie-tv";
+  tags: string[];
+  published_at: string;
+  is_published: boolean;
+  views: number;
+  created_at: string;
+  updated_at: string;
+}
+
+export const ARTICLE_CATEGORIES: Record<string, string> = {
+  linguistic: "Linguistic",
+  cultural: "Cultural",
+  celebrity: "Celebrity",
+  "movie-tv": "Film & TV",
+};
+
 export type SeverityLevel = 1 | 2 | 3 | 4 | 5;
 
 export const SEVERITY_LABELS: Record<SeverityLevel, string> = {

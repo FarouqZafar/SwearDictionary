@@ -22,7 +22,13 @@ export const metadata: Metadata = {
     description:
       "Browse swear words & curse words from 40+ languages. Every language rated, translated & explained.",
   },
-  alternates: { canonical: "https://sweardictionary.com/languages" },
+  alternates: {
+    canonical: "https://sweardictionary.com/languages",
+    languages: {
+      "x-default": "https://sweardictionary.com/languages",
+      en: "https://sweardictionary.com/languages",
+    },
+  },
 };
 
 export default async function LanguagesPage() {

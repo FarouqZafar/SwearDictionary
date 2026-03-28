@@ -1,5 +1,5 @@
 import { supabase } from "./supabase";
-import type { Language, Word } from "@/types";
+import type { Language, Word, Article } from "@/types";
 
 export async function getLanguages(): Promise<Language[]> {
   const { data, error } = await supabase
@@ -257,4 +257,77 @@ export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: strin
   }
 
   return all;
+}
+
+// ── Blog Articles ──────────────────────────────────────────
+
+export async function getPublishedArticles(): Promise<Article[]> {
+  const { data, error } = await supabase
+    .from("articles")
+    .select("*")
+    .eq("is_published", true)
+    .order("published_at", { ascending: false });
+
+  if (error) {
+    console.error("Failed to fetch articles:", error.message);
+    return [];
+  }
+  return (data ?? []) as Article[];
+}
+
+export async function getArticleBySlug(slug: string): Promise<Article | null> {
+  const { data, error } = await supabase
+    .from("articles")
+    .select("*")
+    .eq("slug", slug)
+    .eq("is_published", true)
+    .single();
+
+  if (error) {
+    return null;
+  }
+  return data as Article;
+}
+
+export async function getArticlesByCategory(category: string): Promise<Article[]> {
+  const { data, error } = await supabase
+    .from("articles")
+    .select("*")
+    .eq("is_published", true)
+    .eq("category", category)
+    .order("published_at", { ascending: false });
+
+  if (error) {
+    console.error("Failed to fetch articles by category:", error.message);
+    return [];
+  }
+  return (data ?? []) as Article[];
+}
+
+export async function getAllArticleSlugs(): Promise<string[]> {
+  const { data, error } = await supabase
+    .from("articles")
+    .select("slug")
+    .eq("is_published", true);
+
+  if (error) {
+    console.error("Failed to fetch article slugs:", error.message);
+    return [];
+  }
+  return (data ?? []).map((a) => a.slug);
+}
+
+export async function getLatestArticles(limit = 2): Promise<Article[]> {
+  const { data, error } = await supabase
+    .from("articles")
+    .select("*")
+    .eq("is_published", true)
+    .order("published_at", { ascending: false })
+    .limit(limit);
+
+  if (error) {
+    console.error("Failed to fetch latest articles:", error.message);
+    return [];
+  }
+  return (data ?? []) as Article[];
 }

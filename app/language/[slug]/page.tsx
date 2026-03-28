@@ -7,6 +7,7 @@ import {
   getAllLanguageSlugs,
 } from "@/lib/queries";
 import WordFilters from "./WordFilters";
+import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 
 export const revalidate = 3600;
 
@@ -39,7 +40,13 @@ export async function generateMetadata({
       siteName: "SwearDictionary",
     },
     twitter: { card: "summary", title, description },
-    alternates: { canonical: `https://sweardictionary.com/language/${slug}` },
+    alternates: {
+      canonical: `https://sweardictionary.com/language/${slug}`,
+      languages: {
+        [language.iso_code || LANGUAGE_LOCALE_MAP[slug] || "en"]: `https://sweardictionary.com/language/${slug}`,
+        "x-default": "https://sweardictionary.com/languages",
+      },
+    },
   };
 }
 
