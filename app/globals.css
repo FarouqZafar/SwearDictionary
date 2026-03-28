@@ -56,13 +56,18 @@ body {
 
 /* === HEADER === */
 .site-header {
-  position: sticky;
-  top: 0;
+  position: relative;
   z-index: 100;
   background: rgba(14,14,16,0.88);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
   border-bottom: 1px solid var(--border);
+}
+@media (min-width: 768px) {
+  .site-header {
+    position: sticky;
+    top: 0;
+  }
 }
 .header-inner {
   max-width: 1200px;
@@ -108,16 +113,23 @@ body {
 @media (min-width: 768px) {
   .nav-center { display: flex; }
 }
+.nav-link-wrap {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
 .nav-link {
-  font-family: var(--font-dm-sans), 'DM Sans', sans-serif;
-  font-size: 13px;
+  font-family: var(--font-instrument-serif), 'Instrument Serif', serif;
+  font-size: 15px;
   font-weight: 400;
   color: var(--text-dim);
   text-decoration: none;
   padding: 6px 14px;
   border-radius: 6px;
   transition: color 0.15s, background 0.15s;
-  letter-spacing: 0.1px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 .nav-link:hover {
   color: var(--text);
@@ -125,7 +137,15 @@ body {
 }
 .nav-link.active {
   color: var(--text);
-  background: rgba(255,255,255,0.06);
+  font-style: italic;
+}
+.nav-indicator {
+  display: inline-block;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
 }
 .nav-dot {
   width: 3px;
@@ -168,6 +188,83 @@ body {
 .submit-btn:hover {
   background: rgba(232,148,58,0.18);
   border-color: rgba(232,148,58,0.3);
+}
+
+/* Mobile menu */
+.mobile-menu-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  cursor: pointer;
+  padding: 4px;
+  transition: color 0.15s;
+}
+.mobile-menu-btn:hover { color: var(--text); }
+@media (min-width: 768px) {
+  .mobile-menu-btn { display: none; }
+}
+@media (max-width: 767px) {
+  .submit-btn { display: none; }
+  .nav-search-icon { display: none; }
+}
+
+.mobile-menu-overlay {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background: rgba(0,0,0,0.5);
+  min-height: 100vh;
+}
+.mobile-menu {
+  display: flex;
+  flex-direction: column;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 0;
+  gap: 2px;
+}
+.mobile-menu-link {
+  font-family: var(--font-instrument-serif), 'Instrument Serif', serif;
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--text-dim);
+  text-decoration: none;
+  padding: 14px 32px;
+  transition: color 0.15s, background 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.mobile-menu-link:hover {
+  color: var(--text);
+  background: rgba(255,255,255,0.04);
+}
+.mobile-menu-active {
+  color: var(--text);
+  font-style: italic;
+}
+.mobile-menu-indicator {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+}
+.mobile-menu-submit {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 13px;
+  font-style: normal;
+  color: var(--accent);
+  font-weight: 500;
+  margin-top: 4px;
+  border-top: 1px solid var(--border);
+  padding-top: 16px;
 }
 
 /* === HOMEPAGE CONTAINER === */
@@ -2904,6 +3001,12 @@ body {
 [data-theme="light"] .nav-link.active {
   background: rgba(0, 0, 0, 0.07);
 }
+[data-theme="light"] .mobile-menu-link:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+[data-theme="light"] .mobile-menu-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
 
 /* Cards & surfaces with hardcoded white alpha borders */
 [data-theme="light"] .word-card,
@@ -2927,15 +3030,23 @@ body {
 [data-theme="light"] .lang-search-input,
 [data-theme="light"] .words-search-input,
 [data-theme="light"] .submit-email-input {
-  background: var(--surface);
+  background-color: var(--surface);
   color: var(--text);
   border-color: rgba(0, 0, 0, 0.12);
 }
 
 /* Select dropdown arrow — light stroke */
 [data-theme="light"] .words-lang-select,
-[data-theme="light"] .words-sort-select {
+[data-theme="light"] .words-sort-select,
+[data-theme="light"] .languages-sort-select {
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='rgba(0,0,0,0.4)' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+}
+[data-theme="light"] .languages-sort-select {
+  background-color: var(--surface);
+  color: var(--text-dim);
+  border-color: rgba(0, 0, 0, 0.12);
 }
 
 /* Severity pills */

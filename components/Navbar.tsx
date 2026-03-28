@@ -1,5 +1,7 @@
 import Link from "next/link";
 import ThemeToggle from "./ThemeToggle";
+import MobileMenu from "./MobileMenu";
+import NavLinks from "./NavLinks";
 
 export default function Navbar() {
   return (
@@ -10,12 +12,7 @@ export default function Navbar() {
           <span className="logo-dict">dictionary</span>
         </Link>
 
-        <nav className="nav-center">
-          <Link href="/words" className="nav-link">Words</Link>
-          <Link href="/languages" className="nav-link">Languages</Link>
-          <span className="nav-dot" />
-          <Link href="/about" className="nav-link">About</Link>
-        </nav>
+        <NavLinks />
 
         <div className="header-right">
           <ThemeToggle />
@@ -26,6 +23,7 @@ export default function Navbar() {
             </svg>
           </Link>
           <Link href="/submit" className="submit-btn">+ Submit</Link>
+          <MobileMenu />
         </div>
       </div>
     </header>
