@@ -1,0 +1,2663 @@
+[
+  {
+    "word": "نامرد (Namard)",
+    "literal_translation": "not a man / unmanly",
+    "english_equivalent": "coward / traitor / backstabber",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "This is one of the most loaded words in Afghan masculinity. It doesn't just mean coward — it means someone who broke a promise, betrayed a trust, or abandoned someone in need. A namard is someone whose word means nothing. In a culture built on oral agreements and personal honor, this can end friendships and start blood feuds.",
+    "cultural_context": "The opposite of 'mard' (a real man). In Pashtun-adjacent Afghan culture, mardanagi (manliness) is the supreme male virtue — encompassing courage, loyalty, and keeping your word. Calling someone namard in front of others is a public declaration that they cannot be trusted. Older men use it with devastating seriousness; younger Afghans in the diaspora use it more casually about someone who flaked on plans.",
+    "example_usage": "تو نامردی، قولت هیچ ارزش نداره. (To namaardi, qawlet hech arzesh nadara. - You're a namard, your word is worthless.) — Said when someone breaks a serious promise.",
+    "ipa_pronunciation": "nɑːˈmærd",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Kabul",
+        "severity": 3,
+        "note": "Common and cutting, used in personal disputes"
+      },
+      {
+        "region": "Pashtun areas",
+        "severity": 4,
+        "note": "Even heavier due to Pashtunwali honor code overlap"
+      }
+    ],
+    "related_words": [
+      "bi namoos",
+      "bi sharaf"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی غیرت (Bi ghairat)",
+    "literal_translation": "without zeal / without protective honor",
+    "english_equivalent": "spineless / dishonorable coward",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Ghairat is the masculine duty to protect your family's honor, especially female relatives, with your life if necessary. Calling someone bi ghairat means they would stand by and watch their sister or wife be dishonored without lifting a finger. It's not just 'coward' — it's a declaration that you are less than a man, less than human.",
+    "cultural_context": "This is arguably more devastating than direct sexual insults in traditional Afghan circles because it attacks the very core of what makes a man worthy of respect. During the Taliban era and in rural Afghanistan today, ghairat killings (honor killings) are justified by this exact concept. Calling a man bi ghairat in a tribal setting can literally get you killed — not because you insulted him, but because he must now prove his ghairat through violence.",
+    "example_usage": "مرد بی غیرت، زنت با غیر میرود و تو هیچ نمیگویی. (Mard bi ghairat, zanet ba ghair merawad o to hech namigoi. - Spineless man, your wife goes with strangers and you say nothing.) — The nuclear version, implying his wife cheats openly.",
+    "ipa_pronunciation": "biː ɣeɪˈrɑːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "namard",
+      "bi namoos",
+      "dayus"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سگ (Sag)",
+    "literal_translation": "dog",
+    "english_equivalent": "dog / lowlife",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The standalone insult. While 'sag' appears in dozens of compound insults (pedar sag, madar sag, tokhm-e sag), using it alone is a blunt, direct way to call someone subhuman. In Islam, dogs are ritually impure — their saliva nullifies ablution. So calling someone a dog is calling them spiritually contaminated.",
+    "cultural_context": "Afghanistan has a complicated relationship with dogs. Street dogs are everywhere in Kabul but are treated as vermin, not pets. The Western concept of 'man's best friend' doesn't exist. When an Afghan elder calls someone 'sag', the comparison is to those feral, mangy street dogs — not a golden retriever. Younger diaspora Afghans who keep pet dogs find the insult less cutting, which frustrates their elders to no end.",
+    "example_usage": "ای سگ، از خانه من برو بیرون. (Ay sag, az khana-ye man boro biroon. - You dog, get out of my house.) — Used during a serious argument.",
+    "ipa_pronunciation": "sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "pedar sag",
+      "madar sag",
+      "tola sag",
+      "choocha sag"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خوک (Khook)",
+    "literal_translation": "pig",
+    "english_equivalent": "pig / filthy animal",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Pig is the ultimate impure animal in Islam — haram to eat, haram to touch, haram to keep. Calling someone khook says they are so filthy and forbidden that even being near them contaminates you. It hits different than 'dog' because pigs aren't even part of daily Afghan life; the animal itself is almost mythologically disgusting.",
+    "cultural_context": "Afghanistan has essentially zero domestic pigs. Most Afghans have never seen one in person. The insult comes entirely from Quranic prohibition, which makes it abstract and deeply religious rather than observational. Interestingly, during the Soviet-Afghan war, mujahideen would call Soviet soldiers 'khook' specifically because Russians eat pork. The word became associated with foreign invaders and kafirs (non-believers).",
+    "example_usage": "مثل خوک غذا میخوری. (Misle khook ghaza mekhori. - You eat like a pig.) — Said to someone with disgusting table manners.",
+    "ipa_pronunciation": "xuːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "لعنتی (Lanati)",
+    "literal_translation": "cursed / damned",
+    "english_equivalent": "damn / goddamn / cursed",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Someone upon whom God's curse (la'nat) has fallen. In everyday use it functions exactly like the English 'damn' — versatile, moderate, and everywhere. 'In telefon-e lanati' (this damn phone) is something every Kabuli says daily. But in its religious sense, being cursed by God is eternal damnation.",
+    "cultural_context": "The word 'la'nat' appears repeatedly in the Quran describing Shaytan (Satan) — 'la'natullahi alayhi' (God's curse upon him). So when an elder uses 'lanati' with full intent, they're invoking divine punishment. But through daily overuse, especially in Iranian media that Afghan youth consume, it has softened into a general-purpose intensifier. Your grandmother using it about a broken door handle and a mullah using it about a sinner carry entirely different weights.",
+    "example_usage": "این موتر لعنتی روشن نمیشه. (In motar-e lanati roshan namisha. - This damn car won't start.) — The casual everyday usage.",
+    "ipa_pronunciation": "læʔˈnætiː",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Urban Kabul",
+        "severity": 1,
+        "note": "Practically a filler word, very mild"
+      },
+      {
+        "region": "Rural/religious settings",
+        "severity": 3,
+        "note": "Taken more literally as a divine curse"
+      }
+    ],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "به درک (Ba darak)",
+    "literal_translation": "to the lowest level of hell",
+    "english_equivalent": "go to hell / to hell with it",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Darak is the Islamic concept of the lowest, most torturous level of Jahannam (hell) — reserved for hypocrites and the worst sinners. Telling someone 'ba darak' is wishing them to that specific pit. In practice, it's used as casually as English speakers say 'to hell with it.'",
+    "cultural_context": "Islamic eschatology describes seven levels of hell, each worse than the last. Darak (sometimes 'dark') is the very bottom. Despite this terrifying theological meaning, Afghans use it constantly — about traffic, about a job they hate, about a relative who annoyed them. The gap between the literal meaning and the casual usage is a perfect example of how profanity erodes over time through sheer repetition.",
+    "example_usage": "برو به درک! (Boro ba darak! - Go to hell!) — Standard dismissal when you're done arguing.",
+    "ipa_pronunciation": "bæ dæˈræk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی حیا (Bi haya)",
+    "literal_translation": "without modesty / shameless",
+    "english_equivalent": "shameless / brazen hussy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Haya is the Islamic virtue of modesty, shame, and bashfulness — particularly expected of women. Calling someone bi haya means they've abandoned all social propriety. When aimed at a woman, it implies she's sexually immodest. When aimed at a man, it means he has no sense of social boundaries or decency.",
+    "cultural_context": "There's a famous hadith: 'Haya is a branch of faith.' In Afghan society, haya is the quality that keeps women quiet in public, keeps men from discussing private matters openly, and keeps children obedient. Losing your haya is losing your place in the social fabric. Older Afghan women use 'bi haya' constantly — about girls who laugh too loudly, about boys who talk back to elders, about anyone who violates the elaborate unwritten rules of Afghan propriety.",
+    "example_usage": "چه بی حیا استی، پیش مهمان اینطور گپ میزنی. (Che bi haya asti, pesh mehman intor gap mezani. - How shameless you are, talking like that in front of guests.) — A mother scolding a child.",
+    "ipa_pronunciation": "biː hæˈjɑː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi sharm",
+      "bi tarbiyat"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی‌شرم (Bi sharm)",
+    "literal_translation": "without shame",
+    "english_equivalent": "shameless / brazen",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Sharm and haya are often used interchangeably, but sharm is the Persian word while haya is Arabic. Bi sharm has a slightly more secular, cultural feel than bi haya's religious undertone. Someone who is bi sharm does things openly that should be done in private — brags about money, flirts publicly, or disrespects elders without blinking.",
+    "cultural_context": "Used more commonly in everyday Dari than the more formal bi haya. Mothers deploy it constantly. 'Sharm-et nemisha?' (Are you not ashamed?) is probably the most frequently asked rhetorical question in Afghan households. The concept of shame as a social regulator is so central to Afghan life that not feeling it marks you as fundamentally broken.",
+    "example_usage": "شرمت نمیشه؟ آدم کلان استی! (Sharmet nemisha? Adam kalan asti! - Aren't you ashamed? You're a grown person!) — Universal Afghan parenting.",
+    "ipa_pronunciation": "biː ʃærm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi haya",
+      "chashm safed"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ریدم (Ridam)",
+    "literal_translation": "I shat",
+    "english_equivalent": "fuck it / I shit on this",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "The past tense of 'ridan' (to defecate), used as a standalone exclamation of total contempt or resignation. It's the Dari equivalent of throwing your hands up and saying 'fuck all of this.' Short, punchy, and immensely satisfying to say when everything goes wrong.",
+    "cultural_context": "This is Afghanistan's most versatile scatological exclamation. It can express frustration ('ridam, the car broke down again'), contempt ('ridam ba in kaar' — I shit on this job), or dismissal ('ridam, who cares'). Despite being crude, it's remarkably common across all social classes. You'll hear it from university professors and taxi drivers alike. The Iranian version 'ridam' is identical — one of the few profanities that crosses the Afghan-Iranian cultural divide without any change.",
+    "example_usage": "ریدم به این زندگی. (Ridam ba in zindagi. - I shit on this life.) — Said during a moment of absolute frustration.",
+    "ipa_pronunciation": "riːˈdæm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "goh",
+      "gand"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ریدم به دهنت (Ridam ba dahanet)",
+    "literal_translation": "I shat in your mouth",
+    "english_equivalent": "eat shit / shut the fuck up",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Taking the base 'ridam' and directing it at someone's mouth — the organ of speech. It simultaneously tells them to shut up and that everything they've been saying is worth less than feces. More aggressive than 'goh nakhor' because it's an active declaration rather than a command.",
+    "cultural_context": "This is the go-to escalation when 'goh nakhor' (don't eat shit) wasn't strong enough. The progression in Afghan arguments tends to go: 'khafa sho' (shut up) → 'goh nakhor' (stop bullshitting) → 'ridam ba dahanet' (I shat in your mouth). By the time someone reaches this third level, physical confrontation is usually imminent.",
+    "example_usage": "ریدم به دهنت، یک کلمه دیگه بگو. (Ridam ba dahanet, yak kalema dega bogo. - I shat in your mouth, say one more word.) — A direct challenge.",
+    "ipa_pronunciation": "riːˈdæm bæ dæˈhænet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "goh nakhor",
+      "khafa sho"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گاو (Gaw)",
+    "literal_translation": "cow",
+    "english_equivalent": "stupid / fat / oaf",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a cow in Dari is calling them big, slow, and brainless. Unlike English where 'cow' primarily insults women's weight, the Dari usage is more about stupidity and clumsiness — the image of a lumbering animal that can't think. Applied equally to men and women.",
+    "cultural_context": "In rural Afghanistan, cows are work animals that stand around chewing cud with vacant expressions. That's the comparison. It's mild enough that parents use it with children, teachers use it with students, and friends use it jokingly. 'Gaw-e chopan nadida' (a cow that's never seen a shepherd) means someone completely lost and clueless — a common expression for villagers arriving in Kabul for the first time.",
+    "example_usage": "مثل گاو نگاه نکن، یک چیزی بگو! (Misle gaw nigah nakun, yak chizi bogo! - Don't stare like a cow, say something!) — Teasing someone who's zoned out.",
+    "ipa_pronunciation": "gɑːw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khar",
+      "ablah"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بز (Boz)",
+    "literal_translation": "goat",
+    "english_equivalent": "fool / idiot / horny old goat",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Goats in Afghanistan are everywhere and known for two things: being stubborn and having indiscriminate sexual appetites. Calling someone a boz can mean they're irritatingly stubborn or, more commonly among men, that they're a lecherous creep who can't control themselves around women.",
+    "cultural_context": "The expression 'boz-e rishdar' (bearded goat) specifically targets old men who leer at young women — the Afghan equivalent of 'dirty old man.' In markets and public spaces, young women will whisper 'boz' about men who stare. It's mild enough to say in mixed company but pointed enough that the target knows exactly what it means.",
+    "example_usage": "پیرمرد بز ریشدار. (Pirmeard boz-e rishdar. - Bearded old goat.) — About a leering older man.",
+    "ipa_pronunciation": "boz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی خایه (Bi khaya)",
+    "literal_translation": "without testicles",
+    "english_equivalent": "no balls / gutless",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "The direct accusation that a man lacks testicles — meaning courage, resolve, and willingness to fight. While 'khaya' alone is a vulgar anatomical term, 'bi khaya' is the weaponized insult form. It challenges a man to prove his courage or accept the label of coward.",
+    "cultural_context": "In a society where physical courage defines masculinity, this is a dare as much as an insult. Saying 'bi khaya asti' (you're ballless) to an Afghan man in front of others almost always provokes a response — which is often the point. It's used to goad someone into action: 'If you're not bi khaya, go tell him yourself.' Young men in particular can't let this slide without losing face permanently in their social circle.",
+    "example_usage": "اگه بی خایه نیستی، برو و رویش بگو. (Aga bi khaya nisti, boro wa rooyesh bogo. - If you're not gutless, go say it to his face.) — A dare.",
+    "ipa_pronunciation": "biː xɑːˈjæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "namard",
+      "khaya"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "لاشخور (Lashkhor)",
+    "literal_translation": "corpse eater / carrion eater",
+    "english_equivalent": "vulture / scavenger / bottom-feeder",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who feeds on the misfortune of others — a war profiteer, a slumlord, a corrupt official who steals aid money. The image is of a vulture circling above the dead. In a country that has endured four decades of war, there's no shortage of people this word describes perfectly.",
+    "cultural_context": "This insult gained enormous currency during the civil war era (1992-1996) and the post-2001 reconstruction period, when warlords and politically connected Afghans became fabulously wealthy from foreign aid contracts while ordinary people starved. 'Lashkhor-ha-ye jang' (vultures of war) became a common phrase in political discourse. It's both a personal insult and a political accusation.",
+    "example_usage": "این وزیرها همه لاشخور هستند، از خون مردم میخورند. (In wazir-ha hama lashkhor hastand, az khoon-e mardom mekhoorand. - These ministers are all vultures, they feed on the people's blood.) — Political commentary.",
+    "ipa_pronunciation": "lɑːʃˈxor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "moftakhor"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مرده شورت ببره (Murda shooret bebare)",
+    "literal_translation": "may the corpse washer take you away",
+    "english_equivalent": "drop dead / I hope you die",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "In Islamic burial practice, the murda shoor (corpse washer) is the person who ritually washes the dead body before burial. Wishing the corpse washer upon someone means 'I hope you die soon enough for the corpse washer to come collect you.' It's a death curse dressed in bureaucratic language.",
+    "cultural_context": "This is the signature curse of Afghan grandmothers and elder women. Afghan women — especially from the generation that survived the Soviet invasion and civil war — have perfected the art of the poetic curse. They won't say 'fuck you' (that's for men). They'll invoke death, disease, and divine punishment in elaborate, almost literary constructions. 'Murda shooret bebare' is the most common of these. It's said with genuine heat in arguments, but also half-jokingly when a child does something infuriating.",
+    "example_usage": "مرده شورت ببره که هیچ وقت آرام نمیشینی! (Murda shooret bebare ke hech waqt aram nameshini! - May the corpse washer take you, you never sit still!) — A grandmother to a hyperactive grandchild.",
+    "ipa_pronunciation": "ˈmordæ ˈʃuːret bebæˈre",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "dard-e bedarman",
+      "khak bar saret"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مفتخور (Moftakhor)",
+    "literal_translation": "free-eater / freeloader",
+    "english_equivalent": "freeloader / parasite / bum",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who eats for free — consuming without contributing, taking without giving. In a culture where hospitality is sacred but reciprocity is expected, a moftakhor abuses the system. They show up to every wedding, eat at every dastarkhan (communal spread), but never host, never help, never pay.",
+    "cultural_context": "Afghan hospitality culture means you can't turn away a guest, even an unwanted one. This creates a specific type of social parasite that every Afghan family knows: the distant relative who visits for 'a few days' and stays for months, the neighbor who borrows sugar and flour but never returns the favor. The word is used behind their backs with a mixture of contempt and resignation — because you can't actually kick them out without violating hospitality norms.",
+    "example_usage": "باز هم آمد این مفتخور، فکر کنم تا عید اینجا میماند. (Baz ham amad in moftakhor, fekr kunam ta Eid inja memanad. - The freeloader is back again, I bet he'll stay until Eid.) — About an overstaying guest.",
+    "ipa_pronunciation": "mofˈtæxor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "lashkhor"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بدمعاش (Badmaash)",
+    "literal_translation": "bad livelihood / one who earns dishonestly",
+    "english_equivalent": "thug / crook / scoundrel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally from the compound 'bad' (bad) + 'ma'ash' (livelihood), describing someone who earns their living through dishonest or criminal means. In modern usage it covers everything from petty thieves to neighborhood bullies to men who catcall women in the bazaar.",
+    "cultural_context": "This word is shared across the entire South and Central Asian linguistic sphere — you'll hear it in Hindi, Urdu, Pashto, and Dari with nearly identical meaning. In Kabul street slang, 'bacha-ye badmaash' (badmaash's kid) describes the type of young man who hangs around on street corners, picks fights, and makes life difficult for shopkeepers. It's not as severe as actual criminal accusations — more like a character judgment that someone is generally no good.",
+    "example_usage": "از اون بدمعاش دور باش، کار خراب میکنه. (Az oon badmaash door bash, kaar kharab mekuna. - Stay away from that thug, he'll cause trouble.) — Parental warning.",
+    "ipa_pronunciation": "bædˈmɑːʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "luchak",
+      "qarti"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی دین (Bi din)",
+    "literal_translation": "without religion / godless",
+    "english_equivalent": "godless / heathen / infidel",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "In a society where Islam is the bedrock of identity, law, and social structure, being called 'without religion' is being called subhuman. It doesn't mean atheist in the Western intellectual sense — it means someone so morally corrupt that they've abandoned God's path entirely.",
+    "cultural_context": "This insult carries legal weight in Afghanistan. Apostasy (leaving Islam) is technically punishable by death under both Taliban and pre-Taliban law. Calling someone 'bi din' publicly is therefore not just an insult but a quasi-legal accusation. In practice, it's thrown around in heated arguments — 'bi din' is what you call someone who cheats in business, breaks oaths, or commits acts that violate basic Islamic morality. But unlike casual swearing, this one can have real consequences if the wrong people hear it in the wrong context.",
+    "example_usage": "آدم بی دین، حتی در ماه رمضان دروغ میگویی. (Adam bi din, hatta dar mah-e Ramazan dorogh megoi. - Godless person, you lie even during Ramadan.) — Accusations during a dispute.",
+    "ipa_pronunciation": "biː diːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "haramzada",
+      "lanati"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "نجس (Najas)",
+    "literal_translation": "ritually impure / unclean",
+    "english_equivalent": "filthy / unclean / untouchable",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A theological term meaning ritually impure — things that invalidate prayer and require cleansing: pork, blood, urine, dog saliva, alcohol. Calling a person najas says they are spiritually contaminated, that being near them pollutes you. It's the Islamic equivalent of calling someone 'untouchable.'",
+    "cultural_context": "This word is particularly weaponized against Hazara Afghans (Shia minority) by Sunni supremacists, and against non-Muslims generally. It has a long history of sectarian abuse. In everyday use among friends, it's milder — calling someone najas for not washing their hands, or for eating something questionable. But in its sectarian deployment, it's a dehumanizing slur that has accompanied some of the worst violence in Afghan history.",
+    "example_usage": "دستت نجس است، نماز خوانده نمیتوانی. (Dastet najas ast, namaz khwanda nametwani. - Your hand is impure, you can't pray.) — The literal religious usage.",
+    "ipa_pronunciation": "næˈdʒes",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Sectarian contexts",
+        "severity": 5,
+        "note": "Used as a dehumanizing slur against Hazaras and Shia"
+      },
+      {
+        "region": "Casual/domestic",
+        "severity": 1,
+        "note": "Just means 'dirty' in a hygiene sense"
+      }
+    ],
+    "related_words": [
+      "kasif"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کثیف (Kasif)",
+    "literal_translation": "dirty / filthy",
+    "english_equivalent": "filthy / disgusting / dirty",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The general-purpose word for 'filthy' — covering physical dirtiness, moral corruption, and everything in between. Less religiously charged than 'najas' but more versatile. A kasif person, a kasif joke, a kasif bathroom, a kasif deal — the word works everywhere.",
+    "cultural_context": "This Arabic loanword is used identically across Dari, Farsi, and Urdu. In Afghan usage, calling someone 'adam-e kasif' (filthy person) usually refers to moral filth rather than hygiene — someone who cheats, lies, or does disgusting things. It's the word mothers use when they discover their son has been looking at inappropriate content on his phone.",
+    "example_usage": "فکرهای کثیف داری. (Fekr-hay-e kasif dari. - You have filthy thoughts.) — Accusation of impure intentions.",
+    "ipa_pronunciation": "kæˈsiːf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "najas",
+      "gand"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی وجدان (Bi vojdan)",
+    "literal_translation": "without conscience",
+    "english_equivalent": "heartless / soulless / unconscionable",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who can do terrible things and sleep soundly at night. A person whose internal moral compass is completely absent. Applied to people who exploit the vulnerable, cheat the poor, or betray those who trusted them without showing any remorse.",
+    "cultural_context": "This is the insult for white-collar evil — corruption, fraud, exploitation. When an Afghan landlord doubles rent on a war widow, when a smuggler abandons refugees at a border, when a moneychanger scams illiterate villagers — these are the bi vojdan. It's less visceral than sexual insults but carries a deep moral weight. Often used in political commentary about government officials.",
+    "example_usage": "چقدر بی وجدان هستی، پیسه یتیم را خوردی. (Chiqadar bi vojdan hasti, paisa-ye yatim ra khordi. - How conscienceless you are, you ate an orphan's money.) — Accusation of stealing from the vulnerable.",
+    "ipa_pronunciation": "biː vodʒˈdɑːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi sharaf",
+      "nakas"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی تربیت (Bi tarbiyat)",
+    "literal_translation": "without upbringing / unraised",
+    "english_equivalent": "ill-mannered / raised in a barn",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The Afghan way of saying someone was raised by wolves. Tarbiyat is the proper moral and social education that parents give children — manners, respect for elders, knowing when to speak and when to be silent. Calling someone bi tarbiyat is a direct insult to their parents, implying they failed at their most basic duty.",
+    "cultural_context": "This is the most socially acceptable insult in Dari because it's the one adults use openly, in public, without anyone considering it truly vulgar. Teachers say it to students, employers to workers, neighbors to noisy children. But make no mistake — it's a calculated insult because in Afghan culture, your tarbiyat reflects your family. Saying 'bi tarbiyat' to someone is really saying 'your parents failed.' That's why it stings more than it should for a 'mild' word.",
+    "example_usage": "بچه بی تربیت، پیش کلان‌ها چطور نشستی. (Bacha bi tarbiyat, pesh kalan-ha chetor nashasti. - Ill-mannered child, how are you sitting in front of elders.) — About posture, speech, or attitude.",
+    "ipa_pronunciation": "biː tærbiːˈjæt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi haya",
+      "bi sharm"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دهنت را ببند (Dahanet ra beband)",
+    "literal_translation": "tie/close your mouth",
+    "english_equivalent": "shut your mouth / zip it",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A more physical, aggressive version of 'khafa sho' (shut up). The imagery is of literally tying someone's mouth shut — like muzzling an animal. It's ruder than 'chup bash' (be quiet) but less vulgar than 'goh nakhor' (don't eat shit). The middle ground of Afghan silencing expressions.",
+    "cultural_context": "This phrase occupies the sweet spot between polite and profane that Afghan conversations navigate constantly. In a culture where telling someone to shut up is itself considered rude (you should ideally just let the elder finish talking), even the milder forms carry weight. 'Dahanet ra beband' is what you say when you've already tried polite hints and they didn't work.",
+    "example_usage": "دهنت را ببند، من گپ میزنم. (Dahanet ra beband, man gap mezanam. - Shut your mouth, I'm talking.) — Asserting authority in a conversation.",
+    "ipa_pronunciation": "dæˈhænet rɑː beˈbænd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khafa sho",
+      "zar nazan"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زر نزن (Zar nazan)",
+    "literal_translation": "don't talk / don't babble",
+    "english_equivalent": "shut it / stop yapping / quit your bullshit",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "'Zar zadan' means to talk incessantly, to babble, to prattle on without saying anything of substance. 'Zar nazan' is the command to stop doing it. It's dismissive — it says not just 'be quiet' but 'nothing you're saying is worth hearing.'",
+    "cultural_context": "This is distinctly Kabuli slang. In Herat or Mazar-i-Sharif you'd hear different expressions, but in Kabul, 'zar nazan' is the default dismissal among young men. It's also heavily used in Afghan social media arguments — typed in Latin script as 'zar nazan' on Facebook comments about politics, which is most Facebook comments in Afghanistan.",
+    "example_usage": "زر نزن بچه، تو چه میفامی. (Zar nazan bacha, to che mefami. - Stop babbling kid, what do you know.) — Dismissing someone younger or less experienced.",
+    "ipa_pronunciation": "zær næˈzæn",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Kabul",
+        "severity": 2,
+        "note": "Standard casual usage"
+      },
+      {
+        "region": "Herat",
+        "severity": 2,
+        "note": "Less common; 'gap nazan' preferred"
+      }
+    ],
+    "related_words": [
+      "khafa sho",
+      "dahanet ra beband"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "لاش (Lash)",
+    "literal_translation": "corpse / carcass",
+    "english_equivalent": "deadbeat / lazy bum / useless sack",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally a dead body, but used to describe someone so lazy and useless they might as well be dead. A lash just lies there — doesn't work, doesn't help, doesn't move. The Afghan version of calling someone a 'waste of space.' Also used for someone who is blackout drunk or passed out.",
+    "cultural_context": "In a country where physical labor is the norm and idleness is considered sinful ('idle hands are the devil's workshop' has a Dari equivalent), being called a lash is a serious character judgment. Afghan fathers use it on teenage sons who won't get out of bed. It's also used to describe the state of someone who has partied too hard — 'lash shuda' (became a corpse) means someone is so drunk or high they've passed out.",
+    "example_usage": "بلند شو لاش، ساعت ده شد و هنوز خوابیدی. (Boland sho lash, sa'at dah shod o hanooz khawabidi. - Get up, you corpse, it's ten o'clock and you're still sleeping.) — Father to son.",
+    "ipa_pronunciation": "lɑːʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "moftakhor"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ننه مرده (Nana murda)",
+    "literal_translation": "dead mother / motherless",
+    "english_equivalent": "may your mother die / orphan curse",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Either a statement that someone's mother has died (used as a curse) or a way of calling someone pitiable and cursed. In a culture where your mother is your strongest advocate and emotional center, wishing her dead or implying she's already gone is a curse that hits at the deepest emotional level.",
+    "cultural_context": "Afghan women use this in two completely different registers. As a curse: 'nnana murda shawi!' (may your mother die!) is screamed in genuine rage. But as an expression of sympathy or exasperation about one's own situation: 'man nana murda che kunam?' (what can I, the motherless one, do?) is a self-pitying rhetorical device. The same phrase can be a weapon or a lament depending entirely on tone and context.",
+    "example_usage": "ننه مرده شوی انشاءالله! (Nana murda shawi inshallah! - May you become motherless, God willing!) — A curse during a heated argument between women.",
+    "ipa_pronunciation": "næˈnæ ˈmordæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "murda shooret bebare",
+      "khak bar saret"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی عقل (Bi aqal)",
+    "literal_translation": "without brain / without reason",
+    "english_equivalent": "brainless / senseless / stupid",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Aqal is the Arabic/Dari word for intellect, reason, and judgment combined. Being 'bi aqal' doesn't just mean unintelligent — it means lacking the basic capacity for rational thought and sound judgment. It's the kind of stupidity that makes dangerous decisions, not just slow ones.",
+    "cultural_context": "This is the insult of choice for Afghan elders criticizing the decisions of younger people, particularly around marriage, money, and politics. 'Bi aqal' carries a patronizing weight — it says 'you lack the mental capacity I have.' It's mild in severity but heavy in condescension. Frequently appears in the phrase 'kaar-e bi aqal' (the work of a brainless person) about someone's failed plan.",
+    "example_usage": "کار بی عقل کردی، حالا چطور درستش میکنی؟ (Kaar bi aqal kardi, hala chetor dorostesh mekuni? - You did a brainless thing, now how will you fix it?) — Elder to younger person.",
+    "ipa_pronunciation": "biː ˈæqæl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "ahmagh",
+      "ablah",
+      "khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کون‌تنگ (Kun tang)",
+    "literal_translation": "tight-assed",
+    "english_equivalent": "cheapskate / penny-pincher / tight-ass",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Someone so stingy that even their ass is clenched tight — nothing gets out, including money. It's vivid, anatomical, and immediately understood. The Afghan version of calling someone a cheapskate, but cruder and funnier.",
+    "cultural_context": "Afghan culture places enormous value on generosity (sakhi bashi — being generous). Hospitality is a competitive sport; hosts try to outdo each other. In this context, being stingy is a genuine character flaw, not just annoying. 'Kun tang' is used behind someone's back after they've hosted a gathering with insufficient food, or split a bill too carefully, or — worst of all — failed to give adequate gifts at a wedding.",
+    "example_usage": "نان خشک داد و خیال کرد مهمان‌داری کرد، آدم کون‌تنگ. (Naan khoshk dad o khiyal kard mehman-dari kard, adam kun tang. - He served dry bread and thought he hosted us, the tight-ass.) — Complaining about a cheap host.",
+    "ipa_pronunciation": "kuːn tæng",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kun",
+      "khaya"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مردار (Mordar)",
+    "literal_translation": "carrion / dead unblessed meat",
+    "english_equivalent": "disgusting / repulsive / foul",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "In Islamic law, mordar is meat from an animal that died without proper halal slaughter — it's haram, impure, rotting, forbidden. Calling someone mordar says they are spiritually rotten, like meat left in the sun. The physical disgust of rotten flesh is the intended image.",
+    "cultural_context": "This word bridges the gap between religious impurity and physical revulsion. In Afghan bazaars, 'mordar' is yelled about spoiled meat. In arguments, it's yelled about spoiled people. The dual meaning — literal rotten meat and figuratively rotten character — makes it more vivid than generic insults. Afghan mothers use it about particularly heinous behavior: 'kaar-e mordar kardi' (you did a rotten thing).",
+    "example_usage": "آدم مردار، دست از سر این دختر بردار. (Adam mordar, dast az sar-e in dukhtar bardar. - You rotten person, leave this girl alone.) — Protecting someone from harassment.",
+    "ipa_pronunciation": "morˈdɑːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "najas",
+      "kasif"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چشم دریده (Chashm darida)",
+    "literal_translation": "torn-eyed / ripped open eyes",
+    "english_equivalent": "brazen / audacious / shameless",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Eyes that have been ripped wide open — someone who stares without shame, who does outrageous things while looking you straight in the face, who has no social inhibition about being seen doing wrong. The imagery is of eyes so unnaturally wide open that normal shame reflexes (looking down, averting gaze) have been physically destroyed.",
+    "cultural_context": "In Afghan culture, lowering your gaze is a sign of respect (especially for women, and for younger people addressing elders). Someone who is 'chashm darida' has destroyed this social mechanism. They'll stare you down while lying, demand things without any polite softening, or blatantly violate norms while daring you to say something. It overlaps with 'chashm safed' (white-eyed/shameless) which already exists in the seed, but 'chashm darida' implies more active aggression rather than passive shamelessness.",
+    "example_usage": "این بچه چقدر چشم دریده است، پیش مهمان نان مهمان را خورد. (In bacha chiqadar chashm darida ast, pesh-e mehman naan-e mehman ra khord. - This kid is so brazen, he ate the guest's food in front of the guest.) — About someone breaking hospitality norms.",
+    "ipa_pronunciation": "tʃæʃm dæˈriːdæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "chashm safed",
+      "bi haya"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زن صفت (Zan sefat)",
+    "literal_translation": "woman-like / woman-natured",
+    "english_equivalent": "effeminate / sissy / womanish",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Telling a man he has the qualities of a woman — in the Afghan context, this means emotional, weak, indecisive, gossipy, or physically soft. It's a direct attack on masculinity using femininity as the weapon. The insult says a man belongs in the women's section of the house, not among men.",
+    "cultural_context": "Afghan social life is sharply gender-segregated. Men occupy public space; women occupy domestic space. Male gatherings (mahfils) and female gatherings are separate worlds with separate norms. Calling a man 'zan sefat' is saying he belongs in the other world. It's deeply misogynistic in structure — it only works as an insult because femininity is constructed as inferior. Younger Afghan diaspora men sometimes push back on this, but in Afghanistan itself, it remains devastating.",
+    "example_usage": "زن صفت نباش، مردانه گپ بزن. (Zan sefat nabash, mardana gap bezan. - Don't be womanish, speak like a man.) — About a man showing emotion or hesitating.",
+    "ipa_pronunciation": "zæn seˈfæt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "namard",
+      "bi khaya"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سبک سر (Sabok sar)",
+    "literal_translation": "light-headed",
+    "english_equivalent": "floozy / airhead / loose woman",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "When applied to women — and it's almost always applied to women — sabok sar means someone without the weight of modesty and seriousness that a respectable woman should carry. She laughs too easily, talks to men too freely, dresses inappropriately. Her 'head is light' because the heavy burden of proper Afghan womanhood isn't pressing down on it.",
+    "cultural_context": "In the spectrum of Afghan insults aimed at women, 'sabok sar' sits between mild disapproval and serious accusation. It's not as devastating as 'jenda' (whore) but it's a warning shot — implying that if a woman doesn't correct her behavior, she's on the path to worse labels. Mothers use it about daughters who are perceived as too friendly, too visible, too modern. It's the word that polices the boundary between acceptable and unacceptable female behavior in traditional households.",
+    "example_usage": "دختر سبک سر، با هر کس میخندد. (Dukhtar sabok sar, ba har kas mekhandad. - Light-headed girl, she laughs with everyone.) — Disapproval of a girl's social behavior.",
+    "ipa_pronunciation": "sæˈbok sær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi haya",
+      "qarti"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بد ذات (Bad zat)",
+    "literal_translation": "bad nature / bad stock",
+    "english_equivalent": "rotten to the core / born bad / bad seed",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "This insult says the problem isn't what someone did — it's what they fundamentally are. 'Zat' means essence, nature, bloodline. Calling someone 'bad zat' means their very DNA is corrupt. They didn't become bad; they were born bad. Their family is bad. Their lineage is tainted.",
+    "cultural_context": "Afghanistan has a deeply genealogical culture — your tribe, your family name, your father's reputation all define you before anyone even meets you. 'Bad zat' attacks this entire structure. It's saying that no amount of good behavior can fix what's broken at the root. This insult is particularly cruel because it's fatalistic — it offers no path to redemption. Afghan elders use it about families they've decided are permanently unworthy of trust or intermarriage.",
+    "example_usage": "با خانواده بد ذات کار نداشته باش. (Ba khanawada-ye bad zat kaar nadashtagi bash. - Don't have dealings with a bad-natured family.) — Warning against association.",
+    "ipa_pronunciation": "bæd zɑːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "nakas",
+      "haramzada"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سگ مذهب (Sag mazhab)",
+    "literal_translation": "dog religion / of the dog faith",
+    "english_equivalent": "heathen / godless dog",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Combining 'dog' (the most impure animal) with 'religion' (the most sacred concept) into a single compound that says someone's faith — or soul — is that of a dog. It's a religious excommunication and animal comparison rolled into one.",
+    "cultural_context": "This insult weaponizes two separate Afghan taboos simultaneously. It was historically used between ethnic and sectarian groups — Sunni against Shia, Pashtun against Hazara — to dehumanize the other side before or during conflict. In modern usage it's sometimes directed at someone who has done something perceived as deeply un-Islamic (drinking, drug dealing, betraying fellow Muslims). It's not casual — deploying it signals genuine contempt, not just anger.",
+    "example_usage": "سگ مذهب، حتی یک روز روزه نگرفتی. (Sag mazhab, hatta yak rooz roza nagirifti. - Dog-faith, you didn't even fast a single day.) — About someone who openly skipped Ramadan.",
+    "ipa_pronunciation": "sæg mæzˈhæb",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi din",
+      "sag"
+    ],
+    "audio_url": null,
+    "needs_review": true
+  },
+  {
+    "word": "شاش بند (Shash band)",
+    "literal_translation": "piss-blocked / unable to piss",
+    "english_equivalent": "useless / pathetic / incompetent",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone so incompetent they can't even manage the most basic bodily function. The image is of a person so useless that even their own body doesn't work properly. It's a creative escalation of 'shash' (piss) into a character judgment.",
+    "cultural_context": "This is Kabuli street humor at its finest — taking the crude and making it metaphorical. 'Shash band' is used about someone who freezes up under pressure, who can't make basic decisions, or who consistently fails at simple tasks. It's crude but not nuclear, the kind of thing you'd hear at a mechanic's shop about an apprentice who can't hold a wrench straight.",
+    "example_usage": "این شاش بند یک موتر را هم درست کرده نمیتواند. (In shash band yak motar ra ham dorost karda nametwanada. - This shash-band can't even fix one car.) — About an incompetent worker.",
+    "ipa_pronunciation": "ʃɑːʃ bænd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shash",
+      "ablah"
+    ],
+    "audio_url": null,
+    "needs_review": true
+  },
+  {
+    "word": "بچه خر (Bacha khar)",
+    "literal_translation": "child of a donkey",
+    "english_equivalent": "dumbass / little idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The offspring of a donkey — inheriting the stupidity, stubbornness, and lowliness of the animal. Less severe than dog or pig insults because donkeys, while stupid, aren't religiously impure. It's the insult you use when 'khar' alone isn't enough but you don't want to escalate to heavier words.",
+    "cultural_context": "Commonly used by frustrated shopkeepers, taxi drivers, and anyone dealing with bureaucracy. When the government clerk loses your paperwork for the third time, he's a bacha khar. When the delivery boy brings the wrong order, he's a bacha khar. It's the working-class insult for everyday Afghan incompetence. Mild enough to use in front of children, which is saying something.",
+    "example_usage": "بچه خر، این آدرس غلط است! (Bacha khar, in aadres ghalat ast! - Donkey's child, this address is wrong!) — A taxi driver who went the wrong way.",
+    "ipa_pronunciation": "bæˈtʃæ xær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khar",
+      "kalla khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بد کاره (Bad kara)",
+    "literal_translation": "bad-doer / one who does bad things",
+    "english_equivalent": "whore / sex worker (euphemism)",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The Afghan euphemism for a sex worker — someone whose 'work' (kaar) is 'bad.' It's the word people use when they want to accuse a woman of prostitution without using the explicit 'jenda' (whore) or the formal 'fahisha.' The euphemistic nature actually makes it more common in everyday speech, because it's considered less vulgar to say.",
+    "cultural_context": "Euphemism is a survival strategy in Afghan conversation — you can say devastating things as long as you don't use the explicit word. 'Bad kara' lets someone call a woman a prostitute in mixed company, in front of children, even in semi-formal settings, because technically it just means 'someone who does bad things.' Everyone knows what it really means. This linguistic plausible deniability is a core feature of Afghan insult culture.",
+    "example_usage": "زن بد کاره است، همه میدانند. (Zan bad kara ast, hama medanand. - The woman is a bad-doer, everyone knows.) — Neighborhood gossip, the polite version.",
+    "ipa_pronunciation": "bæd kɑːˈræ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "jenda",
+      "fahisha"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خس و خاشاک (Khas o khashak)",
+    "literal_translation": "weeds and debris / chaff",
+    "english_equivalent": "riffraff / scum / lowlifes / trash",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Agricultural debris — the worthless leftovers after harvest, the weeds and thorns that get burned. Applied to people, it means the dregs of society, the worthless, the disposable. Often used to describe a whole group rather than an individual.",
+    "cultural_context": "This phrase has deep political resonance in Afghanistan. During the civil war, various factions would describe each other's supporters as 'khas o khashak.' The Taliban used it about urban westernized Afghans; the Northern Alliance used it about Taliban foot soldiers. In everyday use, it describes the type of people found in rough neighborhoods, unlicensed markets, or around criminal activity — the social underclass that respectable people avoid.",
+    "example_usage": "آن منطقه پر از خس و خاشاک است، شب نرو آنجا. (Aan mintaqa por az khas o khashak ast, shab naro anja. - That area is full of riffraff, don't go there at night.) — Warning about a dangerous neighborhood.",
+    "ipa_pronunciation": "xæs o xɑːˈʃɑːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "ashghal",
+      "luchak"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چاپلوس (Chaploos)",
+    "literal_translation": "boot-licker / sycophant",
+    "english_equivalent": "kiss-ass / suck-up / brownnoser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who flatters powerful people for personal gain — laughing at unfunny jokes, agreeing with obviously wrong opinions, praising mediocrity. The word has Turkish origins (çaplusçu) and has been part of Dari for centuries, proving that sycophancy has always been a problem worth naming.",
+    "cultural_context": "Afghanistan's hierarchical social structure — where tribal elders, warlords, and bosses hold enormous power — creates perfect conditions for chaploos behavior. Every Afghan office has a chaploos. Every mahfil (gathering) has someone who agrees with whatever the most powerful person says. The word is used with particular venom because Afghans value directness and manliness — and a chaploos is seen as fundamentally unmanly, trading dignity for favors.",
+    "example_usage": "این بچه خودش چیزی نمیفهمد، فقط چاپلوس رئیس است. (In bacha khodesh chizi namefamad, faqat chaploos-e ra'is ast. - This guy understands nothing himself, he's just the boss's suck-up.) — Office gossip.",
+    "ipa_pronunciation": "tʃɑːpˈluːs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khayamal"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گنده لات (Ganda lat)",
+    "literal_translation": "big bully / hulking thug",
+    "english_equivalent": "big bully / goon / bruiser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A physically large person who uses their size to intimidate. 'Ganda' means big/fat and 'lat' means a ruffian or street fighter. Together it's the image of a big, stupid, violent person — all muscle, no brain, and too much willingness to use force.",
+    "cultural_context": "In Afghan street culture, the ganda lat is a recognizable type: the neighborhood bully, the bodyguard of a local strongman, the guy at the bazaar who settles disputes with his fists. The word carries a mix of contempt and fear. It's used behind someone's back, rarely to their face — because a ganda lat, by definition, might hit you.",
+    "example_usage": "همان گنده لات بازار دوباره دکاندار را زد. (Haman ganda lat-e bazaar dobara dokandar ra zad. - That big bully from the bazaar beat up a shopkeeper again.) — Neighborhood report.",
+    "ipa_pronunciation": "gændæ læt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "badmaash",
+      "luchak"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کله گنده (Kalla ganda)",
+    "literal_translation": "big head",
+    "english_equivalent": "bighead / arrogant prick",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone whose head has swollen with self-importance. Not about intelligence (that would be a compliment) but about ego — someone who thinks they're better, smarter, richer, or more important than they are. Afghan culture values humility, especially in public. A kalla ganda violates this by being visibly proud.",
+    "cultural_context": "This insult is particularly sharp in Afghan culture because 'tawazu' (humility) is a highly valued Islamic and cultural virtue. Even if you're genuinely wealthy or accomplished, you're expected to downplay it. Someone who shows off their new car, brags about their salary, or name-drops their connections is a kalla ganda. The richest Afghan in the room should act like the poorest — at least in theory.",
+    "example_usage": "از وقتی پسرش به خارج رفت، کله گنده شده. (Az waqti pesarash ba kharej raft, kalla ganda shoda. - Since his son went abroad, he's become a bighead.) — About someone who now acts superior.",
+    "ipa_pronunciation": "ˈkællæ gændæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kalla khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادرمرده (Madar murda)",
+    "literal_translation": "dead-mothered / one whose mother has died",
+    "english_equivalent": "poor wretch / cursed soul",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "exclamation"
+    ],
+    "meaning": "Can be a curse (wishing someone's mother dead) or a term of pity (describing someone so unfortunate they might as well be motherless). The dual meaning — weapon and lament — is uniquely Afghan. A mother's death is the ultimate abandonment in a culture where mothers are practically sacred.",
+    "cultural_context": "Afghan mothers occupy a paradoxical position: socially subordinate to men but emotionally central to family life. The bond between Afghan sons and their mothers is so strong that 'madar murda' cuts deeper than almost any insult about fathers. When used as self-pity ('man madar murda'), it means 'I have no one to care for me.' When used as a curse ('madar murda shawi'), it's devastating. Context and tone determine everything.",
+    "example_usage": "من مادرمرده چه کنم، کسی مرا ندارد. (Man madar murda che kunam, kasi mara nadarad. - What can I, the motherless one, do — nobody has me.) — Self-pity in hardship.",
+    "ipa_pronunciation": "mɑːˈdær ˈmordæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "nana murda",
+      "bi pedar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دامن نشین (Daman nashin)",
+    "literal_translation": "sits in skirts / stays in the women's quarters",
+    "english_equivalent": "mama's boy / sissy / effeminate",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A man who stays in the women's section of the house (behind the curtain, in the kitchen, among the skirts) instead of occupying male public space. It says he belongs among women — and in the Afghan gender hierarchy, this means he is less than a real man.",
+    "cultural_context": "Traditional Afghan homes have a clear division: the men's guest room (hujra/mehmankhana) where public business happens, and the women's quarters (andaruni) where domestic life unfolds. A man who is always found in the andaruni is a 'daman nashin' — suggesting he's either controlled by women, afraid of male company, or simply lacks the backbone to occupy male space. It's declining in urban usage as gender norms slowly shift, but still devastating in rural and traditional settings.",
+    "example_usage": "مرد باش، همیشه دامن نشین مادرت نباش. (Mard bash, hamisha daman nashin-e madaret nabash. - Be a man, don't always be sitting in your mother's skirts.) — Father to teenager.",
+    "ipa_pronunciation": "dɑːˈmæn næˈʃiːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "zan sefat",
+      "namard"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی ننگ (Bi nang)",
+    "literal_translation": "without shame / without disgrace-sense",
+    "english_equivalent": "shameless / dishonorable",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Nang and namoos are the twin pillars of Pashtunwali honor that have bled deep into Dari-speaking Afghan culture. Nang specifically means the sense of shame and honor that prevents you from doing dishonorable things — the internal alarm that fires when you're about to humiliate yourself or your family. 'Bi nang' means that alarm is broken.",
+    "cultural_context": "While 'bi namoos' attacks external honor (the honor of your women), 'bi nang' attacks internal honor — your own sense of right and wrong. In Pashtun-influenced areas (which includes Kabul), nang is tied to tribal loyalty, blood debts, and the duty to avenge insults. Calling someone 'bi nang' in a tribal context questions whether they can be trusted as an ally. It's the word used about men who collaborated with foreign invaders, who informed on their neighbors, or who broke tribal agreements.",
+    "example_usage": "بی ننگ، دوست خود را فروختی. (Bi nang, doost-e khod ra forokhti. - Shameless, you sold out your own friend.) — About a betrayal.",
+    "ipa_pronunciation": "biː næng",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Pashtun-influenced areas",
+        "severity": 4,
+        "note": "Deeply tied to Pashtunwali tribal code"
+      },
+      {
+        "region": "Urban Kabul",
+        "severity": 3,
+        "note": "Used more broadly about any dishonorable act"
+      }
+    ],
+    "related_words": [
+      "bi namoos",
+      "bi sharaf",
+      "bi ghairat"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بو گندو (Boo gando)",
+    "literal_translation": "stinky one / smelly",
+    "english_equivalent": "stinky / smelly / foul-smelling person",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Pure playground-level insult. You smell bad. Your presence offends noses. It's childish, direct, and somehow never stops being used — even grown men will call each other boo gando when someone walks in from the heat without showering.",
+    "cultural_context": "Personal hygiene insults hit differently in Afghan culture because Islamic wudu (ablution) practices mean cleanliness is literally a religious duty. You wash before every prayer, five times a day. Someone who smells bad is therefore not just unpleasant but potentially religiously negligent. That said, 'boo gando' is mostly used as kids' banter or light teasing among friends. It's almost affectionate in the right context.",
+    "example_usage": "از من دور شو بو گندو! (Az man door sho boo gando! - Get away from me, stinky!) — Kids playing, or friends teasing.",
+    "ipa_pronunciation": "buː gænˈduː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "gand",
+      "kasif"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گندت درآید (Gandet dar ayad)",
+    "literal_translation": "may your rot come out / may your stench be exposed",
+    "english_equivalent": "may you be exposed / may your true colors show",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A curse wishing that someone's hidden corruption, lies, or secrets be publicly exposed. The image is of internal rot finally breaking through the surface — like a wound that's been covered up now oozing visibly for everyone to see. It's not about physical smell; it's about moral exposure.",
+    "cultural_context": "In a society built on reputation and face-saving, public exposure of wrongdoing is a catastrophe. 'Gandet dar ayad' weaponizes this fear. It's the curse of choice for people who know their enemy has secrets — embezzlement, affairs, collaboration with the enemy — and want God to reveal them. Afghan women use it particularly effectively because their social world runs on information networks (who did what, who knows who). When a woman says this, she might already know the secret and be threatening to reveal it herself.",
+    "example_usage": "صبر کن، یک روز گندت در می‌آید. (Sabr kun, yak rooz gandet dar meayad. - Be patient, one day your rot will come out.) — A warning/threat about hidden corruption.",
+    "ipa_pronunciation": "gænˈdet dær ɑːˈjæd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "gand",
+      "bi sharaf"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کم عقل (Kam aqal)",
+    "literal_translation": "little brain / low intellect",
+    "english_equivalent": "dim-witted / slow / not too bright",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The softer version of 'bi aqal' — not completely brainless, just insufficiently equipped. Where 'bi aqal' says you have zero sense, 'kam aqal' says you have some, just not enough. It's the difference between 'you're an idiot' and 'you're not very bright.' Still insulting, but with a patronizing gentleness that makes it almost worse.",
+    "cultural_context": "Used by educated Afghans to look down on those they consider unsophisticated — villagers, manual laborers, or anyone who makes decisions the speaker considers foolish. It's the classist insult, delivered with a pitying shake of the head rather than anger. Afghan university graduates use it about Afghan construction workers. Kabuli elites use it about provincial governors. It reeks of condescension.",
+    "example_usage": "کم عقل است، نمیفهمد چه میگویی. (Kam aqal ast, namefamad che megoi. - He's dim-witted, he doesn't understand what you're saying.) — Said to a third party, not to the target's face.",
+    "ipa_pronunciation": "kæm ˈæqæl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi aqal",
+      "ahmagh",
+      "khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "پدر لعنت (Pedar lanat)",
+    "literal_translation": "cursed father / father of damnation",
+    "english_equivalent": "son of a cursed man / damned bastard",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Your father is cursed by God. Unlike 'pedar sag' (father dog), which is an animal comparison, this is a divine condemnation. It says your entire paternal lineage is under la'nat (God's curse), which in Islamic theology means eternal damnation and exclusion from divine mercy.",
+    "cultural_context": "This insult attacks through the father rather than the mother — which is significant because Afghan patrilineal culture makes your father's reputation your reputation. If your father is cursed, you inherit that curse. It's used in heated arguments where the speaker wants to condemn a whole family but isn't angry enough to go to the sexual mother-insults (madar jenda, etc.). It occupies a middle ground: religiously serious but not sexually explicit.",
+    "example_usage": "ای پدر لعنت، از کجا آمدی؟ (Ay pedar lanat, az koja amadi? - You cursed-father, where did you come from?) — Exclamation upon seeing someone unwelcome.",
+    "ipa_pronunciation": "peˈdær læʔˈnæt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "pedar sag",
+      "lanati",
+      "haramzada"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر به خطا (Madar ba khata)",
+    "literal_translation": "mother to error / mother who made a mistake",
+    "english_equivalent": "bastard / illegitimate / mistake child",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The euphemistic way of saying someone was born from their mother's 'mistake' — meaning an extramarital affair or premarital sex. The 'mistake' is pregnancy outside of marriage, and the child is the living evidence of that mistake. Cruder than 'haramzada' (born of sin) in some ways because it's more specific and personal.",
+    "cultural_context": "Note: this is distinct from 'madar khata' which already exists in the seed file. 'Madar ba khata' uses the full prepositional phrase and has a slightly different nuance — emphasizing the mother's agency in the 'error' rather than just the child's illegitimate status. In Afghan gossip culture, this phrase is whispered about children whose parentage is questionable — the village knows, nobody says it publicly, but 'madar ba khata' is the phrase that circulates.",
+    "example_usage": "معلوم نیست پدرش کیست، مادر به خطا است. (Maloom nist pedaresh kist, madar ba khata ast. - Nobody knows who his father is, he's a mistake-child.) — Vicious gossip.",
+    "ipa_pronunciation": "mɑːˈdær bæ xæˈtɑː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "haramzada",
+      "madar khata"
+    ],
+    "audio_url": null,
+    "needs_review": true
+  },
+  {
+    "word": "شیطان (Shaytan)",
+    "literal_translation": "Satan / the devil",
+    "english_equivalent": "devil / little devil / evil",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Used exactly the way English speakers call a mischievous child 'a little devil.' In its serious form, it accuses someone of being inspired by or allied with Satan. In its casual form, it's almost affectionate — 'this kid is a shaytan' means they're cleverly naughty, always up to something.",
+    "cultural_context": "Shaytan (Iblis) is the most important adversary figure in Islam — the angel who refused to bow to Adam and was cast out of heaven. Despite this cosmic theological significance, Afghans use 'shaytan' more casually than you'd expect. A child who hides the TV remote is a shaytan. A friend who convinces you to eat another plate of food is a shaytan. The distance between the theological and the colloquial is vast. However, seriously calling an adult 'shaytan' — meaning they're genuinely evil, not playfully mischievous — is a heavy accusation.",
+    "example_usage": "این بچه شیطان صفت است، همه چیز را خراب میکند. (In bacha shaytan sefat ast, hama cheez ra kharab mekunad. - This devil-natured kid destroys everything.) — Exasperated parent about an energetic child.",
+    "ipa_pronunciation": "ʃeɪˈtɑːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "lanati"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کون‌کش (Kunkash)",
+    "literal_translation": "ass-puller / one who drags asses",
+    "english_equivalent": "pimp for anal sex / degenerate",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who procures men or boys for anal sex — a pimp for homosexual encounters. It combines 'kun' (ass) with 'kash' (puller/procurer, the same suffix in koskash). Where koskash is about pimping women, kunkash is about pimping for sodomy, which carries even heavier taboo.",
+    "cultural_context": "This word specifically references the practice of bacha bazi (boy play) — the deeply controversial Afghan tradition where powerful men keep young dancing boys. The 'kunkash' is the procurer, the middleman who finds the boys. It's one of the most taboo subjects in Afghan society, simultaneously denied and widely known. Using this word in a serious accusation could trigger extreme violence. Even as a casual insult, it implies involvement in something most Afghans consider the absolute bottom of moral depravity.",
+    "example_usage": "Very rarely used in casual conversation — this is a serious accusation, not casual profanity.",
+    "ipa_pronunciation": "kuːnˈkæʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kuni",
+      "luti",
+      "koskash"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ریش خند (Rishkhand)",
+    "literal_translation": "beard laugh / laughing at the beard",
+    "english_equivalent": "mockery / ridicule / making a fool of someone",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To mock someone's beard is to mock their dignity. The beard in Afghan culture represents wisdom, age, manhood, and religious devotion. 'Rishkhand kardan' means to humiliate someone publicly — to turn their dignity into a joke. The word itself has become the noun for that act of humiliation.",
+    "cultural_context": "Afghan men's beards are not decoration — they're identity. Taliban mandate them, elders measure respect by them, boys eagerly grow them as proof of manhood. When someone says 'rishkhand-am nakun' (don't ridicule me), they're asking you not to make them a laughingstock. This word captures a concept English doesn't have a single word for: the specific shame of being publicly mocked by someone who should respect you.",
+    "example_usage": "پیش مردم ریشخندم نکن. (Pesh-e mardom rishkhandam nakun. - Don't ridicule me in front of people.) — A plea to preserve dignity.",
+    "ipa_pronunciation": "riːʃˈxænd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi sharaf"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خاک بر گورت (Khak bar gooret)",
+    "literal_translation": "dirt on your grave",
+    "english_equivalent": "may you be buried / drop dead",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Wishing someone into their grave with dirt already piled on top. It skips past the dying part and goes straight to burial — you're so dead to me that I'm already imagining the funeral. Related to 'khak bar saret' (dirt on your head) but more final because it specifies the grave rather than just the head.",
+    "cultural_context": "Part of the rich Afghan tradition of death-wishes that function as everyday exclamations. 'Khak bar saret' (already in the seed file) is more common and slightly milder — it means shame or dismay. 'Khak bar gooret' is the escalation that explicitly invokes death. Afghan grandmothers deploy an entire arsenal of these grave-related curses, each calibrated to a different level of anger.",
+    "example_usage": "خاک بر گورت، این چه کاری بود که کردی! (Khak bar gooret, in che kaari bood ke kardi! - Dirt on your grave, what have you done!) — Reaction to devastating news or a terrible action.",
+    "ipa_pronunciation": "xɑːk bær guːˈret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "khak bar saret",
+      "murda shooret bebare"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دروغگو (Doroughgo)",
+    "literal_translation": "lie-teller / liar",
+    "english_equivalent": "liar / bullshitter",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A straightforward accusation of lying. In English, 'liar' is almost mild. In Dari, calling someone a doroughgo publicly is a serious charge because it directly attacks their word — and in a culture where oral agreements, tribal oaths, and personal honor are binding, saying someone's word is worthless is saying they are worthless.",
+    "cultural_context": "Afghan business, tribal agreements, and social contracts historically rely on verbal promises more than written ones. 'Qawl' (your word) is your bond. Breaking your qawl makes you a doroughgo, and a known doroughgo cannot function in Afghan society — no one will trade with you, lend to you, or give their daughter to your son. The insult carries practical consequences beyond hurt feelings. In bazaar disputes, publicly yelling 'doroughgo' can turn bystanders against the accused.",
+    "example_usage": "تو همیشه دروغگو بودی، کسی باورت نمیکنه. (To hamisha doroughgo boodi, kasi baawaret namekunah. - You've always been a liar, nobody believes you.) — Destroying someone's credibility.",
+    "ipa_pronunciation": "doˈroːɣˈguː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دیوانه (Diwana)",
+    "literal_translation": "possessed by a djinn / mad",
+    "english_equivalent": "crazy / insane / lunatic",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Etymologically from 'div' (demon/djinn) — someone possessed by an evil spirit, which is the traditional Afghan explanation for mental illness. In modern usage it just means crazy, but the supernatural origin gives it a different flavor than the clinical word 'majnoon.' When your mother calls you diwana for doing something reckless, there's a faint echo of 'what demon got into you?'",
+    "cultural_context": "Mental illness in Afghanistan is still widely attributed to djinn possession, especially in rural areas. Calling someone diwana in a village context can literally mean 'possessed' and lead to visits from a mullah for ruqya (exorcism). In Kabul and among educated Afghans, it's just 'crazy' — used as casually as English speakers say 'you're insane.' The word bridges the gap between ancient supernatural belief and modern casual usage in a way that reveals where Afghan society is split.",
+    "example_usage": "دیوانه شدی؟ موتر بدون لایسنس چطور میرانی! (Diwana shudi? Motar bedoon-e license chetor merani! - Have you gone crazy? How are you driving without a license!) — About reckless behavior.",
+    "ipa_pronunciation": "diːˈwɑːnæ",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Rural Afghanistan",
+        "severity": 2,
+        "note": "Can be taken literally as djinn possession"
+      },
+      {
+        "region": "Urban/diaspora",
+        "severity": 1,
+        "note": "Just means 'crazy', very casual"
+      }
+    ],
+    "related_words": [
+      "koskhol",
+      "ablah"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی سواد (Bi sawad)",
+    "literal_translation": "without literacy / uneducated",
+    "english_equivalent": "illiterate / ignorant / uneducated",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "In a country where the adult literacy rate hovers around 43%, calling someone 'bi sawad' is both an insult and a statement of fact for much of the population. But as an insult, it means more than 'can't read' — it means 'too ignorant to understand what's happening, too unsophisticated to participate in real conversation.'",
+    "cultural_context": "This is the educated class's weapon against the uneducated, and it's wielded with devastating precision in a society where education was historically reserved for the elite. An Afghan who went to university in Kabul calling a rural tribesman 'bi sawad' is asserting class superiority. The insult is particularly toxic because many Afghans who are illiterate are so because of war, poverty, and Taliban rule — not by choice. Calling them bi sawad blames them for circumstances beyond their control.",
+    "example_usage": "با آدم بی سواد بحث نکن، وقتت ضایع میشه. (Ba adam-e bi sawad bahs nakun, waqtet zaya mesha. - Don't argue with an illiterate person, you'll waste your time.) — Intellectual snobbery.",
+    "ipa_pronunciation": "biː sæˈwɑːd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kam aqal",
+      "khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "منافق (Monafiq)",
+    "literal_translation": "hypocrite (Islamic theological term)",
+    "english_equivalent": "hypocrite / two-faced / snake",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "In the Quran, the munaafiqoon (hypocrites) are worse than outright non-believers because they pretend to be Muslim while secretly working against Islam. God reserves the lowest level of hell for them. Calling someone monafiq in Afghan society is a religious, moral, and social death sentence rolled into one word.",
+    "cultural_context": "During Afghanistan's decades of conflict, every faction has called the other monafiq. The mujahideen called communist Afghan soldiers monafiq. The Taliban call democratic Afghans monafiq. Afghans in the diaspora call the Taliban monafiq. The word has become political ammunition while retaining its theological devastation. When an imam calls someone monafiq from the pulpit, it can lead to social ostracism, violence, or worse. Even in casual use, it's heavier than the English 'hypocrite' by an order of magnitude.",
+    "example_usage": "این آدم منافق است، پیش تو یک چیز میگوید و پشت سرت چیز دیگر. (In adam monafiq ast, pesh-e to yak cheez megoyad o posht-e saret cheez-e digar. - This person is a monafiq, he says one thing to your face and another behind your back.) — Accusation of two-facedness.",
+    "ipa_pronunciation": "moˈnɑːfeq",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi din",
+      "doroughgo"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "الاغ (Olagh)",
+    "literal_translation": "donkey (alternate word)",
+    "english_equivalent": "jackass / stubborn fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A second word for donkey — used interchangeably with 'khar' but with a slightly more literary, formal register. It's the donkey-insult you'd hear from an educated person rather than a street vendor. Same meaning: stupid, stubborn, and unable to learn. Afghan Dari borrowed 'olagh' from Turkish, while 'khar' is pure Persian.",
+    "cultural_context": "The existence of two separate words for donkey-as-insult tells you how important this particular animal comparison is in the culture. 'Khar' is the street version, 'olagh' is what your professor calls you. Both are mild and socially acceptable. The Turkish origin of 'olagh' means it's more common in northern Afghanistan (Mazar-i-Sharif, Kunduz) where Uzbek and Turkmen influence is stronger.",
+    "example_usage": "مثل الاغ کله شق هستی، هیچ حرف را قبول نمیکنی. (Misle olagh kalla shakh hasti, hech harf ra qabool namekuni. - You're stubborn as a donkey, you won't accept any advice.) — About stubbornness.",
+    "ipa_pronunciation": "oˈlɑːɣ",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Northern Afghanistan",
+        "severity": 1,
+        "note": "More common due to Turkic linguistic influence"
+      },
+      {
+        "region": "Kabul/South",
+        "severity": 1,
+        "note": "'Khar' preferred but 'olagh' understood everywhere"
+      }
+    ],
+    "related_words": [
+      "khar",
+      "kalla khar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مردار خور (Mordar khor)",
+    "literal_translation": "carrion eater / eater of dead meat",
+    "english_equivalent": "scavenger / someone who eats forbidden things",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Someone who consumes what is religiously forbidden — specifically meat that hasn't been slaughtered according to Islamic law. Metaphorically, someone who profits from haram (forbidden) sources: corruption, theft, exploitation. You don't just eat mordar (carrion) — you choose to, which makes you both impure and morally bankrupt.",
+    "cultural_context": "Halal food laws are not casual in Afghanistan — they're foundational to daily life. Every piece of meat must come from a properly slaughtered animal, blessed in God's name. 'Mordar khor' says someone doesn't even observe this most basic Islamic practice, which means they respect nothing sacred. In modern usage, it's aimed at corrupt officials who 'eat' stolen money: 'paise mordar mekhore' (he eats carrion money) means he profits from corruption.",
+    "example_usage": "پیسه حرام میخوری، مردار خور هستی. (Paisa-ye haram mekhori, mordar khor hasti. - You eat forbidden money, you're a carrion eater.) — About someone living off corruption.",
+    "ipa_pronunciation": "morˈdɑːr xor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "mordar",
+      "lashkhor",
+      "najas"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کون‌گشاد (Kun goshad)",
+    "literal_translation": "wide-assed / loose anus",
+    "english_equivalent": "loose / pushover / someone who's been had",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "The opposite of 'kun tang' (tight-assed/stingy). Someone whose ass is wide open — implying they've been penetrated, exploited, or taken advantage of repeatedly. It can mean someone who gets scammed easily, someone who can't say no, or in its most literal reading, someone who's a passive homosexual partner.",
+    "cultural_context": "This insult works on multiple levels simultaneously. The sexual implication (passive homosexuality) is the most severe reading. The more common usage is about someone who's a pushover — 'his ass is so wide open that anyone can walk in and take what they want.' It describes men who let their business partners cheat them, who let their employees steal, or who can't stand up for themselves. The compound 'koon-e goshad' is crude enough to never be used in polite company but common enough in bazaars and workshops.",
+    "example_usage": "کون‌گشاد، بازم سرت کلاه رفت. (Kun goshad, bazam saret kolah raft. - Wide-ass, you got scammed again.) — About someone who was cheated in a deal.",
+    "ipa_pronunciation": "kuːn goˈʃɑːd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kuni",
+      "kun",
+      "kun tang"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی‌همت (Bi himmat)",
+    "literal_translation": "without ambition / without drive",
+    "english_equivalent": "lazy / spiritless / good-for-nothing",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Himmat combines ambition, drive, effort, and courage into a single concept — the willingness to strive for something. 'Bi himmat' is someone who has given up, who makes no effort, who drifts through life without trying. In a country where survival itself requires daily effort, having no himmat is pathological.",
+    "cultural_context": "Afghan proverbs repeatedly praise himmat: 'himmat-e mardaan, madad-e khodaa' (the effort of men earns God's help). Being bi himmat is a failure so fundamental that it invites divine abandonment. Parents use it to motivate teenagers. Elders use it about young men who aren't working or studying. It's the Afghan equivalent of 'what are you doing with your life?' condensed into a single word. In refugee and diaspora communities, it's especially pointed — people who risked everything to reach a new country have no patience for those who waste the opportunity.",
+    "example_usage": "جوان بی‌همت، نه درس میخوانی نه کار میکنی. (Jawan bi himmat, na dars mekhwani na kaar mekuni. - Spiritless young man, you neither study nor work.) — Elder to unemployed youth.",
+    "ipa_pronunciation": "biː hemˈmæt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "lash",
+      "moftakhor"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "تف به رویت (Tof ba royet)",
+    "literal_translation": "spit on your face",
+    "english_equivalent": "I spit in your face / you disgust me",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The verbal equivalent of spitting in someone's face — the ultimate gesture of contempt and disgust. In many cultures spitting expresses disgust, but in Afghan culture it's particularly loaded because the face (roo) represents honor, dignity, and public reputation. Spitting on someone's face destroys their roo permanently.",
+    "cultural_context": "Actual spitting at someone in Afghanistan can and does lead to killings — it's that serious. The verbal form 'tof ba royet' carries maybe 70% of that weight. It says 'I hold you in such contempt that your face — your honor — deserves to be defiled.' It's the insult you save for genuine betrayal, not everyday annoyance. When someone says this, the relationship is over permanently. There's no coming back from it.",
+    "example_usage": "تف به رویت، من به تو اعتماد کردم و تو خیانت کردی. (Tof ba royet, man ba to e'temad kardam o to khiyanat kardi. - I spit on your face, I trusted you and you betrayed me.) — After a major betrayal.",
+    "ipa_pronunciation": "tof bæ ruːˈjet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bi sharaf",
+      "nakas"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زنا زاده (Zina zada)",
+    "literal_translation": "born of adultery / fornication-born",
+    "english_equivalent": "bastard (child of adultery)",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual",
+      "religious"
+    ],
+    "meaning": "Zina is the Islamic term for illegal sexual intercourse — both adultery and fornication. 'Zina zada' means someone born from zina, making them the physical proof of their parents' sin. It's more religiously specific than 'haramzada' because it names the exact sin (sexual) rather than general forbidden-ness.",
+    "cultural_context": "Under strict Islamic law (which the Taliban enforce), zina is punishable by stoning or lashing. Calling someone 'zina zada' is therefore not just an insult but an implied legal accusation against their parents — one that carries the death penalty. In practice, it's used in heated arguments as an escalation beyond 'haramzada.' The distinction matters: haramzada is broad ('born from sin'), zina zada is specific ('born from illegal sex'). In a court, or before a mullah, the specificity makes it more dangerous.",
+    "example_usage": "Very rarely used casually — this is a serious accusation that implies the mother committed a capital crime under Sharia law.",
+    "ipa_pronunciation": "ziːˈnɑː zɑːˈdæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "haramzada",
+      "jenda"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر جنده (Madar jenda)",
+    "literal_translation": "mother whore",
+    "english_equivalent": "motherfucker / son of a bitch",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Declaring that the target's mother is a prostitute.",
+    "cultural_context": "The absolute most offensive insult in Afghan culture. It forces the target to defend their family's honor, almost always resulting in physical violence.",
+    "example_usage": "خفه شو، مادر جنده. (Khafa sho, madar jenda. - Shut up, mother-whore.)",
+    "ipa_pronunciation": "mɑːˈdær ˈdʒendæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کس (Kos)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt / pussy",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female genitalia. The core root of almost all vulgar sexual insults.",
+    "cultural_context": "Not used conversationally. It is an intensely explicit and taboo word reserved for heavy insults.",
+    "example_usage": "کس ننه ات. (Kos-e nana at. - Your mother's cunt.)",
+    "ipa_pronunciation": "kʊs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کیر (Kir)",
+    "literal_translation": "dick",
+    "english_equivalent": "cock / dick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Male genitalia.",
+    "cultural_context": "A deeply vulgar noun often used aggressively in phrases like 'eat my dick' or 'my dick in your mouth'.",
+    "example_usage": "کیرم تو دهنت. (Kirem to dahanet. - My dick in your mouth.)",
+    "ipa_pronunciation": "kiːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خارکسه (Kharkose / Khwahar kos)",
+    "literal_translation": "sister's cunt",
+    "english_equivalent": "sister fucker",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Targeting a man's sister sexually.",
+    "cultural_context": "As sisters are considered under the protective honor of their brothers in Afghanistan, this insult is a devastating challenge to a man's worth.",
+    "example_usage": "ای خارکسه! (Ay kharkose! - You sister-fucker!)",
+    "ipa_pronunciation": "xwɑːˈhær kʊsæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کونی (Kuni)",
+    "literal_translation": "of the ass",
+    "english_equivalent": "faggot / ass-giver",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A man who receives anal sex. Derived from 'Kun' (ass).",
+    "cultural_context": "A violently homophobic slur deeply intended to strip a straight man of his masculinity. In Afghan society this implies the ultimate degradation.",
+    "example_usage": "گمشو، کونی. (Gum sho, kuni. - Get lost, faggot.)",
+    "ipa_pronunciation": "kuːˈniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کسکش (Koskash)",
+    "literal_translation": "cunt puller",
+    "english_equivalent": "pimp / motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A man who procures women for prostitution.",
+    "cultural_context": "Calling a man a pimp implies he sells his own family members' honor for money.",
+    "example_usage": "تو یک کسکش هستی. (Tu yak koskash hasti. - You are a pimp/motherfucker.)",
+    "ipa_pronunciation": "kʊsˈkæʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کس‌خل (Koskhol)",
+    "literal_translation": "cunt-crazy",
+    "english_equivalent": "fucking idiot / retard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone whose brain is deranged in a stupid way.",
+    "cultural_context": "A very common insult in both Afghan and Iranian Persian to describe someone acting incredibly foolishly.",
+    "example_usage": "این پسر کس‌خل است. (In bacha koskhol ast. - This boy is a fucking idiot.)",
+    "ipa_pronunciation": "kʊsˈxol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "پدرسگ (Pedar sag)",
+    "literal_translation": "father dog",
+    "english_equivalent": "son of a bitch / bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Saying that someone's father is a dog.",
+    "cultural_context": "Dogs are considered filthy in Islamic tradition. However, this is so common that it is occasionally used half-jokingly with misbehaving children.",
+    "example_usage": "بیا اینجا، پدرسگ. (Bia inja, pedar sag. - Come here, son of a bitch.)",
+    "ipa_pronunciation": "peˈdær sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کون (Kun)",
+    "literal_translation": "ass / anus",
+    "english_equivalent": "ass",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks or anus.",
+    "cultural_context": "A vulgar anatomical term used heavily in compound insults (e.g. Kun-kash = ass-puller).",
+    "example_usage": "کونت را ببند. (Kunet ra beband. - Shut your ass / Shut up.)",
+    "ipa_pronunciation": "kuːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دیوث (Dayus)",
+    "literal_translation": "cuckold / pimp",
+    "english_equivalent": "cuck / shameless bastard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A man who is indifferent to his wife's adultery, or actively pimps her out.",
+    "cultural_context": "A deeply wounding religious and social insult regarding a man's complete lack of marital honor.",
+    "example_usage": "مردک دیوث. (Mardak dayus. - Shameless cuckold man.)",
+    "ipa_pronunciation": "dæˈjuːs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زن جنده (Zan jenda)",
+    "literal_translation": "whore wife",
+    "english_equivalent": "guy with a whore wife / cuck",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling a man's wife a prostitute.",
+    "cultural_context": "An extreme insult designed to cause maximum damage to a man's public face.",
+    "example_usage": "ای زن جنده! (Ay zan jenda! - You whore-wived bastard!)",
+    "ipa_pronunciation": "zæn ˈdʒendæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گوه نخور (Goh nakhor)",
+    "literal_translation": "do not eat shit",
+    "english_equivalent": "shut the fuck up / stop bullshitting",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Telling someone their words are shit and they shouldn't eat it.",
+    "cultural_context": "The standard aggressive command for telling someone to stop talking nonsense or lying.",
+    "example_usage": "گوه نخور، دروغگو. (Goh nakhor, doroughgo. - Stop eating shit / shut up, liar.)",
+    "ipa_pronunciation": "goh næˈxor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گوه (Goh)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces or excrement.",
+    "cultural_context": "Used exactly like the English word 'shit'. 'Che gohi khordi?' literally means 'What shit did you eat?' (What the hell did you do?).",
+    "example_usage": "این چه گوهی است؟ (In che gohi ast? - What is this shit?)",
+    "ipa_pronunciation": "goh",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "تخم سگ (Tokhm e sag)",
+    "literal_translation": "seed/balls of a dog",
+    "english_equivalent": "son of a bitch / bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The literal sperm or testicles of a dog. Meaning someone born from a dog.",
+    "cultural_context": "Very common insult, highly degrading.",
+    "example_usage": "ای تخم سگ، کجا میروی؟ (Ay tokhm e sag, kuja merawi? - You son of a bitch, where are you going?)",
+    "ipa_pronunciation": "ˈtoxme sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی ناموس (Bi namoos)",
+    "literal_translation": "without honor",
+    "english_equivalent": "shameless bastard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone completely devoid of familial or personal honor.",
+    "cultural_context": "'Namoos' is the sacred concept of female virtue in the family. Being 'bi namoos' means you are lower than an animal.",
+    "example_usage": "آدم بی ناموس. (Adam bi namoos. - Honorless person.)",
+    "ipa_pronunciation": "biː nɑːˈmuːs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "حرامزاده (Haramzada)",
+    "literal_translation": "born of sin / illegitimate",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A child born out of wedlock, a literal bastard.",
+    "cultural_context": "A religious condemnation of someone's birth. Used widely across the Islamic world.",
+    "example_usage": "پسر حرامزاده. (Pesar haramzada. - Bastard boy.)",
+    "ipa_pronunciation": "hæˈrɑːmzɑːdæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "جنده (Jenda)",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A prostitute.",
+    "cultural_context": "A vicious insult towards a woman. In Dari, 'Fahisha' is the polite term for a sex worker, whereas 'Jenda' is pure abuse.",
+    "example_usage": "دختر جنده. (Dukhtar jenda. - Whore girl.)",
+    "ipa_pronunciation": "ˈdʒendæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خفه شو (Khafa sho)",
+    "literal_translation": "be suffocated / choke",
+    "english_equivalent": "shut up",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Commanding someone to choke and die or be silent.",
+    "cultural_context": "The standard rude way to tell someone to shut up. Replaces the polite 'Chup bash'.",
+    "example_usage": "خفه شو احمق. (Khafa sho ahmagh. - Shut up, fool.)",
+    "ipa_pronunciation": "xæˈfæ ʃo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر سگ (Madar sag)",
+    "literal_translation": "mother dog",
+    "english_equivalent": "son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Declaring someone's mother is a dog.",
+    "cultural_context": "Offensive, but less extreme than 'Madar jenda'.",
+    "example_usage": "ای مادر سگ. (Ay madar sag. - You son of a bitch.)",
+    "ipa_pronunciation": "mɑːˈdær sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کله خر (Kalla khar)",
+    "literal_translation": "donkey head",
+    "english_equivalent": "stubborn idiot / ass-head",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone with the head and intelligence of a donkey.",
+    "cultural_context": "Donkeys are universally the symbol of stubborn stupidity in Central Asia.",
+    "example_usage": "چقدر کله خر هستی! (Chiqadar kalla khar hasti! - How much of a donkey-head are you!)",
+    "ipa_pronunciation": "ˈkællæ xær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خر (Khar)",
+    "literal_translation": "donkey",
+    "english_equivalent": "ass / idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A donkey.",
+    "cultural_context": "The absolute most basic, child-friendly insult in the language. Used constantly.",
+    "example_usage": "مثل خر کار میکند. (Misle khar kar mekunad. - He works like a donkey.)",
+    "ipa_pronunciation": "xær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "احمق (Ahmagh)",
+    "literal_translation": "fool / stupid",
+    "english_equivalent": "idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Arabic loanword for idiot.",
+    "cultural_context": "Very mild. Used in formal warnings or polite anger.",
+    "example_usage": "مرد احمق. (Mard ahmagh. - Idiot man.)",
+    "ipa_pronunciation": "æhˈmæq",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بیناموسا (Binamoosa)",
+    "literal_translation": "shameless ones (plural)",
+    "english_equivalent": "you honorless bastards",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A group of people without honor.",
+    "cultural_context": "Yelled at a group of enemies or a crowd acting improperly.",
+    "example_usage": "گمشوید بیناموسا! (Gumshawez binamoosa! - Get lost, you honorless bastards!)",
+    "ipa_pronunciation": "biːnɑːmuːˈsɑː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گوز (Gooz)",
+    "literal_translation": "fart (loud)",
+    "english_equivalent": "fart / bullshit",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A loud flatulence.",
+    "cultural_context": "Used to describe someone who talks big but produces nothing (all gas).",
+    "example_usage": "همه اش گوز است. (Hama ash gooz ast. - It's all a fart/bullshit.)",
+    "ipa_pronunciation": "guːz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گوزو (Goozoo)",
+    "literal_translation": "farter",
+    "english_equivalent": "bullshitter / cowardly farter",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who farts a lot, or metaphorically a coward/boaster.",
+    "cultural_context": "Childish but effective playground insult.",
+    "example_usage": "بچه گوزو. (Bacha goozoo. - Farting boy.)",
+    "ipa_pronunciation": "guːˈzuː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "شاش (Shash)",
+    "literal_translation": "piss",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Urine.",
+    "cultural_context": "Vulgar term for pee. 'Shashidum' means 'I pissed (on it)'.",
+    "example_usage": "من بالای این قانون شاشیدم. (Man balaye in qanoon shashidum. - I pissed on this law.)",
+    "ipa_pronunciation": "ʃɑːʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کیرم دهنت (Kirem dahanet)",
+    "literal_translation": "my dick in your mouth",
+    "english_equivalent": "suck my dick / eat a dick",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The ultimate phrase of dismissal and disrespect.",
+    "cultural_context": "Violent and deeply insulting command.",
+    "example_usage": "کیرم تو دهنت، گمشو. (Kirem to dahanet, gumsho. - My dick in your mouth, get lost.)",
+    "ipa_pronunciation": "ˈkiːrem dæˈhænet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کیرم تو کوس مادرت (Kirem to kos madaret)",
+    "literal_translation": "my dick in your mother's cunt",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The longest and most descriptive form of the mother-insult.",
+    "cultural_context": "Immediate death-threat territory in Afghanistan.",
+    "example_usage": "کیرم تو کوس مادرت. (Kirem to kos madaret. - [Self explanatory].)",
+    "ipa_pronunciation": "ˈkiːrem to ˈkʊse mɑːˈdæret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "قرطی (Qarti)",
+    "literal_translation": "dandy / westernized punk",
+    "english_equivalent": "slut / punk / thug",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A youth who dresses inappropriately (usually western style) or acts without traditional manners.",
+    "cultural_context": "Used mostly by elders to insult the younger generation. Can mean 'slutty' if applied to a girl.",
+    "example_usage": "بچه های قرطی. (Bachahay qarti. - Punk kids.)",
+    "ipa_pronunciation": "qærˈtiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "لوطی (Luti)",
+    "literal_translation": "unshaved / rough homosexual",
+    "english_equivalent": "faggot / brute",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically a thug or an older man who preys on younger boys (bacha bazi). Today used as a harsh homophobic slur.",
+    "cultural_context": "A deeply complex historical word that now just means 'faggot' or 'predator' in angry street slang.",
+    "example_usage": "مرد لوطی. (Mard e luti. - Faggot man.)",
+    "ipa_pronunciation": "luːˈtiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مرض (Maraz)",
+    "literal_translation": "disease",
+    "english_equivalent": "damn you / plague on you",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Wishing a terrible disease upon someone.",
+    "cultural_context": "Used when someone does something annoying. Equivalency to saying 'What is wrong with you?'.",
+    "example_usage": "مرض داری؟ (Maraz dōrī? - Do you have a disease? [Are you crazy?])",
+    "ipa_pronunciation": "mæˈræz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "درد بی درمان (Dard-e bedarman)",
+    "literal_translation": "pain without cure",
+    "english_equivalent": "may you get a terminal illness",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A poetic but brutal curse wishing a terminal, agonizing illness on an enemy.",
+    "cultural_context": "Older Afghan women specialize in these devastating poetic curses rather than using sexual profanity.",
+    "example_usage": "درد بی درمان بگیری انشاءالله! (Dard-e bedarman bigiri Inshallah! - May you catch an incurable disease, God willing!)",
+    "ipa_pronunciation": "ˈdærde biːˈdærmɑːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گمشو (Gum sho)",
+    "literal_translation": "become lost",
+    "english_equivalent": "get lost / fuck off",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Commanding someone to disappear.",
+    "cultural_context": "Aggressive dismissal. Not a curse word, but the intent is highly hostile.",
+    "example_usage": "گمشو از اینجا! (Gum sho az inja! - Get lost from here!)",
+    "ipa_pronunciation": "gum ʃo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خاک بر سرت (Khak bar saret)",
+    "literal_translation": "dirt/dust on your head",
+    "english_equivalent": "shame on you / you're dead to me",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A curse wishing the dirt of the grave upon someone's head, or expressing profound disappointment.",
+    "cultural_context": "A classic Persian/Dari reprimand. What an angry mother says to a failing son.",
+    "example_usage": "خاک بر سرت، آبروی ما را بردی. (Khak bar saret, abroye ma ra bordi. - Dirt on your head, you took away our honor.)",
+    "ipa_pronunciation": "xɑːk bær ˈsæret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر قحبه (Madar qahba)",
+    "literal_translation": "mother whore (Arabic loan)",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Using the Arabic word 'Qahba' (whore) to describe the mother.",
+    "cultural_context": "Equally as deadly as Madar jenda. Highly prevalent in border regions.",
+    "example_usage": "ای مادر قحبه. (Ay madar qahba. - You mother whore.)",
+    "ipa_pronunciation": "mɑːˈdær qæhˈbæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "غلط کردی (Ghalat kardi)",
+    "literal_translation": "you did a mistake",
+    "english_equivalent": "you're talking bullshit / you crossed the line",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Telling someone they are completely wrong and have overstepped their boundaries.",
+    "cultural_context": "Used in heated arguments before the actual swear words come out.",
+    "example_usage": "تو غلط کردی که این را گفتی. (Tu ghalat kardi ke in ra gofti. - You crossed the line saying that.)",
+    "ipa_pronunciation": "ɢæˈlæt kærˈdiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "عن (Aan)",
+    "literal_translation": "crap/turd",
+    "english_equivalent": "crap",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A solid piece of feces. Less vulgar than Goh.",
+    "cultural_context": "Used to describe something poorly made.",
+    "example_usage": "مثل عن است. (Misle aan ast. - It's like crap.)",
+    "ipa_pronunciation": "æn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "عنتر (Antar)",
+    "literal_translation": "baboon / ugly monkey",
+    "english_equivalent": "ugly freak / baboon",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A baboon/ape. Used to insult someone's appearance or stupid behavior.",
+    "cultural_context": "A very visual, comedic insult.",
+    "example_usage": "قیافه عنتر. (Qiyafa antar. - Baboon face.)",
+    "ipa_pronunciation": "ænˈtær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خواهرتو گایدم (Khwahareto gaydam)",
+    "literal_translation": "I fucked your sister",
+    "english_equivalent": "I fucked your sister",
+    "severity": 5,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Declaring sexual intercourse with the target's sister.",
+    "cultural_context": "Guaranteed bloodshed. There is no worse combination of words.",
+    "example_usage": "خواهرتو گایدم! (Khwahareto gaydam! - [Self explanatory].)",
+    "ipa_pronunciation": "xwɑːˈhæreto gɑːˈiːdæm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گایدن (Gaydan / Gaidan)",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The verb indicating sexual intercourse.",
+    "cultural_context": "The root of many insults (e.g. sag-gayda = dog-fucked).",
+    "example_usage": "ترا میگایم. (Tura megaim. - I will fuck you.)",
+    "ipa_pronunciation": "gɑːˈiːdæn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سگ گایده (Sag gayda)",
+    "literal_translation": "dog fucked",
+    "english_equivalent": "fucked by dogs",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who was sexually assaulted by a dog.",
+    "cultural_context": "Combining bestiality and impurity. An incredibly dirty slur.",
+    "example_usage": "پسر سگ گایده. (Pesar sag gayda. - Dog-fucked boy.)",
+    "ipa_pronunciation": "sæg gɑːˈiːdæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "جاکش (Jakash)",
+    "literal_translation": "place-puller",
+    "english_equivalent": "pimp / broker of whores",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who brings prostitutes to a specific place. A pimp.",
+    "cultural_context": "Older vocabulary for pimp. Deeply insulting.",
+    "example_usage": "مردک جاکش. (Mardak jakash. - Pimp man.)",
+    "ipa_pronunciation": "dʒɑːˈkæʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خایه (Khaya)",
+    "literal_translation": "testicle/egg",
+    "english_equivalent": "balls / nuts",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Testicles.",
+    "cultural_context": "'Khaya-mal' (ball rubber) is the Afghan equivalent of an ass-kisser.",
+    "example_usage": "خایه هایم را بخور. (Khayahayam ra bokhor. - Eat my balls.)",
+    "ipa_pronunciation": "xɑːˈjæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خایه مال (Khayamal)",
+    "literal_translation": "ball rubber",
+    "english_equivalent": "ass-kisser / brown-noser",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone who massages someone else's testicles. A sycophant.",
+    "cultural_context": "Highly common workplace insult for a suck-up.",
+    "example_usage": "او یک خایه مال است. (U yak khayamal ast. - He is a ball-rubber.)",
+    "ipa_pronunciation": "xɑːjæˈmɑːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "لچک (Luchak)",
+    "literal_translation": "bare / naked",
+    "english_equivalent": "thug / hooligan",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A street thug or a shameless hooligan with no manners.",
+    "cultural_context": "Used to describe gangs of youths standing on corners catcalling.",
+    "example_usage": "بچه های لچک. (Bachahay luchak. - Hooligan boys.)",
+    "ipa_pronunciation": "lʊˈtʃæk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زنِ سگ (Zan e sag)",
+    "literal_translation": "wife of a dog",
+    "english_equivalent": "bitch / wife of a dog",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A woman married to a dog, or a bitch.",
+    "cultural_context": "Insulting a woman directly and her husband simultaneously.",
+    "example_usage": "ای زن سگ. (Ay zan e sag. - You dog's wife.)",
+    "ipa_pronunciation": "zæn e sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چتی (Chatee)",
+    "literal_translation": "strung out / high",
+    "english_equivalent": "junkie / wasted",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone heavily under the influence of hashish or opium.",
+    "cultural_context": "Street slang. Can be used to call someone an idiot because they are acting high.",
+    "example_usage": "آدم چتی است. (Adam chatee ast. - The guy is a strung-out junkie.)",
+    "ipa_pronunciation": "tʃæˈtiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر خطا (Madar khata)",
+    "literal_translation": "mother mistake",
+    "english_equivalent": "son of a cheating mother",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Implies your mother made a 'mistake' (committed adultery), meaning you are illegitimate.",
+    "cultural_context": "Slightly more polite-sounding than Madar jenda, but carries the exact same horrific implication.",
+    "example_usage": "ای مادر خطا! (Ay madar khata! - You son of an adulteress!)",
+    "ipa_pronunciation": "mɑːˈdær xæˈtɑː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "اشغال (Ashghal)",
+    "literal_translation": "garbage",
+    "english_equivalent": "trash / scumbag",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Garbage. Used to describe a deeply terrible person.",
+    "cultural_context": "A strong, non-vulgar insult.",
+    "example_usage": "تو یک آدم اشغال هستی. (Tu yak adam ashghal hasti. - You are a garbage person.)",
+    "ipa_pronunciation": "æʃˈɢɑːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "عوضی (Awazi)",
+    "literal_translation": "switched at birth / replacement",
+    "english_equivalent": "bastard / jerk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mistake of a human being.",
+    "cultural_context": "Very common insult, perfectly safe for television.",
+    "example_usage": "مرد عوضی. (Mard awazi. - Jerk man.)",
+    "ipa_pronunciation": "æwæˈziː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کیرم تو روحت (Kirem to roohet)",
+    "literal_translation": "my dick in your soul",
+    "english_equivalent": "fuck your soul / rot in hell",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "sexual"
+    ],
+    "meaning": "Violating someone's eternal soul.",
+    "cultural_context": "A staggering mixture of extreme vulgarity and spiritual damnation.",
+    "example_usage": "کیرم تو روحت. (Kirem to roohet. - Fuck your soul.)",
+    "ipa_pronunciation": "ˈkiːrem to ˈruːhet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مغز خر خوردی (Maghz e khar khordi)",
+    "literal_translation": "did you eat donkey brains?",
+    "english_equivalent": "are you fucking retarded?",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Asking if someone gained their stupidity from eating the brain of a donkey.",
+    "cultural_context": "A classic idiom used when someone does something incredibly foolish.",
+    "example_usage": "مگر مغز خر خوردی؟ (Magar maghz e khar khordi? - What, did you eat donkey brains?)",
+    "ipa_pronunciation": "ˈmæɢze xær xorˈdiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گور پدرت (Goor e pedaret)",
+    "literal_translation": "grave of your father",
+    "english_equivalent": "fuck your dead dad / damn your ancestors",
+    "severity": 4,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Spitting on or damning the grave of someone's father.",
+    "cultural_context": "Disrespecting the deceased in Afghan culture is a blood provocation.",
+    "example_usage": "برین به گور پدرت. (Birin ba goor e pedaret. - I shit on your father's grave.)",
+    "ipa_pronunciation": "ˈguːre peˈdæret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ابله (Ablah)",
+    "literal_translation": "dotard / imbecile",
+    "english_equivalent": "moron",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A simple-minded idiot.",
+    "cultural_context": "Literary, older word.",
+    "example_usage": "ای ابله. (Ay ablah. - You dotard.)",
+    "ipa_pronunciation": "æbˈlæh",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چوچه سگ (Choocha sag)",
+    "literal_translation": "puppy of a dog",
+    "english_equivalent": "son of a bitch / little shit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A dog's puppy. Meaning son of a dog.",
+    "cultural_context": "Used identically to Pedar sag, often directed at misbehaving children.",
+    "example_usage": "بشین، چوچه سگ. (Bishin, choocha sag. - Sit down, you puppy-dog.)",
+    "ipa_pronunciation": "tʃuːˈtʃæ sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی شرف (Bi Sharaf)",
+    "literal_translation": "without dignity",
+    "english_equivalent": "scumbag / worthless",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone devoid of personal dignity or morals.",
+    "cultural_context": "A harsh, serious condemnation of someone's character.",
+    "example_usage": "پسر بی شرف. (Pesar bi sharaf. - Dignity-less boy.)",
+    "ipa_pronunciation": "biː ʃæˈræf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چشم سفید (Chashm safed)",
+    "literal_translation": "white eyed",
+    "english_equivalent": "brazen / shameless",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Someone who looks you in the eye while lying or disrespecting you. 'White' meaning empty of shame.",
+    "cultural_context": "A deeply cultural phrase. Usually used by parents against disobedient daughters or children.",
+    "example_usage": "دختر چشم سفید. (Dukhtar chashm safed. - Shameless white-eyed girl.)",
+    "ipa_pronunciation": "tʃæʃm sæˈfeɪd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "فاحشه (Fahisha)",
+    "literal_translation": "prostitute",
+    "english_equivalent": "prostitute",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The formal Arabic/Islamic word for a prostitute or adulteress.",
+    "cultural_context": "While formal, calling a woman this is highly actionable and deeply offensive.",
+    "example_usage": "زن فاحشه. (Zan fahisha. - Prostitute woman.)",
+    "ipa_pronunciation": "fɑːheˈtʃæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "پفیوز (Pofyooz)",
+    "literal_translation": "useless / limp",
+    "english_equivalent": "limp dick / useless bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An old word for a useless, pathetic man with no backbone.",
+    "cultural_context": "Highly insulting to a man's general capability and masculinity.",
+    "example_usage": "مرد پفیوز. (Mard pofyooz. - Useless bastard of a man.)",
+    "ipa_pronunciation": "pofˈjuːz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گند (Gand)",
+    "literal_translation": "stench / rot",
+    "english_equivalent": "awful / rot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something that is rotting and smells terrible. A massive fuck-up.",
+    "cultural_context": "'Gand zadi' means 'You hit rot' or 'You completely ruined it'.",
+    "example_usage": "گند زدی به همه چیز. (Gand zadi ba hama chiz. - You fucked up everything.)",
+    "ipa_pronunciation": "gænd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "زهر مار (Zahr e mar)",
+    "literal_translation": "snake poison",
+    "english_equivalent": "shut the fuck up / drop dead",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Wishing someone to swallow snake venom.",
+    "cultural_context": "Usually yelled when someone is talking too much or laughing inappropriately.",
+    "example_usage": "زهر مار! چرا میخندی؟ (Zahr e mar! Chera mekhandi? - Snake venom! Why are you laughing?)",
+    "ipa_pronunciation": "ˈzæhre mɑːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مردک (Mardak)",
+    "literal_translation": "little man",
+    "english_equivalent": "pathetic excuse for a man",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The diminutive form of 'Mard' (man). Used to belittle a man.",
+    "cultural_context": "Condescending and insulting, stripping away respect.",
+    "example_usage": "ای مردک چی میگی؟ (Ay mardak chi megi? - You little man, what are you saying?)",
+    "ipa_pronunciation": "mærˈdæk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ناکس (Nakas)",
+    "literal_translation": "non-person / nobody",
+    "english_equivalent": "worthless nobody / scoundrel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is practically not a human being because of their low morals.",
+    "cultural_context": "Archaic but still used to describe someone sneaky or worthless.",
+    "example_usage": "آدم ناکس. (Adam nakas. - Nobody person.)",
+    "ipa_pronunciation": "nɑːˈkæs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کیرم تو کس خواهرت (Kirem to kos khwaharet)",
+    "literal_translation": "my dick in your sister's cunt",
+    "english_equivalent": "sister fucker",
+    "severity": 5,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The most explicit expansion of the sister insult.",
+    "cultural_context": "Like the mother-equivalent, this is a death-threat level insult in Afghanistan.",
+    "example_usage": "کیرم تو کس خواهرت. (Kirem to kos khwaharet. - [Self explanatory].)",
+    "ipa_pronunciation": "ˈkiːrem to ˈkʊse xwɑːˈhæret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خاک بر دهانت (Khak bar dahanet)",
+    "literal_translation": "dirt in your mouth",
+    "english_equivalent": "shut your dirty mouth",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Wishing dirt into someone's mouth so they stop speaking.",
+    "cultural_context": "Used when someone says something highly inappropriate or jinxes a situation.",
+    "example_usage": "خاک بر دهانت، این حرف را نزن. (Khak bar dahanet, in harf ra nazan. - Dirt in your mouth, don't say that word.)",
+    "ipa_pronunciation": "xɑːk bær dæˈhænet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "توله سگ (Tola sag)",
+    "literal_translation": "pup of a dog",
+    "english_equivalent": "little shit / puppy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Alternative to 'Choocha sag'. A dog's puppy.",
+    "cultural_context": "Very common reprimand for children running around causing havoc.",
+    "example_usage": "بشین توله سگ. (Bishin tola sag. - Sit down, puppy-dog.)",
+    "ipa_pronunciation": "tuːˈlæ sæg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بی پدر (Bi pedar)",
+    "literal_translation": "fatherless",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who has no father, implying he is a bastard.",
+    "cultural_context": "Attacks the legitimacy of someone's birth and family structure.",
+    "example_usage": "آدم بی پدر و مادر. (Adam bi pedar o madar. - Person with no father or mother / True bastard.)",
+    "ipa_pronunciation": "biː peˈdær",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "مادر قهبه (Madar qahba)",
+    "literal_translation": "mother whore (Arabic loan)",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Another spelling/pronunciation of Madar qahba using the Arabic 'Qahba' (whore) to describe the mother.",
+    "cultural_context": "Equally as deadly as Madar jenda. Highly prevalent in border regions.",
+    "example_usage": "ای مادر قهبه. (Ay madar qahba. - You mother whore.)",
+    "ipa_pronunciation": "mɑːˈdær qæhˈbæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

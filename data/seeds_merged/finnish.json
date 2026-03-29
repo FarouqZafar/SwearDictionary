@@ -1,0 +1,1410 @@
+[
+  {
+    "word": "perkele",
+    "literal_translation": "evil spirit / thunder god",
+    "english_equivalent": "devil / goddammit / fuck",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The ultimate, most iconic Finnish swear word. Originally the name of the pagan god of thunder, later co-opted by Christians to mean the devil.",
+    "cultural_context": "Not just a word, but an emotion. Must be shouted with a heavily rolled 'R' from the bottom of the lungs. Represents raw Finnish anger and determination (sisu).",
+    "example_usage": "Perkele! (Goddammit / Fuck!)",
+    "ipa_pronunciation": "ˈper.ke.le",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittu",
+    "literal_translation": "cunt",
+    "english_equivalent": "fuck / shit / cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "Female genitalia. The most commonly used swear word in modern Finland.",
+    "cultural_context": "Functions exactly like 'fuck'. Used as a filler word by teenagers (like 'um'). 'Voi vittu' (oh fuck) is the standard reaction to bad news.",
+    "example_usage": "Mitä vittua? (What the fuck?)",
+    "ipa_pronunciation": "ˈvit.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "saatana",
+    "literal_translation": "Satan",
+    "english_equivalent": "damn / hell / Satan",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Satan. The second most powerful religious swear word after short perkele.",
+    "cultural_context": "Very strong and aggressive. Often used in the genitive case 'saatanan' (Satan's) to amplify an insult (e.g., 'saatanan kusipää' = Satan's piss-head).",
+    "example_usage": "Voi saatana. (Oh Satan / God damn it.)",
+    "ipa_pronunciation": "ˈsɑː.tɑ.nɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "paska",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces or something of terrible quality.",
+    "cultural_context": "A standard, moderately offensive swear word. Used exactly like 'shit' in English.",
+    "example_usage": "Tämä auto on täys paska. (This car is completely shit.)",
+    "ipa_pronunciation": "ˈpɑs.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "helvetti",
+    "literal_translation": "hell",
+    "english_equivalent": "hell / damn",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Hell. An everyday curse of frustration.",
+    "cultural_context": "Milder than saatana or perkele. Used in phrases like 'Mitä helvettiä?' (What the hell?).",
+    "example_usage": "Painu helvettiin! (Go to hell!)",
+    "ipa_pronunciation": "ˈhel.vet.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jumalauta",
+    "literal_translation": "God help (me)",
+    "english_equivalent": "goddammit",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "A contraction of 'Jumala auta' (God help me).",
+    "cultural_context": "An exclamation of disbelief, shock, or anger. Very forceful when yelled.",
+    "example_usage": "Jumalauta, se on kylmä! (Goddammit, it's cold!)",
+    "ipa_pronunciation": "ˈju.mɑ.lɑu.tɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kusipää",
+    "literal_translation": "piss head",
+    "english_equivalent": "asshole / dickhead",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone with piss in their head instead of brains. An arrogant, annoying, or cruel person.",
+    "cultural_context": "One of the most common personal insults in the language. Equivalent to calling someone an asshole in traffic.",
+    "example_usage": "Olet täysi kusipää. (You are a complete piss-head / asshole.)",
+    "ipa_pronunciation": "ˈku.siˌpæː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittupää",
+    "literal_translation": "cunt head",
+    "english_equivalent": "fuckhead / dickhead",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A harsher, more vulgar version of kusipää.",
+    "cultural_context": "A severe insult directing massive hostility at someone's face/person.",
+    "example_usage": "Turpa kiinni, vittupää. (Shut your mouth, cunt-head.)",
+    "ipa_pronunciation": "ˈvit.tuˌpæː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mulkku",
+    "literal_translation": "dick / prick",
+    "english_equivalent": "dick / prick / asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Male genitalia. Mostly used entirely as an insult towards a person.",
+    "cultural_context": "Calling someone a 'mulkku' is identical to calling them a 'prick'. Describes someone acting selfishly or meanly.",
+    "example_usage": "Pomo on oikea mulkku. (The boss is a real prick.)",
+    "ipa_pronunciation": "ˈmulk.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kyrpä",
+    "literal_translation": "dick",
+    "english_equivalent": "dick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A more vulgar, anatomical word for a penis than mulkku.",
+    "cultural_context": "Used for the body part but also heavily as an insult ('kyrpänaama' = dick face). Very harsh.",
+    "example_usage": "Ime kyrpää! (Suck a dick!)",
+    "ipa_pronunciation": "ˈkyr.pæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "huora",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Prostitute. A heavy insult generally directed at women but also used broadly to demean.",
+    "cultural_context": "Extremely offensive slur. 'Huorapoika' means son of a whore.",
+    "example_usage": "Senkin likainen huora. (You dirty whore.)",
+    "ipa_pronunciation": "ˈhuo.rɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "perse",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks. Often used to describe something going wrong ('Meni perseelleen' = It went on its ass / It failed).",
+    "cultural_context": "Very common. 'Haista perse' (Smell an ass) is a classic phrase meaning 'stuff it / fuck off'.",
+    "example_usage": "Haista perse! (Smell an ass!)",
+    "ipa_pronunciation": "ˈper.se",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kulli",
+    "literal_translation": "cock",
+    "english_equivalent": "cock",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Another word for the male member. Slightly more comedic or boisterous than 'kyrpä'.",
+    "cultural_context": "Often associated with machismo. Used in anatomical contexts rather than personal insults.",
+    "example_usage": "Iso kulli. (Big cock.)",
+    "ipa_pronunciation": "ˈkul.li",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "paskiainen",
+    "literal_translation": "little shit",
+    "english_equivalent": "bastard / little shit",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A noun derived from 'paska' (shit). Means a despicable, deceitful person.",
+    "cultural_context": "The closest equivalent to the English 'bastard' in usage. Strong moral condemnation.",
+    "example_usage": "Se valehteleva paskiainen. (That lying bastard.)",
+    "ipa_pronunciation": "ˈpɑs.ki.ɑi.nen",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kusi",
+    "literal_translation": "piss",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Urine. Used to form many insults.",
+    "cultural_context": "If something goes wrong it 'menee kuseen' (goes to piss). 'Kusta' means to urinate.",
+    "example_usage": "Tämä homma kusee. (This task is pissing / failing miserably.)",
+    "ipa_pronunciation": "ˈku.si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "runkkari",
+    "literal_translation": "masturbator",
+    "english_equivalent": "wanker",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who masturbates ('runkkaa').",
+    "cultural_context": "A direct translation and cultural equivalent of the British 'wanker'. Used mostly by men toward other men.",
+    "example_usage": "Aja kovempaa, vitun runkkari! (Drive faster, you fucking wanker!)",
+    "ipa_pronunciation": "ˈruŋk.kɑ.ri",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vituttaa",
+    "literal_translation": "to cause cunt",
+    "english_equivalent": "to piss off / to frustrate",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A uniquely Finnish verb derived from 'vittu'. It means to be extremely annoyed, frustrated, or pissed off.",
+    "cultural_context": "A defining concept of Finnish mentality. 'Minua vituttaa' (It causes cunt to me) means 'I am so fucking pissed off.'",
+    "example_usage": "Koko asia vituttaa minua. (The whole thing is pissing me the fuck off.)",
+    "ipa_pronunciation": "ˈvi.tut.tɑː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hevonpaska",
+    "literal_translation": "horse's shit",
+    "english_equivalent": "bullshit / horseshit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Lies or nonsense.",
+    "cultural_context": "Used exactly like 'bullshit' in English to call someone out on a lie.",
+    "example_usage": "Tuo on täyttä hevonpaskaa. (That is complete horseshit.)",
+    "ipa_pronunciation": "ˈhe.ʋonˌpɑs.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hevonvittu",
+    "literal_translation": "horse's cunt",
+    "english_equivalent": "the middle of nowhere",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to describe a place that is extremely remote, desolate, or terrible.",
+    "cultural_context": "Finnish geography is vast. If a cabin is in 'hevonvittu', it's far away from civilization and roads.",
+    "example_usage": "He asuvat jossain hevonvitussa. (They live somewhere in a horse's cunt / the middle of nowhere.)",
+    "ipa_pronunciation": "ˈhe.ʋonˌvit.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kyrpänaama",
+    "literal_translation": "dick face",
+    "english_equivalent": "dickface",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone with a face that resembles, or has the qualities of, a penis.",
+    "cultural_context": "A deeply insulting and highly vulgar name to call someone.",
+    "example_usage": "Mene pois, kyrpänaama. (Go away, dickface.)",
+    "ipa_pronunciation": "ˈkyr.pæˌnɑː.mɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "saatanan tunari",
+    "literal_translation": "Satan's bungler/fool",
+    "english_equivalent": "fucking incompetent fool",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Someone who is incredibly clumsy or incompetent, empowered by Satan's own clumsiness.",
+    "cultural_context": "Made famous by Urho Kekkonen, a former Finnish President, who wrote it on a note to a disgraced official. Classic Finnish insult.",
+    "example_usage": "Saatanan tunarit! (You bunch of incompetent fools!)",
+    "ipa_pronunciation": "ˈsɑː.tɑ.nɑn ˈtu.nɑ.ri",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "painu vittuun",
+    "literal_translation": "press into the cunt",
+    "english_equivalent": "fuck off / go fuck yourself",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "The ultimate way to tell someone to leave immediately.",
+    "cultural_context": "Highly aggressive. Much stronger than telling someone to go to hell ('painu helvettiin').",
+    "example_usage": "Painu vittuun täältä! (Fuck off from here!)",
+    "ipa_pronunciation": "ˈpɑi.nu ˈvit.tuːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "suksi vittuun",
+    "literal_translation": "ski into the cunt",
+    "english_equivalent": "go fuck yourself (and take your skis with you)",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A uniquely Finnish variant of telling someone to fuck off, utilizing the national winter sport.",
+    "cultural_context": "Showcases Finnish dark humor. Sounds absurdly funny but is deeply hostile.",
+    "example_usage": "Suksi vittuun! (Ski the fuck out of here!)",
+    "ipa_pronunciation": "ˈsuk.si ˈvit.tuːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "haista vittu",
+    "literal_translation": "smell a cunt",
+    "english_equivalent": "fuck you / up yours",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The definitive Finnish equivalent to the phrase 'fuck you'.",
+    "cultural_context": "Used in fights, when getting a parking ticket, or when a sports referee makes a bad call.",
+    "example_usage": "Haista vittu, tuomari! (Fuck you, ref!)",
+    "ipa_pronunciation": "ˈhɑis.tɑ ˈvit.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittumainen",
+    "literal_translation": "cunt-ish",
+    "english_equivalent": "bitchy / fucking annoying / incredibly difficult",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Describes a person who is cruel and annoying, or a task/situation that is painfully difficult and frustrating.",
+    "cultural_context": "Very common adjective. A 'vittumainen' job is one that makes you want to quit.",
+    "example_usage": "Oli kyllä vittumainen koe. (That was a fucking horrible exam.)",
+    "ipa_pronunciation": "ˈvit.tuˌmɑi.nen",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "äpärä",
+    "literal_translation": "illegitimate child",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child born out of wedlock. Used as a targeted insult.",
+    "cultural_context": "Less common today due to changing marriage norms, but still packs a venomous punch when directed at youths.",
+    "example_usage": "Hiljaa, vitun äpärä. (Be quiet, you fucking bastard.)",
+    "ipa_pronunciation": "ˈæ.pæ.ræ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kääpiö",
+    "literal_translation": "dwarf",
+    "english_equivalent": "midget / worthless little person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to belittle an adult man by attacking his height or status.",
+    "cultural_context": "A mean-spirited insult implying someone is insignificant.",
+    "example_usage": "Mene kotiin, saatanan kääpiö. (Go home, you fucking midget.)",
+    "ipa_pronunciation": "ˈkæː.pi.ø",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "penikka",
+    "literal_translation": "pupp / cub",
+    "english_equivalent": "brat / whelp / little shit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally meaning a puppy or wolf cub. Used entirely to demean children or teenagers.",
+    "cultural_context": "A classic word from angry old men yelling at kids to get off their snowy lawns.",
+    "example_usage": "Kusiset penikat! (Pissy little brats!)",
+    "ipa_pronunciation": "ˈpe.nik.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kirottu",
+    "literal_translation": "cursed",
+    "english_equivalent": "cursed / damned",
+    "severity": 1,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Something that has been cursed by god or fate.",
+    "cultural_context": "A mild curse word. Like saying 'this blasted machine'.",
+    "example_usage": "Kirottu lukko ei aukea. (This damned lock won't open.)",
+    "ipa_pronunciation": "ˈki.rot.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pässi",
+    "literal_translation": "ram",
+    "english_equivalent": "blockhead / stubborn idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A male sheep. Used for someone incredibly stubborn or stupid.",
+    "cultural_context": "Very mild. A teacher might call a student a 'pässi' in their head.",
+    "example_usage": "Olet sä kyllä melkoinen pässi. (You're quite the blockhead, aren't you.)",
+    "ipa_pronunciation": "ˈpæs.si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idiootti",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An idiot.",
+    "cultural_context": "A universal European loanword insult. Very common.",
+    "example_usage": "Täysi idiootti. (A total idiot.)",
+    "ipa_pronunciation": "ˈi.di.oːt.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "molo",
+    "literal_translation": "dick",
+    "english_equivalent": "cock / schlong",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "A large penis.",
+    "cultural_context": "Often boasts or vulgar bar talk rather than a strict insult.",
+    "example_usage": "Sillä on hirveä molo. (He has a monstrous schlong.)",
+    "ipa_pronunciation": "ˈmo.lo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "horo",
+    "literal_translation": "slut",
+    "english_equivalent": "slut / tramp",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Slang variant of huora (whore). Used almost affectionately among young girls sometimes, but strictly offensive otherwise.",
+    "cultural_context": "Slightly less severe than huora, similar to 'slut' vs 'whore'.",
+    "example_usage": "Mitä sä horo teet? (What are you doing, slut?)",
+    "ipa_pronunciation": "ˈho.ro",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ämmä",
+    "literal_translation": "old woman / hag",
+    "english_equivalent": "bitch / hag",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Originally a neutral word for an old woman, now a derogatory word for a bitchy, gossiping, or annoying woman.",
+    "cultural_context": "Highly derogatory when used against a wife or female coworker.",
+    "example_usage": "Se vitun ämmä on taas täällä. (That fucking bitch is here again.)",
+    "ipa_pronunciation": "ˈæm.mæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "narttu",
+    "literal_translation": "female dog",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female dog. The exact translational equivalent to 'bitch'.",
+    "cultural_context": "Mostly translated back from English movies. Native Finnish insults prefer ämmä or huora, but 'narttu' is growing.",
+    "example_usage": "Kylmä narttu. (Cold bitch.)",
+    "ipa_pronunciation": "ˈnɑrt.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kakkamainen",
+    "literal_translation": "poop-like",
+    "english_equivalent": "crappy",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A childish/very mild version of 'paskamainen' (shitty).",
+    "cultural_context": "What a six-year-old says when they are mad.",
+    "example_usage": "Tämä peli on kakkamainen. (This game is crappy.)",
+    "ipa_pronunciation": "ˈkɑk.kɑˌmɑi.nen",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "heittiö",
+    "literal_translation": "castaway/wastrel",
+    "english_equivalent": "hooligan / thug / scum",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person who has thrown away their life, living as a criminal or vagabond.",
+    "cultural_context": "A slightly archaic poetic curse.",
+    "example_usage": "Joukko juopuneita heittiöitä. (A bunch of drunken hooligans.)",
+    "ipa_pronunciation": "ˈheit.ti.ø",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lutka",
+    "literal_translation": "slut",
+    "english_equivalent": "slut / skank",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Another synonym for a promiscuous woman.",
+    "cultural_context": "Vicious, designed to shame. Equal in severity to huora.",
+    "example_usage": "Turpa kiinni, lutka. (Shut your mouth, skank.)",
+    "ipa_pronunciation": "ˈlut.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "reikä",
+    "literal_translation": "hole",
+    "english_equivalent": "asshole (anatomical)",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Literally 'hole', heavily slang for anus when unprompted.",
+    "cultural_context": "'Persreikä' means asshole.",
+    "example_usage": "Sattuu reikään. (My hole hurts.)",
+    "ipa_pronunciation": "ˈrei.kæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "persreikä",
+    "literal_translation": "ass hole",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Anus. Used precisely like 'asshole' in English to describe a horrible person or place.",
+    "cultural_context": "Direct and aggressive.",
+    "example_usage": "Olet täysi persreikä. (You're a total asshole.)",
+    "ipa_pronunciation": "ˈpersˌrei.kæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hintti",
+    "literal_translation": "fag",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homosexual man.",
+    "cultural_context": "A severe homophobic slur. Not used politely anywhere.",
+    "example_usage": "[Homophobic slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "ˈhint.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hinttari",
+    "literal_translation": "fag",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An extended version of 'hintti', equally offensive.",
+    "cultural_context": "Common derogatory schoolyard insult.",
+    "example_usage": "[Homophobic slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "ˈhint.tɑ.ri",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "homo",
+    "literal_translation": "homosexual",
+    "english_equivalent": "gay / faggot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The medical term, heavily weaponized by youths as an insult meaning 'coward' or 'loser'.",
+    "cultural_context": "Common among teenage boys to insult anything they don't like ('Tää peli on ihan homo' = This game is totally gay).",
+    "example_usage": "Vitun homo! (Fucking faggot!)",
+    "ipa_pronunciation": "ˈho.mo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pissis",
+    "literal_translation": "pissy girl",
+    "english_equivalent": "chav girl / basic teenage girl carrying cider",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Derived from 'pissaliisa' (piss-Lisa). A teenage girl who wears cheap makeup, drinks cider, and acts obnoxious.",
+    "cultural_context": "A specific cultural phenomenon in Finland in the 2000s. The Finnish archetype of a trashy teen girl.",
+    "example_usage": "Nuori pissis huutaa bussissa. (A young pissy-girl is screaming on the bus.)",
+    "ipa_pronunciation": "ˈpis.sis",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jonne",
+    "literal_translation": "Jonne (boy's name)",
+    "english_equivalent": "Kyle / annoying teen boy drinking energy drinks",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The male equivalent of a 'pissis'. A teenage boy who drinks ES (Euro Shopper energy drink), rides a moped, and plays CS:GO.",
+    "cultural_context": "Not explicitly a swear word, but the ultimate internet insult for a young, annoying Finnish gamer.",
+    "example_usage": "Hiljaa, vitun jonne. (Shut up, fucking Jonne.)",
+    "ipa_pronunciation": "ˈjon.ne",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hitto",
+    "literal_translation": "heck / demon",
+    "english_equivalent": "heck / damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "An old word for a forest demon. Now the sanitized version of 'helvetti'.",
+    "cultural_context": "Used exactly like 'heck' or 'darn'. Completely safe for children and grandmother's house.",
+    "example_usage": "Voi hitto! (Oh heck!)",
+    "ipa_pronunciation": "ˈhit.to",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hemmetti",
+    "literal_translation": "heck",
+    "english_equivalent": "heck / dang",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Another minced oath for 'helvetti' (Hell).",
+    "cultural_context": "Very mild. 'Hemmetin hyvä' means 'heck of a good'.",
+    "example_usage": "Se on hemmetin kallista. (It's darn expensive.)",
+    "ipa_pronunciation": "ˈhem.met.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "perhana",
+    "literal_translation": "devil (minced)",
+    "english_equivalent": "darn / blasting",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A softened version of the almighty 'perkele'.",
+    "cultural_context": "Used when you want to yell 'perkele' but are at a funeral or a kindergarten.",
+    "example_usage": "No voi perhana. (Well, gosh darn.)",
+    "ipa_pronunciation": "ˈper.hɑ.nɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "saakeli",
+    "literal_translation": "satan (minced)",
+    "english_equivalent": "darn it",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The censored, polite version of 'saatana'.",
+    "cultural_context": "Often used as an adjective: 'Saakelin ruma' (Darn ugly).",
+    "example_usage": "Voi saakeli! (Oh darn it!)",
+    "ipa_pronunciation": "ˈsɑː.ke.li",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "samperi",
+    "literal_translation": "satan (minced)",
+    "english_equivalent": "sam hill / gosh darn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Yet another very soft, almost comedic euphemism for Satan.",
+    "cultural_context": "Used in Donald Duck comics as a translation for American minced oaths.",
+    "example_usage": "Voi samperi soikoon! (May sam-hill ring! / Gosh darn it!)",
+    "ipa_pronunciation": "ˈsɑm.pe.ri",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittuun",
+    "literal_translation": "to the cunt",
+    "english_equivalent": "away / to hell",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The illative case of 'vittu'. Means directing something or someone into the cunt.",
+    "cultural_context": "Used constantly: 'Heitä se vittuun' (Throw it to the cunt / Throw it the fuck away) or 'Mene vittuun' (Go to the cunt / Fuck off).",
+    "example_usage": "Heitä tuo paska vittuun. (Throw that shit the fuck away.)",
+    "ipa_pronunciation": "ˈvit.tuːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vituksi",
+    "literal_translation": "into a cunt",
+    "english_equivalent": "fucked up / gone to shit",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "When something goes horribly wrong, it 'meni vituksi' (went into a cunt/got fucked up).",
+    "cultural_context": "A deeply poetic way to admit failure. 'It folded into a vagina.'",
+    "example_usage": "Koko projekti meni ihan vituksi. (The whole project got totally fucked up.)",
+    "ipa_pronunciation": "ˈvi.tuk.si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "perseaukista",
+    "literal_translation": "having an open ass",
+    "english_equivalent": "broke / penniless",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Being completely out of money. You are so broke your ass is metaphorically gaping open.",
+    "cultural_context": "A brilliantly descriptive financial term. 'Olen perseauki' (I am ass-open / broke).",
+    "example_usage": "Olen aivan perseauki ennen palkkapäivää. (I am totally ass-open / broke before payday.)",
+    "ipa_pronunciation": "ˈper.seˌɑu.kis.tɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "persereikä",
+    "literal_translation": "ass hole",
+    "english_equivalent": "asshole / shithole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Anus. Used to describe a terribly ugly town or a terrible person.",
+    "cultural_context": "A harsh insult. Can be spelled persreikä or persereikä.",
+    "example_usage": "Tämä kaupunki on oikea persereikä. (This town is a real shithole.)",
+    "ipa_pronunciation": "ˈper.seˌrei.kæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "paskahousu",
+    "literal_translation": "shit pants",
+    "english_equivalent": "coward / wimp",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who has shit their pants out of fear. A coward.",
+    "cultural_context": "Also the name of a popular Finnish card game, but means coward when used as an insult.",
+    "example_usage": "Älä ole sellainen paskahousu. (Don't be such a coward / shit-pants.)",
+    "ipa_pronunciation": "ˈpɑs.kɑˌhou.su",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "runkkupatti",
+    "literal_translation": "wank bump",
+    "english_equivalent": "wanker / ugly bump",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A bump or pimple caused by masturbating, or calling someone that deformity.",
+    "cultural_context": "A highly specific, creative, and slightly gross insult.",
+    "example_usage": "Mitä sä katsot, vitun runkkupatti? (What are you looking at, you fucking wank-bump?)",
+    "ipa_pronunciation": "ˈruŋk.kuˌpɑt.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "huoranpenikka",
+    "literal_translation": "whore's cub",
+    "english_equivalent": "son of a bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The offspring of a prostitute.",
+    "cultural_context": "A devastatingly offensive way to insult someone's mother and their heritage simultaneously.",
+    "example_usage": "Tule tänne, saatanan huoranpenikka! (Come here, you satan's son of a bitch!)",
+    "ipa_pronunciation": "ˈhuo.rɑnˌpe.nik.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittumarkko",
+    "literal_translation": "cunt-Markko",
+    "english_equivalent": "annoying teenage boy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An older 1990s slang version of 'jonne'. An annoying kid who says 'vittu' every second word.",
+    "cultural_context": "Literally named because teenagers insert 'vittu' like punctuation. 'Marko' was a generic boy's name.",
+    "example_usage": "Siellä ne vittumarkot taas huutelee. (There those cunt-Markos are yelling again.)",
+    "ipa_pronunciation": "ˈvit.tuˌmɑrk.ko",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kikkeliskokkelis",
+    "literal_translation": "dick-ish cock-ish (nonsense rhyme)",
+    "english_equivalent": "shit happens / oopsie daisy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A nonsense, rhyming phrase derived from 'kikkeli' (child's word for penis). Used to mean 'well, mistakes were made' or 'what are you gonna do?'",
+    "cultural_context": "Deeply sarcastic and funny. You say this when someone else screws up horribly and you don't care.",
+    "example_usage": "Kikkeliskokkelis, mitäs läksit. (Oopsie daisy, what did you go and do that for.)",
+    "ipa_pronunciation": "ˈkik.ke.lisˌkok.ke.lis",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "räkänokka",
+    "literal_translation": "snot beak",
+    "english_equivalent": "snot-nosed kid",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A little kid with an endlessly runny nose.",
+    "cultural_context": "Used mostly by adults to belittle arrogant teenagers or children.",
+    "example_usage": "Mene kotiin kasvamaan, räkänokka. (Go home and grow up, snot-beak.)",
+    "ipa_pronunciation": "ˈræ.kæˌnok.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "runkata",
+    "literal_translation": "to wank",
+    "english_equivalent": "to wank / to jerk off",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The verb for male masturbation.",
+    "cultural_context": "Direct and vulgar. 'Olla runkulla' means to be currently jerking off.",
+    "example_usage": "Lopeta tuo runkkaaminen ja tule syömään! (Stop jerking off and come eat!)",
+    "ipa_pronunciation": "ˈruŋ.kɑ.tɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hevonkuusi",
+    "literal_translation": "horse's spruce tree",
+    "english_equivalent": "the middle of nowhere",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The family-friendly, minced-oath version of 'hevonvittu' (horse's cunt).",
+    "cultural_context": "Used when telling a child that something is very far away in the woods.",
+    "example_usage": "Se on jossain hevonkuusessa. (It's out in a horse's spruce tree / nowhere.)",
+    "ipa_pronunciation": "ˈhe.ʋonˌkuː.si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kyrpäläinen",
+    "literal_translation": "dick-citizen / dick-dweller",
+    "english_equivalent": "dickhead person",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "An inhabitant of Dick-land. Someone who acts like a giant walking penis.",
+    "cultural_context": "Adds the '-läinen' suffix (meaning citizen of) to a body part for comedic spite.",
+    "example_usage": "Vitun kyrpäläinen. (Fucking dick-dweller.)",
+    "ipa_pronunciation": "ˈkyr.pæˌlæi.nen",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kakkapää",
+    "literal_translation": "poop head",
+    "english_equivalent": "poopoo head",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A head made of poop.",
+    "cultural_context": "Literally the worst thing a five-year-old Finnish child can call you. Useless among adults.",
+    "example_usage": "Olet tyhmä kakkapää! (You're a stupid poop-head!)",
+    "ipa_pronunciation": "ˈkɑk.kɑˌpæː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nussia",
+    "literal_translation": "to poke/fuck",
+    "english_equivalent": "to fuck / to shag",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The standard vulgar verb for sexual intercourse.",
+    "cultural_context": "Used for the act of sex, whereas 'vittu' is used as the exclamation.",
+    "example_usage": "Haluan nussia sinua. (I want to fuck you.)",
+    "ipa_pronunciation": "ˈnus.si.ɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nussija",
+    "literal_translation": "fucker",
+    "english_equivalent": "motherfucker",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who fucks. Often combined with other things to make an insult, like 'pilkunnussija' (comma-fucker).",
+    "cultural_context": "In English 'fucker' is a general insult. In Finnish, it requires a prefix to be a good insult.",
+    "example_usage": "Saatanan nussija. (Satan's fucker.)",
+    "ipa_pronunciation": "ˈnus.si.jɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pilkunnussija",
+    "literal_translation": "comma fucker",
+    "english_equivalent": "grammar nazi / pedant",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who obsesses so heavily over minor grammatical rules or tiny details that they figuratively have sex with commas.",
+    "cultural_context": "One of the most untranslatable, glorious insults in the language. Equivalent to the Dutch 'mierenneuker' (ant-fucker).",
+    "example_usage": "Älä viitsi olla tuollainen pilkunnussija! (Don't be such a comma-fucker!)",
+    "ipa_pronunciation": "ˈpil.kunˌnus.si.jɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "urpo",
+    "literal_translation": "Urpo (man's name)",
+    "english_equivalent": "idiot / dork / doofus",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A slightly old-fashioned man's name that evolved into a slang word for an idiot or goofball.",
+    "cultural_context": "Endearing or mildly insulting. Similar to calling someone a 'Kevin' or 'Chad' in English, but focuses entirely on clumsiness.",
+    "example_usage": "Olet sä kyllä aivan urpo. (You're an absolute doofus.)",
+    "ipa_pronunciation": "ˈur.po",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "torvi",
+    "literal_translation": "horn/trumpet",
+    "english_equivalent": "dummy / loudmouth",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An instrument. Metaphorically, someone who is loud but completely empty inside.",
+    "cultural_context": "A 'clean' insult your mom uses when you mess up.",
+    "example_usage": "Mitä sinä siinä seisot, senkin torvi? (Why are you just standing there, you dummy?)",
+    "ipa_pronunciation": "ˈtor.ʋi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pässinpää",
+    "literal_translation": "ram's head",
+    "english_equivalent": "muttonhead / stubborn fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A very stubborn or incredibly stupid person.",
+    "cultural_context": "A classic, slightly vintage insult.",
+    "example_usage": "Olet oikea pässinpää. (You're a real ram's-head.)",
+    "ipa_pronunciation": "ˈpæs.sinˌpæː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pelle",
+    "literal_translation": "clown",
+    "english_equivalent": "clown / joke / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is incompetent or acting like a fool.",
+    "cultural_context": "Can be a very sharp insult to a grown man, implying no one respects him.",
+    "example_usage": "Mene pois, vitun pelle. (Go away, fucking clown.)",
+    "ipa_pronunciation": "ˈpel.le",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "homoilla",
+    "literal_translation": "to act homosexual",
+    "english_equivalent": "to act gay / to mess around foolishly",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To goof around, act affectionately with another man, or act strangely.",
+    "cultural_context": "Widely used by straight teens and young men. 'Lopettakaa se homoilu' = Stop doing gay shit / Stop messing around.",
+    "example_usage": "Mitä te täällä homoilette? (What are you messing around with here?)",
+    "ipa_pronunciation": "ˈho.moil.lɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "huitsin nevada",
+    "literal_translation": "whipping Nevada",
+    "english_equivalent": "the middle of nowhere",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Very far away. Literally referencing the US state of Nevada.",
+    "cultural_context": "Completely clean slang to replace hevonvittu. Why Nevada? To a Finn, a desert in America sounds incredibly far and desolate.",
+    "example_usage": "Se on jossain huitsin nevadassa. (It's somewhere in whipping Nevada.)",
+    "ipa_pronunciation": "ˈhuit.sin ˈne.ʋɑ.dɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lutkahuora",
+    "literal_translation": "slut-whore",
+    "english_equivalent": "mega-slut / worst kind of whore",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The two worst words for a woman (lutka and huora) slapped together for absolute maximum offense.",
+    "cultural_context": "The nuclear option when insulting a woman. Intended only to destroy.",
+    "example_usage": "Sinä saatanan lutkahuora! (You satan's slut-whore!)",
+    "ipa_pronunciation": "ˈlut.kɑˌhuo.rɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kusipaska",
+    "literal_translation": "piss-shit",
+    "english_equivalent": "fucking horrible / complete garbage",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A combination of piss and shit. Describes an absolutely terrible product or day.",
+    "cultural_context": "The Finnish ability to stack curses is on full display here.",
+    "example_usage": "Tää peli on ihan kusipaskaa. (This game is total piss-shit.)",
+    "ipa_pronunciation": "ˈku.siˌpɑs.kɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vittuperkelesaatana",
+    "literal_translation": "cunt-devil-satan",
+    "english_equivalent": "mother-fucking-god-dammit",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A continuous unbroken utterance of the holy trinity of Finnish swearing. Used when dropping a hammer on a bare toe.",
+    "cultural_context": "Can technically be infinitely long. It's a physiological pain relief mechanism.",
+    "example_usage": "VITTUPERKELESAATANA! (Fuuuuuuuck!)",
+    "ipa_pronunciation": "ˈvit.tu.per.ke.leˌsɑː.tɑ.nɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

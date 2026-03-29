@@ -1,0 +1,1151 @@
+[
+  {
+    "word": "For fanden (for fan-en)",
+    "literal_translation": "for the devil",
+    "english_equivalent": "damn / fuck",
+    "severity": 2,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Used to express frustration or emphasis. One of the most common everyday swear words in Danish.",
+    "cultural_context": "Very mildly offensive. It has lost most of its religious connotations.",
+    "example_usage": "For fanden, hvor er her koldt! (Damn, it's cold here!)",
+    "ipa_pronunciation": "[fʌ ˈfanən]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "For helvede",
+    "literal_translation": "for hell",
+    "english_equivalent": "for fuck's sake / goddamn it",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Stronger than 'for fanden'. Used to express intense frustration or anger.",
+    "cultural_context": "Considered crude, often yelled when hitting one's toe or suffering an unexpected setback.",
+    "example_usage": "Av for helvede! (Ouch, goddamn it!)",
+    "ipa_pronunciation": "[fʌ ˈhɛlvəðə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "For satan",
+    "literal_translation": "for Satan",
+    "english_equivalent": "damn it / goddamn",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Similar severity and usage to 'for helvede'. An expression of shock or frustration.",
+    "cultural_context": "Satanic swearing is an old staple of Scandinavian profanity.",
+    "example_usage": "Det var for satan da utroligt! (That is fucking unbelievable!)",
+    "ipa_pronunciation": "[fʌ ˈsæːtæn]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kraftedeme (kraf-te-deh-meh)",
+    "literal_translation": "may cancer eat me",
+    "english_equivalent": "fucking",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A strong intensifier used to emphasize a point or express anger.",
+    "cultural_context": "Historically, disease-based curses were the ultimate taboo. Despite referencing cancer, it is used casually as an intensifier without wishing sickness on anyone.",
+    "example_usage": "Det er kraftedeme løgn! (That is a fucking lie!)",
+    "ipa_pronunciation": "[ˈkʁɑftð̩mə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fandeme (fan-meh)",
+    "literal_translation": "may the devil eat me",
+    "english_equivalent": "damn well / fucking",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to strongly emphasize a statement.",
+    "cultural_context": "A milder version of 'kraftedeme', fully normalized in everyday angry or emphatic speech.",
+    "example_usage": "Det gør jeg fandeme ikke. (I am damn well not doing that.)",
+    "ipa_pronunciation": "[ˈfanmə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sateme (sa-teh-meh)",
+    "literal_translation": "may Satan eat me",
+    "english_equivalent": "goddamn / fucking",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Intensifier slightly stronger than 'fandeme'.",
+    "cultural_context": "Part of the '-eme' suffix family of Danish curses.",
+    "example_usage": "Du er sateme dum. (You are fucking stupid.)",
+    "ipa_pronunciation": "[ˈsæːtəmə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Lort",
+    "literal_translation": "shit",
+    "english_equivalent": "shit / crap",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Exclamation when something goes wrong, or a noun to describe something of poor quality.",
+    "cultural_context": "Very standard, not considered particularly offensive. Often used playfully or casually.",
+    "example_usage": "Hvad er det for noget lort? (What kind of shit is this?)",
+    "ipa_pronunciation": "[ˈloɐ̯ˀd]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pis",
+    "literal_translation": "piss",
+    "english_equivalent": "piss / crap",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Used to express minor annoyance.",
+    "cultural_context": "Extremely mild. Used by children and adults alike.",
+    "example_usage": "Åh pis, jeg glemte mine nøgler. (Oh piss, I forgot my keys.)",
+    "ipa_pronunciation": "[ˈpʰis]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pisse-",
+    "literal_translation": "piss-",
+    "english_equivalent": "fucking / really",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Used as a prefix to intensify an adjective.",
+    "cultural_context": "Used constantly in casual speech to describe anything extreme, both good and bad.",
+    "example_usage": "Det er pissekoldt udenfor! (It's fucking cold outside!)",
+    "ipa_pronunciation": "[ˈpʰisə-]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Skide",
+    "literal_translation": "shit / to shit",
+    "english_equivalent": "fucking / extremely",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Used as an adverb or prefix to emphasize a point.",
+    "cultural_context": "Slightly stronger than 'pisse-'. Very common in modern Danish.",
+    "example_usage": "Det er skidegodt! (That's fucking great!)",
+    "ipa_pronunciation": "[ˈsgiːðə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sgu",
+    "literal_translation": "so God",
+    "english_equivalent": "indeed / honestly",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to emphasize a statement, originating from 'så Gud hjælpe mig' (so help me God).",
+    "cultural_context": "So mild that linguists debate if it is even a swear word anymore. Embedded completely in everyday vocabulary.",
+    "example_usage": "Det ved jeg sgu ikke. (I honestly don't know.)",
+    "ipa_pronunciation": "[sgu]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Røv (raw-v)",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Used to signify the buttocks, or as a negative exclamation.",
+    "cultural_context": "A casual, slightly vulgar word. Often combined into compound insults.",
+    "example_usage": "Han er en smerte i røven. (He is a pain in the ass.)",
+    "ipa_pronunciation": "[ˈʁœwˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Røvhul (raw-v-hool)",
+    "literal_translation": "asshole",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A general insult directed at a despicable person.",
+    "cultural_context": "Standard insult, directly comparable to its English counterpart.",
+    "example_usage": "Hold kæft, dit røvhul. (Shut up, you asshole.)",
+    "ipa_pronunciation": "[ˈʁœwˌhol]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hold kæft (hol keft)",
+    "literal_translation": "hold jaw",
+    "english_equivalent": "shut up / shut the fuck up",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A command telling someone to stop talking.",
+    "cultural_context": "Very rude command in formal settings, but often used jokingly among friends.",
+    "example_usage": "Hold kæft og lyt! (Shut up and listen!)",
+    "ipa_pronunciation": "[hʌl ˈkʰɛfd]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kælling (kel-ling)",
+    "literal_translation": "hag / old woman",
+    "english_equivalent": "bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A highly derogatory term for a spiteful or mean woman.",
+    "cultural_context": "Considered very offensive and sexist. Stemming from the old Norse word for an old woman.",
+    "example_usage": "Din stygge kælling! (You ugly bitch!)",
+    "ipa_pronunciation": "[ˈkʰɛleŋ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Luderso (loo-der-so)",
+    "literal_translation": "whore-sow",
+    "english_equivalent": "fucking bitch / slutfucking pig",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An extremely vulgar insult combining 'whore' and 'female pig' (sow).",
+    "cultural_context": "Highly aggressive, unequivocally intends to demean a woman.",
+    "example_usage": "Skrid, din luderso! (Fuck off, you whore-bitch!)",
+    "ipa_pronunciation": "[ˈluðɐˌsoˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Luder (loo-der)",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / hooker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to insult a woman's promiscuity or general character.",
+    "cultural_context": "A direct and harsh insult.",
+    "example_usage": "Din mor er en luder. (Your mom is a whore.)",
+    "ipa_pronunciation": "[ˈluðɐ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dumme svin",
+    "literal_translation": "stupid pig",
+    "english_equivalent": "fucking bastard / piece of shit",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A furious insult aimed at someone who has acted maliciously.",
+    "cultural_context": "Swine/pig insults land much heavier in Danish than in English, indicating someone is cruel or vile.",
+    "example_usage": "Du er et dumt svin! (You are a fucking bastard!)",
+    "ipa_pronunciation": "[ˈd̥ɔmə ˈsʋiˀn]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pikhoved (peeg-ho-ved)",
+    "literal_translation": "dick-head",
+    "english_equivalent": "dickhead",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Insult directed toward a stupid or annoying male.",
+    "cultural_context": "A literal translation of the English word, widely adopted in Denmark.",
+    "example_usage": "Hvad har du gang i, pikhoved? (What are you doing, dickhead?)",
+    "ipa_pronunciation": "[ˈpʰeg̊ˌhoːð̩]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pik (peeg)",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / cock",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Male genitalia.",
+    "cultural_context": "Used in various insults, but casual enough that teenagers use it constantly.",
+    "example_usage": "Sut min pik. (Suck my dick.)",
+    "ipa_pronunciation": "[ˈpʰeg̊]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sut min pik",
+    "literal_translation": "suck my dick",
+    "english_equivalent": "suck my dick",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "A dismissal or vulgar insult to dominate the receiver.",
+    "cultural_context": "Used as a crass comeback.",
+    "example_usage": "Du kan bare sutte min pik. (You can just suck my dick.)",
+    "ipa_pronunciation": "[ˈsud̥ miˀn ˈpʰeg̊]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fisse",
+    "literal_translation": "pussy",
+    "english_equivalent": "pussy / cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Female genitalia, or used as a crude term for women.",
+    "cultural_context": "Often yelled by drunken males or used as an insult. Very vulgar.",
+    "example_usage": "Fisse, fisse, fejemøg! (A crude, rhyming drinking chant)",
+    "ipa_pronunciation": "[ˈfisə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kusse",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Synonymous with fisse, but often sounds slightly more old-fashioned or coarse.",
+    "cultural_context": "Highly vulgar term for vagina.",
+    "example_usage": "Din klamme kusse. (You gross cunt.)",
+    "ipa_pronunciation": "[ˈkʰusə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Røvbanan (raw-v-ba-nan)",
+    "literal_translation": "ass-banana",
+    "english_equivalent": "asshole / dumbass",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A playful, slightly childish insult.",
+    "cultural_context": "Danes love combining harmless words with 'røv' (ass) to make funny insults.",
+    "example_usage": "Din lille røvbanan. (You little ass-banana.)",
+    "ipa_pronunciation": "[ˈʁœwbaˌnæn]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Klaphat",
+    "literal_translation": "clapping-hat",
+    "english_equivalent": "idiot / clown",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is acting foolish.",
+    "cultural_context": "Invented during the 1980s referring to the silly hats worn by Danish football fans with clapping hands on them.",
+    "example_usage": "Hvilken klaphat parkerede her? (What idiot parked here?)",
+    "ipa_pronunciation": "[ˈklapˌhad]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bøsserøv (boe-seh-raw-v)",
+    "literal_translation": "gay-ass",
+    "english_equivalent": "faggot / gay-ass",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homophobic slur directed at a man.",
+    "cultural_context": "Although Denmark is highly progressive, homophobic language is still used as a schoolyard or macho insult.",
+    "example_usage": "Din klamme bøsserøv. (You gross gay-ass.)",
+    "ipa_pronunciation": "[ˈb̥øsəˌʁœwˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Svans",
+    "literal_translation": "tail",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory slang word for a homosexual man.",
+    "cultural_context": "Offensive and completely outdated slang, heavily frowned upon in polite society.",
+    "example_usage": "Han er en rigtig svans. (He is a real faggot.)",
+    "ipa_pronunciation": "[ˈsʋanˀs]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bolle din mor",
+    "literal_translation": "fuck your mom",
+    "english_equivalent": "motherfucker",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Direct insult toward someone's family.",
+    "cultural_context": "While 'bolle' means to have sex (or a baked bun), using it in this manner is a direct aggressive threat.",
+    "example_usage": "Jeg vil bolle din mor. (I want to fuck your mom.)",
+    "ipa_pronunciation": "[ˈb̥ʌlə d̥in ˈmoɐ̯]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Din dumme idiot",
+    "literal_translation": "you stupid idiot",
+    "english_equivalent": "you fucking idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A straightforward insult.",
+    "cultural_context": "Standard, slightly childish but direct.",
+    "example_usage": "Din dumme idiot, se dig for! (You stupid idiot, watch out!)",
+    "ipa_pronunciation": "[d̥in ˈd̥ɔmə id̥iˈoˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Din lille lort",
+    "literal_translation": "you little shit",
+    "english_equivalent": "you little shit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "insult"
+    ],
+    "meaning": "Used to demean someone, making them feel small and worthless.",
+    "cultural_context": "Often said to misbehaving teenagers or annoying individuals.",
+    "example_usage": "Kom herned, din lille lort. (Come down here, you little shit.)",
+    "ipa_pronunciation": "[d̥in ˈlilə ˈloɐ̯ˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Skrid med dig (skrid meh da)",
+    "literal_translation": "step with you",
+    "english_equivalent": "fuck off / get lost",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An aggressive way to tell someone to leave.",
+    "cultural_context": "'Skrid' means 'to stride', but when commanded, it is an incredibly dismissive 'fuck off'.",
+    "example_usage": "Skrid med dig, jeg gider ikke se på dig! (Fuck off, I don't want to look at you!)",
+    "ipa_pronunciation": "[ˈsgʁiðˀ mɛ d̥a]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Lortehoved",
+    "literal_translation": "shithead",
+    "english_equivalent": "shithead",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone whose head is filled with feces.",
+    "cultural_context": "Less severe than røvhul, somewhat childish but still used by adults.",
+    "example_usage": "Hold op, dit lortehoved. (Stop it, you shithead.)",
+    "ipa_pronunciation": "[ˈloɐ̯d̥əˌhoːð̩]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Klamme so (klam-meh soh)",
+    "literal_translation": "disgusting sow / female pig",
+    "english_equivalent": "disgusting bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An insult directed at a woman.",
+    "cultural_context": "Using 'sow' (female pig) in Danish is a uniquely vile way to insult a woman's appearance and hygiene.",
+    "example_usage": "Hun er en klam so. (She is a disgusting bitch.)",
+    "ipa_pronunciation": "[ˈkʰlɑmə ˈsoˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pikslikker (peeg-slik-ker)",
+    "literal_translation": "dick licker",
+    "english_equivalent": "cocksucker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A vulgar insult akin to cocksucker.",
+    "cultural_context": "Highly aggressive, essentially meaning someone who debases themselves.",
+    "example_usage": "Din fucking pikslikker! (You fucking cocksucker!)",
+    "ipa_pronunciation": "[ˈpʰeg̊ˌsleg̊ɐ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pikspiller",
+    "literal_translation": "dick player",
+    "english_equivalent": "wanker",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Someone who masturbates.",
+    "cultural_context": "Direct equivalent to the British 'wanker'.",
+    "example_usage": "Tag dig sammen, pikspiller. (Get your act together, wanker.)",
+    "ipa_pronunciation": "[ˈpʰeg̊ˌsbelɐ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fuck af",
+    "literal_translation": "fuck off",
+    "english_equivalent": "fuck off",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Used to tell someone to leave you alone.",
+    "cultural_context": "Directly imported from English but heavily used in Denmark with a distinct Danish accent.",
+    "example_usage": "Fuck af med dig. (Fuck off.)",
+    "ipa_pronunciation": "[ˈfʌg̊ ˈæˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gå væk",
+    "literal_translation": "go away",
+    "english_equivalent": "piss off",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A simple dismissal.",
+    "cultural_context": "Not inherently a curse word, but often preceded by 'fucking' to make it one.",
+    "example_usage": "Gå væk din idiot. (Go away you idiot.)",
+    "ipa_pronunciation": "[g̊ʌ ˈʋɛg̊]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Tøs (toe-s)",
+    "literal_translation": "girl / wench",
+    "english_equivalent": "bitch / sissy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used playfully to mean 'chick', but aggressively as 'bitch' or toward a man as 'sissy'.",
+    "cultural_context": "Highly context-dependent. Between girls it means friend; toward a boy it attacks his masculinity.",
+    "example_usage": "Opfør dig ikke som en tøs. (Don't act like a sissy.)",
+    "ipa_pronunciation": "[ˈtøˀs]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Luderunge",
+    "literal_translation": "whore kid",
+    "english_equivalent": "son of a bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child of a whore.",
+    "cultural_context": "A cruel insult usually directed at teenagers or gamers online.",
+    "example_usage": "Hold kæft, din luderunge. (Shut up, son of a bitch.)",
+    "ipa_pronunciation": "[ˈluðɐˌɔŋə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Lorteunge",
+    "literal_translation": "shit kid",
+    "english_equivalent": "little shit / brat",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A bratty, misbehaving child.",
+    "cultural_context": "Extremely common descriptor for noisy or disobedient children.",
+    "example_usage": "De lorteunger larmer igen. (Those brats are making noise again.)",
+    "ipa_pronunciation": "[ˈloɐ̯d̥əˌɔŋə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fjæs (fyess)",
+    "literal_translation": "mug / ugly face",
+    "english_equivalent": "ugly mug",
+    "severity": 1,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "An unflattering way to refer to someone's face.",
+    "cultural_context": "Mild insult, used to say someone looks dumb or ugly.",
+    "example_usage": "Kæft et fjæs. (What an ugly face.)",
+    "ipa_pronunciation": "[ˈfjæˀs]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Satan",
+    "literal_translation": "Satan",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A harsh insult directed at an evil person or machine.",
+    "cultural_context": "Often used practically when an engine won't start or a tool breaks.",
+    "example_usage": "Den lille satan vil ikke starte. (The little bastard won't start.)",
+    "ipa_pronunciation": "[ˈsæːtæn]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Helvede",
+    "literal_translation": "Hell",
+    "english_equivalent": "Hell / horrible place",
+    "severity": 2,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Used to describe a terrible experience or place.",
+    "cultural_context": "Used in various idioms like 'go to hell'.",
+    "example_usage": "Det var et rent helvede. (It was pure hell.)",
+    "ipa_pronunciation": "[ˈhɛlvəðə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pisselort",
+    "literal_translation": "piss-shit",
+    "english_equivalent": "fucking bullshit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "Combined scatological terms expressing maximum dissatisfaction.",
+    "cultural_context": "Often used by mechanics, builders, and standard Danes when something is deeply annoying.",
+    "example_usage": "Hvad er det for noget pisselort? (What kind of fucking bullshit is this?)",
+    "ipa_pronunciation": "[ˈpʰisəˌloɐ̯ˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Forpulede lort",
+    "literal_translation": "fucked shit",
+    "english_equivalent": "fucking shit",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "An angry exclamation.",
+    "cultural_context": "'Forpulede' literally means over-fucked, acting as a strong intensifier.",
+    "example_usage": "Din forpulede lort! (You fucking shit!)",
+    "ipa_pronunciation": "[fʌˈpʰuˀləðə ˈloɐ̯ˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Skiderik",
+    "literal_translation": "shitter",
+    "english_equivalent": "bastard / dirtbag",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "insult"
+    ],
+    "meaning": "A person behaving badly.",
+    "cultural_context": "A slightly old-fashioned but still actively used insult.",
+    "example_usage": "Han er en værre skiderik. (He is a real bastard.)",
+    "ipa_pronunciation": "[ˈsg̊iːðəʁɛg̊]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Lorteliv",
+    "literal_translation": "shit life",
+    "english_equivalent": "fucking life / terrible life",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "An expression of self-pity or anger at one's circumstances.",
+    "cultural_context": "Danes love compounding words with 'lort' to describe something terrible.",
+    "example_usage": "Jeg har et lorteliv. (I have a shit life.)",
+    "ipa_pronunciation": "[ˈloɐ̯d̥əˌliuˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Møgso (moey-so)",
+    "literal_translation": "manure sow",
+    "english_equivalent": "dirty bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A very dirty or despicable woman.",
+    "cultural_context": "'Møg' means dirt/manure. Extremely disrespectful toward women.",
+    "example_usage": "Din fedtede møgso. (You filthy dirty bitch.)",
+    "ipa_pronunciation": "[ˈmœwˌsoˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kæmpe idiot",
+    "literal_translation": "giant idiot",
+    "english_equivalent": "massive idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who has made a huge mistake.",
+    "cultural_context": "A standard, emphatic insult.",
+    "example_usage": "Du er en kæmpe idiot. (You are a massive idiot.)",
+    "ipa_pronunciation": "[ˈkʰɛmb̥ə id̥iˈoˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sut røv",
+    "literal_translation": "suck ass",
+    "english_equivalent": "eat shit / suck it",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A dismissal akin to telling someone to get bent.",
+    "cultural_context": "A vulgar but common phrase to end an argument.",
+    "example_usage": "Sut røv, jeg gør det ikke. (Suck it, I am not doing it.)",
+    "ipa_pronunciation": "[ˈsud̥ ˈʁœwˀ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "For satan i helvede",
+    "literal_translation": "for Satan in Hell",
+    "english_equivalent": "god fucking damn it",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "The ultimate combination of Danish religious exclamations.",
+    "cultural_context": "Used only in the most extreme moments of pain, anger, or stress.",
+    "example_usage": "For satan i helvede, pas på! (God fucking damn it, watch out!)",
+    "ipa_pronunciation": "[fʌ ˈsæːtæn i ˈhɛlvəðə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Møgkælling",
+    "literal_translation": "dirt hag",
+    "english_equivalent": "dirty bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Combination of 'dirt' (manure) and 'kælling'.",
+    "cultural_context": "A very vicious insult targeting a female.",
+    "example_usage": "Din stygge møgkælling! (You ugly dirty bitch!)",
+    "ipa_pronunciation": "[ˈmœwˌkʰɛleŋ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Røv og nøgler",
+    "literal_translation": "ass and keys",
+    "english_equivalent": "bullshit",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Complete nonsense or a lie.",
+    "cultural_context": "A uniquely Danish idiom expressing utter disbelief.",
+    "example_usage": "Det er røv og nøgler! (That is complete bullshit!)",
+    "ipa_pronunciation": "[ˈʁœwˀ ʌ ˈnʌjlɐ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fjols",
+    "literal_translation": "fool",
+    "english_equivalent": "fool / moron",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone lacking intelligence.",
+    "cultural_context": "Very mild. Tame enough to be used in children's television.",
+    "example_usage": "Sikke et fjols han er! (What a fool he is!)",
+    "ipa_pronunciation": "[ˈfjʌlˀs]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fuckhoved",
+    "literal_translation": "fuck-head",
+    "english_equivalent": "fuckhead",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is annoying or stupid.",
+    "cultural_context": "A hybrid slur borrowing heavily from American cinema.",
+    "example_usage": "Lyt efter, fuckhoved. (Listen closely, fuckhead.)",
+    "ipa_pronunciation": "[ˈfʌkˌhoːð̩]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bøsse (boe-seh)",
+    "literal_translation": "gay",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically a neutral word for homosexual, frequently used as a slur.",
+    "cultural_context": "'Bøsse' literally means 'rifle' or 'money box' but evolved to mean gay. When used as an insult, it is very offensive in modern society.",
+    "example_usage": "Din fucking bøsse. (You fucking faggot.)",
+    "ipa_pronunciation": "[ˈb̥øsə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Idiot",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Standard insult for someone stupid.",
+    "cultural_context": "Extremely common. Pronounced very gutturally in Danish.",
+    "example_usage": "Din idiot. (You idiot.)",
+    "ipa_pronunciation": "[id̥iˈoˀd̥]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bavian",
+    "literal_translation": "baboon",
+    "english_equivalent": "ape / idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A loud, uncooperative, or stupid person.",
+    "cultural_context": "Often yelled affectionately at friends or rowdy kids.",
+    "example_usage": "Din store bavian. (You big baboon.)",
+    "ipa_pronunciation": "[b̥aʋiˈæˀn]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Spasser (spa-ser)",
+    "literal_translation": "spastic",
+    "english_equivalent": "retard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory word for someone physically or mentally disabled, used as a general insult.",
+    "cultural_context": "Highly frowned upon ableist slur, yet still unfortunately used among teenagers.",
+    "example_usage": "Opfør dig ikke som en spasser. (Don't act like a retard.)",
+    "ipa_pronunciation": "[ˈsbasɐ]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Åndssvag (on-svag)",
+    "literal_translation": "weak in spirit/mind",
+    "english_equivalent": "retarded / moronic",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something that is incredibly stupid or frustrating.",
+    "cultural_context": "An old medical term for mental retardation, now completely integrated into daily speech to mean 'ridiculous' or 'stupid'. Most Danes don't consider it an ableist slur anymore, just a normal word for 'stupid'.",
+    "example_usage": "Det er en åndssvag idé. (That is a moronic idea.)",
+    "ipa_pronunciation": "[ˈʌnˀsˌsʋæˀj]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Møgunge (moey-ung-eh)",
+    "literal_translation": "manure kid",
+    "english_equivalent": "little shit / brat",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A terrible, annoying child.",
+    "cultural_context": "Very common reprimand for extremely naughty kids.",
+    "example_usage": "Din lille møgunge! (You little brat!)",
+    "ipa_pronunciation": "[ˈmœwˌɔŋə]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pis og papir",
+    "literal_translation": "piss and paper",
+    "english_equivalent": "bullshit",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Utter nonsense.",
+    "cultural_context": "An old Danish idiom for when someone is lying or saying something completely useless.",
+    "example_usage": "Det er pis og papir. (That's bullshit.)",
+    "ipa_pronunciation": "[ˈpʰis ʌ pʰaˈpʰiˀɐ̯]",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

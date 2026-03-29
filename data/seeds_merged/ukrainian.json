@@ -1,0 +1,1463 @@
+[
+  {
+    "word": "хуй (khuy)",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / cock / fuck",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Penis. The foundation of Eastern Slavic 'Mat'.",
+    "cultural_context": "Highly versatile. Can be a noun, or modified to mean 'everything is fucked' (hujovo), 'excellent' (ohuyenno), or 'go fuck yourself' (idi na khuy).",
+    "example_usage": "Іди на хуй! (Idi na khuy! - Go to the dick! / Fuck off!)",
+    "ipa_pronunciation": "xuj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хуйня (khuynya)",
+    "literal_translation": "dick-thing",
+    "english_equivalent": "bullshit / crap",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Nonsense, a bad situation, or a useless object.",
+    "cultural_context": "Derived from khuy. Used constantly to describe anything broken, useless, or untrue.",
+    "example_usage": "Що це за хуйня? (Scho tse za khuynya? - What the fuck is this bullshit?)",
+    "ipa_pronunciation": "xujˈnʲa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "пiзда (pizda)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Female genitalia.",
+    "cultural_context": "Extremely vulgar. Often used to signal complete physical or metaphorical destruction ('Pizdets' = utter disaster / we are fucked).",
+    "example_usage": "Оце пізда. (Otse pizda. - This is a total disaster/cunt.)",
+    "ipa_pronunciation": "pizˈda",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "пиздець (pyzdets)",
+    "literal_translation": "fucked up",
+    "english_equivalent": "total disaster / we're fucked",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A catastrophic failure, a dead end, or something incredibly horrible.",
+    "cultural_context": "One of the most used words during times of crisis to mean absolute catastrophe.",
+    "example_usage": "Це повний пиздець! (Tse povniy pyzdets! - This is a complete disaster!)",
+    "ipa_pronunciation": "pɪzˈdɛt͡sʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "блядь (blyad)",
+    "literal_translation": "whore",
+    "english_equivalent": "fuck / bitch / whore",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A prostitute. Also practically punctuation.",
+    "cultural_context": "Used in the exact identical grammatical way as 'fuck' in English—as an interjection of pain, anger, or general stress.",
+    "example_usage": "Блядь, я забув! (Blyad, ya zabuv! - Fuck, I forgot!)",
+    "ipa_pronunciation": "blʲadʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "сука (suka)",
+    "literal_translation": "bitch",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female dog.",
+    "cultural_context": "Widely used to insult people of any gender who are acting malicious, or as an interjection of rage (often combined 'suka blyad').",
+    "example_usage": "Сука ти! (Suka ty! - You bitch!)",
+    "ipa_pronunciation": "ˈsukɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "курва (kurva)",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A prostitute.",
+    "cultural_context": "A native Ukrainian/Polish/Western Slavic curse for a whore. Used similarly to blyad, but feels slightly more traditional to Western Ukraine.",
+    "example_usage": "Курва мать! (Kurva mat! - Whore mother! / Dammit!)",
+    "ipa_pronunciation": "ˈkurwɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "срака (sraka)",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks or anus.",
+    "cultural_context": "Not heavy 'Mat', but a native Ukrainian scatological vulgarity. Used to mean someone is in deep trouble.",
+    "example_usage": "Йди в сраку! (Ydy v sraku! - Go to the ass! / Fuck off!)",
+    "ipa_pronunciation": "ˈsrakɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "гівно (hivno)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces.",
+    "cultural_context": "Standard word for shit. Often used to describe something of terrible quality.",
+    "example_usage": "Це повне гівно. (Tse povne hivno. - This is total shit.)",
+    "ipa_pronunciation": "ɦiu̯ˈnɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "засранець (zasranets)",
+    "literal_translation": "shit-covered one",
+    "english_equivalent": "little shit / bastard",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who soils themselves, or roughly 'little shit'.",
+    "cultural_context": "Often used to dismiss a younger or annoying person.",
+    "example_usage": "Малий засранець. (Malyy zasranets. - Little shit.)",
+    "ipa_pronunciation": "zɐˈsranɛt͡sʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "мудак (mudak)",
+    "literal_translation": "testicles (historic)",
+    "english_equivalent": "asshole / dickhead",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Historically derived from 'mudo' (testicle). Now means a complete, insensitive asshole.",
+    "cultural_context": "The perfect word for a selfish, arrogant man who ruins things for others.",
+    "example_usage": "Який мудак! (Yakyy mudak! - What an asshole!)",
+    "ipa_pronunciation": "mʊˈdak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "їбати (yibaty)",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The infinitive verb for sexual intercourse.",
+    "cultural_context": "Another massive root word in Slavic cursing.",
+    "example_usage": "Мені це не їбе. (Meni tse ne yibe. - I don't give a fuck about this / This doesn't fuck me.)",
+    "ipa_pronunciation": "jiˈbatɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "доїбатися (doyibatysya)",
+    "literal_translation": "to fuck until",
+    "english_equivalent": "to harass / pick on",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Using the prefix 'do-' (until/reaching) with fuck. Means to harass someone relentlessly for no reason.",
+    "cultural_context": "Common complaint when police or annoying people bother you.",
+    "example_usage": "Чого ти до мене доїбався? (Choho ty do mene doyibavsya? - Why the fuck are you picking on me?)",
+    "ipa_pronunciation": "do.jiˈba.tɪ.sʲɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "заїбав (zayibav)",
+    "literal_translation": "fucked repeatedly",
+    "english_equivalent": "you've annoyed the fuck out of me / I'm sick of this",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "To tire someone out or annoy them to the absolute maximum limit.",
+    "cultural_context": "Very common exclamation of exhaustion.",
+    "example_usage": "Ти мене заїбав. (Ty mene zayibav. - You annoyed the fuck out of me.)",
+    "ipa_pronunciation": "zɐ.jiˈbaw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "охуїти (okhuyity)",
+    "literal_translation": "to become dick",
+    "english_equivalent": "to be fucking astounded / to lose one's fucking mind",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To be completely shocked, or to act incredibly arrogant/insane.",
+    "cultural_context": "A versatile verb applying 'khuy' to a mental state.",
+    "example_usage": "Ти охуїв? (Ty okhuyiv? - Have you lost your fucking mind?)",
+    "ipa_pronunciation": "o.xʊˈji.tɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "охуєнно (okhuyenno)",
+    "literal_translation": "dick-like (positive)",
+    "english_equivalent": "fucking awesome",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Bizarrely, when 'khuy' is modified this way, it means something is incredibly good.",
+    "cultural_context": "Used to describe something amazing, like a great movie or victory.",
+    "example_usage": "Фільм охуєнний! (Film okhuyennyy! - The movie is fucking awesome!)",
+    "ipa_pronunciation": "o.xʊˈjɛn.no",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "підарас (pidaras)",
+    "literal_translation": "pederast",
+    "english_equivalent": "faggot / bastard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homosexual man.",
+    "cultural_context": "A severe homophobic slur, universally used to describe corrupt politicians, traitors, or generally terrible men.",
+    "example_usage": "Всі політики - підараси. (Vsi polityky - pidarasy. - All politicians are faggots/bastards.)",
+    "ipa_pronunciation": "pʲidɐˈras",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "гандон (gandon)",
+    "literal_translation": "condom",
+    "english_equivalent": "scumbag / condom",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A condom.",
+    "cultural_context": "Calling someone a condom implies they are a disposable, useless scumbag.",
+    "example_usage": "Він повний гандон. (Vin povniy gandon. - He is a complete scumbag/condom.)",
+    "ipa_pronunciation": "ɦɐnˈdɔn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "шльондра (shlyondra)",
+    "literal_translation": "tramp",
+    "english_equivalent": "slut / tramp",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A tramp or a woman of ill repute.",
+    "cultural_context": "More of a native Ukrainian word, slightly less severe than blyad.",
+    "example_usage": "Дешева шльондра. (Desheva shlyondra. - Cheap tramp.)",
+    "ipa_pronunciation": "ˈʃlʲɔndrɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "виблядок (vyblyadok)",
+    "literal_translation": "whore-spawn",
+    "english_equivalent": "bastard",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child born from a whore (blyad).",
+    "cultural_context": "An intensely severe biological insult.",
+    "example_usage": "Маленький виблядок! (Malenkyy vyblyadok! - Little whore-spawn!)",
+    "ipa_pronunciation": "ˈwɪblʲɐdok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "дідько (didko)",
+    "literal_translation": "little old man / house spirit",
+    "english_equivalent": "the devil / damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Refers to a mythical house spirit or the devil.",
+    "cultural_context": "A very classic, polite Ukrainian curse for 'damn it'.",
+    "example_usage": "Якого дідька? (Yakoho didka? - What the devil?)",
+    "ipa_pronunciation": "ˈd⁽ʲ⁾idʲko",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "чорт (chort)",
+    "literal_translation": "demon",
+    "english_equivalent": "devil / damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A demon or devil.",
+    "cultural_context": "Used to express frustration without heavy vulgarity.",
+    "example_usage": "Чорт забирай! (Chort zabyray! - The devil take it! / Damn it!)",
+    "ipa_pronunciation": "t͡ʃɔrt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "дурень (duren)",
+    "literal_translation": "fool",
+    "english_equivalent": "fool / idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A foolish person.",
+    "cultural_context": "A standard, non-vulgar insult.",
+    "example_usage": "Ти просто дурень. (Ty prosto duren. - You're just a fool.)",
+    "ipa_pronunciation": "ˈdurɛnʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "довбойоб (dovboyob)",
+    "literal_translation": "hammer-fucker",
+    "english_equivalent": "fucking idiot / moron",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A portmanteau of hitting/hammering (dovbaty) and fucking (yob). Means someone astoundingly stupid.",
+    "cultural_context": "One of the favorite insults for calling out breathtaking incompetence.",
+    "example_usage": "Який же він довбойоб! (Yakyy zhe vin dovboyob! - What a fucking idiot he is!)",
+    "ipa_pronunciation": "dowboˈjɔb",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "уйобіще (uyobishche)",
+    "literal_translation": "fucked-up creature",
+    "english_equivalent": "ugly freak / abomination",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A creature that looks completely destroyed/fucked up.",
+    "cultural_context": "Used against extremely ugly objects or morally/physically repulsive people.",
+    "example_usage": "Глянь на це уйобіще. (Hlyan na tse uyobishche. - Look at this freak.)",
+    "ipa_pronunciation": "ʊˈjɔbʲiʃt͡ʃe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хвойда (khvoyda)",
+    "literal_translation": "loose woman / slut",
+    "english_equivalent": "slut / tramp",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A promiscuous woman.",
+    "cultural_context": "A native Ukrainian word for a slut, distinct from Russian imports.",
+    "example_usage": "Вона така хвойда. (Vona taka khvoyda. - She is such a slut.)",
+    "ipa_pronunciation": "ˈxwɔjdɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "сволота (svolota)",
+    "literal_translation": "scum",
+    "english_equivalent": "scum / trash",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A horrible, treacherous person or group.",
+    "cultural_context": "Derived from dragging things on the floor. Meaning literal trash.",
+    "example_usage": "Ти сволота! (Ty svolota! - You scum!)",
+    "ipa_pronunciation": "swoˈlɔtɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "паскуда (paskuda)",
+    "literal_translation": "foul thing",
+    "english_equivalent": "vile bastard / bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A vile, disgusting, or treacherous individual.",
+    "cultural_context": "Gender neutral but often aimed at women. A heavy character insult without explicit vulgar roots.",
+    "example_usage": "От паскуда! (Ot paskuda! - What a vile bastard!)",
+    "ipa_pronunciation": "pɐˈskudɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "стерво (stervo)",
+    "literal_translation": "carrion / rotting meat",
+    "english_equivalent": "cold bitch / heartless woman",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A rotting carcass.",
+    "cultural_context": "Used to describe a hyper-manipulative, cold, and cruel woman.",
+    "example_usage": "Хитра стерво. (Khytra stervo. - Cunning bitch.)",
+    "ipa_pronunciation": "ˈstɛrwo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "похуй (pokhuy)",
+    "literal_translation": "up to the dick",
+    "english_equivalent": "I don't give a fuck",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Meaning something reaches only up to the level of the dick, ergo, it doesn't matter.",
+    "cultural_context": "The standard expression of total apathy.",
+    "example_usage": "Мені похуй! (Meni pokhuy! - I don't give a fuck!)",
+    "ipa_pronunciation": "ˈpɔxuj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "нахуй (nakhuy)",
+    "literal_translation": "onto the dick",
+    "english_equivalent": "fuck off / to hell with it",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "Telling someone to go sit on a dick, or declaring an object/idea to be discarded.",
+    "cultural_context": "The most famous wartime slogan of Ukraine (Russian warship, idi nakhuy).",
+    "example_usage": "Йди нахуй. (Ydy nakhuy. - Go fuck yourself.)",
+    "ipa_pronunciation": "ˈnaxuj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хуйло (khuylo)",
+    "literal_translation": "dickhead",
+    "english_equivalent": "dickhead / supreme bastard",
+    "severity": 4,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "A person who embodies a dick.",
+    "cultural_context": "Famous globally in Ukraine due to the chant 'Putin khuylo' (Putin is a dickhead) coined by football ultras in 2014.",
+    "example_usage": "Путін — хуйло! (Putin khuylo! - [Self-explanatory])",
+    "ipa_pronunciation": "xʊjˈlɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "сраний (sranyy)",
+    "literal_translation": "shitty",
+    "english_equivalent": "fucking / shitty",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Covered in shit.",
+    "cultural_context": "Used as a descriptor for anything broken or annoying.",
+    "example_usage": "Цей сраний телефон. (Tsey sranyy telefon. - This shitty phone.)",
+    "ipa_pronunciation": "ˈsranɪj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "йобнутий (yobnutyy)",
+    "literal_translation": "struck by a fuck",
+    "english_equivalent": "fucking crazy / totally insane",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who has been hit in the head with a fuck/heavy blow, causing severe brain damage.",
+    "cultural_context": "Used to describe someone acting completely insane or dangerously stupid.",
+    "example_usage": "Ти що, йобнутий? (Ty scho, yobnutyy? - What are you, fucking crazy?)",
+    "ipa_pronunciation": "ˈjɔbnʊtɪj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "блять (blyat)",
+    "literal_translation": "whore (softened)",
+    "english_equivalent": "fuck / shit",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A pronunciation/spelling variant of 'blyad' ending with a soft 't' instead of 'd'.",
+    "cultural_context": "Used purely as an interjection, losing its literal meaning of 'whore'. Often used even by people who try not to swear heavily.",
+    "example_usage": "Блять, як боляче. (Blyat, yak bolyache. - Fuck, that hurts.)",
+    "ipa_pronunciation": "blʲatʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "пездота (pezdota)",
+    "literal_translation": "cunt-group",
+    "english_equivalent": "scumbags / rabble",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A collective noun for a bunch of cunts.",
+    "cultural_context": "Useful for describing a corrupt government, a bad group of kids, or enemy forces.",
+    "example_usage": "Вся ця пездота. (Vsya tsya pezdota. - All these scumbags.)",
+    "ipa_pronunciation": "pɛzˈdɔtɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "мандіти (mandity)",
+    "literal_translation": "to cunt around",
+    "english_equivalent": "to talk bullshit / to whine",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To speak nonsense, derived from 'manda' (cunt).",
+    "cultural_context": "Telling someone they are speaking absolute vagina/nonsense.",
+    "example_usage": "Досить мандіти! (Dosyt mandity! - Stop talking bullshit!)",
+    "ipa_pronunciation": "mɐnˈdʲitɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "піздєц (pizdets)",
+    "literal_translation": "fucked up",
+    "english_equivalent": "it's over / disaster",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Alternate spelling/pronunciation of pyzdets.",
+    "cultural_context": "Universal Slavic declaration of impending doom.",
+    "example_usage": "Ну все, піздєц. (Nu vse, pizdets. - Well that's it, it's a disaster/we're fucked.)",
+    "ipa_pronunciation": "pʲizˈdɛt͡s",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "залупа (zalupa)",
+    "literal_translation": "foreskin / dick tip",
+    "english_equivalent": "dickhead / the worst part",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The exposed head of a penis or the foreskin.",
+    "cultural_context": "Used to describe an arrogant idiot or an incredibly bad situation.",
+    "example_usage": "Кінська залупа. (Kinska zalupa. - Horse dickhead.)",
+    "ipa_pronunciation": "zɐˈlupɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хрін (khrin)",
+    "literal_translation": "horseradish",
+    "english_equivalent": "hell / dick (euphemism)",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A root vegetable. Used as a safe euphemism for 'khuy'.",
+    "cultural_context": "A completely socially acceptable way to swear in front of grandmothers.",
+    "example_usage": "Якого хріна? (Yakoho khrina? - What the horseradish/hell?)",
+    "ipa_pronunciation": "xrʲin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "курча (kurcha)",
+    "literal_translation": "little chicken",
+    "english_equivalent": "fiddlesticks / dammit",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A cute little chicken.",
+    "cultural_context": "A classic Western Ukrainian euphemism for 'kurva'.",
+    "example_usage": "Курча мати! (Kurcha maty! - Chicken mother!/Dammit!)",
+    "ipa_pronunciation": "kʊrˈt͡ʃa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "шмаркач (shmarkach)",
+    "literal_translation": "snotty nose",
+    "english_equivalent": "snotty-nosed kid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child whose nose runs (shmarki).",
+    "cultural_context": "An older person insulting a younger person's lack of experience.",
+    "example_usage": "Малий шмаркач. (Malyy shmarkach. - Little snot.)",
+    "ipa_pronunciation": "ʃmɐrˈkat͡ʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "гівняр (hivnyar)",
+    "literal_translation": "shitter",
+    "english_equivalent": "little shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Someone made of shit or who deals in shit.",
+    "cultural_context": "Very common insult for an annoying teenage boy.",
+    "example_usage": "Ти просто гівняр. (Ty prosto hivnyar. - You're just a little shit.)",
+    "ipa_pronunciation": "ɦʲiwˈnʲar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "бздюх (bzdyukh)",
+    "literal_translation": "farter",
+    "english_equivalent": "coward / farter",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who farts silently.",
+    "cultural_context": "A comedic insult for a coward or someone weak.",
+    "example_usage": "Старий бздюх. (Staryy bzdyukh. - Old farter.)",
+    "ipa_pronunciation": "bzdʲux",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "чмо (chmo)",
+    "literal_translation": "moral outcast",
+    "english_equivalent": "loser / schmuck",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An acronym historically meaning 'morally devoid individual' or simply a pathetic loser.",
+    "cultural_context": "Used to describe someone who is physically pathetic and morally weak.",
+    "example_usage": "Він таке чмо. (Vin take chmo. - He is such a loser.)",
+    "ipa_pronunciation": "t͡ʃmɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "виродок (vyrodok)",
+    "literal_translation": "degenerate",
+    "english_equivalent": "freak / degenerate",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who has degenerated from their species or family line.",
+    "cultural_context": "A very cold, calculating insult marking someone as a genetic or moral failure.",
+    "example_usage": "Ти виродок! (Ty vyrodok! - You degenerate!)",
+    "ipa_pronunciation": "ˈwɪrodok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "щоб тобі повилазило (shchob tobi povylazylo)",
+    "literal_translation": "may your eyes pop out",
+    "english_equivalent": "hope you go blind",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A curse wishing blindness upon someone.",
+    "cultural_context": "Part of the very traditional Ukrainian cursing style: wishing obscure physical harm. Used when someone isn't looking where they are going.",
+    "example_usage": "Щоб тобі повилазило, куди преш! (Hope your eyes pop out, where are you pushing!)",
+    "ipa_pronunciation": "ʃt͡ʃɔb toˈbʲi powɪˈlɑzɪlo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "шльопнути (shlopnuty)",
+    "literal_translation": "to slap",
+    "english_equivalent": "to whack / to kill",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To slap, or in slang, to kill someone or drink a shot.",
+    "cultural_context": "Mob/street slang.",
+    "example_usage": "Зараз тебе шльопну. (Zaraz tebe shlopnu. - I'll smack/kill you right now.)",
+    "ipa_pronunciation": "ˈʃlʲɔpnʊtɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "засраний (zasranyy)",
+    "literal_translation": "shit-upon",
+    "english_equivalent": "fucking / ruined",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Literally coated in feces. Used to modify something ruined.",
+    "cultural_context": "Universal adjective for a bad object or place.",
+    "example_usage": "Цей засраний дощ. (Tsey zasranyy doshch. - This shitty rain.)",
+    "ipa_pronunciation": "zɐˈsranɪj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "йобаний (yobanyy)",
+    "literal_translation": "fucked",
+    "english_equivalent": "fucking / goddamned",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Fucked.",
+    "cultural_context": "The exact equivalent of the English adjective 'fucking'.",
+    "example_usage": "Йобаний насос! (Yobanyy nasos! - Fucking pump! [Random exclamation])",
+    "ipa_pronunciation": "ˈjɔbɐnɪj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "їбанько (yibanko)",
+    "literal_translation": "fuck-boy",
+    "english_equivalent": "a fucking idiot",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A noun for a silly, foolish, completely dumbass person.",
+    "cultural_context": "The '-ko' suffix makes it sound weirdly cute/diminutive, contrasting sharply with the 'fuck' root.",
+    "example_usage": "Оце їбанько! (Otse yibanko! - What a fucking idiot!)",
+    "ipa_pronunciation": "jiˈbɑnʲkɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "мать твою (mat tvoyu)",
+    "literal_translation": "your mother",
+    "english_equivalent": "motherfucker / dammit",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Truncated version of '(I fucked) your mother'.",
+    "cultural_context": "Used in the exact same manner as English 'motherfucker' or 'dammit' when something goes wrong.",
+    "example_usage": "Йоб твою мать! (Yob tvoyu mat! - Fuck your mother!)",
+    "ipa_pronunciation": "mɑtʲ twɔˈju",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "пісюк (pisyuk)",
+    "literal_translation": "little pee-pee",
+    "english_equivalent": "little prick / punk",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Juvenile word for penis.",
+    "cultural_context": "Used to describe an arrogant young boy who thinks he's tough.",
+    "example_usage": "Мовчи, пісюк. (Movchy, pisyuk. - Shut up, little prick.)",
+    "ipa_pronunciation": "pʲiˈsʲuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хріново (khrinovo)",
+    "literal_translation": "horseradish-ly",
+    "english_equivalent": "crappy / feeling like shit",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Adverb meaning terribly/bad.",
+    "cultural_context": "Euphemism for Khuyovo.",
+    "example_usage": "Мені хріново. (Meni khrinovo. - I feel like crappy/shit.)",
+    "ipa_pronunciation": "xrʲinɔˈwɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хуйово (khuyovo)",
+    "literal_translation": "dick-ly",
+    "english_equivalent": "fucked up / feeling terrible",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Adverb meaning terribly/fucked up.",
+    "cultural_context": "The extreme version of khrinovo. Describes a terrible mental/physical state or the weather.",
+    "example_usage": "Сьогодні все хуйово. (Sohodni vse khuyovo. - Today everything is fucked up.)",
+    "ipa_pronunciation": "xʊˈjɔwɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "чортяка (chortyaka)",
+    "literal_translation": "big demon",
+    "english_equivalent": "damn bastard",
+    "severity": 1,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "A big devil.",
+    "cultural_context": "Used for an annoying person or situation.",
+    "example_usage": "Старий чортяка! (Staryy chortyaka! - Old devil!)",
+    "ipa_pronunciation": "t͡ʃɔrˈtʲakɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "гівнюк (hivnyuk)",
+    "literal_translation": "shit-man",
+    "english_equivalent": "little shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Male form of 'shit-person'.",
+    "cultural_context": "Similar to hivnyar.",
+    "example_usage": "От гівнюк малий! (Ot hivnyuk malyy! - What a little shit!)",
+    "ipa_pronunciation": "ɦʲiwˈnʲuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "манда (manda)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Another, slightly older word for female genitalia.",
+    "cultural_context": "Deeply offensive, just like pizda.",
+    "example_usage": "Тупа манда. (Tupa manda. - Stupid cunt.)",
+    "ipa_pronunciation": "mɐnˈdɑ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "пиздити (pyzdyty)",
+    "literal_translation": "to cunt",
+    "english_equivalent": "to bullshit / to steal / to beat up",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Applying the root of 'cunt' to a verb.",
+    "cultural_context": "Another insanely versatile Slavic curse verb. Can mean to lie wildly, to steal a physical object, or to violently beat someone up.",
+    "example_usage": "Не пизди! (Ne pyzdy! - Don't talk bullshit/lie!)",
+    "ipa_pronunciation": "ˈpɪzdɪtɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "баба (baba)",
+    "literal_translation": "old woman / grandma",
+    "english_equivalent": "hag / peasant woman",
+    "severity": 1,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Broadly means grandmother, but used derogatorily it means an ignorant peasant woman.",
+    "cultural_context": "Calling a modern woman a 'baba' implies she is old, fat, uneducated, and gossips too much.",
+    "example_usage": "Дурна баба! (Durna baba! - Stupid old hag!)",
+    "ipa_pronunciation": "ˈbɑbɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "щоб ти здох (shchob ty zdokh)",
+    "literal_translation": "hope you die (like an animal)",
+    "english_equivalent": "drop dead",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Wishing death. Crucially, the verb 'zdokh' applies to animals dying, not humans.",
+    "cultural_context": "Telling a human to die like a dog.",
+    "example_usage": "Щоб ти здох, падло! (Drop dead, you animal corpse!)",
+    "ipa_pronunciation": "ʃt͡ʃɔb tɪ zdɔx",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "падло (padlo)",
+    "literal_translation": "carrion",
+    "english_equivalent": "scum / carrion",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A rotting animal carcass.",
+    "cultural_context": "Used to describe someone entirely devoid of morals.",
+    "example_usage": "Ти брехливе падло. (Ty brekhlyve padlo. - You lying scum.)",
+    "ipa_pronunciation": "ˈpadlo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хер (kher)",
+    "literal_translation": "dick (archaic letter cross)",
+    "english_equivalent": "dick / screw it",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Originally the letter 'Kh' in the old Cyrillic alphabet, used as a euphemism for Khuy.",
+    "cultural_context": "Much lighter than Khuy. Used broadly by almost everyone.",
+    "example_usage": "Пішов нахер! (Pishov nakher! - Go to dick/screw off!)",
+    "ipa_pronunciation": "xɛr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хулі (khuli)",
+    "literal_translation": "what dick",
+    "english_equivalent": "why the fuck",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A contraction of 'yakiy khuy' (what dick?).",
+    "cultural_context": "The standard aggressive response asking 'why the hell?'.",
+    "example_usage": "Хулі ти мовчиш? (Khuli ty movchysh? - Why the fuck are you silent?)",
+    "ipa_pronunciation": "ˈxulʲi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "піздюлі (pizdyuli)",
+    "literal_translation": "cunt-hits",
+    "english_equivalent": "a fucking beating",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A physical beating. Getting your ass kicked.",
+    "cultural_context": "When someone is threatening you, they promise to 'give you pizdyuli'.",
+    "example_usage": "Зараз отримаєш піздюлей. (Zaraz otrymayesh pizdyuley. - Now you're going to get a fucking beating.)",
+    "ipa_pronunciation": "pʲizdʲʊˈlʲi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "лох (lokh)",
+    "literal_translation": "salmon (historic criminal slang)",
+    "english_equivalent": "sucker / chump / loser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A profoundly stupid, gullible person who gets scammed.",
+    "cultural_context": "Originally 1990s mafia slang for the 'fish' they would con. Now widely used to describe a total loser.",
+    "example_usage": "Без лоха і жизнь плоха. (Bez lokha i zhizn plokha. - Without a sucker, life is bad [conman proverb].)",
+    "ipa_pronunciation": "lɔx",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "курвий син (kurvyy syn)",
+    "literal_translation": "whore's son",
+    "english_equivalent": "son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Son of a whore.",
+    "cultural_context": "Translated equivalent, heavily tied to western Ukrainian linguistic styling rather than the Russian 'sukin syn'.",
+    "example_usage": "Ти, курвий сину! (Ty, kurvyy synu! - You son of a bitch!)",
+    "ipa_pronunciation": "ˈkurwɪj sɪn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "москаль (moskal)",
+    "literal_translation": "Muscovite",
+    "english_equivalent": "Russian invader / scum",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically an imperial Russian soldier. Now an intensely charged slur for Russian imperialists/invaders.",
+    "cultural_context": "The most prominent political/ethnic slur in modern Ukraine. Refers specifically to hostile Russians, distinct from the neutral 'rosiyanyn'.",
+    "example_usage": "Смерть москалям. (Smert moskalyam - Death to muscovites.)",
+    "ipa_pronunciation": "moˈskalʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "кацап (katsap)",
+    "literal_translation": "like a goat (historic)",
+    "english_equivalent": "Russian barbarian",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An older slur for Russians comparing their historic long beards to goats, or derived from Turkic 'butcher' (kassap).",
+    "cultural_context": "An alternate to moskal, heavily used to strip humanity from the invading forces.",
+    "example_usage": "Кацапські свині. (Katsapski svyni. - Katsap pigs.)",
+    "ipa_pronunciation": "kɐˈt͡sap",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "русня (rusnya)",
+    "literal_translation": "Russian-ness (derogatory mass)",
+    "english_equivalent": "Russian horde / scum",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory collective noun for the entire nation/military of Russia.",
+    "cultural_context": "Born from the modern war to dehumanize the opposing army into a swarm of insects or vermin.",
+    "example_usage": "Русня йде. (Rusnya yde. - The rusnya is coming.)",
+    "ipa_pronunciation": "rʊsʲˈnʲa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "орки (orky)",
+    "literal_translation": "Orcs",
+    "english_equivalent": "Orcs / Russian soldiers",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally Tolkien's Orcs.",
+    "cultural_context": "The universal term enthusiastically adopted by the Ukrainian military and society in 2022 to describe the invading Russian army (implying they are savage, ugly, looting beasts from the East).",
+    "example_usage": "Орки знову стріляють. (Orky znovu strilyayut. - The orcs are shooting again.)",
+    "ipa_pronunciation": "ˈɔrkɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "трясця (tryastsya)",
+    "literal_translation": "shaking fever / malaria",
+    "english_equivalent": "a plague on you / damn it",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Historically invoked the shaking plague.",
+    "cultural_context": "A deeply traditional Ukrainian curse word.",
+    "example_usage": "Трясця твоїй матері! (Tryastsya tvoiy materi! - A fever on your mother!/Dammit!)",
+    "ipa_pronunciation": "ˈtrʲast͡sʲɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "лайно (layno)",
+    "literal_translation": "crap",
+    "english_equivalent": "crap / shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A slightly formally elevated word for shit compared to 'hivno', but identical in usage.",
+    "cultural_context": "Used for bad people or worthless objects.",
+    "example_usage": "Собаче лайно. (Sobache layno. - Dog crap.)",
+    "ipa_pronunciation": "lɐjˈnɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "дупа (dupa)",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks. A crossover from Polish.",
+    "cultural_context": "Less severe than 'sraka'. Almost socially acceptable.",
+    "example_usage": "Повна дупа. (Povna dupa. - Total ass / big mess.)",
+    "ipa_pronunciation": "ˈdupɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "свинособака (svynosobaka)",
+    "literal_translation": "pig-dog",
+    "english_equivalent": "pig-dog / filthy imperialist",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A portmanteau of pig and dog.",
+    "cultural_context": "A modern insult specifically engineered to uniquely insult Russian invaders by combining two unclean animals. Gained massive popularity online.",
+    "example_usage": "Йобані свинособаки. (Yobani svynosobaky. - Fucking pig-dogs.)",
+    "ipa_pronunciation": "swɪnosɔˈbɑkɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "хуй з ним (khuy z nym)",
+    "literal_translation": "dick with it",
+    "english_equivalent": "fuck it / whatever",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Placing a dick contextually next to the problem to signify giving up.",
+    "cultural_context": "The ultimate phrase of abandoning a failed project or annoying situation.",
+    "example_usage": "Не працює? Ну і хуй з ним. (Doesn't work? Well, fuck it then.)",
+    "ipa_pronunciation": "xuj z nɪm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "єбанутий (yebanutyy)",
+    "literal_translation": "fuck-struck",
+    "english_equivalent": "batshit crazy",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A slight variation of yobnutyy.",
+    "cultural_context": "Used to describe someone completely out of their mind.",
+    "example_usage": "Він зовсім єбанутий. (Vin zovsym yebanutyy. - He is completely batshit.)",
+    "ipa_pronunciation": "jɛbɐˈnutɪj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "курвище (kurvyshche)",
+    "literal_translation": "massive whore",
+    "english_equivalent": "massive slut",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "An augmentative form of kurva.",
+    "cultural_context": "Makes the insult feel dramatically larger and more devastating.",
+    "example_usage": "Старе курвище. (Stare kurvyshche. - Old massive whore.)",
+    "ipa_pronunciation": "kʊrˈwɪʃt͡ʃe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "остопизділо (ostopyzdilo)",
+    "literal_translation": "it has become 100% cunt",
+    "english_equivalent": "I am sick and fucking tired of this",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A combination of reaching 100/the limit (sto) and cunt (pizda) applied to a situation.",
+    "cultural_context": "The poetic height of fatigue vocabulary.",
+    "example_usage": "Як же мені це остопизділо! (Yak zhe meni tse ostopyzdilo! - How incredibly sick and fucking tired I am of this!)",
+    "ipa_pronunciation": "ostopʲɪˈzdʲi.lɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "поїбень (poyiben)",
+    "literal_translation": "fucking-junk",
+    "english_equivalent": "useless bullshit",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A noun derived from the 'fuck' root, describing an object or event that is completely useless and broken.",
+    "cultural_context": "Often describing cheap tools or nonsense tasks.",
+    "example_usage": "Якась китайська поїбень. (Yakas kytayska poyiben. - Some Chinese junk/bullshit.)",
+    "ipa_pronunciation": "pɔjiˈbɛnʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

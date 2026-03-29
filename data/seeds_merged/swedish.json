@@ -1,0 +1,1494 @@
+[
+  {
+    "word": "fan (faan)",
+    "literal_translation": "the devil",
+    "english_equivalent": "damn / fuck",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The devil. The most common and versatile Swedish swear word.",
+    "cultural_context": "Used exactly like 'fuck' or 'damn' to express frustration, but is considered very mild today. Frequently heard on daytime television.",
+    "example_usage": "Vad fan gör du? (What the fuck / devil are you doing?)",
+    "ipa_pronunciation": "fɑːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "helvete (hell-veh-teh)",
+    "literal_translation": "hell",
+    "english_equivalent": "hell / fuck",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Hell. Used as a strong exclamation of anger.",
+    "cultural_context": "An angry shout when something goes terribly wrong, like missing a train.",
+    "example_usage": "Helvete också! (Hell too! / Bloody hell!)",
+    "ipa_pronunciation": "ˈhɛlˌvɛtɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jävlar (yev-lar)",
+    "literal_translation": "devils",
+    "english_equivalent": "damn it / holy shit",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Plural of devil (djävul). Used as a strong exclamation or an intensifier.",
+    "cultural_context": "An essential building block of Swedish swearing. Saying 'Jävlar!' implies surprise or pain.",
+    "example_usage": "Jävlar vad kallt! (Damn / devils how cold!)",
+    "ipa_pronunciation": "ˈjɛːvlar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jävla (yev-la)",
+    "literal_translation": "devilish / fucking",
+    "english_equivalent": "fucking / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The adjectival form of 'jävel/djävul'.",
+    "cultural_context": "The Swedish equivalent of inserting completely seamlessly 'fucking' into any sentence.",
+    "example_usage": "Din jävla idiot. (You fucking idiot.)",
+    "ipa_pronunciation": "ˈjɛːvla",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "satan (sah-tan)",
+    "literal_translation": "Satan",
+    "english_equivalent": "Satan / damn",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Satan. Used as an exclamation of pain or anger.",
+    "cultural_context": "Has a sharp, aggressive sound in Swedish.",
+    "example_usage": "Satan vad ont det gör! (Satan how much that hurts!)",
+    "ipa_pronunciation": "ˈsɑːtan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skit (sheet)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces. Note the 'sk' is pronounced similar to 'sh' in English.",
+    "cultural_context": "Very commonly used as an intensifier prefix for both good and bad things (e.g., 'skitbra' = shit good / very good).",
+    "example_usage": "Det är helt skit. (It is completely shit.)",
+    "ipa_pronunciation": "ɧiːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skitstövel (sheet-stuh-vel)",
+    "literal_translation": "shit boot",
+    "english_equivalent": "bastard / jerk / asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A person who acts terribly towards others.",
+    "cultural_context": "A classic, universally understood insult for a mean or selfish person.",
+    "example_usage": "Din jävla skitstövel! (You fucking shit-boot!)",
+    "ipa_pronunciation": "ˈɧiːtˌstœvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fitta (fit-ta)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Female genitalia. One of the absolute strongest and most taboo native Swedish swear words.",
+    "cultural_context": "Highly offensive. Used to violently insult a woman or express extreme outrage.",
+    "example_usage": "Håll käften, din fitta. (Shut your mouth, you cunt.)",
+    "ipa_pronunciation": "ˈfɪtta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hora (hoo-ra)",
+    "literal_translation": "whore",
+    "english_equivalent": "whore",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Prostitute. A very severe slur.",
+    "cultural_context": "Like 'fitta', this is a heavily stigmatized, aggressive insult aimed almost exclusively at degrading women.",
+    "example_usage": "Jävla hora. (Fucking whore.)",
+    "ipa_pronunciation": "ˈhuːra",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kuk (kook)",
+    "literal_translation": "cock",
+    "english_equivalent": "cock",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Male genitalia.",
+    "cultural_context": "Vulgar term. Can be used as a standalone curse or an insult ('kukhuvud' = cock head).",
+    "example_usage": "Kuk också! (Cock too! / Fuck it!)",
+    "ipa_pronunciation": "kʉːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kukhuvud (kook-hoo-vood)",
+    "literal_translation": "cock head",
+    "english_equivalent": "dickhead",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone whose head is a penis.",
+    "cultural_context": "Exactly equivalent to calling someone a dickhead in English.",
+    "example_usage": "Vilket kukhuvud. (What a dickhead.)",
+    "ipa_pronunciation": "ˈkʉːkˌhʉːvɵd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rövhål (ruv-hole)",
+    "literal_translation": "ass hole",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The anus. Used to call someone a terrible person.",
+    "cultural_context": "A direct translation of the English concept. Very common.",
+    "example_usage": "Han är ett riktigt rövhål. (He is a real asshole.)",
+    "ipa_pronunciation": "ˈrøːvˌhoːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "knulla (nool-la)",
+    "literal_translation": "to copulate",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The vulgar verb for sexual intercourse. (Note: The 'k' is occasionally silent in some dialects, but usually pronounced softly: k-nool-a).",
+    "cultural_context": "Used mostly literally for sex, not as a general exclamation. You can't say 'Knulla dig!' to mean 'Fuck you!' in Swedish.",
+    "example_usage": "Jag vill knulla. (I want to fuck.)",
+    "ipa_pronunciation": "ˈknɵlla",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bög (beuhg)",
+    "literal_translation": "gay",
+    "english_equivalent": "fag / gay",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally a neutral slur for a homosexual man, but often weaponized as an insult by school children.",
+    "cultural_context": "Can be reclaimed by the LGBTQ community (e.g., 'bögklubb' = gay club), but when used maliciously, it is a homophobic slur.",
+    "example_usage": "Jävla bög. (Fucking faggot.)",
+    "ipa_pronunciation": "bøːɡ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bögjävel (beuhg-ya-vel)",
+    "literal_translation": "gay devil",
+    "english_equivalent": "fucking faggot",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homosexual man combined with 'devil'.",
+    "cultural_context": "The '-jävel' suffix turns any noun into a hostile slur. This is severe hate speech.",
+    "example_usage": "[Homophobic slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "ˈbøːɡˌjɛːvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sug min kuk (soog min kook)",
+    "literal_translation": "suck my cock",
+    "english_equivalent": "suck my dick",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A direct command to perform fellatio.",
+    "cultural_context": "A highly aggressive American-style insult adopted by younger Swedes.",
+    "example_usage": "Sug min kuk, kompis. (Suck my dick, buddy.)",
+    "ipa_pronunciation": "sʉːɡ mɪn kʉːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "CP (seh-peh)",
+    "literal_translation": "Cerebral Palsy",
+    "english_equivalent": "retard / spaz",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An abbreviation of Cerebral Palsy, used derogatorily to mean mentally or physically disabled.",
+    "cultural_context": "An extremely common and wildly offensive schoolyard insult from the 90s/00s.",
+    "example_usage": "Är du helt CP eller? (Are you completely retarded or what?)",
+    "ipa_pronunciation": "ˈseːpe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cp-skadad (seh-peh skaw-dad)",
+    "literal_translation": "CP-damaged",
+    "english_equivalent": "brain-damaged / retarded",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone severely lacking in intelligence or acting absurdly.",
+    "cultural_context": "A longer, harsher form of calling someone 'CP'.",
+    "example_usage": "Han är fan cp-skadad. (He is fucking brain-damaged.)",
+    "ipa_pronunciation": "ˈseːpeˌskɑːdad",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "särbarn (sair-barn)",
+    "literal_translation": "special school child",
+    "english_equivalent": "retard / special ed kid",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child assigned to 'särskola' (special education for intellectual disabilities).",
+    "cultural_context": "A deeply insulting and mean-spirited way to call someone hopelessly stupid.",
+    "example_usage": "Du beter dig som ett särbarn. (You're acting like a special ed kid.)",
+    "ipa_pronunciation": "ˈsæːrˌbɑːɳ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mongo (mong-o)",
+    "literal_translation": "mongoloid",
+    "english_equivalent": "retard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term historically linked to Down syndrome.",
+    "cultural_context": "Functions similarly to 'CP' as an ableist slur for idiocy.",
+    "example_usage": "Vilket jävla mongo. (What a fucking retard.)",
+    "ipa_pronunciation": "ˈmɔŋɡo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bajs (bays)",
+    "literal_translation": "poop",
+    "english_equivalent": "poop / crap",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A milder, childish word for feces.",
+    "cultural_context": "Not truly a swear word, but used by children to insult each other ('bajskorv' = poop sausage).",
+    "example_usage": "Bajs också! (Poop too!)",
+    "ipa_pronunciation": "bays",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bajstövel (bays-stuh-vel)",
+    "literal_translation": "poop boot",
+    "english_equivalent": "turd blossom / annoying idiot",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "The child-friendly version of skitstövel.",
+    "cultural_context": "Completely harmless. Used in children's television.",
+    "example_usage": "Din bajstövel! (You poop-boot!)",
+    "ipa_pronunciation": "ˈbaysˌstœvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "förbannat (fuhr-ban-nat)",
+    "literal_translation": "cursed / damned",
+    "english_equivalent": "damned / damn",
+    "severity": 2,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Something that has been cursed by God.",
+    "cultural_context": "A slightly old-fashioned but very forceful expression of anger.",
+    "example_usage": "Det är så förbannat kallt. (It's so damned cold.)",
+    "ipa_pronunciation": "fœrˈbannat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dra åt helvete (drah oat hell-veh-teh)",
+    "literal_translation": "pull to hell",
+    "english_equivalent": "go to hell / fuck off",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "To tell someone to go to Hell.",
+    "cultural_context": "A classic, universally understood command to leave you alone.",
+    "example_usage": "Dra åt helvete, gubbjävel! (Go to hell, old bastard!)",
+    "ipa_pronunciation": "drɑː oːt ˈhɛlˌvɛtɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gubbe (goob-beh)",
+    "literal_translation": "old man",
+    "english_equivalent": "geezer / old fart",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An older man.",
+    "cultural_context": "Not inherently a swear word, but often used dismissively.",
+    "example_usage": "Flytta på dig, gubbe. (Move over, old man.)",
+    "ipa_pronunciation": "ˈgɵbːɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gubbjävel (goob-ya-vel)",
+    "literal_translation": "old devil-man",
+    "english_equivalent": "old bastard / fucking geezer",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mean, stubborn, or annoying older man.",
+    "cultural_context": "The '-jävel' suffix makes this a harsh, hostile insult.",
+    "example_usage": "Den där snåla gubbjäveln. (That stingy old bastard.)",
+    "ipa_pronunciation": "ˈgɵbːˌjɛːvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kärring (cheh-ring)",
+    "literal_translation": "old woman",
+    "english_equivalent": "old hag / bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An older woman, or a disparaging term for a wife.",
+    "cultural_context": "Can mean a complaining, bitter woman. Highly disrespectful.",
+    "example_usage": "Din sura kärring. (You sour old hag.)",
+    "ipa_pronunciation": "ˈɕɛrːɪŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kärringjävel (cheh-ring-ya-vel)",
+    "literal_translation": "old devil-woman",
+    "english_equivalent": "old fucking bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A severely elevated insult against an older woman.",
+    "cultural_context": "Adding the devil suffix (jävel) maximizes the hostility.",
+    "example_usage": "Håll käften, kärringjävel! (Shut up, old fucking bitch!)",
+    "ipa_pronunciation": "ˈɕɛrːɪŋˌjɛːvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "snorunge (snoor-oong-eh)",
+    "literal_translation": "snot kid",
+    "english_equivalent": "snot-nosed brat",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A misbehaving, annoying youth.",
+    "cultural_context": "Often yelled by older people at teenagers skating on the sidewalk.",
+    "example_usage": "Försvinn, din snorunge. (Disappear, you snot-nosed brat.)",
+    "ipa_pronunciation": "ˈsnuːrˌɵŋɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "attans (at-tans)",
+    "literal_translation": "the eighteen (minced)",
+    "english_equivalent": "darn it / shucks",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A minced oath dating back to folklore where saying numbers summoned demons.",
+    "cultural_context": "Completely child-friendly. Used by grandmothers.",
+    "example_usage": "Attans också! (Darn it all!)",
+    "ipa_pronunciation": "ˈatːans",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sjutton (hwut-ton)",
+    "literal_translation": "seventeen",
+    "english_equivalent": "heck",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Another minced oath based on a cursed number.",
+    "cultural_context": "Very quaint. Sounds like 'Oh fuzzy pickles' in English.",
+    "example_usage": "För sjutton gubbar! (For seventeen old men! / For heaven's sake!)",
+    "ipa_pronunciation": "ˈɧɵtːɔn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tusan (too-san)",
+    "literal_translation": "thousand (devils)",
+    "english_equivalent": "darn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Short for 'tusen djävlar' (a thousand devils), now a soft curse.",
+    "cultural_context": "Often used in Donald Duck comics.",
+    "example_usage": "Fy tusan! (Oh darn!)",
+    "ipa_pronunciation": "ˈtʉːsan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "svin (sveen)",
+    "literal_translation": "swine / pig",
+    "english_equivalent": "pig / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A pig. A person devoid of morals.",
+    "cultural_context": "Calling a man a 'svin' means he is predatory, abusive, or absolutely repulsive.",
+    "example_usage": "Han är ett jävla svin. (He is a fucking pig.)",
+    "ipa_pronunciation": "sviːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idiot (id-ee-oot)",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An idiot.",
+    "cultural_context": "Pronounced with a long 'o'. A standard, sharp insult.",
+    "example_usage": "Vilken idiot. (What an idiot.)",
+    "ipa_pronunciation": "ɪdɪˈuːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pucko (pook-ko)",
+    "literal_translation": "Pucko (chocolate drink brand)",
+    "english_equivalent": "dummy / doofus",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derived from a famous Swedish chocolate milk brand. Means a slightly lovable but clumsy fool.",
+    "cultural_context": "Very gentle. Used between friends when someone drops their keys.",
+    "example_usage": "Du är ett riktigt pucko. (You are a real dummy.)",
+    "ipa_pronunciation": "ˈpɵkːɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "håll käften (hole chef-ten)",
+    "literal_translation": "hold the jaw",
+    "english_equivalent": "shut the fuck up",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A highly aggressive way to tell someone to stop talking.",
+    "cultural_context": "'Käft' means an animal's jaw. Telling a human to hold their jaw equates them to a barking dog.",
+    "example_usage": "Håll käften på dig! (Shut your fucking mouth!)",
+    "ipa_pronunciation": "hɔl ˈɕɛfːtɛn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fiende till folket (fee-en-de till fohl-ket)",
+    "literal_translation": "enemy of the people",
+    "english_equivalent": "traitor / menace",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone working against the public good.",
+    "cultural_context": "A slightly melodramatic, Ibsen-esque insult.",
+    "example_usage": "Han är en oförskämd fiende till folket. (He's an insolent enemy of the people.)",
+    "ipa_pronunciation": "ˈfɪɛndɛ tɪl ˈfɔlkɛt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "satans jävla helvete (sah-tans yev-la hell-veh-teh)",
+    "literal_translation": "Satan's devilish hell",
+    "english_equivalent": "Satan's fucking hell / Motherfucking godamm shit",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "A continuous chain of all three major Swedish religious curses.",
+    "cultural_context": "Used when enduring extreme physical pain or a catastrophic failure.",
+    "example_usage": "Satans jävla helvete, jag bröt benet! (Satan's fucking hell, I broke my leg!)",
+    "ipa_pronunciation": "ˈsɑːtans ˈjɛːvla ˈhɛlˌvɛtɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rövslickare (ruv-slick-a-reh)",
+    "literal_translation": "ass licker",
+    "english_equivalent": "ass-kisser / brown-noser",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone who sycophantically favors the boss.",
+    "cultural_context": "Sweden's flat corporate culture hates 'rövslickare'.",
+    "example_usage": "Han är chefens rövslickare. (He is the boss's ass-kisser.)",
+    "ipa_pronunciation": "ˈrøːvˌslɪkːarɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skitnödig (sheet-nuh-dig)",
+    "literal_translation": "shit needy",
+    "english_equivalent": "anal-retentive / stuck up / needing a shit",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Literally means you desperately need to poop. Metaphorically means someone is acting incredibly stiff, nervous, or overly formal.",
+    "cultural_context": "A brilliant descriptive word for a bureaucrat or an anxious rule-follower.",
+    "example_usage": "Var inte så jävla skitnödig. (Don't be so fucking anal-retentive/stiff.)",
+    "ipa_pronunciation": "ˈɧiːtˌnøːdɪg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "huvudet upp i röven (hoo-vood-et oop ee ruv-en)",
+    "literal_translation": "head up the ass",
+    "english_equivalent": "head up the ass / ignorant",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone who is completely ignorant of reality.",
+    "cultural_context": "Direct translation from English phrasing, widely adopted.",
+    "example_usage": "Han har huvudet upp i röven. (He has his head up his ass.)",
+    "ipa_pronunciation": "ˈhʉːvɵdɛt ɵp i ˈrøːvɛn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jäkla (yek-la)",
+    "literal_translation": "devilish (minced)",
+    "english_equivalent": "darned / freaking",
+    "severity": 1,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "The censored, polite version of 'jävla'.",
+    "cultural_context": "Safe to use around children.",
+    "example_usage": "Din jäkla buse. (You freaking ruffian.)",
+    "ipa_pronunciation": "ˈjɛːkla",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piss (pees)",
+    "literal_translation": "piss",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Urine/piss.",
+    "cultural_context": "Used to describe bad beer or terrible weather ('pissväder').",
+    "example_usage": "Det regnar piss. (It's raining piss / terribly.)",
+    "ipa_pronunciation": "pɪs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slampa (slam-pa)",
+    "literal_translation": "slut",
+    "english_equivalent": "slut / tramp",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A promiscuous woman.",
+    "cultural_context": "Slightly more archaic than hora, but still highly offensive 'slut shaming'.",
+    "example_usage": "Din billiga slampa. (You cheap slut.)",
+    "ipa_pronunciation": "ˈslampa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "våldtäktsman (vold-tekts-man)",
+    "literal_translation": "rape man",
+    "english_equivalent": "rapist",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A rapist.",
+    "cultural_context": "While it's a legal term, weaponizing it in an argument is a severe, life-ruining accusation rather than a casual swear word.",
+    "example_usage": "Han är ett jävla as, en våldtäktsman. (He's a fucking corpse/scum, a rapist.)",
+    "ipa_pronunciation": "ˈvɔldtɛktsman",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "as (aws)",
+    "literal_translation": "carcass",
+    "english_equivalent": "scum / carrion",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A rotting animal carcass. Used to describe someone with no morals or humanity.",
+    "cultural_context": "Also used as a prefix intensifier (e.g., 'asbra' = carcass-good / really good, or 'asfull' = dead drunk).",
+    "example_usage": "Ditt jävla as! (You fucking carcass/scum!)",
+    "ipa_pronunciation": "ɑːs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mutta (moot-ta)",
+    "literal_translation": "muff/pussy",
+    "english_equivalent": "pussy / muff",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "A slang term for vagina. Milder than fitta.",
+    "cultural_context": "More conversational or comedic, less violently insulting.",
+    "example_usage": "Klia sig i muttan. (Scratch her muff.)",
+    "ipa_pronunciation": "ˈmɵtːa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pattar (pat-tar)",
+    "literal_translation": "teats",
+    "english_equivalent": "tits / knockers",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Breasts. Derived from the teats of an animal.",
+    "cultural_context": "A crude, colloquial way for men to discuss women's chests.",
+    "example_usage": "Schyssta pattar. (Nice tits.)",
+    "ipa_pronunciation": "ˈpatːar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "runka (roong-ka)",
+    "literal_translation": "to shake/wank",
+    "english_equivalent": "to wank / jerk off",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To masturbate (male).",
+    "cultural_context": "Direct equivalent to 'wank'.",
+    "example_usage": "Han sitter hemma och runkar. (He sits at home and wanks.)",
+    "ipa_pronunciation": "ˈrɵŋka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "runkrunk (roong-k-roong-k)",
+    "literal_translation": "wank-wank",
+    "english_equivalent": "circlejerk",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Describes a situation where people are just flattering each other needlessly.",
+    "cultural_context": "Swedish corporate slang for a useless meeting.",
+    "example_usage": "Vilket jävla runkrunk-möte. (What a fucking circlejerk meeting.)",
+    "ipa_pronunciation": "ˈrɵŋkˌrɵŋk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "din mamma (deen mam-ma)",
+    "literal_translation": "your mother",
+    "english_equivalent": "your mom",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Your mom.",
+    "cultural_context": "A popular comeback among younger generations, often mimicking American English.",
+    "example_usage": "Vem bryr sig? Din mamma. (Who cares? Your mom.)",
+    "ipa_pronunciation": "dɪn ˈmamːa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sugröv (soog-ruv)",
+    "literal_translation": "suck-ass",
+    "english_equivalent": "suck-ass / loser",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone who sucks ass.",
+    "cultural_context": "Creative compounding to create a demeaning insult.",
+    "example_usage": "Din lilla sugröv. (You little suck-ass.)",
+    "ipa_pronunciation": "ˈsʉːgˌrøːv",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fiasko (fee-as-ko)",
+    "literal_translation": "fiasco",
+    "english_equivalent": "clusterfuck / disaster",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A complete disaster.",
+    "cultural_context": "A journalist's favorite word for a failed political campaign. Not vulgar, just damning.",
+    "example_usage": "Vilket jävla fiasko. (What a fucking disaster.)",
+    "ipa_pronunciation": "fɪˈasko",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dumbom (doom-bom)",
+    "literal_translation": "dumb barrier",
+    "english_equivalent": "silly fool / dummy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A foolish person.",
+    "cultural_context": "Extremely archaic and polite. Used lovingly by grandparents.",
+    "example_usage": "Åh din lilla dumbom. (Oh you little dummy.)",
+    "ipa_pronunciation": "ˈdɵmˌbɔm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "klantskalle (klant-skal-leh)",
+    "literal_translation": "clumsy-skull",
+    "english_equivalent": "clumsy idiot / butterfingers",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who constantly drops things or acts clumsily.",
+    "cultural_context": "Replaces actual swear words when you accidentally break a glass.",
+    "example_usage": "Jag är en riktig klantskalle. (I'm a real clumsy idiot.)",
+    "ipa_pronunciation": "ˈklantˌskalːɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bitch (bi-t-sh)",
+    "literal_translation": "bitch (loanword)",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Borrowed directly from English.",
+    "cultural_context": "Swedes, especially youth, use 'bitch' frequently. Since it is foreign, it lacks the deep taboo of 'fitta' or 'hora'.",
+    "example_usage": "Hon är en riktig bitch. (She is a real bitch.)",
+    "ipa_pronunciation": "bɪtʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuck (fuhck)",
+    "literal_translation": "fuck (loanword)",
+    "english_equivalent": "fuck",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The English word 'fuck'.",
+    "cultural_context": "Ubiquitous in Sweden. Swedes do not censor English curse words. State television broadcasts 'fuck' uncensored.",
+    "example_usage": "Åh fuck, jag glömde! (Oh fuck, I forgot!)",
+    "ipa_pronunciation": "fak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bullshit (bool-shi-t)",
+    "literal_translation": "bullshit (loanword)",
+    "english_equivalent": "bullshit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Nonsense.",
+    "cultural_context": "Used exactly as in English.",
+    "example_usage": "Det är ju bara bullshit. (That's just bullshit.)",
+    "ipa_pronunciation": "ˈbʊlʃɪt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "qahpa (قەحپە) (kah-ba)",
+    "literal_translation": "whore (Arabic/Kurdish loanword)",
+    "english_equivalent": "whore / slut",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Arabic/Kurdish word for prostitute, imported into modern Swedish street slang (Ortenspråk).",
+    "cultural_context": "Extremely prevalent among youth in Swedish suburbs. Spelled variously as kahba, qahpa, keffa. Considered a severe insult to a woman's honor in immigrant communities.",
+    "example_usage": "Jävla qahpa. (Fucking whore.)",
+    "ipa_pronunciation": "ˈkaxba",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aina (ay-na)",
+    "literal_translation": "mirror (Turkish loanword)",
+    "english_equivalent": "the pigs / cops",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Turkish for mirror, historically meaning detectives. Now the universal Swedish street slang for police.",
+    "cultural_context": "Not inherently a classic curse, but 'Aina kommer' (The pigs are coming) is shouted by gangs. Highly anti-authoritarian.",
+    "example_usage": "Fuck aina! (Fuck the police!)",
+    "ipa_pronunciation": "ˈaj.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "göka (yuh-ka)",
+    "literal_translation": "to cuckoo",
+    "english_equivalent": "to shag / to screw",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A 1960s/70s slang term for sexual intercourse.",
+    "cultural_context": "More jovial and slightly gross, akin to 'shag' rather than 'fuck'.",
+    "example_usage": "Ska vi göka? (Shall we shag?)",
+    "ipa_pronunciation": "ˈjøːka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pissluffare (pees-luf-fa-reh)",
+    "literal_translation": "piss hobo",
+    "english_equivalent": "worthless bum / piece of trash",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homeless vagabond soaked in urine.",
+    "cultural_context": "A surprisingly poetic and deeply degrading insult for someone who is useless or looks terrible.",
+    "example_usage": "Din jävla pissluffare. (You fucking piss hobo.)",
+    "ipa_pronunciation": "ˈpɪsˌlɵfːarɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "guzz (gooz)",
+    "literal_translation": "girl (Turkish loanword)",
+    "english_equivalent": "chick / ho / girl",
+    "severity": 2,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Modern Ortenspråk slang for a girl.",
+    "cultural_context": "Can be neutral ('min guzz' = my girl) or derogatory ('en billig guzz' = a cheap chick) depending on the speaker's tone.",
+    "example_usage": "Kolla in den guzzen. (Check out that chick.)",
+    "ipa_pronunciation": "ɡʊz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shuno (shoo-no)",
+    "literal_translation": "guy (Romani loanword)",
+    "english_equivalent": "dude / guy / fucker",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Ortenspråk slang for a male.",
+    "cultural_context": "Used to denote a guy, sometimes disrespectfully. 'Den där shunon' (That guy/fucker).",
+    "example_usage": "Vem är shunon? (Who is that dude?)",
+    "ipa_pronunciation": "ˈʂʉːno",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kioskmongo (chee-osk-mong-o)",
+    "literal_translation": "kiosk mongoloid",
+    "english_equivalent": "complete idiot / village idiot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone so stupid they probably just stand outside a kiosk staring at the wall.",
+    "cultural_context": "A beloved, highly creative, but ultimately ableist Swedish insult.",
+    "example_usage": "Släpp in mig, ditt kioskmongo! (Let me in, you kiosk-idiot!)",
+    "ipa_pronunciation": "ˈɕɔskˌmɔŋɡo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "trögtänkt (trug-tenkt)",
+    "literal_translation": "slow-thinking",
+    "english_equivalent": "slow-witted / dense",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person whose brain takes a long time to process simple information.",
+    "cultural_context": "A polite but firm way to call someone stupid in a professional setting.",
+    "example_usage": "Är du trögtänkt, eller? (Are you dense, or what?)",
+    "ipa_pronunciation": "ˈtrøːgˌtɛŋkt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pappskalle (pap-skal-leh)",
+    "literal_translation": "cardboard skull",
+    "english_equivalent": "airhead / blockhead",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone whose skull is made of cheap cardboard, hence empty.",
+    "cultural_context": "A fun, highly descriptive insult. Classic Swedish compounding.",
+    "example_usage": "Vänd om bilen, pappskalle! (Turn the car around, cardboard skeleton!)",
+    "ipa_pronunciation": "ˈpapːˌskalːɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "miffo (mif-fo)",
+    "literal_translation": "freak / weirdo",
+    "english_equivalent": "weirdo / freak / retard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A freak or someone acting incredibly bizarrely.",
+    "cultural_context": "Popularized by a Swedish movie of the same name. Short for 'missfoster' (deformity).",
+    "example_usage": "Vilket jävla miffo. (What a fucking weirdo.)",
+    "ipa_pronunciation": "ˈmɪfːo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "missfoster (miss-fo-ster)",
+    "literal_translation": "misformed fetus",
+    "english_equivalent": "freak / abort / abomination",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A deeply offensive word for someone deformed or acting horribly.",
+    "cultural_context": "The longer, nastier version of miffo. Equivalent to calling someone a failed abortion.",
+    "example_usage": "Kolla på honom, ett riktigt missfoster. (Look at him, a real freak.)",
+    "ipa_pronunciation": "ˈmɪsˌfɔstɛr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slusk (sloosk)",
+    "literal_translation": "slob",
+    "english_equivalent": "slob / scruff",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A man who is dirty, poorly dressed, and unkempt.",
+    "cultural_context": "Often aimed at men who drink cheap beer on park benches, or lazy housemates.",
+    "example_usage": "Din lata slusk. (You lazy slob.)",
+    "ipa_pronunciation": "slɵsk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fittnylle (fit-nyhl-leh)",
+    "literal_translation": "cunt mug/face",
+    "english_equivalent": "cunt-face",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A face that looks like a vagina.",
+    "cultural_context": "A vicious, hostile personal attack.",
+    "example_usage": "Försvinn, ditt fittnylle. (Disappear, you cunt-face.)",
+    "ipa_pronunciation": "ˈfɪtˌnʏlːɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "järnspikar (yairn-spee-kar)",
+    "literal_translation": "iron nails",
+    "english_equivalent": "goodness gracious / holy smokes",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An extremely old euphemism/minced oath.",
+    "cultural_context": "Comedic. Only used by hipsters ironically or 90-year-olds.",
+    "example_usage": "Järnspikar, vad dyrt! (Iron nails, how expensive!)",
+    "ipa_pronunciation": "ˈjæːɳˌspiːkar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vafan (va-faan)",
+    "literal_translation": "what the devil",
+    "english_equivalent": "what the fuck / wtf",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Contraction of 'Vad fan'. Used to express shock or annoyance.",
+    "cultural_context": "The absolute most common spoken exclamation in Sweden when confused.",
+    "example_usage": "Vafan gör du? (Wtf are you doing?)",
+    "ipa_pronunciation": "vaˈfɑːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "helskotta (hell-skot-ta)",
+    "literal_translation": "hell-shot (minced)",
+    "english_equivalent": "heck / blasting",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A softer, TV-safe deformation of helvete.",
+    "cultural_context": "Common in older Swedish cinema.",
+    "example_usage": "För helskotta! (For heaven's sake!)",
+    "ipa_pronunciation": "ˈhɛlˌskɔtːa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skitunge (sheet-oong-eh)",
+    "literal_translation": "shit kid",
+    "english_equivalent": "little shit / brat",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "An annoying child.",
+    "cultural_context": "Very common for parents to mutter under their breath or yell at teens.",
+    "example_usage": "Kom ner från taket, din jävla skitunge! (Come down from the roof, you fucking little shit!)",
+    "ipa_pronunciation": "ˈɧiːtˌɵŋɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jävel (yev-el)",
+    "literal_translation": "a devil",
+    "english_equivalent": "bastard / devil",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "The noun form of the devil. A bastard.",
+    "cultural_context": "Can be used affectionately ('din lilla jävel' = you little devil) or aggressively ('din sjuka jävel' = you sick bastard).",
+    "example_usage": "Du är en smart jävel. (You're a smart bastard.)",
+    "ipa_pronunciation": "ˈjɛːvɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "för helvete (fuhr hell-veh-teh)",
+    "literal_translation": "for hell",
+    "english_equivalent": "for fuck's sake",
+    "severity": 3,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Begging for hell's sake.",
+    "cultural_context": "The exact structural translation and emotional equivalent of 'for fuck's sake'.",
+    "example_usage": "Skynda dig för helvete! (Hurry up for fuck's sake!)",
+    "ipa_pronunciation": "fœr ˈhɛlˌvɛtɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yallah (yal-la)",
+    "literal_translation": "hurry up / oh God (Arabic loanword)",
+    "english_equivalent": "come on / let's go",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Arabic word used extensively in Swedish Ortenspråk to mean 'hurry up'.",
+    "cultural_context": "Not a swear word, but a ubiquitous piece of modern Swedish slang culture.",
+    "example_usage": "Yallah, vi drar! (Come on, let's leave!)",
+    "ipa_pronunciation": "ˈjalːa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "keff (keff)",
+    "literal_translation": "bad/shitty (Arabic loanword)",
+    "english_equivalent": "wack / shitty",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Ortenspråk for something that is bad, boring, or low quality.",
+    "cultural_context": "Very common in youth slang. Replaces 'dålig' (bad).",
+    "example_usage": "Den där filmen var helt keff. (That movie was totally wack/shitty.)",
+    "ipa_pronunciation": "kɛf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pisshuvud (pees-hoo-vood)",
+    "literal_translation": "piss head",
+    "english_equivalent": "piss-head / idiot",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone whose head is full of urine.",
+    "cultural_context": "A creative alternative to kukhuvud.",
+    "example_usage": "Vilket jävla pisshuvud. (What a fucking piss-head.)",
+    "ipa_pronunciation": "ˈpɪsˌhʉːvɵd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drägg (dreg)",
+    "literal_translation": "dregs",
+    "english_equivalent": "scum / white trash",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The dregs of society. Alcoholics, criminals, or generally awful people.",
+    "cultural_context": "A harsh judgment on someone's lifestyle.",
+    "example_usage": "Bara massa drägg på den baren. (Only a bunch of scum at that bar.)",
+    "ipa_pronunciation": "drɛg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

@@ -1,0 +1,1207 @@
+[
+  {
+    "word": "Quatsch",
+    "literal_translation": "nonsense / rubbish",
+    "english_equivalent": "nonsense / bullcrap",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A versatile exclamation expressing disbelief, annoyance, or dismissal. Used to call something out as ridiculous or untrue.",
+    "cultural_context": "Very mild, acceptable in nearly all contexts including around children. Derived from the verb 'quatschen' (to talk nonsense). One of the safest German pseudo-swear words.",
+    "example_usage": "Quatsch! Das stimmt doch gar nicht! (Nonsense! That's not true at all!)",
+    "ipa_pronunciation": "/kvaːtʃ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Mist",
+    "literal_translation": "manure / dung",
+    "english_equivalent": "crap / darn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Mild exclamation of frustration used for minor mishaps. Literally means manure but functions like 'crap' or 'darn' in English.",
+    "cultural_context": "Very common and socially acceptable even in semi-formal settings. A go-to mild expletive for all ages. Also used as a prefix in compound insults like 'Mistkerl' (bastard).",
+    "example_usage": "So ein Mist! Ich habe den Bus verpasst! (What crap! I missed the bus!)",
+    "ipa_pronunciation": "/mɪst/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Verdammt",
+    "literal_translation": "damned",
+    "english_equivalent": "damn / damnit",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "General-purpose exclamation of frustration or anger. Can be used as a standalone expletive or as an intensifier before nouns.",
+    "cultural_context": "Moderate severity, widely used across all regions. 'Verdammt noch mal!' (damn it all!) is a common intensified form. Cognate with English 'damned', from religious origin.",
+    "example_usage": "Verdammt noch mal, wo sind meine Schlüssel? (Damn it all, where are my keys?)",
+    "ipa_pronunciation": "/fɛɐ̯ˈdamt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Donnerwetter",
+    "literal_translation": "thunder-weather",
+    "english_equivalent": "good heavens / wow",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Old-fashioned exclamation of surprise or astonishment. Can express both positive amazement and mild frustration.",
+    "cultural_context": "Charmingly dated expression, still used by older generations. Considered very mild and polite. Sometimes used ironically by younger speakers.",
+    "example_usage": "Donnerwetter, das hast du gut gemacht! (Good heavens, you did that well!)",
+    "ipa_pronunciation": "/ˈdɔnɐˌvɛtɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Depp",
+    "literal_translation": "idiot / fool",
+    "english_equivalent": "idiot / fool / moron",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Straightforward insult calling someone stupid or foolish. Common in everyday speech for someone acting thoughtlessly.",
+    "cultural_context": "Relatively mild insult, can be used in playful teasing among friends. Very common in southern Germany and Austria. Johnny Depp's surname is a source of endless amusement for German speakers.",
+    "example_usage": "Du Depp, das war doch klar! (You idiot, that was obvious!)",
+    "ipa_pronunciation": "/dɛp/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dummkopf",
+    "literal_translation": "dumb head",
+    "english_equivalent": "dummy / blockhead",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Classic German insult meaning 'stupid head'. Often used in a somewhat playful or exasperated way.",
+    "cultural_context": "One of the most internationally recognized German insults thanks to its use in English-language WWII movies. Mild enough for family use. A quintessential compound insult.",
+    "example_usage": "Dummkopf! Du hast die falsche Tür genommen! (Blockhead! You took the wrong door!)",
+    "ipa_pronunciation": "/ˈdʊmˌkɔpf/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Trottel",
+    "literal_translation": "fool / dimwit",
+    "english_equivalent": "dimwit / fool / dolt",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a fool or dimwit. Implies clumsiness and lack of common sense.",
+    "cultural_context": "Mild insult, similar weight to 'Depp'. Common in Austrian German as well. Can be affectionate between close friends.",
+    "example_usage": "Was für ein Trottel! (What a dimwit!)",
+    "ipa_pronunciation": "/ˈtʁɔtl̩/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Blödmann",
+    "literal_translation": "stupid man",
+    "english_equivalent": "stupid / dumbass",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a stupid person. Direct and uncomplicated insult targeting intelligence.",
+    "cultural_context": "Common mild insult. 'Blöd' (stupid) is one of the most versatile German adjectives for expressing annoyance. Female form: 'Blöde Kuh' (stupid cow).",
+    "example_usage": "Blödmann, pass doch auf! (Dumbass, watch where you're going!)",
+    "ipa_pronunciation": "/ˈbløːtˌman/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Idiot",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Direct insult to intelligence, borrowed from Greek/Latin. Stronger than 'Depp' or 'Trottel'.",
+    "cultural_context": "International loanword used across German-speaking countries. 'Vollidiot' (complete idiot) is the intensified compound form.",
+    "example_usage": "Du bist ein Idiot! (You're an idiot!)",
+    "ipa_pronunciation": "/iˈdi̯oːt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Vollidiot",
+    "literal_translation": "full idiot / complete idiot",
+    "english_equivalent": "complete idiot / total moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Emphatic form of 'Idiot', emphasizing the totality of someone's stupidity.",
+    "cultural_context": "Classic example of German compound intensification. Adding 'Voll-' (full/complete) to an insult is a productive pattern in German.",
+    "example_usage": "Du Vollidiot hast alles kaputt gemacht! (You complete idiot, you broke everything!)",
+    "ipa_pronunciation": "/ˈfɔlˌʔiːdi̯oːt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Scheiße",
+    "literal_translation": "shit / excrement",
+    "english_equivalent": "shit / crap / damn",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "The most common German swear word. Extremely versatile — used as an exclamation, adjective (scheiß-), or noun. Functions as general-purpose profanity for frustration, anger, or disgust.",
+    "cultural_context": "Arguably the single most important German swear word. Much more commonly used than sexual expletives, unlike English. The prefix 'scheiß-' can be attached to almost any noun (Scheißwetter = shit weather, Scheißtag = shit day). Even children use it, though parents may disapprove.",
+    "example_usage": "Scheiße, ich hab mein Handy vergessen! (Shit, I forgot my phone!)",
+    "ipa_pronunciation": "/ˈʃaɪ̯sə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Scheißkerl",
+    "literal_translation": "shit fellow",
+    "english_equivalent": "shithead / bastard",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Compound insult combining 'Scheiße' with 'Kerl' (fellow/guy). A harsh way to call someone a bastard or shithead.",
+    "cultural_context": "Demonstrates the German compound insult pattern. Stronger than 'Scheiße' alone because it's directed at a person rather than a situation.",
+    "example_usage": "Dieser Scheißkerl hat mich betrogen! (That shithead cheated on me!)",
+    "ipa_pronunciation": "/ˈʃaɪ̯sˌkɛʁl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Klugscheißer",
+    "literal_translation": "clever shitter",
+    "english_equivalent": "know-it-all / smartass",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who always has to show off their knowledge in an annoying way. A know-it-all who 'shits cleverness'.",
+    "cultural_context": "Very commonly used compound insult. Reflects German appreciation for knowledge but contempt for arrogant displays of it. One of the most creative scatological compounds.",
+    "example_usage": "Sei kein Klugscheißer! (Don't be a smartass!)",
+    "ipa_pronunciation": "/ˈkluːkˌʃaɪ̯sɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Arsch",
+    "literal_translation": "ass / arse",
+    "english_equivalent": "ass / arse",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Vulgar term for buttocks. Used as a standalone insult or as a component in many compound insults.",
+    "cultural_context": "Core vulgar term that forms the basis of numerous German compound insults. 'Am Arsch' (at the ass) means something is ruined. 'Arsch der Welt' (ass of the world) means the middle of nowhere.",
+    "example_usage": "Am Arsch! Das ist kaputt! (It's screwed! That's broken!)",
+    "ipa_pronunciation": "/aʁʃ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Arschloch",
+    "literal_translation": "asshole",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Blunt and harsh insult for someone rude, unpleasant, or despicable. One of the strongest commonly-used German insults.",
+    "cultural_context": "Direct equivalent to English 'asshole'. Reserved for situations where someone has behaved in a genuinely egregious manner. Can provoke confrontation if directed at strangers.",
+    "example_usage": "Du bist ein Arschloch! (You're an asshole!)",
+    "ipa_pronunciation": "/ˈaʁʃˌlɔx/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Arschgeige",
+    "literal_translation": "butt violin",
+    "english_equivalent": "idiot / dipshit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Creative compound insult implying someone is as useful as playing a violin with their rear end. Calls someone incompetent and foolish.",
+    "cultural_context": "A beloved example of German compound creativity. Despite its vulgarity, it's admired for its absurd imagery. Frequently cited as one of the funniest German insults.",
+    "example_usage": "Du Arschgeige, was hast du dir dabei gedacht? (You butt violin, what were you thinking?)",
+    "ipa_pronunciation": "/ˈaʁʃˌɡaɪ̯ɡə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Arschkriecher",
+    "literal_translation": "ass-crawler",
+    "english_equivalent": "ass-kisser / brown-noser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who sycophantically flatters others for personal gain. The image is of someone literally crawling into another person's rear.",
+    "cultural_context": "Common workplace insult. Germans particularly dislike obsequious behavior, making this a culturally resonant insult.",
+    "example_usage": "Der Chef-Arschkriecher hat wieder geschleimt. (The boss's brown-noser was sucking up again.)",
+    "ipa_pronunciation": "/ˈaʁʃˌkʁiːçɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Arsch mit Ohren",
+    "literal_translation": "ass with ears",
+    "english_equivalent": "total idiot / complete moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone an 'ass with ears' — implying they are nothing but a rear end that happens to be able to hear.",
+    "cultural_context": "Humorous compound insult beloved for its vivid imagery. Suggests the person has no redeeming qualities beyond basic sensory function.",
+    "example_usage": "Der Typ ist ein Arsch mit Ohren. (That guy is an ass with ears.)",
+    "ipa_pronunciation": "/aʁʃ mɪt ˈoːʁən/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Leck mich am Arsch",
+    "literal_translation": "lick me on the ass",
+    "english_equivalent": "kiss my ass / screw you",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Extremely rude expression of contempt, dismissal, or frustration. Tells someone to perform a degrading act.",
+    "cultural_context": "Made famous by Mozart, who used it frequently in letters and even composed a canon titled 'Leck mich im Arsch' (K. 231). This gives the phrase a peculiar cultural pedigree. Often shortened to 'Leck mich!' in casual speech.",
+    "example_usage": "Leck mich am Arsch, das mache ich nicht! (Kiss my ass, I'm not doing that!)",
+    "ipa_pronunciation": "/lɛk mɪç am aʁʃ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Schwein",
+    "literal_translation": "pig / swine",
+    "english_equivalent": "pig / bastard / son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a pig — implying they are dirty, disgusting, or morally reprehensible. One of the strongest German animal insults.",
+    "cultural_context": "Pigs carry very negative connotations in German culture. 'Schweinerei' (piggishness) is used for any outrageous or disgusting behavior. Ironically, 'Schwein haben' (to have pig) means to be lucky.",
+    "example_usage": "Du Schwein! Was hast du getan? (You pig! What have you done?)",
+    "ipa_pronunciation": "/ʃvaɪ̯n/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sau",
+    "literal_translation": "sow (female pig)",
+    "english_equivalent": "bitch / pig / slob",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a sow. Used for someone dirty, slovenly, or morally bankrupt. Can be gendered but is used for all genders.",
+    "cultural_context": "Extremely productive as a prefix: 'saukalt' (pig-cold = freezing), 'saugut' (pig-good = awesome), 'Sauwetter' (pig-weather = terrible weather). The prefix 'sau-' functions as an intensifier.",
+    "example_usage": "Du blöde Sau! (You stupid pig!)",
+    "ipa_pronunciation": "/zaʊ̯/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Drecksau",
+    "literal_translation": "dirt pig / filthy pig",
+    "english_equivalent": "filthy pig / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Intensified pig insult combining 'Dreck' (dirt/filth) with 'Sau'. Implies extreme moral or physical filthiness.",
+    "cultural_context": "Significantly stronger than 'Sau' alone. Used to express deep contempt for someone's behavior or character.",
+    "example_usage": "Du Drecksau! Schäm dich! (You filthy pig! Shame on you!)",
+    "ipa_pronunciation": "/ˈdʁɛkˌzaʊ̯/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Schweinehund",
+    "literal_translation": "pig-dog",
+    "english_equivalent": "bastard / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Combining two negative animals into one powerful insult. Also used in 'innerer Schweinehund' (inner pig-dog) meaning one's inner laziness or weakness.",
+    "cultural_context": "The concept of the 'innerer Schweinehund' is deeply embedded in German culture — it's the voice telling you to skip the gym or eat the cake. As a direct insult, it's quite strong.",
+    "example_usage": "Ich muss meinen inneren Schweinehund überwinden. (I need to overcome my inner pig-dog.)",
+    "ipa_pronunciation": "/ˈʃvaɪ̯nəˌhʊnt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Mistkerl",
+    "literal_translation": "manure fellow",
+    "english_equivalent": "bastard / dirty swine",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Calling someone a 'manure fellow'. A moderately strong insult for a despicable man.",
+    "cultural_context": "Combines the mild 'Mist' with 'Kerl' (fellow) for a stronger result. Has a slightly old-fashioned ring to it.",
+    "example_usage": "Dieser Mistkerl hat mich angelogen! (That bastard lied to me!)",
+    "ipa_pronunciation": "/ˈmɪstˌkɛʁl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Miststück",
+    "literal_translation": "manure piece",
+    "english_equivalent": "bitch / piece of shit",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Harsh insult, literally 'piece of manure'. Primarily directed at women but can be used for anyone.",
+    "cultural_context": "Stronger than 'Mistkerl'. The '-stück' (piece) suffix dehumanizes the target, reducing them to an object.",
+    "example_usage": "Dieses Miststück hat alles verraten! (That bitch betrayed everything!)",
+    "ipa_pronunciation": "/ˈmɪstˌʃtʏk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hurensohn",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch / motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "One of the most offensive German insults. Attacks the target by calling their mother a prostitute. Extremely aggressive and confrontational.",
+    "cultural_context": "Widely considered the most offensive single-word insult in German. Very common in youth slang and online gaming despite its severity. Using this seriously can provoke physical violence.",
+    "example_usage": "Du Hurensohn! (You son of a bitch!)",
+    "ipa_pronunciation": "/ˈhuːʁənˌzoːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hure",
+    "literal_translation": "whore / prostitute",
+    "english_equivalent": "whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Vulgar term for a prostitute, used as a severe insult questioning sexual morality.",
+    "cultural_context": "Ancient Germanic word with cognates across many languages. Extremely offensive when directed at someone. Forms the basis of 'Hurensohn'.",
+    "example_usage": "Used as a severe insult directed at women.",
+    "ipa_pronunciation": "/ˈhuːʁə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Schlampe",
+    "literal_translation": "slut / slattern",
+    "english_equivalent": "slut / bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Vulgar and degrading term for a woman perceived as sexually promiscuous or slovenly.",
+    "cultural_context": "Highly gendered insult. Originally meant a slovenly or untidy woman before taking on sexual connotations. Very offensive.",
+    "example_usage": "Used as a severe gendered insult.",
+    "ipa_pronunciation": "/ˈʃlampə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fotze",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Extremely vulgar term for female genitalia, used as one of the harshest possible insults.",
+    "cultural_context": "Considered one of the most offensive words in German. In Bavarian and Austrian dialects, 'Fotzn' can also mean a slap in the face, but the primary vulgar meaning dominates in standard German.",
+    "example_usage": "Considered too offensive for casual example usage.",
+    "ipa_pronunciation": "/ˈfɔtsə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Wichser",
+    "literal_translation": "wanker / masturbator",
+    "english_equivalent": "wanker / jerk / tosser",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Vulgar insult literally meaning 'one who masturbates'. Used as a strong general insult for an annoying, despised person.",
+    "cultural_context": "Very common strong insult, especially among younger men. Sometimes used semi-playfully among close friends but genuinely offensive otherwise.",
+    "example_usage": "Du Wichser! (You wanker!)",
+    "ipa_pronunciation": "/ˈvɪksɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fick dich",
+    "literal_translation": "fuck yourself",
+    "english_equivalent": "fuck you / go fuck yourself",
+    "severity": 5,
+    "categories": [
+      "exclamation",
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Direct equivalent of 'fuck you'. One of the strongest possible verbal aggressions in German.",
+    "cultural_context": "While 'ficken' (to fuck) exists in German, sexual expletives are historically less common than scatological ones. This phrase has gained popularity partly through English-language influence.",
+    "example_usage": "Fick dich! (Fuck you!)",
+    "ipa_pronunciation": "/fɪk dɪç/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Halt die Fresse",
+    "literal_translation": "shut your snout/maw",
+    "english_equivalent": "shut the fuck up",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Very aggressive command to shut up. 'Fresse' (snout/maw) dehumanizes the target by referring to their mouth as an animal's feeding hole.",
+    "cultural_context": "Much stronger than 'Sei ruhig' (be quiet) or even 'Halt die Klappe' (shut your trap). The word 'Fresse' itself is vulgar. Variations include 'Halt's Maul!' (shut your muzzle).",
+    "example_usage": "Halt die Fresse, ich will nichts mehr hören! (Shut the fuck up, I don't want to hear any more!)",
+    "ipa_pronunciation": "/halt diː ˈfʁɛsə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Halt die Klappe",
+    "literal_translation": "shut your flap/trap",
+    "english_equivalent": "shut up / shut your trap",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Rude way to tell someone to be quiet. Less vulgar than 'Halt die Fresse' but still impolite.",
+    "cultural_context": "Middle-ground between polite 'Sei ruhig' and vulgar 'Halt die Fresse'. Acceptable among peers but rude to strangers or elders.",
+    "example_usage": "Halt die Klappe! (Shut your trap!)",
+    "ipa_pronunciation": "/halt diː ˈklapə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Halt's Maul",
+    "literal_translation": "shut your muzzle",
+    "english_equivalent": "shut your mouth / shut up",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Rude command to be quiet. 'Maul' refers to an animal's mouth/muzzle, dehumanizing the target.",
+    "cultural_context": "Between 'Halt die Klappe' and 'Halt die Fresse' in severity. 'Maul' specifically refers to an animal's mouth, adding a dehumanizing edge.",
+    "example_usage": "Halt's Maul! (Shut your mouth!)",
+    "ipa_pronunciation": "/halts maʊ̯l/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Geh zum Teufel",
+    "literal_translation": "go to the devil",
+    "english_equivalent": "go to hell",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Telling someone to go to hell. Expresses a strong desire for someone to leave or strong frustration with them.",
+    "cultural_context": "Religious-origin curse with roots in Christian tradition. Less common in secular northern Germany, more natural in Catholic southern regions. Somewhat old-fashioned.",
+    "example_usage": "Geh zum Teufel und lass mich in Ruhe! (Go to hell and leave me alone!)",
+    "ipa_pronunciation": "/ɡeː tsʊm ˈtɔʏ̯fl̩/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kreuzfix",
+    "literal_translation": "crucifix (distorted)",
+    "english_equivalent": "goddammit / for Christ's sake",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Bavarian/Austrian blasphemous oath invoking the crucifix. Expression of extreme frustration.",
+    "cultural_context": "Specifically southern German/Austrian/Bavarian. Blasphemous oaths are a hallmark of Catholic German-speaking regions. Variants include 'Kruzitürken' and 'Kruzifix noch mal'.",
+    "example_usage": "Kreuzfix, jetzt reicht's! (For Christ's sake, that's enough!)",
+    "ipa_pronunciation": "/ˈkʁɔʏ̯tsˌfɪks/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Herrgottsakrament",
+    "literal_translation": "Lord God's sacrament",
+    "english_equivalent": "goddammit / Jesus Christ",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Bavarian blasphemous oath combining 'Herrgott' (Lord God) with 'Sakrament' (sacrament). Strong expression of frustration.",
+    "cultural_context": "Quintessentially Bavarian/Austrian. Catholics take the Lord's name in vain as a form of swearing, which is culturally specific to southern German-speaking areas.",
+    "example_usage": "Herrgottsakrament, was soll das? (Goddammit, what is this supposed to be?)",
+    "ipa_pronunciation": "/ˌhɛʁɡɔtsaˈkʁaːmɛnt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Spasti",
+    "literal_translation": "spastic (shortened)",
+    "english_equivalent": "spaz / dumbass / retard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory slang derived from 'Spastiker' (someone with spastic cerebral palsy). Used as a general insult implying clumsiness or stupidity.",
+    "cultural_context": "Considered offensive due to its ableist origin, though many younger speakers use it casually without awareness of its medical meaning. Increasingly frowned upon.",
+    "example_usage": "Du Spasti! (You spaz!)",
+    "ipa_pronunciation": "/ˈʃpasti/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Penner",
+    "literal_translation": "sleeper / bum / hobo",
+    "english_equivalent": "bum / loser / deadbeat",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally meaning someone who sleeps rough (homeless person), now used as a general insult for someone lazy or worthless.",
+    "cultural_context": "Classist insult that has broadened in meaning. Used especially by younger speakers to mean 'loser' or 'deadbeat'.",
+    "example_usage": "Steh auf, du Penner! (Get up, you bum!)",
+    "ipa_pronunciation": "/ˈpɛnɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Spacko",
+    "literal_translation": "variant of Spasti / weirdo",
+    "english_equivalent": "weirdo / freak / spaz",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Slang insult for someone who acts weird, stupid, or antisocially. Related to 'Spasti' but evolved its own identity.",
+    "cultural_context": "Youth slang, particularly common in urban areas. Less directly tied to disability than 'Spasti' in modern usage.",
+    "example_usage": "Was bist du für ein Spacko? (What kind of weirdo are you?)",
+    "ipa_pronunciation": "/ˈʃpako/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Wixer",
+    "literal_translation": "variant spelling of Wichser",
+    "english_equivalent": "wanker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Alternative spelling of 'Wichser', same meaning and usage. Common in informal written German.",
+    "cultural_context": "The 'x' spelling reflects colloquial pronunciation. Same severity and usage as 'Wichser'.",
+    "example_usage": "Du elender Wixer! (You miserable wanker!)",
+    "ipa_pronunciation": "/ˈvɪksɐ/",
+    "needs_review": true,
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Hosenscheißer",
+    "literal_translation": "pants-pooper / pants-shitter",
+    "english_equivalent": "coward / wimp / scaredy-cat",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Calling someone a coward by implying they are so scared they defecate in their pants. Also used for small children (toddlers in diapers).",
+    "cultural_context": "Humorous compound insult. Can be used affectionately for toddlers or insultingly for adults showing cowardice.",
+    "example_usage": "Sei kein Hosenscheißer! (Don't be a pants-pooper / Don't be a coward!)",
+    "ipa_pronunciation": "/ˈhoːzn̩ˌʃaɪ̯sɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Lackaffe",
+    "literal_translation": "varnished ape / lacquered monkey",
+    "english_equivalent": "pretentious jerk / poser / dandy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is flashy and arrogant, projecting wealth or status while being hollow underneath. A polished surface hiding an ape.",
+    "cultural_context": "Wonderfully visual German compound insult. Attacks vanity and superficiality. Implies the person's fancy exterior is just a thin veneer over their true nature.",
+    "example_usage": "So ein Lackaffe mit seinem teuren Anzug! (What a pretentious jerk with his expensive suit!)",
+    "ipa_pronunciation": "/ˈlakˌʔafə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Erbsenzähler",
+    "literal_translation": "pea counter",
+    "english_equivalent": "nitpicker / bean counter / pedant",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who obsesses over trivial details and counts every little thing. A pedantic, micro-managing personality.",
+    "cultural_context": "Ironic given the German stereotype of precision and order. This insult says even by German standards, someone is too detail-oriented.",
+    "example_usage": "Sei kein Erbsenzähler! (Don't be a nitpicker!)",
+    "ipa_pronunciation": "/ˈɛʁpsn̩ˌtsɛːlɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Evolutionsbremse",
+    "literal_translation": "evolutionary brake",
+    "english_equivalent": "so stupid they hold back human evolution",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone so stupid they are an impediment to the advancement of humankind. A darkly scientific insult.",
+    "cultural_context": "Modern creative compound showing German inventiveness with insults. Combines science and humor for maximum effect.",
+    "example_usage": "Du bist eine echte Evolutionsbremse. (You're a real evolutionary brake.)",
+    "ipa_pronunciation": "/ˌevoːluˈtsi̯oːnsˌbʁɛmzə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Blockflötengesicht",
+    "literal_translation": "recorder face",
+    "english_equivalent": "annoying face / punchable face",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A playful insult for someone with an annoying face, comparing it to the expression made while playing a recorder (the instrument forced on every German schoolchild).",
+    "cultural_context": "Uniquely German insult rooted in the shared cultural experience of being forced to play the Blockflöte (recorder) in elementary school. The pursed, concentrated expression is considered inherently ridiculous.",
+    "example_usage": "Guck nicht so, du Blockflötengesicht! (Don't look like that, you recorder-face!)",
+    "ipa_pronunciation": "/ˈblɔkˌfløːtn̩ɡəˌzɪçt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Warmduscher",
+    "literal_translation": "warm showerer",
+    "english_equivalent": "wimp / softie / wuss",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who takes warm showers instead of cold ones. Implies the person is soft, pampered, and lacks toughness.",
+    "cultural_context": "Part of a genre of German 'wimpy behavior' insults including 'Schattenparker' (shadow parker — parks in the shade), 'Sitzpinkler' (sit-down pee-er), and 'Handschuhschneeballwerfer' (glove-wearing snowball thrower).",
+    "example_usage": "Du Warmduscher, trau dich mal! (You wimp, have some courage!)",
+    "ipa_pronunciation": "/ˈvaʁmˌdʊʃɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Sitzpinkler",
+    "literal_translation": "sit-down urinator",
+    "english_equivalent": "wimp / sissy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A man who sits down to urinate. Used to question masculinity and imply someone is overly domesticated or unmanly.",
+    "cultural_context": "Interestingly, sitting to urinate is actually quite common and even expected in many German households (to keep the bathroom clean). The insult plays on traditional masculinity norms despite changing social practices.",
+    "example_usage": "Bist du etwa ein Sitzpinkler? (Are you a sit-down pee-er?)",
+    "ipa_pronunciation": "/ˈzɪtsˌpɪŋklɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Weichei",
+    "literal_translation": "soft egg",
+    "english_equivalent": "wimp / softie / wuss",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a soft-boiled egg — implying they are weak, cowardly, and lack backbone.",
+    "cultural_context": "Common, relatively mild insult. The egg metaphor suggests someone who should be hard (like a hard-boiled egg) but is disappointingly soft.",
+    "example_usage": "Sei kein Weichei! (Don't be a wimp!)",
+    "ipa_pronunciation": "/ˈvaɪ̯çˌʔaɪ̯/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Schlange",
+    "literal_translation": "snake",
+    "english_equivalent": "snake / backstabber",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a snake — implying they are untrustworthy, deceptive, and likely to betray.",
+    "cultural_context": "Universal animal insult with biblical overtones. The snake as deceiver is deeply embedded in Christian German culture.",
+    "example_usage": "Er ist eine falsche Schlange. (He's a false snake / a backstabber.)",
+    "ipa_pronunciation": "/ˈʃlaŋə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bastard",
+    "literal_translation": "bastard (illegitimate child)",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "International loanword used similarly to English. Implies illegitimacy and is used as a general strong insult.",
+    "cultural_context": "Has the same weight as in English. Used across German-speaking countries as a strong character insult.",
+    "example_usage": "Du Bastard! (You bastard!)",
+    "ipa_pronunciation": "/ˈbastaʁt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Affe",
+    "literal_translation": "ape / monkey",
+    "english_equivalent": "monkey / buffoon / clown",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to an ape, implying foolish or clownish behavior.",
+    "cultural_context": "Milder animal insult. 'Mich laust der Affe' (the ape is grooming me for lice) is an expression of extreme surprise.",
+    "example_usage": "Du Affe! Benimm dich! (You monkey! Behave yourself!)",
+    "ipa_pronunciation": "/ˈafə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kuh",
+    "literal_translation": "cow",
+    "english_equivalent": "cow / stupid woman",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling a woman a cow. Implies stupidity, slowness, or unattractiveness. 'Blöde Kuh' (stupid cow) is the most common form.",
+    "cultural_context": "Gendered insult typically directed at women. 'Blöde Kuh' is one of the most common mild-to-moderate German insults.",
+    "example_usage": "Blöde Kuh! (Stupid cow!)",
+    "ipa_pronunciation": "/kuː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Ochse",
+    "literal_translation": "ox (castrated bull)",
+    "english_equivalent": "oaf / blockhead / dolt",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to an ox — implying they are strong but stupid and slow. The castration element adds to the degradation.",
+    "cultural_context": "Traditional agricultural insult. 'Du stehst da wie der Ochse vorm Berg' (you stand there like an ox before a mountain) means to be completely at a loss.",
+    "example_usage": "Du Ochse, kapierst du es nicht? (You oaf, don't you get it?)",
+    "ipa_pronunciation": "/ˈɔksə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Esel",
+    "literal_translation": "donkey",
+    "english_equivalent": "ass / jackass / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a donkey, implying stubbornness and stupidity.",
+    "cultural_context": "Mild, universal animal insult. Common across all German-speaking regions. Often used for children acting foolishly.",
+    "example_usage": "Du alter Esel! (You old donkey!)",
+    "ipa_pronunciation": "/ˈeːzl̩/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dreckiges Stück Scheiße",
+    "literal_translation": "dirty piece of shit",
+    "english_equivalent": "dirty piece of shit",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Extremely vulgar multi-word insult. Maximum contempt expressed through layered scatological terms.",
+    "cultural_context": "Reserved for extreme anger. Combining 'dreckig' (dirty), 'Stück' (piece), and 'Scheiße' (shit) creates a maximally degrading expression.",
+    "example_usage": "Du dreckiges Stück Scheiße! (You dirty piece of shit!)",
+    "ipa_pronunciation": "/ˈdʁɛkɪɡəs ʃtʏk ˈʃaɪ̯sə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Verpiss dich",
+    "literal_translation": "piss yourself off / un-piss yourself",
+    "english_equivalent": "piss off / get lost / fuck off",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Vulgar way to tell someone to leave. More aggressive than 'Hau ab' (beat it) but less severe than 'Fick dich'.",
+    "cultural_context": "Common dismissal among younger Germans. 'Verpissen' is the reflexive verb meaning to remove oneself — the 'ver-' prefix adds completion/finality.",
+    "example_usage": "Verpiss dich! Ich will dich nicht mehr sehen! (Piss off! I don't want to see you anymore!)",
+    "ipa_pronunciation": "/fɛɐ̯ˈpɪs dɪç/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hackfresse",
+    "literal_translation": "chopped/minced face",
+    "english_equivalent": "ugly face / ugly mug",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Extremely offensive insult attacking someone's appearance. Implies their face looks like it's been through a meat grinder.",
+    "cultural_context": "Combines 'Hack' (mincemeat) with 'Fresse' (snout/maw) for a particularly brutal appearance-based insult. Very aggressive.",
+    "example_usage": "Was guckst du, Hackfresse? (What are you looking at, ugly face?)",
+    "ipa_pronunciation": "/ˈhakˌfʁɛsə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Missgeburt",
+    "literal_translation": "mis-birth / deformed birth",
+    "english_equivalent": "freak / abomination / degenerate",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a deformed birth or freak of nature. Extremely offensive, implying they should not exist.",
+    "cultural_context": "One of the harshest German insults. Attacks someone's very right to exist. Considered deeply offensive due to ableist and eugenics-adjacent connotations.",
+    "example_usage": "Du Missgeburt! (You freak!)",
+    "ipa_pronunciation": "/ˈmɪsɡəˌbuːɐ̯t/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dreck",
+    "literal_translation": "dirt / filth / muck",
+    "english_equivalent": "dirt / crap / trash",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Mild expletive meaning dirt or filth. Used as an exclamation or to describe something worthless.",
+    "cultural_context": "Very common mild term. Productive as a prefix: 'Drecksloch' (dirty hole), 'Dreckswetter' (dirty weather), 'Dreckskerl' (dirty fellow).",
+    "example_usage": "So ein Dreck! (What crap!)",
+    "ipa_pronunciation": "/dʁɛk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pisser",
+    "literal_translation": "pisser / one who pisses",
+    "english_equivalent": "little shit / punk / pisser",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Dismissive insult for someone insignificant or contemptible. Can also mean a small child (derisively).",
+    "cultural_context": "Implies insignificance and contempt. Less severe than many other insults but still clearly offensive.",
+    "example_usage": "Du kleiner Pisser! (You little pisser!)",
+    "ipa_pronunciation": "/ˈpɪsɐ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Saukerl",
+    "literal_translation": "sow-fellow / pig-man",
+    "english_equivalent": "pig / bastard / dirty man",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Compound combining 'Sau' (sow) with 'Kerl' (fellow). Strong insult for a despicable man.",
+    "cultural_context": "Southern German / Bavarian flavor. Combines two productive insult roots for emphasis.",
+    "example_usage": "Du Saukerl! (You pig!)",
+    "ipa_pronunciation": "/ˈzaʊ̯ˌkɛʁl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Flachwichser",
+    "literal_translation": "flat wanker",
+    "english_equivalent": "shallow jerk / loser",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Creative compound insult combining 'flach' (flat/shallow) with 'Wichser' (wanker). Implies someone is both morally worthless and intellectually shallow.",
+    "cultural_context": "Modern creative compound insult popular in youth slang. The 'flach' prefix adds an extra layer of contempt.",
+    "example_usage": "Du Flachwichser! (You shallow wanker!)",
+    "ipa_pronunciation": "/ˈflaxˌvɪksɐ/",
+    "needs_review": true,
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Drecksack",
+    "literal_translation": "dirt bag / filth sack",
+    "english_equivalent": "dirtbag / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Calling someone a 'sack of filth'. Strong insult implying moral and physical dirtiness.",
+    "cultural_context": "Direct cognate of English 'dirtbag'. Very common strong insult in German.",
+    "example_usage": "Du Drecksack! (You dirtbag!)",
+    "ipa_pronunciation": "/ˈdʁɛkˌzak/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Saftsack",
+    "literal_translation": "juice sack",
+    "english_equivalent": "useless person / deadbeat / loser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a 'sack of juice' — implying they are useless, lazy, and have no substance or backbone.",
+    "cultural_context": "Mildly vulgar creative compound. The imagery of a limp bag of liquid conveys utter uselessness.",
+    "example_usage": "Du Saftsack, beweg dich! (You deadbeat, get moving!)",
+    "ipa_pronunciation": "/ˈzaftˌzak/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

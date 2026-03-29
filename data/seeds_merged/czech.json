@@ -1,0 +1,1448 @@
+[
+  {
+    "word": "kurva (koor-va)",
+    "literal_translation": "whore",
+    "english_equivalent": "fuck / shit / damn",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Prostitute. However, it is the most ubiquitous, universal swear word in the Czech language, acting as a comma, an exclamation of anger, or an intensifier.",
+    "cultural_context": "Used exactly like the Polish 'kurwa'. If a Czech stubbed their toe, this is what they would yell. Highly versatile.",
+    "example_usage": "To je kurva dobrý! (That is fucking good!)",
+    "ipa_pronunciation": "ˈkʊrva",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "do prdele (doh pr-deh-leh)",
+    "literal_translation": "into the ass",
+    "english_equivalent": "fuck / goddammit",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "Directing something or someone into an anus.",
+    "cultural_context": "The closest equivalent to shouting 'Dammit!' or 'Fuck!'. Universally used when things go wrong.",
+    "example_usage": "Do prdele, zapomněl jsem klíče. (Fuck, I forgot the keys.)",
+    "ipa_pronunciation": "do pr̩ˈdɛlɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "prdel (pr-del)",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks or anus (vulgar/slang).",
+    "cultural_context": "Used constantly in idioms. 'Být v prdeli' (To be in the ass) means to be completely screwed or exhausted. 'Dělat si prdel' (To make an ass) means to joke.",
+    "example_usage": "Děláš si prdel? (Are you shitting me / joking?)",
+    "ipa_pronunciation": "ˈpr̩dɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hovno (hohv-no)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit / nothing / bullshit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "Feces. Also meaning 'absolutely nothing'.",
+    "cultural_context": "Milder swear word. Often used to dismiss someone or state that there is nothing there ('vím hovno' = I know shit/nothing).",
+    "example_usage": "To je úplný hovno. (That's total bullshit/nothing.)",
+    "ipa_pronunciation": "ˈɦovno",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "píča (pee-cha)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Vulgar term for female genitalia.",
+    "cultural_context": "One of the most vulgar and taboo words in the language. Used to violently insult a woman or describe a horrific situation.",
+    "example_usage": "Zavři hubu, ty píčo. (Shut your mouth, you cunt.)",
+    "ipa_pronunciation": "ˈpiːtʃa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kunda (koon-da)",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Another extremely vulgar word for female genitalia.",
+    "cultural_context": "Functionally identical to 'píča', though sometimes used by crude men to describe a highly attractive woman (objectification).",
+    "example_usage": "To je ale kunda! (What a cunt! [as insult or catcall])",
+    "ipa_pronunciation": "ˈkʊnda",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kokot (koh-koht)",
+    "literal_translation": "cock / rooster",
+    "english_equivalent": "dickhead / asshole",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Penis. Originally meaning rooster.",
+    "cultural_context": "A very harsh insult against a man. Highly popular in neighboring Slovakia but used identically in Czech.",
+    "example_usage": "Nebuď takovej kokot. (Don't be such a dickhead.)",
+    "ipa_pronunciation": "ˈkokot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "čurák (choo-rahk)",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / prick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Penis.",
+    "cultural_context": "The standard Czech equivalent to calling someone a 'dick' or a 'prick'. Deeply insulting.",
+    "example_usage": "Ten kretén je fakt čurák. (That cretin is a real dick.)",
+    "ipa_pronunciation": "ˈtʃʊraːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zmrd (zm-rd)",
+    "literal_translation": "bastard / motherfucker",
+    "severity": 4,
+    "english_equivalent": "motherfucker",
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derived from 'mrdat' (to fuck), meaning someone who is 'fucked up' or a terrible, deceitful person.",
+    "cultural_context": "A vicious insult denoting someone with absolutely zero morals. Highly aggressive.",
+    "example_usage": "Ty zkurvenej zmrde! (You fucking motherfucker!)",
+    "ipa_pronunciation": "ˈzm̩rt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mrdka (mrd-kah)",
+    "literal_translation": "cum / fuckup",
+    "english_equivalent": "piece of shit / cum",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Semen. Also used to describe a terrible situation, object, or person.",
+    "cultural_context": "A disgusting insult. If a car is completely broken down, it is a 'mrdka'.",
+    "example_usage": "Moje auto je úplná mrdka. (My car is a complete piece of shit.)",
+    "ipa_pronunciation": "ˈmr̩tka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hajzl (high-zl)",
+    "literal_translation": "toilet",
+    "english_equivalent": "bastard / shithole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "The toilet. Borrowed from German 'Häusl' (outhouse).",
+    "cultural_context": "Used to call someone a scoundrel/bastard, or to describe a terrible place.",
+    "example_usage": "On je pěkný hajzl. (He is a pretty big bastard.)",
+    "ipa_pronunciation": "ˈɦajzl̩",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jdi do prdele (y-dee doh pr-deh-leh)",
+    "literal_translation": "go into the ass",
+    "english_equivalent": "go to hell / fuck off",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "Commanding someone to crawl into an anus.",
+    "cultural_context": "The universal Czech command for someone to step away and leave you alone.",
+    "example_usage": "Dej mi pokoj, jdi do prdele. (Give me peace, fuck off.)",
+    "ipa_pronunciation": "ˈjɟɪ do pr̩ˈdɛlɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sračka (srach-kah)",
+    "literal_translation": "shit / diarrhea",
+    "english_equivalent": "crap / bullshit",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Diarrhea or liquid shit. Metaphorically means bullshit, poor quality, or a mess.",
+    "cultural_context": "Stronger and more visceral than 'hovno'.",
+    "example_usage": "Tohle jídlo je sračka. (This food is crap.)",
+    "ipa_pronunciation": "ˈsratʃka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zkurvysyn (z-koor-vih-sin)",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The son of a prostitute.",
+    "cultural_context": "A direct and venomous personal attack involving someone's mother.",
+    "example_usage": "Pojď sem, ty zkurvysyne. (Come here, you son of a bitch.)",
+    "ipa_pronunciation": "ˈskʊrvɪsɪn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mrdat (mr-dat)",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The highly vulgar verb for sexual intercourse.",
+    "cultural_context": "Like 'fuck', it can mean sex, but also not caring about something ('mrdám na to' = I'm fucking it / I don't give a fuck).",
+    "example_usage": "Mrdám na tuhle práci. (I don't give a fuck about this job.)",
+    "ipa_pronunciation": "ˈmr̩dat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebat (yeh-bat)",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Another Slavic vulgar root for sexual intercourse.",
+    "cultural_context": "Interchangeable with mrdat. 'Jebni ho!' means 'Hit him/fuck him up!'.",
+    "example_usage": "Jebu na to. (I fuck on it / I don't give a shit.)",
+    "ipa_pronunciation": "ˈjɛbat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zkurvený (z-koor-veh-nee)",
+    "literal_translation": "be-whored",
+    "english_equivalent": "fucking",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The adjective form of kurva. Means something that has been ruined or is terrible.",
+    "cultural_context": "The closest grammatical equivalent to the English adjective 'fucking'.",
+    "example_usage": "Zkurvenej život. (Fucking life.)",
+    "ipa_pronunciation": "ˈskʊrvɛniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "píčovina (pee-choh-vihn-ah)",
+    "literal_translation": "cunt-thing",
+    "english_equivalent": "bullshit / dumbass thing",
+    "severity": 4,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "A noun derived from píča. Means complete nonsense, a total mistake, or a useless trinket.",
+    "cultural_context": "A brilliantly descriptive word. If you buy a useless plastic gadget, it's a 'píčovina'.",
+    "example_usage": "To je neuvěřitelná píčovina. (That is incredible bullshit.)",
+    "ipa_pronunciation": "ˈpiːtʃovɪna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kokotina (koh-ko-tih-na)",
+    "literal_translation": "cock-thing",
+    "english_equivalent": "bullshit / dumb thing",
+    "severity": 4,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Same structural concept as píčovina, but derived from kokot (dick).",
+    "cultural_context": "Nonsense or a stupid idea.",
+    "example_usage": "Neříkej takový kokotiny. (Don't say such bullshit.)",
+    "ipa_pronunciation": "ˈkokocɪna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ojebat (o-yeh-bat)",
+    "literal_translation": "to fuck around / over",
+    "english_equivalent": "to rip off / fuck over",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To scam, deceive, or cheat someone.",
+    "cultural_context": "If a mechanic overcharges you, he 'ojebal' you.",
+    "example_usage": "Chtěli mě ojebat o peníze. (They wanted to fuck me out of my money.)",
+    "ipa_pronunciation": "ˈojɛbat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vyjebat (vy-yeh-bat)",
+    "literal_translation": "to fuck out",
+    "english_equivalent": "to totally fuck over",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To aggressively eliminate, defeat, or deceive someone.",
+    "cultural_context": "A stronger version of ojebat.",
+    "example_usage": "Úplně se mnou vyjebal. (He completely fucked me over.)",
+    "ipa_pronunciation": "ˈvɪjɛbat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pochcat (poh-ch-tsat)",
+    "literal_translation": "to piss on",
+    "english_equivalent": "to piss on",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To cover with urine.",
+    "cultural_context": "Used for drunk behavior or severe disrespect.",
+    "example_usage": "Pochcal se v kalhotách. (He pissed himself in his pants.)",
+    "ipa_pronunciation": "ˈpoxtsat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pochcat se (poh-ch-tsat seh)",
+    "literal_translation": "to piss oneself",
+    "english_equivalent": "to piss yourself laughing",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To urinate oneself. Often used metaphorically for uncontrollable laughter.",
+    "cultural_context": "Commonly used when recounting a funny story.",
+    "example_usage": "Budu se asi smíchy pochcat. (I'm going to piss myself laughing.)",
+    "ipa_pronunciation": "ˈpoxtsat sɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "posrat (po-srat)",
+    "literal_translation": "to shit on",
+    "english_equivalent": "to fuck up / ruin",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To literal shit on, or metaphorically ruin a situation.",
+    "cultural_context": "If you fail an exam, you 'posral' it.",
+    "example_usage": "Všechno jsem posral. (I shit on / fucked up everything.)",
+    "ipa_pronunciation": "ˈposrat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nasrat (nah-srat)",
+    "literal_translation": "to shit into",
+    "english_equivalent": "to piss off",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To anger someone deeply.",
+    "cultural_context": "'Jsem nasraný' (I am shitted-into) means 'I am extremely angry'.",
+    "example_usage": "Neser mě. (Don't shit into me / Don't piss me off.)",
+    "ipa_pronunciation": "ˈnasrat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sakra (sak-rah)",
+    "literal_translation": "sacrament",
+    "english_equivalent": "damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Derived from the holy sacrament. A mild curse.",
+    "cultural_context": "The closest equivalent to 'damn'. Used on TV and around children.",
+    "example_usage": "Sakra, prší. (Damn, it's raining.)",
+    "ipa_pronunciation": "ˈsakra",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "krucinál (kroo-tsee-nahl)",
+    "literal_translation": "crucifix",
+    "english_equivalent": "dammit",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "An older, almost comedic religious oath referencing the cross.",
+    "cultural_context": "Mild swearing, often used by frustrated grandfathers.",
+    "example_usage": "Krucinál fago! (Dammit all!)",
+    "ipa_pronunciation": "ˈkrʊtSɪnaːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "debil (deh-bil)",
+    "literal_translation": "feeble-minded",
+    "english_equivalent": "idiot / moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An idiot.",
+    "cultural_context": "A standard, very common insult.",
+    "example_usage": "Jsi úplný debil. (You're a complete idiot.)",
+    "ipa_pronunciation": "ˈdɛbɪl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kretén (kreh-tehn)",
+    "literal_translation": "cretin",
+    "english_equivalent": "cretin / asshole",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A cretin. Slightly sharper than debil.",
+    "cultural_context": "Derived from the French 'crétin'.",
+    "example_usage": "Odprejskni, kreténe. (Scram, cretin.)",
+    "ipa_pronunciation": "ˈkrɛtɛːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "buzerant (boo-zeh-rant)",
+    "literal_translation": "buggerer",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A homosexual man.",
+    "cultural_context": "A derogatory homophobic slur.",
+    "example_usage": "Jeden starej buzerant. (One old faggot.)",
+    "ipa_pronunciation": "ˈbʊzɛrant",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "děvka (dyef-kah)",
+    "literal_translation": "wench / maid",
+    "english_equivalent": "slut / whore",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Originally meaning a servant girl, now exclusively means a slut or prostitute.",
+    "cultural_context": "Extremely derogatory towards women.",
+    "example_usage": "Ty zkurvená děvko! (You fucking whore!)",
+    "ipa_pronunciation": "ˈɟɛfka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "čuba (choo-bah)",
+    "literal_translation": "female dog",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female dog.",
+    "cultural_context": "Used identically to the English word 'bitch'.",
+    "example_usage": "Arogantní čuba. (Arrogant bitch.)",
+    "ipa_pronunciation": "ˈtʃʊba",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "čubka (choob-kah)",
+    "literal_translation": "little female dog",
+    "english_equivalent": "bitch / slut",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The diminutive form of čuba. Actually sounds more venomous and degrading.",
+    "cultural_context": "Highly common insult.",
+    "example_usage": "Vypadni, ty čubko. (Get out, you bitch.)",
+    "ipa_pronunciation": "ˈtʃʊpka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hoven (hoh-ven)",
+    "literal_translation": "of shits",
+    "english_equivalent": "pieces of shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Plural/genitive form of hovno.",
+    "cultural_context": "Used in phrases like 'plno hoven' (full of shit).",
+    "example_usage": "Mluvíš plno hoven. (You're speaking full of shit.)",
+    "ipa_pronunciation": "ˈɦovɛn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "prd (pr-d)",
+    "literal_translation": "fart",
+    "english_equivalent": "fart / jack shit",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Flatulence.",
+    "cultural_context": "Also used to mean 'nothing' in a child-friendly way. 'Dostaneš prd' = You will get a fart / nothing.",
+    "example_usage": "To je na prd. (That is on a fart / That is useless.)",
+    "ipa_pronunciation": "pr̩t",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kravina (krah-vih-nah)",
+    "literal_translation": "cow-thing",
+    "english_equivalent": "bullshit / nonsense",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Nonsense, stemming from 'kráva' (cow).",
+    "cultural_context": "The family-friendly version of píčovina/kokotina. Used openly on TV.",
+    "example_usage": "Nedělej kraviny. (Don't do cow-things / nonsense.)",
+    "ipa_pronunciation": "ˈkravɪna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kráva (krah-vah)",
+    "literal_translation": "cow",
+    "english_equivalent": "stupid cow / bitch",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A cow. Used to insult a stubborn or stupid woman.",
+    "cultural_context": "A classic, slightly dated male insult toward annoying women.",
+    "example_usage": "Ta hloupá kráva. (That stupid cow.)",
+    "ipa_pronunciation": "ˈkraːva",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurevník (koo-rev-nyeek)",
+    "literal_translation": "whore-man",
+    "english_equivalent": "womanizer / whoremonger",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A man who chases prostitutes or cheats on his partner constantly.",
+    "cultural_context": "A strong condemnation of a man's fidelity.",
+    "example_usage": "Všichni vědí, že je to kurevník. (Everyone knows he's a whoremonger.)",
+    "ipa_pronunciation": "ˈkʊrɛvɲiːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zmrde (zm-rd-eh)",
+    "literal_translation": "bastard (vocative case)",
+    "english_equivalent": "you motherfucker!",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The vocative case of 'zmrd'. Used when yelling directly at someone.",
+    "cultural_context": "Czech grammar requires the vocative case for addressing people. Shouting 'Zmrde!' is highly aggressive.",
+    "example_usage": "Zhebnij, zmrde! (Drop dead, motherfucker!)",
+    "ipa_pronunciation": "ˈzm̩rdɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "šoustat (show-stat)",
+    "literal_translation": "to brush/rub",
+    "english_equivalent": "to shag / screw",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A slightly softer, older slang term for having sex.",
+    "cultural_context": "Sounds funny rather than intensely vulgar.",
+    "example_usage": "Celou noc šoustali. (They shagged all night.)",
+    "ipa_pronunciation": "ˈʃoustat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "šukat (shoo-kat)",
+    "literal_translation": "to look around / to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Originally meant 'to tidy up / look in corners' in older Czech (and still does in standard Polish!), but in modern Czech it exclusively means to fuck.",
+    "cultural_context": "A deadly false friend with Polish, causing immense confusion between the two nations.",
+    "example_usage": "Jdeme šukat. (We're going to fuck.)",
+    "ipa_pronunciation": "ˈʃʊkat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kozy (koh-zih)",
+    "literal_translation": "goats",
+    "english_equivalent": "tits",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female breasts. Slang derived from goats.",
+    "cultural_context": "Highly common anatomical slang.",
+    "example_usage": "Má velký kozy. (She has big goats/tits.)",
+    "ipa_pronunciation": "ˈkozɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cecky (tsets-kih)",
+    "literal_translation": "teats",
+    "english_equivalent": "jugs / knockers",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Breasts. Derives from animal teats.",
+    "cultural_context": "Similar to kozy, crude male slang.",
+    "example_usage": "Ukaž cecky. (Show your jugs.)",
+    "ipa_pronunciation": "ˈtSɛtskɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vypadni (vih-pad-nee)",
+    "literal_translation": "fall out",
+    "english_equivalent": "get the fuck out",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Command to leave immediately.",
+    "cultural_context": "Not inherently vulgar, but highly hostile. Often paired with 'do prdele'.",
+    "example_usage": "Vypadni odtud! (Get the hell out of here!)",
+    "ipa_pronunciation": "ˈvɪpadɲɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hladomor (hlah-do-mor)",
+    "literal_translation": "hunger-death",
+    "english_equivalent": "starvation / hellhole",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A famine. Metaphorically a place that is miserable or empty.",
+    "cultural_context": "Dark humor usage.",
+    "example_usage": "Tady je samej hladomor. (It's just hunger-death in here.)",
+    "ipa_pronunciation": "ˈɦladomor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "polib mi prdel (poh-leeb mee pr-del)",
+    "literal_translation": "kiss my ass",
+    "english_equivalent": "kiss my ass",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "A direct structural translation of 'kiss my ass'.",
+    "cultural_context": "Universal defiance.",
+    "example_usage": "Víš co? Polib mi prdel. (You know what? Kiss my ass.)",
+    "ipa_pronunciation": "ˈpolɪb mɪ pr̩ˈdɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kunda z ryby (koon-da z-rih-bih)",
+    "literal_translation": "cunt from a fish",
+    "english_equivalent": "fishy cunt / useless nonsense",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A creative expansion of the central curse. Something completely worthless or absurd.",
+    "cultural_context": "Shows off the Slavic penchant for poetic obscenity.",
+    "example_usage": "To stojí za kundu z ryby. (That is worth a fish's cunt.)",
+    "ipa_pronunciation": "ˈkʊnda zˈrɪbɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "buzna (booz-nah)",
+    "literal_translation": "fag",
+    "english_equivalent": "sissy / faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A softer slang word for buzerant.",
+    "cultural_context": "Often used among straight men to mock someone for acting weak or effeminate.",
+    "example_usage": "Nebreč, ty buzno. (Don't cry, you sissy.)",
+    "ipa_pronunciation": "ˈbʊzna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "magořina (mah-go-rzhih-nah)",
+    "literal_translation": "insane-thing",
+    "english_equivalent": "insanity / total bullshit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something completely crazy or chaotic. Derived from 'magor' (lunatic).",
+    "cultural_context": "When a situation is impossibly stressful or stupid.",
+    "example_usage": "Tohle je čistá magořina. (This is pure insanity.)",
+    "ipa_pronunciation": "ˈmagor̝ɪna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "magor (mah-gor)",
+    "literal_translation": "lunatic",
+    "english_equivalent": "lunatic / psycho",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is crazy or acts dangerously unhinged.",
+    "cultural_context": "Common insult in traffic.",
+    "example_usage": "Ten chlap je úplnej magor. (That guy is a total psycho.)",
+    "ipa_pronunciation": "ˈmagor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chvástal (khvah-stal)",
+    "literal_translation": "boaster",
+    "english_equivalent": "braggart / loudmouth",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who brags too much.",
+    "cultural_context": "Very gentle, polite disapproval.",
+    "example_usage": "Je to jen hloupý chvástal. (He's just a stupid braggart.)",
+    "ipa_pronunciation": "ˈxvaːstal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zkurvit (z-koor-vit)",
+    "literal_translation": "to whore-ify",
+    "english_equivalent": "to fuck up / to ruin",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To completely break or ruin a situation or object.",
+    "cultural_context": "Derived from kurva. Means something is 'whored up' / ruined.",
+    "example_usage": "Úplně jsi to zkurvil. (You completely fucked it up.)",
+    "ipa_pronunciation": "ˈskʊrvɪt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "blbec (bl-bets)",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A socially inept or foolish person.",
+    "cultural_context": "A classic, TV-friendly insult.",
+    "example_usage": "Takový blbec. (Such an idiot.)",
+    "ipa_pronunciation": "ˈbl̩bɛts",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mamrd (mah-mrd)",
+    "literal_translation": "mother-fucker",
+    "english_equivalent": "motherfucker / wanker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A portmanteau of mam (my/mother) and mrd (fuck).",
+    "cultural_context": "A creative, slightly less common alternative to zmrd.",
+    "example_usage": "Drž hubu, ty mamrde. (Shut your mouth, you motherfucker.)",
+    "ipa_pronunciation": "ˈmamr̩t",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nanynka (nah-nin-kah)",
+    "literal_translation": "little nanny",
+    "english_equivalent": "bimbo / silly girl",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A naive or slightly stupid girl.",
+    "cultural_context": "Almost affectionate, mostly condescending.",
+    "example_usage": "Je to taková hloupá nanynka. (She's such a silly little bimbo.)",
+    "ipa_pronunciation": "ˈnanɪŋka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pipina (pih-pih-nah)",
+    "literal_translation": "pip-thing",
+    "english_equivalent": "bimbo / dumb chick",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A vain, superficial, and unintelligent young woman.",
+    "cultural_context": "More insulting than nanynka. Usually implies heavy makeup and low IQ.",
+    "example_usage": "Ta namyšlená pipina. (That conceited bimbo.)",
+    "ipa_pronunciation": "ˈpɪpɪna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vyještěný (vih-yesh-tyeh-nee)",
+    "literal_translation": "lizard-ed out",
+    "english_equivalent": "fucked up / stoned out of one's mind",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who looks exhausted or heavily under the influence of drugs.",
+    "cultural_context": "Youth slang.",
+    "example_usage": "Pepa byl úplně vyještěnej. (Pepa was completely fucked up/stoned.)",
+    "ipa_pronunciation": "ˈvɪjɛʃcɛniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dršťka (dr-sht-kah)",
+    "literal_translation": "tripe / cattle stomach",
+    "english_equivalent": "ugly mug",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Tripe soup is popular in Czechia. Slang for someone's mouth or face.",
+    "cultural_context": "'Dát někomu přes dršťku' means 'To punch someone in the face/tripe'.",
+    "example_usage": "Drž tu svou dršťku. (Shut your ugly mug.)",
+    "ipa_pronunciation": "ˈdr̩ʃcka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tlamo (tlah-mo)",
+    "literal_translation": "maw",
+    "english_equivalent": "pie-hole / muzzle",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "An animal's mouth. Used to insult a person's mouth.",
+    "cultural_context": "Vocative case. Often used to tell someone to shut up.",
+    "example_usage": "Zavři tlamu! (Shut your trap/maw!)",
+    "ipa_pronunciation": "ˈtlamo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hladová zeď (hlah-doh-vah zed)",
+    "literal_translation": "hunger wall",
+    "english_equivalent": "pointless task / miserable thing",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A historic wall in Prague built by Charles IV to employ the starving poor. Relates to pointless work.",
+    "cultural_context": "Not vulgar, deeply Czech idiom.",
+    "example_usage": "Tohle je jak stavět hladovou zeď. (This is like building the hunger wall.)",
+    "ipa_pronunciation": "ˈɦladovaː ˈzɛc",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vyliž mi prdel (vih-leezh mee pr-del)",
+    "literal_translation": "lick out my ass",
+    "english_equivalent": "lick my ass",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "A more graphic version of kiss my ass.",
+    "cultural_context": "Extremely hostile and repulsive.",
+    "example_usage": "Vyliž mi prdel, hajzle. (Lick my ass, you bastard.)",
+    "ipa_pronunciation": "ˈvɪlɪʒ mɪ pr̩ˈdɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sperma (sper-mah)",
+    "literal_translation": "sperm",
+    "english_equivalent": "cum",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Semen/sperm.",
+    "cultural_context": "Medical term used vulgarly.",
+    "example_usage": "Smrdí to jak sperma. (It smells like cum.)",
+    "ipa_pronunciation": "ˈspɛrma",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hovňousek (hov-nyow-sek)",
+    "literal_translation": "little shit-man",
+    "english_equivalent": "little turd",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A diminutive, cutesy version of shit. Used to mock an insignificant man.",
+    "cultural_context": "Condescending and humiliating rather than actively brutal.",
+    "example_usage": "Takový hovňousek mi nebude poroučet. (A little turd like that won't give me orders.)",
+    "ipa_pronunciation": "ˈɦovɲousɛk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ksicht (ksikht)",
+    "literal_translation": "face (German loan)",
+    "english_equivalent": "ugly mug / face",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "From German 'Gesicht' (face). In Czech, it means an ugly or stupid face.",
+    "cultural_context": "Widely used slang.",
+    "example_usage": "Dám ti pěstí do ksichtu. (I'll punch you in the mug.)",
+    "ipa_pronunciation": "ˈksɪxt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "čubčí syn (choob-chee sin)",
+    "literal_translation": "bitch's son",
+    "english_equivalent": "son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A literal translation of the English / Latin 'son of a bitch'.",
+    "cultural_context": "Milder than zkurvysyn, often used in dubbed American movies.",
+    "example_usage": "Kde je ten čubčí syn? (Where is that son of a bitch?)",
+    "ipa_pronunciation": "ˈtʃʊptʃiː ˈsɪn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hulibrk (hoo-lee-brk)",
+    "literal_translation": "smoke-quill / suck-feather",
+    "english_equivalent": "cocksucker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A highly creative old-school compound word for someone who sucks penises.",
+    "cultural_context": "'Hulit' means to smoke/suck, 'brk' means a quill/joint. Metaphorically incredible.",
+    "example_usage": "Ty jeden hulibrku. (You cocksucker.)",
+    "ipa_pronunciation": "ˈɦʊlɪbr̩k",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ukrutný (oo-kroot-nee)",
+    "literal_translation": "cruel/terrible",
+    "english_equivalent": "atrocious",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something terribly painful or bad.",
+    "cultural_context": "A 'clean' extreme adjective.",
+    "example_usage": "To je ukrutná bolest. (That is atrocious pain.)",
+    "ipa_pronunciation": "ˈʊkrʊtniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "v prdeli (v pr-deh-lee)",
+    "literal_translation": "in the ass",
+    "english_equivalent": "fucked / in deep shit",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The ultimate state of failure or exhaustion.",
+    "cultural_context": "If your phone breaks, it is 'v prdeli'. If you lose your job, you are 'v prdeli'.",
+    "example_usage": "Jsme úplně v prdeli. (We are completely fucked.)",
+    "ipa_pronunciation": "f pr̩ˈdɛlɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "prdět na to (pr-dyet nah to)",
+    "literal_translation": "to fart on it",
+    "english_equivalent": "to say screw it",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To abandon a project or stop caring about a situation.",
+    "cultural_context": "Child-friendly version of 'mrdat na to'.",
+    "example_usage": "Prdím na to, jdu spát. (I'm farting on it / screw it, I'm going to sleep.)",
+    "ipa_pronunciation": "ˈpr̩ɟɛt na to",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kočička (koh-chich-kah)",
+    "literal_translation": "little cat",
+    "english_equivalent": "pussycat / hot chick",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A cat. Often used to refer to a sexually attractive woman.",
+    "cultural_context": "A catcall rather than a curse, but highly demeaning depending on context.",
+    "example_usage": "Koukej na tu kočičku. (Look at that hot chick.)",
+    "ipa_pronunciation": "ˈkotʃɪtʃka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "píčus (pee-choos)",
+    "literal_translation": "cunt-man",
+    "english_equivalent": "dickhead / cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The male version of a cunt. A despicable man.",
+    "cultural_context": "One of the most offensive things you can call a male in Czech.",
+    "example_usage": "Ten šéf je zasraný píčus. (That boss is a fucking dickhead/cunt.)",
+    "ipa_pronunciation": "ˈpiːtʃʊs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "píča z tržnice (pee-cha z-trzh-ni-tse)",
+    "literal_translation": "cunt from the marketplace",
+    "english_equivalent": "cheap whore / loudmouth bitch",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A loud, cheap, uneducated woman.",
+    "cultural_context": "Very specific classist insult against a woman acting without any grace.",
+    "example_usage": "Řve jako píča z tržnice. (She's yelling like a marketplace whore.)",
+    "ipa_pronunciation": "ˈpiːtʃa str̩ʒˈɲɪtsɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rozjebat (roz-yeh-bat)",
+    "literal_translation": "to fuck apart",
+    "english_equivalent": "to smash the fuck up",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "To violently destroy something or beat someone up.",
+    "cultural_context": "Adding 'roz-' (apart/to pieces) to the fuck root.",
+    "example_usage": "Rozjebu ti ksicht! (I'll smash your fucking face in!)",
+    "ipa_pronunciation": "ˈrozjɛbat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizda (piz-dah)",
+    "literal_translation": "cunt (Russian loan)",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Russian/Slavic universal curse for female genitalia.",
+    "cultural_context": "Fully understood in Czech, used interchangeably with píča but sounds slightly more foreign/Eastern.",
+    "example_usage": "Zasraná pizda. (Fucking cunt.)",
+    "ipa_pronunciation": "ˈpɪzda",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zasraný (zah-srah-nee)",
+    "literal_translation": "shitted-upon",
+    "english_equivalent": "shitty / fucking",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Something covered in feces.",
+    "cultural_context": "Functions as a strong adjective of dislike. 'Zasraný zloděj' (Fucking/shitty thief).",
+    "example_usage": "Tenhle zasraný počítač nefunguje. (This shitty computer isn't working.)",
+    "ipa_pronunciation": "ˈzasraniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zajebat (zah-yeh-bat)",
+    "literal_translation": "to fuck into",
+    "english_equivalent": "to fuck up / to stow away roughly",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To hit someone or to shove an object violently.",
+    "cultural_context": "Another prefix form of jebat.",
+    "example_usage": "Já mu jednu zajebu. (I'll fuck him one / punch him one.)",
+    "ipa_pronunciation": "ˈzajɛbat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bouchač (bow-khach)",
+    "literal_translation": "banger",
+    "english_equivalent": "thug / hitman",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A tough guy or hired muscle.",
+    "cultural_context": "Crime slang.",
+    "example_usage": "Hraje si na bouchače. (He plays at being a thug.)",
+    "ipa_pronunciation": "ˈbouxaːtʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ošukat (o-shoo-kat)",
+    "literal_translation": "to fuck over / to groom",
+    "english_equivalent": "to fuck entirely / bone",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To have sex with someone.",
+    "cultural_context": "Colloquial and direct.",
+    "example_usage": "Tě ošukám. (I'll bone you.)",
+    "ipa_pronunciation": "ˈoʃʊkat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

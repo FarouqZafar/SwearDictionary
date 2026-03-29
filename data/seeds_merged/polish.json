@@ -1,0 +1,1315 @@
+[
+  {
+    "word": "kurwa",
+    "literal_translation": "whore",
+    "english_equivalent": "fuck / shit / bitch",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The ultimate Polish swear word. Originally meaning 'whore', it functions as 'fuck', 'shit', 'bitch', and as a universal punctuation mark.",
+    "cultural_context": "Used for literally any emotion: anger, joy, pain, surprise, or just to pause and think mid-sentence. Often softened to 'kurczę', 'kurde', or 'kurna' in polite company.",
+    "example_usage": "Kurwa, znowu pada! (Fuck, it's raining again!)",
+    "ipa_pronunciation": "ˈkur.va",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "spierdalać",
+    "literal_translation": "to fuck off / run away",
+    "english_equivalent": "fuck off / get the fuck out",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A harsh command telling someone to leave immediately or to run away very fast.",
+    "cultural_context": "Derived from 'pierdolić'. Used aggressively towards someone annoying or threatening.",
+    "example_usage": "Spierdalaj stąd! (Get the fuck out of here!)",
+    "ipa_pronunciation": "spjɛrˈda.lat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wkurwiać",
+    "literal_translation": "to whore into",
+    "english_equivalent": "to piss off",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "To make someone extremely angry or annoyed.",
+    "cultural_context": "From the root 'kurwa'. Very common way to complain about an annoying person or situation.",
+    "example_usage": "Nie wkurwiaj mnie. (Don't piss me off.)",
+    "ipa_pronunciation": "ˈvkur.vjat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skurwysyn",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch / motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A strong, direct personal insult directed at a male. Combining 'z' (from), 'kurwa' (whore), and 'syn' (son).",
+    "cultural_context": "Can start a fight if directed at a stranger. Between close male friends, it might be used admiringly ('You brilliant son of a bitch').",
+    "example_usage": "Ty jebany skurwysynu! (You fucking son of a bitch!)",
+    "ipa_pronunciation": "skurˈvɨ.sɨn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pierdolić",
+    "literal_translation": "to fart/talk nonsense",
+    "english_equivalent": "to fuck / to talk bullshit",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "To have sex, to talk absolute nonsense, or to ignore/disregard something entirely.",
+    "cultural_context": "One of the most versatile roots. 'Pierdolę to' means 'I'm abandoning this / Fuck this'.",
+    "example_usage": "Co ty pierdolisz? (What the fuck are you talking about?)",
+    "ipa_pronunciation": "pjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebać",
+    "literal_translation": "to hit / to strike",
+    "english_equivalent": "to fuck / fuck it",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To copulate, to beat someone up, or to hold something in contempt.",
+    "cultural_context": "Often abbreviated to 'JP' (Jebać Policję - Fuck the Police) in graffiti and rap culture. 'Jebać to' means 'Fuck it / Forget about it'.",
+    "example_usage": "Jebać to wszystko. (Fuck it all.)",
+    "ipa_pronunciation": "ˈjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chuj",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / prick / fuck",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Vulgar term for penis. Used to call someone a prick, to express hopelessness, or as an intensifier.",
+    "cultural_context": "Can mean 'nothing' (Gówno i chuj - shit and nothing). 'W chuj' means 'a fucking lot'. Often misspelled as 'huj' by internet users but properly spelled with 'ch'.",
+    "example_usage": "Taki z niego chuj. (He's such a dick.)",
+    "ipa_pronunciation": "xuj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zajebiście",
+    "literal_translation": "fuckingly well",
+    "english_equivalent": "fucking awesome / fucking great",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Describes something that is incredibly good, cool, or awesome.",
+    "cultural_context": "From the root 'jebać'. While technically a swear word, it's used so often to mean 'awesome' that youth consider it almost standard slang. Still unacceptable in essays or at work.",
+    "example_usage": "Ale zajebiście! (That's fucking awesome!)",
+    "ipa_pronunciation": "za.jɛˈbij.ɕt͡ɕɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "odpierdalać",
+    "literal_translation": "to un-fuck",
+    "english_equivalent": "to act crazy / to act the fool",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To behave erratically, strangely, or to do something completely crazy and unexpected.",
+    "cultural_context": "Commonly asked when someone is doing something weird: 'Co ty odpierdalasz?' (What the fuck are you doing?)",
+    "example_usage": "Odpierdala mu. (He's losing his fucking mind / acting crazy.)",
+    "ipa_pronunciation": "ɔt.pjɛrˈda.lat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zapierdalać",
+    "literal_translation": "to fuck behind",
+    "english_equivalent": "to work one's ass off / to run fast",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To work incredibly hard, to walk/run very fast, or to steal something.",
+    "cultural_context": "A blue-collar staple. Describes grueling physical labor or someone zooming by in a speeding car.",
+    "example_usage": "Zapierdalam w robocie jak wół. (I'm working my fucking ass off like an ox at work.)",
+    "ipa_pronunciation": "za.pjɛrˈda.lat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wypierdalać",
+    "literal_translation": "to fuck out",
+    "english_equivalent": "to get the fuck out",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "An extremely aggressive command to leave.",
+    "cultural_context": "Similar to 'spierdalać' but often used when throwing someone physically out of a building or a group.",
+    "example_usage": "Wypierdalaj z mojego domu! (Get the fuck out of my house!)",
+    "ipa_pronunciation": "vɨ.pjɛrˈda.lat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zjebany",
+    "literal_translation": "fucked down",
+    "english_equivalent": "fucked up / ruined / broken",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes an object that is broken, a situation that is ruined, or a person who is mentally deficient.",
+    "cultural_context": "Used constantly for malfunctioning technology or bad weather. Derived from 'jebać'.",
+    "example_usage": "Znowu ten zjebany telefon nie działa. (This fucked up phone isn't working again.)",
+    "ipa_pronunciation": "zjeˈba.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizda",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt / pussy / wimp",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Vulgar word for female genitalia. Used to describe a coward, a weak man, or a miserable situation.",
+    "cultural_context": "Strongly offensive. When referring to weather ('pizga' - root variant), it means 'it's fucking freezing/windy'. Describing a man as 'pizda' attacks his masculinity heavily.",
+    "example_usage": "Ale z ciebie pizda. (You're such a fucking pussy.)",
+    "ipa_pronunciation": "ˈpiz.da",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chujowo",
+    "literal_translation": "dickishly",
+    "english_equivalent": "shitty / terribly",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes something going badly, feeling unwell, or looking terrible.",
+    "cultural_context": "The direct opposite of 'zajebiście' (awesome). 'Czuję się chujowo' means 'I feel like shit.'",
+    "example_usage": "Wyszło trochę chujowo. (It turned out kinda shitty.)",
+    "ipa_pronunciation": "xuˈjɔ.vɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zajebać",
+    "literal_translation": "to fuck behind",
+    "english_equivalent": "to steal / to kill / to hit",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Depends on context: 1) to steal something, 2) to murder someone, 3) to punch someone hard.",
+    "cultural_context": "A very heavy verb used in a street context to describe crimes or severe physical violence.",
+    "example_usage": "Ktoś mi zajebał rower. (Somebody fucking stole my bike.)",
+    "ipa_pronunciation": "zaˈjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "najebać się",
+    "literal_translation": "to over-fuck oneself",
+    "english_equivalent": "to get fucked up (drunk)",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To get highly intoxicated on alcohol (or drugs).",
+    "cultural_context": "Vodka culture staple word. 'Najebany' means 'wasted'. A weekend badge of honor for youths.",
+    "example_usage": "Wczoraj się strasznie najebałem. (I got so fucked up yesterday.)",
+    "ipa_pronunciation": "naˈjɛ.bat͡ɕ ɕɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gówno",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Literally feces. Used to mean something is worthless, or as an expression of disagreement ('bullshit').",
+    "cultural_context": "Relatively mild compared to the big five. Sometimes used by children, though still scolded. 'Gówno prawda' means 'bullshit/not true at all'.",
+    "example_usage": "Gówno wiesz. (You know shit / nothing.)",
+    "ipa_pronunciation": "ˈɡuv.nɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dupa",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks. Used to describe an attractive woman, a failure, or the middle of nowhere.",
+    "cultural_context": "Very mild. 'Ciemna dupa' (dark ass) means the middle of out-of-nowhere. 'Dupa wołowa' (beef ass) means a clumsy/useless person.",
+    "example_usage": "Wszystko poszło do dupy. (Everything went to shit/ass.)",
+    "ipa_pronunciation": "ˈdu.pa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pojebany",
+    "literal_translation": "post-fucked",
+    "english_equivalent": "fucked up / crazy",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes a person who is crazy, psychotic, or completely illogical.",
+    "cultural_context": "Often applied to bizarre rules, insane drivers, or unhinged people. A 'pojeb' (noun) is a crazy person.",
+    "example_usage": "On jest jakiś pojebany. (He is somehow fucked up/crazy.)",
+    "ipa_pronunciation": "pɔ.jɛˈba.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "szmata",
+    "literal_translation": "rag",
+    "english_equivalent": "slut / scumbag / trailing cloth",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A floor-rag. Metaphorically used to describe a promiscuous woman or a person of extremely low moral character.",
+    "cultural_context": "Highly derogatory when applied to a woman. When applied to a man, implies he is a backstabbing, spineless scumbag.",
+    "example_usage": "Zwykła szmata z niej. (She's just a common slut/rag.)",
+    "ipa_pronunciation": "ˈʂma.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dziwka",
+    "literal_translation": "whore/prostitute",
+    "english_equivalent": "whore / bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Literal word for a female sex worker, heavily used as a slur.",
+    "cultural_context": "Similar to 'kurwa' but primarily maintains its original literal/insult meaning rather than acting as a comma.",
+    "example_usage": "Ty jebana dziwko! (You fucking whore!)",
+    "ipa_pronunciation": "ˈd͡ʑiv.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cwel",
+    "literal_translation": "prison passive homosexual",
+    "english_equivalent": "prison bitch / faggot",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A deeply derogatory prison slang term for a man who is forced to perform sexual acts.",
+    "cultural_context": "EXTREMELY offensive, likely to cause immediate physical violence if directed at a man. It strips an individual of all masculine dignity.",
+    "example_usage": "Zamilcz cwelu. (Silence, you prison bitch.)",
+    "ipa_pronunciation": "t͡sfɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pedał",
+    "literal_translation": "bicycle pedal",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Common homophobic slur for a gay man.",
+    "cultural_context": "Often used in homophobic contexts, though sometimes used casually among straight male youths to mock effeminate behavior. Highly offensive.",
+    "example_usage": "[Homophobic slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "ˈpɛ.daw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "podpierdolić",
+    "literal_translation": "to under-fuck",
+    "english_equivalent": "to snitch / to steal",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To squeal or snitch on someone to a boss or authorities; alternatively, to steal something quietly.",
+    "cultural_context": "Snitching ('podpierdalanie') is heavily frowned upon in Polish society, a lingering trait from resistance against historical occupiers and communist police.",
+    "example_usage": "Ktoś mnie podpierdolił do szefa. (Somebody fucking snitched on me to the boss.)",
+    "ipa_pronunciation": "pɔt.pjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rozjebać",
+    "literal_translation": "to fuck apart",
+    "english_equivalent": "to destroy / to smash to pieces",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To break or smash something totally, or to beat a person severely.",
+    "cultural_context": "Used to describe cars totaled in accidents, or an emotional breakdown.",
+    "example_usage": "Rozjebałem auto na drzewie. (I totally fucked/destroyed the car on a tree.)",
+    "ipa_pronunciation": "rɔˈzjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wyjebane",
+    "literal_translation": "fucked out",
+    "english_equivalent": "I don't give a fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Usually used as 'mieć wyjebane' (to have it fucked out), meaning to completely not care about something.",
+    "cultural_context": "The ultimate expression of apathy or deciding not to stress over an impossible situation.",
+    "example_usage": "Mam na to wyjebane. (I don't give a single fuck about it.)",
+    "ipa_pronunciation": "vɨ.jɛˈba.nɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "przypierdolić",
+    "literal_translation": "to fuck at/onto",
+    "english_equivalent": "to hit hard / to smack",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To strike someone or something with great force or to accidentally bash oneself into an object.",
+    "cultural_context": "Used when bumping a toe into a table, or punching someone in a bar.",
+    "example_usage": "Przypierdoliłem głową w szafkę. (I bashed my fucking head into the cabinet.)",
+    "ipa_pronunciation": "pʂɨ.pjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ojebać",
+    "literal_translation": "to surround-fuck",
+    "english_equivalent": "to down (food) / to blow / to scam",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Highly context-dependent: 1) to eat something very fast (ojebać kebsa), 2) to scam someone out of money, 3) to give a blowjob (ojebać gałę).",
+    "cultural_context": "Demonstrates the insane versatility of Polish prefixes. The same verb means eating kebab and performing oral sex.",
+    "example_usage": "Ojebałem całego kebsa. (I scarfed down the whole fucking kebab.)",
+    "ipa_pronunciation": "ɔˈjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dojebać",
+    "literal_translation": "to add-fuck",
+    "english_equivalent": "to roast / to add heavily",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To deliver a brutal verbal comeback (roast), to add an excessive amount of something, or to assign someone a terrible task.",
+    "cultural_context": "'Dojebałeś do pieca' (You added to the furnace) means you said an absolute banger of a joke or roast.",
+    "example_usage": "Ale mu dojebałeś! (Man, you totally roasted him!)",
+    "ipa_pronunciation": "dɔˈjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebany",
+    "literal_translation": "fucked",
+    "english_equivalent": "fucking (adjective)",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Used to describe something annoying, difficult, or sometimes impressive (like 'fucking genius').",
+    "cultural_context": "Commonly precedes insults (jebany skurwysyn). If someone does a magic trick well: 'Ale jebany!' (He's fucking unbelievable!).",
+    "example_usage": "Ten jebany telewizor nie działa. (This fucking TV doesn't work.)",
+    "ipa_pronunciation": "jɛˈba.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skurwić się",
+    "literal_translation": "to whore oneself",
+    "english_equivalent": "to sell out / to compromise one's morals",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To abandon one's principles for money or status.",
+    "cultural_context": "Used to describe politicians who switch parties for cash, or indie bands that go mainstream purely for money.",
+    "example_usage": "Skurwił się dla kasy. (He sold himself out for the money.)",
+    "ipa_pronunciation": "ˈskur.vit͡ɕ ɕɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zjeb",
+    "literal_translation": "fuck-down (person)",
+    "english_equivalent": "retard / fuck-up / moron",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A noun deriving from 'zjebać'. Describes a hopelessly incompetent, stupid, or annoying person.",
+    "cultural_context": "Common insult for people making stupid mistakes repeatedly or having terrible opinions online.",
+    "example_usage": "Co za zjeb. (What a fucking retard/moron.)",
+    "ipa_pronunciation": "zjɛp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chujnia",
+    "literal_translation": "dick-place",
+    "english_equivalent": "total mess / shitty situation",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A noun defining a situation of hopelessness, poverty, bad quality, or a boring event.",
+    "cultural_context": "A classic description of post-communist gloom or just a really boring party.",
+    "example_usage": "Totalna chujnia z grzybnią. (A total shitty mess with mushroom-mold.)",
+    "ipa_pronunciation": "ˈxuj.ɲa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wpierdolić",
+    "literal_translation": "to in-fuck",
+    "english_equivalent": "to beat the shit out of / to devour",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To beat someone violently and win a fight easily, OR to eat a meal ravenously.",
+    "cultural_context": "A hooligan term for beating someone up ('dostać wpierdol' = to get an ass/shit-beating).",
+    "example_usage": "Zaraz ci wpierdolę. (I'm gonna beat the shit out of you right now.)",
+    "ipa_pronunciation": "fpjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebać prądem",
+    "literal_translation": "to fuck with electricity",
+    "english_equivalent": "shock the shit out of / to be tortured",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Often used in the phrase 'takich to tylko jebać prądem' (those kinds of people should only be shocked with electricity).",
+    "cultural_context": "A darkly humorous condemnation of people who are inexplicably stupid or annoying.",
+    "example_usage": "Za takie zachowanie to jebać prądem. (For behavior like that, they should be electro-fucked.)",
+    "ipa_pronunciation": "ˈjɛ.bat͡ɕ ˈprɔn.dɛm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wkurwiony",
+    "literal_translation": "in-whored",
+    "english_equivalent": "pissed off / furious",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Being in a state of high anger or irritation.",
+    "cultural_context": "The standard vulgar way to express that you are having a terrible, rage-inducing day.",
+    "example_usage": "Jestem tak wkurwiony, że zaraz wybuchnę. (I am so pissed off I'm gonna explode.)",
+    "ipa_pronunciation": "vkurˈvjɔ.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "podjebać",
+    "literal_translation": "to under-fuck",
+    "english_equivalent": "to steal / to steal an idea / to snitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A direct synonym to 'podpierdolić' - to sneakily steal an object, or to report someone to an authority.",
+    "cultural_context": "Used for petty theft like a stolen pen at work, or taking someone's joke.",
+    "example_usage": "Ktoś mi podjebał zapalniczkę. (Someone snatched my fucking lighter.)",
+    "ipa_pronunciation": "pɔˈdjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "popierdolić",
+    "literal_translation": "to after-fuck",
+    "english_equivalent": "to mix up / to mess up",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To confuse things, to make a total mess in someone's head, or to go crazy ('popierdoliło cię?' = have you lost your mind?).",
+    "cultural_context": "A question to someone proposing a terrible or dangerous idea.",
+    "example_usage": "Ciębie już do reszty popierdoliło? (Have you completely lost your fucking mind?)",
+    "ipa_pronunciation": "pɔ.pjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "przypał",
+    "literal_translation": "burn-to",
+    "english_equivalent": "fucked up situation / busted / cringe",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A situation presenting high risk of getting caught by police/parents, or simply an embarrassing situation.",
+    "cultural_context": "Very common youth slang. Not technically a swear word, but frequently paired with them.",
+    "example_usage": "Ale przypał. (What a bust / How embarrassing.)",
+    "ipa_pronunciation": "ˈpʂɨ.paw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "śmieć",
+    "literal_translation": "trash/garbage",
+    "english_equivalent": "piece of trash / scum",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person of no moral value. A scumbag.",
+    "cultural_context": "Calling a human 'trash' is a very severe character insult in Poland, often combined with 'jebany' (fucking trash).",
+    "example_usage": "Jebany śmieć. (Fucking piece of trash.)",
+    "ipa_pronunciation": "ɕmjɛt͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ciota",
+    "literal_translation": "aunt (derogatory)",
+    "english_equivalent": "faggot / pussy / weakling",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Refers to menstruation, a gay man, or a weak, effeminate man.",
+    "cultural_context": "Used to attack a man's courage or strength. 'Nie bądź ciotą' = Don't be a pussy.",
+    "example_usage": "Zachowujesz się jak ciota. (You're acting like a pussy/faggot.)",
+    "ipa_pronunciation": "ˈt͡ɕɔ.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "najebany",
+    "literal_translation": "over-fucked",
+    "english_equivalent": "fucking wasted / utterly drunk",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes a person who is extremely drunk or high.",
+    "cultural_context": "The most common vulgar way to describe being highly intoxicated on Friday nights.",
+    "example_usage": "Jestem tak najebany, że nic nie widzę. (I'm so wasted I can't see anything.)",
+    "ipa_pronunciation": "na.jɛˈba.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "napruty",
+    "literal_translation": "stuffed",
+    "english_equivalent": "wasted / drunk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Synonym for drunk, slightly less vulgar than 'najebany'.",
+    "cultural_context": "Used casually to recount party stories among friends.",
+    "example_usage": "Przyszedł kompletnie napruty. (He arrived completely wasted.)",
+    "ipa_pronunciation": "naˈpru.tɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rzygać",
+    "literal_translation": "to vomit",
+    "english_equivalent": "to puke / to be sick of",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Literal vomiting or expressing extreme disgust/boredom with a topic.",
+    "cultural_context": "Mild vulgarity, often used metaphorically. 'Rzygam tym' means 'I am so sick of this'.",
+    "example_usage": "Rzygać mi się chce jak na niego patrzę. (It makes me want to puke when I look at him.)",
+    "ipa_pronunciation": "ˈʐɨ.ɡat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dupek",
+    "literal_translation": "little ass",
+    "english_equivalent": "jerk / asshole",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Diminutive of 'dupa' (ass). A selfish, mean, or arrogant man.",
+    "cultural_context": "Fairly mild. Common in dubbed American movies to translate 'asshole' or 'jerk' because it avoids the harsher R-rated curses.",
+    "example_usage": "Ale z niego dupek. (He's such an asshole/jerk.)",
+    "ipa_pronunciation": "ˈdu.pɛk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dzban",
+    "literal_translation": "pitcher / jug",
+    "english_equivalent": "blockhead / idiot / empty-headed",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person with an empty head; totally stupid or ignorant.",
+    "cultural_context": "Won Polish 'Youth Word of the Year'. A very popular, relatively clean slang word for an idiot.",
+    "example_usage": "Zamilcz dzbanie. (Be quiet, you jug/idiot.)",
+    "ipa_pronunciation": "dzban",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurewsko",
+    "literal_translation": "whorely",
+    "english_equivalent": "fucking (very)",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Used to denote 'extremely' or 'intensely'.",
+    "cultural_context": "Amplifies an adjective greatly. E.g. 'kurewsko zimno' means 'fucking freezing'.",
+    "example_usage": "Jest tu kurewsko zimno. (It's fucking freezing in here.)",
+    "ipa_pronunciation": "kuˈrɛf.skɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zjebać",
+    "literal_translation": "to fuck down",
+    "english_equivalent": "to fuck up / to ruin",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To make a terrible mistake, completely ruin a project, or scold someone severely.",
+    "cultural_context": "Universally used in casual Polish to admit a mistake ('zjebałem' - I fucked up).",
+    "example_usage": "Totalnie to zjebałem. (I completely fucked this up.)",
+    "ipa_pronunciation": "ˈzjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "upierdolić",
+    "literal_translation": "to down-fuck",
+    "english_equivalent": "to fail (an exam) / to chop off / to stain",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To fail a student at an exam, to cut a limb off, or to stain your shirt with food.",
+    "cultural_context": "Student slang for failing ('profesor mnie upierdolił' - the professor failed/fucked me). Also used when a saw cuts off a finger.",
+    "example_usage": "Upierdoliłem stół sosem. (I stained the fucking table with sauce.)",
+    "ipa_pronunciation": "u.pjɛrˈdɔ.lit͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wpierdol",
+    "literal_translation": "in-fuck",
+    "english_equivalent": "an ass-whooping / a beating",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A physical beating. Getting pummeled.",
+    "cultural_context": "Associated with soccer hooligans (kibole) or bar fights. Giving someone 'wpierdol' means beating them badly.",
+    "example_usage": "Chcesz dostać wpierdol? (Do you want to get your ass kicked?)",
+    "ipa_pronunciation": "ˈfpjɛr.dɔl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "odjebać",
+    "literal_translation": "to off-fuck",
+    "english_equivalent": "to dress to impress / to execute / to do something crazy",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To dress extremely elegantly ('odjebany jak stróż w Boże Ciało'), to kill someone, or to do something bizarre.",
+    "cultural_context": "Highly context dependent depending on the preposition used.",
+    "example_usage": "Ale się odjebałeś! (You're dressed fucking great/dressed to the nines!)",
+    "ipa_pronunciation": "ɔˈdjɛ.bat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurwiszon",
+    "literal_translation": "big whore",
+    "english_equivalent": "cheap hooker / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A grotesque, usually aging or very cheap prostitute/promiscuous woman.",
+    "cultural_context": "A creative variation of 'kurwa' adding a judgmental and somewhat comical/disgusting tone.",
+    "example_usage": "Stary kurwiszon. (Old worn-out slut.)",
+    "ipa_pronunciation": "kurˈvi.ʂɔn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizdowaty",
+    "literal_translation": "cunt-ish",
+    "english_equivalent": "wimpy / pathetic",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes a man who is cowardly, weak, and pathetic.",
+    "cultural_context": "A direct attack on confidence and masculinity.",
+    "example_usage": "Jakiś taki pizdowaty jest. (He's just sort of wimpy and pathetic.)",
+    "ipa_pronunciation": "piz.dɔˈva.tɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sukinsyn",
+    "literal_translation": "son of a bitch",
+    "english_equivalent": "son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Direct translation of son of a bitch (suka = bitch, in = 's, syn = son).",
+    "cultural_context": "Used in TV and literature to replace the harsher 'skurwysyn'. Considered slightly archaic or imported from English movie translations.",
+    "example_usage": "Złapcie tego sukinsyna. (Catch that son of a bitch.)",
+    "ipa_pronunciation": "suˈkin.sɨn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hujowy (chujowy)",
+    "literal_translation": "dickish",
+    "english_equivalent": "shitty / extremely bad",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describes something of very poor quality, or terrible weather.",
+    "cultural_context": "A fundamental descriptor in Poland. Can describe cars, movies, food, government, or life.",
+    "example_usage": "Ten film był chujowy. (That movie was totally shitty.)",
+    "ipa_pronunciation": "xuˈjɔ.vɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skurwiel",
+    "literal_translation": "whore-son (variant)",
+    "english_equivalent": "bastard / tough motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Variant of skurwysyn. Represents a ruthless, cunning, or bad guy.",
+    "cultural_context": "Sometimes used with grudging respect for a tough villain or a very difficult task/exam.",
+    "example_usage": "Twardy z niego skurwiel. (He's a tough motherfucker.)",
+    "ipa_pronunciation": "ˈskur.vjɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wypierdek",
+    "literal_translation": "little fart out",
+    "english_equivalent": "little shit / runt",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to describe a very short person or an annoying, insignificant little guy.",
+    "cultural_context": "Derogatory regarding height and status. From the root to fart (pierdzieć).",
+    "example_usage": "Mały wypierdek. (Little runt/fart.)",
+    "ipa_pronunciation": "vɨˈpjɛr.dɛk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zapieprzać",
+    "literal_translation": "to pepper behind",
+    "english_equivalent": "to work hard / to speed",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A softened, family-friendly version of 'zapierdalać' (to work hard, to run fast).",
+    "cultural_context": "Uses 'pieprz' (pepper) instead of 'pierdol'. Safe to say around parents and children.",
+    "example_usage": "Muszę zapieprzać do pracy. (I gotta hustle/speed to work.)",
+    "ipa_pronunciation": "zaˈpjɛp.ʂat͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wkurzony",
+    "literal_translation": "dusted in",
+    "english_equivalent": "angry / pissed",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A family friendly version of 'wkurwiony'. Means 'angry'.",
+    "cultural_context": "Very common, essentially just standard language for being very angry, avoiding the 'kurwa' root by replacing it with 'kurz' (dust).",
+    "example_usage": "Jestem mega wkurzony. (I'm super pissed/angry.)",
+    "ipa_pronunciation": "fkuˈʐɔ.nɨ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sraczka",
+    "literal_translation": "the shits",
+    "english_equivalent": "diarrhea / panicked rushing",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Vulgar term for diarrhea, often used to describe rushing or panicking uselessly.",
+    "cultural_context": "When a company panics to meet a deadline, employees call it 'sraczka' (panic diarrhea).",
+    "example_usage": "Mają sraczkę z tym projektem. (They are shitting themselves rushing over this project.)",
+    "ipa_pronunciation": "ˈsrat͡ʂ.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dupowlaz",
+    "literal_translation": "ass-climber",
+    "english_equivalent": "brown-noser / ass-kisser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A sycophant. Someone who flatters bosses to get ahead.",
+    "cultural_context": "Highly looked down upon in the workplace. Implies someone is literally crawling into the boss's ass.",
+    "example_usage": "Straszliwy dupowlaz. (A terrible brown-noser.)",
+    "ipa_pronunciation": "duˈpɔ.vlas",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zesrać się",
+    "literal_translation": "to shit oneself",
+    "english_equivalent": "to fail spectacularly / to throw a fit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "To completely fail a task, or when an engine breaks down ('auto się zesrało'). Also means throwing an internet tantrum.",
+    "cultural_context": "Common internet slang ('O Boże o kurwa zesrał się' meme). Means losing composure completely.",
+    "example_usage": "Pewnie się zesra na widok cen. (He'll probably shit himself looking at the prices.)",
+    "ipa_pronunciation": "ˈzɛs.rat͡ɕ ɕɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurewstwo",
+    "literal_translation": "whoreness",
+    "english_equivalent": "injustice / terrible situation / slutty behavior",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Extreme malice, injustice, or widespread corruption. Sometimes refers to prostitution.",
+    "cultural_context": "Used to describe an unfair system, steep taxes, or someone's malicious betrayal.",
+    "example_usage": "Zwykłe kurewstwo i złodziejstwo. (Pure fucking injustice and thievery.)",
+    "ipa_pronunciation": "kuˈrɛf.stfɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chuj w to",
+    "literal_translation": "a dick into this",
+    "english_equivalent": "fuck it / whatever",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Expression of abandoning a task or dismissing a problem.",
+    "cultural_context": "The working man's philosophy for letting go of unfixable problems.",
+    "example_usage": "Nie naprawię tego, chuj w to. (I can't fix this, fuck it.)",
+    "ipa_pronunciation": "ˈxuj f ˈtɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "podpierdalacz",
+    "literal_translation": "under-fucker",
+    "english_equivalent": "snitch / rat",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person who snitches or steals small items.",
+    "cultural_context": "The absolute worst kind of person in school or a factory.",
+    "example_usage": "Nie ufaj mu, to podpierdalacz. (Don't trust him, he's a snitch.)",
+    "ipa_pronunciation": "pɔt.pjɛrˈda.lat͡ʂ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebło",
+    "literal_translation": "it fucked",
+    "english_equivalent": "it broke / it exploded",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used when something heavily breaks, collapses, or hits the ground.",
+    "cultural_context": "Famous meme phrase: 'jebło to jebło, na chuj drążyć temat' (it broke, it broke, why the fuck dwell on it).",
+    "example_usage": "Jebło o ziemię. (It smashed to the fucking ground.)",
+    "ipa_pronunciation": "ˈjɛ.bwɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pojeb",
+    "literal_translation": "post-fucked (person)",
+    "english_equivalent": "basketcase / psycho / nutjob",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person whose actions defy logic and are severely crazy.",
+    "cultural_context": "Used for road-ragers, internet stalkers, or eccentric madmen.",
+    "example_usage": "Zostaw go, to niezły pojeb. (Leave him be, he's quite the psycho.)",
+    "ipa_pronunciation": "ˈpɔ.jɛp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "suka",
+    "literal_translation": "bitch (female dog)",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A malicious, cunning, or bad-tempered woman. Also slang for a police van.",
+    "cultural_context": "In Polish rap and street slang, police vans are called 'suki' (bitches) patrolling the streets. Highly offensive towards women.",
+    "example_usage": "Zabrali go do suki. (They took him to the police van-bitch.) / Wredna suka. (Evil bitch.)",
+    "ipa_pronunciation": "ˈsu.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wypierdek mamuta",
+    "literal_translation": "mammoth's little fart",
+    "english_equivalent": "little shit / tiny insignificant bastard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A comical insult for someone who is very small, very loud, and thinks they are important.",
+    "cultural_context": "Often aimed at children, young siblings, or short aggressive men.",
+    "example_usage": "Cicho bądź, marny wypierdku mamuta. (Be quiet, you pitiful little mammoth fart.)",
+    "ipa_pronunciation": "vɨˈpjɛr.dɛk maˈmu.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zaśmierać",
+    "literal_translation": "to over-stink",
+    "english_equivalent": "to stink to high heaven",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To smell incredibly bad.",
+    "cultural_context": "Mild slang for expressing disgust at an odor.",
+    "example_usage": "Ale tu zaśmierdziało. (God, it stinks fucking bad in here.)",
+    "ipa_pronunciation": "zaˈɕmjɛr.d͡ʑɛt͡ɕ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gówniarz",
+    "literal_translation": "shit-ster / shit-boy",
+    "english_equivalent": "little shit / punk kid / brat",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A disrespectful term for a child, teenager, or immature young adult.",
+    "cultural_context": "Used heavily by older generations to demean youths who mock authority.",
+    "example_usage": "A co ty wiesz, gówniarzu? (What do you know, you little shit?)",
+    "ipa_pronunciation": "ˈɡuv.ɲaʂ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ryj",
+    "literal_translation": "pig's snout",
+    "english_equivalent": "ugly mug / snout",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A vulgar term for someone's face or mouth.",
+    "cultural_context": "Telling someone 'zamknij ryj' (shut your snout) is highly aggressive and disrespectful.",
+    "example_usage": "Zamknij ten głupi ryj. (Shut your stupid snout.)",
+    "ipa_pronunciation": "rɨj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

@@ -1,0 +1,1839 @@
+[
+  {
+    "word": "jebem",
+    "literal_translation": "I fuck",
+    "english_equivalent": "fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "First-person present tense of 'jebati' (to fuck).",
+    "cultural_context": "The absolute building block of all Balkan curses. Almost every sentence starts with 'Jebem ti...' (I fuck your...).",
+    "example_usage": "Jebem ti sve! (I fuck your everything!)",
+    "ipa_pronunciation": "je.bem",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebiga",
+    "literal_translation": "fuck it / fuck him",
+    "english_equivalent": "fuck it / oh well / damn",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Contraction of 'jebi ga' (fuck him/it).",
+    "cultural_context": "The most commonly used word in the Balkans. It is essentially verbal punctuation, roughly meaning 'that's life' or 'oh well' when something bad happens.",
+    "example_usage": "Pao sam test, jebiga. (I failed the test, fuck it/oh well.)",
+    "ipa_pronunciation": "je.bi.ga",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurac",
+    "literal_translation": "dick",
+    "english_equivalent": "cock",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Penis.",
+    "cultural_context": "Highly versatile. Can mean 'nothing' (e.g., 'Koji kurac?' = What the fuck? / 'Dobićeš kurac' = You'll get nothing/dick).",
+    "example_usage": "Koji kurac hoćeš? (What the fuck/dick do you want?)",
+    "ipa_pronunciation": "ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pička",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Female genitalia.",
+    "cultural_context": "Can be an anatomical slur, or describe an incredibly beautiful woman (Dobra pička), or mean a coward (On je pička = He is a pussy).",
+    "example_usage": "Mrš u pičku materinu! (Go to your mother's cunt/off!)",
+    "ipa_pronunciation": "pi.tʃka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "govno",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces or someone with a terrible character.",
+    "cultural_context": "A classic noun insult.",
+    "example_usage": "Ti si jedno obično govno. (You are just a regular piece of shit.)",
+    "ipa_pronunciation": "gov.no",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti mater",
+    "literal_translation": "I fuck your mother",
+    "english_equivalent": "motherfucker / fuck your mother",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The classic, ubiquitous mother-fucking insult.",
+    "cultural_context": "Used in anger, surprise, or just to emphasize a point.",
+    "example_usage": "Vozi jebem ti mater! (Drive, fuck your mother!)",
+    "ipa_pronunciation": "je.bem ti ma.ter",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti mrtvu mater",
+    "literal_translation": "I fuck your dead mother",
+    "english_equivalent": "I fuck your dead mother",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A terrifyingly escalated version targeting deceased parental figures.",
+    "cultural_context": "Balkan swearing famously escalates to the dead to inflict maximum emotional damage.",
+    "example_usage": "Šta radiš, jebem ti mrtvu mater? (What are you doing, I fuck your dead mother?)",
+    "ipa_pronunciation": "je.bem ti mr.tvu ma.ter",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti sve po spisku",
+    "literal_translation": "I fuck everything you have on the list",
+    "english_equivalent": "fuck your entire existence / fuck them all",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A blanket curse meaning 'I will systematically fuck every single person on the list of people you care about'.",
+    "cultural_context": "A beautifully bureaucratic and mathematically thorough Balkan curse.",
+    "example_usage": "Jebem ti sve po spisku! (Fuck everyone on your list!)",
+    "ipa_pronunciation": "je.bem ti sve po spis.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mrš",
+    "literal_translation": "march",
+    "english_equivalent": "fuck off / get out",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A sharp, guttural command equivalent to 'beat it' or 'piss off'.",
+    "cultural_context": "Used constantly to dismiss dogs or annoying people.",
+    "example_usage": "Mrš odavde! (Fuck off from here!)",
+    "ipa_pronunciation": "mr.ʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti sunce",
+    "literal_translation": "I fuck your sun",
+    "english_equivalent": "goddammit",
+    "severity": 4,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the very sun that shines upon someone.",
+    "cultural_context": "In the Balkans, cursing the sun, sky, or weather is a standard way to express massive frustration.",
+    "example_usage": "Jebem ti sunce krvavo! (I fuck your bloody sun!)",
+    "ipa_pronunciation": "je.bem ti sun.tse",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti krv",
+    "literal_translation": "I fuck your blood",
+    "english_equivalent": "I curse your bloodline",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A curse upon someone's biological makeup and bloodline.",
+    "cultural_context": "Highly aggressive.",
+    "example_usage": "Jebem ti krv Isusovu! (I fuck your Jesus' blood!)",
+    "ipa_pronunciation": "je.bem ti krv",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebač",
+    "literal_translation": "fucker",
+    "english_equivalent": "player / fuckboy",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A man who fucks often.",
+    "cultural_context": "Can be used neutrally or positively among men to mean someone who gets a lot of dates.",
+    "example_usage": "On je veliki jebač. (He is a massive player/fucker.)",
+    "ipa_pronunciation": "je.batʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebeno",
+    "literal_translation": "fucking",
+    "english_equivalent": "fucking",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Used as an intensifier exactly like English 'fucking'.",
+    "cultural_context": "Very common.",
+    "example_usage": "Ovo je jebeno nevjerovatno. (This is fucking unbelievable.)",
+    "ipa_pronunciation": "je.be.no",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizda",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt / traitor / coward",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female genitalia.",
+    "cultural_context": "Often used to describe a cowardly, weak, or treacherous man ('on je pizda' = he is a cunt/bitch).",
+    "example_usage": "Šuti, pizdo jedna. (Shut up, you cunt.)",
+    "ipa_pronunciation": "piz.da",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pička ti materina",
+    "literal_translation": "your mother's cunt",
+    "english_equivalent": "fuck you / motherfucker",
+    "severity": 5,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "A direct attack invoking the listener's mother's genitals.",
+    "cultural_context": "The standard massive insult of the region.",
+    "example_usage": "Idi u pičku materinu! (Go into your mother's cunt! / Go fuck yourself!)",
+    "ipa_pronunciation": "pi.tʃka ti ma.te.ri.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurva",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A prostitute.",
+    "cultural_context": "The pan-Slavic word for a whore. Used constantly.",
+    "example_usage": "Vidi onu kurvu. (Look at that whore.)",
+    "ipa_pronunciation": "kur.va",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurvin sin",
+    "literal_translation": "whore's son",
+    "english_equivalent": "son of a bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Son of a prostitute.",
+    "cultural_context": "Direct, combative insult.",
+    "example_usage": "Dođi vamo, kurvin sine. (Come here, you son of a bitch.)",
+    "ipa_pronunciation": "kur.vin sin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drkadžija",
+    "literal_translation": "wanker",
+    "english_equivalent": "wanker / jerk",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "From 'drkati' (to jerk off). A man who masturbates.",
+    "cultural_context": "Means a useless idiot or someone doing annoying busywork.",
+    "example_usage": "Koji si ti drkadžija. (What a wanker you are.)",
+    "ipa_pronunciation": "dr.ka.dʒi.ja",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drkati",
+    "literal_translation": "to stroke",
+    "english_equivalent": "to jerk off / to bullshit",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To masturbate.",
+    "cultural_context": "Can mean literal masturbation or metaphorically 'bullshitting' someone (Ne drkaj me = Don't jerk me around/bullshit me).",
+    "example_usage": "Ne drkaj kurac! (Don't jerk the dick / Stop doing useless shit!)",
+    "ipa_pronunciation": "dr.ka.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nabijem te",
+    "literal_translation": "I impale you",
+    "english_equivalent": "up yours / stick it",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Short for 'Nabijem te na kurac' (I impale you on my dick).",
+    "cultural_context": "A violent, deeply historical curse referencing Ottoman impalement, updated with a sexual twist.",
+    "example_usage": "Nabijem te na kurac! (Impale yourself on my dick!)",
+    "ipa_pronunciation": "na.bi.jem te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "boga ti jebem",
+    "literal_translation": "I fuck your God",
+    "english_equivalent": "goddammit (blasphemy)",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "A direct vulgar attack on the deity.",
+    "cultural_context": "Despite religious histories, cursing God is one of the most common and explosive forms of Balkan profanity.",
+    "example_usage": "Boga ti jebem krvavog! (I fuck your bloody God!)",
+    "ipa_pronunciation": "bo.ga ti je.bem",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti hljeb",
+    "literal_translation": "I fuck your bread",
+    "english_equivalent": "damn your food / goddamn",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing someone's daily bread/survival.",
+    "cultural_context": "Bread holds immense cultural and religious significance. To fuck someone's bread is to curse their basic sustenance.",
+    "example_usage": "Jebem ti hljeb i sol! (I fuck your bread and salt!)",
+    "ipa_pronunciation": "je.bem ti xljeb",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "čmar",
+    "literal_translation": "anus",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The physical anatomical anus.",
+    "cultural_context": "Used similarly to English 'asshole', though 'supak' is more common.",
+    "example_usage": "Dlakavi čmar. (Hairy asshole.)",
+    "ipa_pronunciation": "tʃmar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "šupak",
+    "literal_translation": "asshole",
+    "english_equivalent": "asshole / jerk",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The asshole.",
+    "cultural_context": "A very common insult for a despicable, mean, or unfair person.",
+    "example_usage": "On je najveći šupak. (He is the biggest asshole.)",
+    "ipa_pronunciation": "ʃu.pak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "seronja",
+    "literal_translation": "shitter",
+    "english_equivalent": "bullshitter / asshole",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who shits a lot (meaning they talk a lot of nonsense).",
+    "cultural_context": "Slightly lighter than kurac or šupak. Basically calling someone a chronic liar or braggart.",
+    "example_usage": "Šuti seronjo. (Shut up, shitter/bullshitter.)",
+    "ipa_pronunciation": "se.ro.ɲa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti pleme",
+    "literal_translation": "I fuck your tribe",
+    "english_equivalent": "fuck your ancestors / origins",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing someone's entire clan, ancestors, or ethnicity.",
+    "cultural_context": "Highlights the deep tribal history of the Balkans.",
+    "example_usage": "Jebem ti pleme i sjeme! (I fuck your tribe and your seed/sperm!)",
+    "ipa_pronunciation": "je.bem ti ple.me",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "djubre",
+    "literal_translation": "garbage / manure",
+    "english_equivalent": "scum / trash",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Animal dung or gross garbage.",
+    "cultural_context": "A very heavy insult targeting someone's character. 'Ti si obično đubre' means 'You are absolute scum'.",
+    "example_usage": "Đubre jedno! (You piece of trash!)",
+    "ipa_pronunciation": "dʑu.bre",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "peder",
+    "literal_translation": "faggot",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Homosexual person.",
+    "cultural_context": "Used heavily in a derogatory way, also used in politics/sports to insult referees.",
+    "example_usage": "Sudija pederu! (Referee, faggot!)",
+    "ipa_pronunciation": "pe.der",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebozovna",
+    "literal_translation": "fuck-inviting",
+    "english_equivalent": "fuckable / incredibly hot",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A woman whose appearance practically invites men to fuck her.",
+    "cultural_context": "While highly vulgar, it is often intended as a supreme compliment between men about a woman.",
+    "example_usage": "Kako je jebozovna. (She's so fuckable/hot.)",
+    "ipa_pronunciation": "je.bo.zov.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zajebavati",
+    "literal_translation": "to around-fuck",
+    "english_equivalent": "to fuck around / to mess with",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "To tease, joke around with, or mess with someone.",
+    "cultural_context": "An essential verb. 'Zajebancija' means a joke or having fun.",
+    "example_usage": "Nemoj me zajebavati. (Don't fuck with me/bullshit me.)",
+    "ipa_pronunciation": "za.je.ba.va.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "popuši mi",
+    "literal_translation": "smoke me",
+    "english_equivalent": "suck my dick / blow me",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Commanding someone to 'smoke' (suck on) your penis.",
+    "cultural_context": "Standard aggressive insult.",
+    "example_usage": "Ma popuši mi kurac! (Just suck my dick!)",
+    "ipa_pronunciation": "po.pu.ʃi mi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "odjebi",
+    "literal_translation": "off-fuck",
+    "english_equivalent": "fuck off",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The imperative to detach via fucking (to fuck off).",
+    "cultural_context": "A direct translation of the English 'fuck off' conceptually, but using the slavic prefix 'od-' (away).",
+    "example_usage": "Odjebi od mene! (Fuck off away from me!)",
+    "ipa_pronunciation": "od.je.bi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "stoka",
+    "literal_translation": "cattle/livestock",
+    "english_equivalent": "brute / animals",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A herd of mindless livestock.",
+    "cultural_context": "Often yelled at bad drivers, crowds, or someone devoid of manners.",
+    "example_usage": "Ponašaš se kao stoka. (You're acting like cattle.)",
+    "ipa_pronunciation": "sto.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti opanak",
+    "literal_translation": "I fuck your peasant shoe",
+    "english_equivalent": "fuck your rustic origins",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An opanak is a traditional Balkan leather shoe.",
+    "cultural_context": "A highly creative, slightly comedic 'softer' curse used by older people.",
+    "example_usage": "Jebem ti opanak i čarapu! (I fuck your shoe and your sock!)",
+    "ipa_pronunciation": "je.bem ti o.pa.nak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "glupača",
+    "literal_translation": "stupid female",
+    "english_equivalent": "stupid bitch / bimbo",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A woman who is deeply stupid.",
+    "cultural_context": "Often associated with airhead or bimbo characteristics.",
+    "example_usage": "Ona je prava glupača. (She is a real stupid bitch.)",
+    "ipa_pronunciation": "glu.pa.tʃa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idiot",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An idiot.",
+    "cultural_context": "Universally understood.",
+    "example_usage": "Koji si ti idiot. (What an idiot you are.)",
+    "ipa_pronunciation": "i.di.ot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "materina",
+    "literal_translation": "mother's",
+    "english_equivalent": "mother's",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to describe something belonging to the mother.",
+    "cultural_context": "Most commonly paired with pička (cunt) or psovke (curses).",
+    "example_usage": "U pičku materinu. (Into the mother's cunt.)",
+    "ipa_pronunciation": "ma.te.ri.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurvašina",
+    "literal_translation": "massive whore",
+    "english_equivalent": "mega slut / super whore",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An augmented form of kurva.",
+    "cultural_context": "The '-šina' suffix implies something monstrous, oversized, and disgusting.",
+    "example_usage": "Koja je to kurvašina. (What a massive slut she is.)",
+    "ipa_pronunciation": "kur.va.ʃi.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "seljačina",
+    "literal_translation": "massive villager",
+    "english_equivalent": "redneck / hillbilly / uncultured swine",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A vulgar peasant without manners.",
+    "cultural_context": "A deeply offensive classist insult against people from rural areas or those who act loud and uncultured in the city.",
+    "example_usage": "Ponašaš se kao seljačina. (Acting like a hillbilly.)",
+    "ipa_pronunciation": "se.ʎa.tʃi.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kreten",
+    "literal_translation": "cretin",
+    "english_equivalent": "cretin / jerk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A cretin or deeply annoying person.",
+    "cultural_context": "Very common non-vulgar insult.",
+    "example_usage": "Makni se kretenu. (Move it, cretin.)",
+    "ipa_pronunciation": "kre.ten",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "začepi",
+    "literal_translation": "plug it",
+    "english_equivalent": "shut up / zip it",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "To plug a hole.",
+    "cultural_context": "Telling someone to plug up their mouth.",
+    "example_usage": "Usta te jebo, začepi. (Fuck your mouth, shut up.)",
+    "ipa_pronunciation": "za.tʃe.pi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti dijete",
+    "literal_translation": "I fuck your child",
+    "english_equivalent": "fuck your kid",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing someone's offspring.",
+    "cultural_context": "Widely considered the absolute darkest, most unforgivable line to cross. Will result in horrific violence.",
+    "example_usage": "Jebem ti dijete u kolijevci! (I fuck your child in the crib!)",
+    "ipa_pronunciation": "je.bem ti di.je.te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bolid",
+    "literal_translation": "Formula 1 race car / meteor",
+    "english_equivalent": "fast idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Usually means a race car. As slang, it means someone rushing around stupidly or a generalized idiot.",
+    "cultural_context": "Common youth slang.",
+    "example_usage": "Koji si ti bolid. (What a fast idiot you are.)",
+    "ipa_pronunciation": "bo.lid",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drolja",
+    "literal_translation": "tramp",
+    "english_equivalent": "tramp / slut / dirty woman",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A dirty, cheap tramp.",
+    "cultural_context": "Differs slightly from kurva. Kurva implies transactional sex; drolja implies someone trashy and cheap.",
+    "example_usage": "Ona drolja iz kafane. (That tramp from the bar.)",
+    "ipa_pronunciation": "dro.ʎa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti tetku",
+    "literal_translation": "I fuck your aunt",
+    "english_equivalent": "fuck your extended family",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing the aunt.",
+    "cultural_context": "Sometimes used instead of 'mother' to soften the blow or be oddly specific.",
+    "example_usage": "Jebem ti tetku pijanu. (I fuck your drunk aunt.)",
+    "ipa_pronunciation": "je.bem ti tet.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem te u usta",
+    "literal_translation": "I fuck you in the mouth",
+    "english_equivalent": "fuck your mouth",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Specifically targeting the mouth.",
+    "cultural_context": "Usually used to shut someone up.",
+    "example_usage": "Jebem te u usta lažljiva! (I fuck you in your lying mouth!)",
+    "ipa_pronunciation": "je.bem te u u.sta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pušiku*ac",
+    "literal_translation": "dick-sucker",
+    "english_equivalent": "cocksucker",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A unified noun made from 'puši' (suck) and 'kurac' (dick).",
+    "cultural_context": "Classic vulgar insult.",
+    "example_usage": "On je jedan obični pušikurac. (He is just a regular cocksucker.)",
+    "ipa_pronunciation": "pu.ʃi.ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nabijem te na kurac",
+    "literal_translation": "I impale you on my dick",
+    "english_equivalent": "fuck off and die / up yours",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The full expression of 'nabijem te'.",
+    "cultural_context": "An extremely aggressive, dismissive insult.",
+    "example_usage": "Idi drkaj, nabijem te na kurac! (Go jerk off, impale yourself on my dick!)",
+    "ipa_pronunciation": "na.bi.jem te na ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "guzica",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks.",
+    "cultural_context": "Very mild. 'Uđi mi u guzicu' (Get into my ass/kiss my ass).",
+    "example_usage": "Ne budi dlakava guzica. (Don't be a hairy ass.)",
+    "ipa_pronunciation": "gu.zi.tsa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "serator",
+    "literal_translation": "the one who shits",
+    "english_equivalent": "chronic bullshitter",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Someone who talks absolute shit constantly.",
+    "cultural_context": "From the verb 'srati' (to shit).",
+    "example_usage": "Koji si ti serator. (What a bullshitter you are.)",
+    "ipa_pronunciation": "se.ra.tor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sranje",
+    "literal_translation": "a shitting / shit",
+    "english_equivalent": "bullshit / a shitty situation",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "The act of shitting, or something that is shit.",
+    "cultural_context": "Equivalent to English 'bullshit' or 'crap'.",
+    "example_usage": "Ovo je obično sranje. (This is regular bullshit.)",
+    "ipa_pronunciation": "sra.ɲe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizdatiti",
+    "literal_translation": "to act like a cunt",
+    "english_equivalent": "to bitch and moan",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "To complain, whine, or act cowardly (like a pizda).",
+    "cultural_context": "Very descriptive slang.",
+    "example_usage": "Šta tu pizdatis? (What are you bitching about here?)",
+    "ipa_pronunciation": "piz.da.ti.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kučka",
+    "literal_translation": "female dog",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female dog.",
+    "cultural_context": "In the Balkans, calling someone a dog/kučka is considered a heavier character insult about loyalty than it is in English.",
+    "example_usage": "Ona je prava kučka. (She is a real bitch.)",
+    "ipa_pronunciation": "kutʃ.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pseto",
+    "literal_translation": "hound / cur",
+    "english_equivalent": "mutt / dog",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An ugly, stray dog.",
+    "cultural_context": "Used for men to describe someone utterly devoid of honor or loyalty.",
+    "example_usage": "Pseto jedno! (You absolute hound!)",
+    "ipa_pronunciation": "pse.to",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tuka",
+    "literal_translation": "turkey hen",
+    "english_equivalent": "dizzy bird / stupid woman",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female turkey.",
+    "cultural_context": "A classic slightly comedic insult for a woman who is acting incredibly silly or unintelligent.",
+    "example_usage": "Šuti, tuko jedna! (Shut up, you turkey!)",
+    "ipa_pronunciation": "tu.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "magarac",
+    "literal_translation": "donkey",
+    "english_equivalent": "jackass / stubborn fool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A donkey.",
+    "cultural_context": "To be stubborn, stupid, and uncooperative.",
+    "example_usage": "Glup si kao magarac. (You're as stupid as a donkey.)",
+    "ipa_pronunciation": "ma.ga.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "glupan",
+    "literal_translation": "stupid male",
+    "english_equivalent": "dumbass",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A male who is stupid.",
+    "cultural_context": "The standard male insult for lack of brains.",
+    "example_usage": "Ne budi takav glupan. (Don't be such a dumbass.)",
+    "ipa_pronunciation": "glu.pan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mudonja",
+    "literal_translation": "big testicles",
+    "english_equivalent": "big balls guy / arrogant prick",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Someone with massive testicles (muda).",
+    "cultural_context": "Can mean someone who is brave, or in an insulting way, someone who is swaggering and arrogant.",
+    "example_usage": "Vidi ovog mudonje. (Look at this big baller/arrogant guy.)",
+    "ipa_pronunciation": "mu.do.ɲa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sisata",
+    "literal_translation": "titty-having",
+    "english_equivalent": "busty woman / big tits",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A woman with large breasts (sise).",
+    "cultural_context": "Often used as a crude identifier.",
+    "example_usage": "Ona sisata kurva. (That busty whore.)",
+    "ipa_pronunciation": "si.sa.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "balija",
+    "literal_translation": "uncultured Muslim (historic)",
+    "english_equivalent": "sand nigger / Muslim peasant",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "An extreme ethnic/religious slur against Bosniaks (Bosnian Muslims).",
+    "cultural_context": "Highly offensive. Tied to the Yugoslav Wars and ethnic cleansing. Using this will start a war.",
+    "example_usage": "Mrtvi balija. (Dead balija.)",
+    "ipa_pronunciation": "ba.li.ja",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ustaša",
+    "literal_translation": "insurgent (historic fascism)",
+    "english_equivalent": "fascist / Nazi scum",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Refers to the WWII Croatian fascist movement.",
+    "cultural_context": "A vicious slur used primarily by Serbs and Bosniaks against Croats.",
+    "example_usage": "Jebem ti mater ustašku. (I fuck your fascist mother.)",
+    "ipa_pronunciation": "u.sta.ʃa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "četnik",
+    "literal_translation": "band member (historic fascism)",
+    "english_equivalent": "fascist / Serb scum",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Refers to the Serbian nationalist/monarchist WWII and 90s paramilitary movement.",
+    "cultural_context": "A slur used by Bosniaks and Croats against Serbs.",
+    "example_usage": "Četničko govno. (Chetnik piece of shit.)",
+    "ipa_pronunciation": "tʃet.nik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cigane",
+    "literal_translation": "gypsy",
+    "english_equivalent": "gypsy / dirty thief",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Romani person.",
+    "cultural_context": "Widely used as a slur to mean someone is dirty, untrustworthy, or cheap.",
+    "example_usage": "Ne budi cigan. (Don't be a gypsy.)",
+    "ipa_pronunciation": "tsi.ga.ne",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "šiptar",
+    "literal_translation": "Albanian (derogatory)",
+    "english_equivalent": "Albanian slur",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory slang derived from what Albanians call themselves (Shqiptar) but repurposed by Slavs as a severe slur.",
+    "cultural_context": "Used to denote someone as primitive, criminal, or an enemy of the state in Serbia/Macedonia.",
+    "example_usage": "Jebem ti šiptarsku mater. (I fuck your Albanian mother.)",
+    "ipa_pronunciation": "ʃip.tar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti boga Isusa",
+    "literal_translation": "I fuck your God Jesus",
+    "english_equivalent": "god fucking dammit",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "A targeted blasphemy against Christian faith.",
+    "cultural_context": "Most heavily used by Croats or Atheist ex-Yugoslavs.",
+    "example_usage": "Isusa ti jebem! (I fuck your Jesus!)",
+    "ipa_pronunciation": "je.bem ti bo.ga i.su.sa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "da ti jebem sve bolesno",
+    "literal_translation": "that I fuck everything of yours that is sick",
+    "english_equivalent": "fuck every illness you have",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing someone's diseases or vulnerable relatives.",
+    "cultural_context": "A breathtakingly cruel curse used to show absolute lack of empathy.",
+    "example_usage": "Da ti jebem sve bolesno u kući. (I fuck everything sick in your house.)",
+    "ipa_pronunciation": "da ti je.bem sve bo.les.no",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kopile",
+    "literal_translation": "bastard",
+    "english_equivalent": "bastard / illegitimate child",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child born out of wedlock.",
+    "cultural_context": "An archaic historical curse, still used to imply someone is worthless.",
+    "example_usage": "Malo kopile! (You little bastard!)",
+    "ipa_pronunciation": "ko.pi.le",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skote",
+    "literal_translation": "beast / freak",
+    "english_equivalent": "beast / monster",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A disgusting, unnatural animal.",
+    "cultural_context": "A heavy verbal blow against someone you find morally repulsive.",
+    "example_usage": "Marš, skote jedan! (March/Fuck off, you beast!)",
+    "ipa_pronunciation": "sko.te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mamojebac",
+    "literal_translation": "mother-fucker",
+    "english_equivalent": "motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A literal compound noun translation of the English motherfucker.",
+    "cultural_context": "A newer slang term. Traditionally, the Balkans used phrase forms (jebem ti mater), but this noun form has gained traction via Hollywood movies.",
+    "example_usage": "Koji mamojebac. (What a motherfucker.)",
+    "ipa_pronunciation": "ma.mo.je.bats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti nebo",
+    "literal_translation": "I fuck your sky",
+    "english_equivalent": "I curse the heavens",
+    "severity": 4,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the heavens above.",
+    "cultural_context": "Similar to cursing the sun, to express ultimate rage against the cosmos.",
+    "example_usage": "Nebo ti jebem! (I fuck your sky!)",
+    "ipa_pronunciation": "je.bem ti ne.bo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vukojebina",
+    "literal_translation": "wolf-fucking-place",
+    "english_equivalent": "the middle of nowhere / shithole",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A place so remote and desolate that wolves go there to fuck.",
+    "cultural_context": "One of the most poetic descriptors in the language for a horrible, remote village or town.",
+    "example_usage": "Živim u nekoj vukojebini. (I live in some wolf-fucking-place.)",
+    "ipa_pronunciation": "vu.ko.je.bi.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "odjeb u skokovima",
+    "literal_translation": "fuck off in hops",
+    "english_equivalent": "hop the fuck away / fuck off quickly",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A creative variation telling someone to fuck off immediately by hopping like a rabbit.",
+    "cultural_context": "Highly sarcastic.",
+    "example_usage": "A sad, odjeb u skokovima! (And now, hop the fuck away!)",
+    "ipa_pronunciation": "od.jeb u sko.ko.vi.ma",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "boli me kurac",
+    "literal_translation": "my dick hurts",
+    "english_equivalent": "I don't give a fuck / my ass aches",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "An expression meaning your dick physically hurts from how little you care about a situation.",
+    "cultural_context": "The standard Balkan response to someone else's problems or complaints.",
+    "example_usage": "Boli me kurac za tvoj auto. (My dick hurts [I don't give a fuck] about your car.)",
+    "ipa_pronunciation": "bo.li me ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mrsomud",
+    "literal_translation": "ball-tangler",
+    "english_equivalent": "bullshitter / nuisance",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Someone cutting corners, tying testicles in knots instead of working. A chronic bullshitter.",
+    "cultural_context": "An incredible descriptive noun for someone who talks a big game but does nothing.",
+    "example_usage": "On je običan mrsomud. (He is just a ball-tangler.)",
+    "ipa_pronunciation": "mr.so.mud",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "najebao si",
+    "literal_translation": "you have on-fucked",
+    "english_equivalent": "you are fucked / you're in deep shit",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "When the prefix 'na-' is added to 'jeb-', it means to accumulate suffering. Meaning you have walked into a catastrophic situation.",
+    "cultural_context": "Yelled primarily as a threat.",
+    "example_usage": "Sad si najebao! (Now you are totally fucked!)",
+    "ipa_pronunciation": "na.je.ba.o si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem te u uho",
+    "literal_translation": "I fuck you in the ear",
+    "english_equivalent": "I'll fuck your ear",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A bizarre anatomical threat targeting the ear.",
+    "cultural_context": "Often used because it avoids the cliché of the mouth or ass, making the threat uniquely confusing and terrifying.",
+    "example_usage": "Ma jebem te u uho glupo. (I fuck you in your stupid ear.)",
+    "ipa_pronunciation": "je.bem te u u.xo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "svršiti",
+    "literal_translation": "to conclude",
+    "english_equivalent": "to cum",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Literally means to finish/conclude a task, but is universally slang for male ejaculation.",
+    "cultural_context": "Common sexual vulgarity.",
+    "example_usage": "Svršio sam. (I came.)",
+    "ipa_pronunciation": "svr.ʃi.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "napuši se",
+    "literal_translation": "fill yourself with smoking",
+    "english_equivalent": "choke on a dick",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A command to gorge yourself by sucking on a penis.",
+    "cultural_context": "The intensified version of 'popuši mi'.",
+    "example_usage": "Ma napuši se kurca! (Gorge yourself on a dick!)",
+    "ipa_pronunciation": "na.pu.ʃi se",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drska pička",
+    "literal_translation": "arrogant cunt",
+    "english_equivalent": "arrogant bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An arrogant, overconfident woman.",
+    "cultural_context": "Used to describe a woman acting highly entitled.",
+    "example_usage": "Koja si ti drska pička. (What an arrogant cunt you are.)",
+    "ipa_pronunciation": "dr.ska pi.tʃka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sise",
+    "literal_translation": "breasts",
+    "english_equivalent": "tits",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Breasts.",
+    "cultural_context": "A completely standard vulgarity.",
+    "example_usage": "Ima dobre sise. (She has good tits.)",
+    "ipa_pronunciation": "si.se",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "muda",
+    "literal_translation": "testicles",
+    "english_equivalent": "balls",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Testicles.",
+    "cultural_context": "Used to describe courage ('Ima muda' = He has balls) or frustration ('Puni su mi muda' = My balls are full / I'm fed up).",
+    "example_usage": "Ne hvataj me za muda. (Don't grab my balls / stop annoying me.)",
+    "ipa_pronunciation": "mu.da",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kurvetina",
+    "literal_translation": "massive whore",
+    "english_equivalent": "mega slut",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An augmentative, heavily insulting version of kurva.",
+    "cultural_context": "The '-etina' suffix implies something large and disgusting.",
+    "example_usage": "Ona je obična kurvetina. (She is a regular mega slut.)",
+    "ipa_pronunciation": "kur.ve.ti.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kojekurac",
+    "literal_translation": "which-dick",
+    "english_equivalent": "what the fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A portmanteau of 'koji' (which) and 'kurac' (dick).",
+    "cultural_context": "An expression of absolute confusion or frustration.",
+    "example_usage": "Kojekurac ti hoćeš? (What the dick do you want?)",
+    "ipa_pronunciation": "ko.je.ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pun mi je kurac",
+    "literal_translation": "my dick is full",
+    "english_equivalent": "I am fucking fed up",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "A statement of maximum frustration, meaning one's patience (dick) has reached absolute capacity.",
+    "cultural_context": "One of the most commonly used expressions in the Balkans when someone's patience runs out.",
+    "example_usage": "Pun mi je kurac ovog posla! (My dick is full of this job!)",
+    "ipa_pronunciation": "pun mi je ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idi u tri pičke materine",
+    "literal_translation": "go to three of your mother's cunts",
+    "english_equivalent": "go far away and fuck off",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An escalated version of 'u pičku materinu'.",
+    "cultural_context": "The addition of 'tri' (three) adds a geometric, almost mythological distance to where you are telling the person to go.",
+    "example_usage": "Ma idi u tri lepe pičke materine! (Go to three beautiful mother's cunts!)",
+    "ipa_pronunciation": "i.di u tri pi.tʃke ma.te.ri.ne",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "izdrkotina",
+    "literal_translation": "jerk-off stain",
+    "english_equivalent": "jerk-off / piece of shit",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A stain or result of masturbation.",
+    "cultural_context": "Calling a human being an 'izdrkotina' means they are a worthless mistake of a bodily function.",
+    "example_usage": "Mala izdrkotino! (You little jerk-off stain!)",
+    "ipa_pronunciation": "iz.dr.ko.ti.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "balavac",
+    "literal_translation": "drooler",
+    "english_equivalent": "snot-nosed kid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child or young person who still drools (balavi).",
+    "cultural_context": "Used to dismiss the opinions or actions of someone younger.",
+    "example_usage": "Slušaj ovamo, balavče. (Listen here, snot-nosed kid.)",
+    "ipa_pronunciation": "ba.la.vats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "glup ko kurac",
+    "literal_translation": "dumb as a dick",
+    "english_equivalent": "dumb as a rock / fucking stupid",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Equating someone's brain power to a penis.",
+    "cultural_context": "A classic simile.",
+    "example_usage": "On je dečko malo glup ko kurac. (The boy is a little dumb as a dick.)",
+    "ipa_pronunciation": "glup ko ku.rats",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebena budala",
+    "literal_translation": "fucking fool",
+    "english_equivalent": "fucking idiot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A fool (budala) modified by the adjective form of fuck (jebena).",
+    "cultural_context": "A very standard insult.",
+    "example_usage": "Ne budi jebena budala. (Don't be a fucking fool.)",
+    "ipa_pronunciation": "je.be.na bu.da.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "spodoba",
+    "literal_translation": "apparition / creature",
+    "english_equivalent": "freak / monster",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A creepy, ghastly looking person or creature.",
+    "cultural_context": "Used heavily to insult someone's bizarre looks or terrible fashion.",
+    "example_usage": "Vidi one spodobe. (Look at that freak.)",
+    "ipa_pronunciation": "spo.do.ba",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ciganska posla",
+    "literal_translation": "gypsy business",
+    "english_equivalent": "shady business",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describing a situation that is corrupt, chaotic, or cheap.",
+    "cultural_context": "A racist idiom heavily embedded in the culture to describe anything untrustworthy.",
+    "example_usage": "Ovo su ciganska posla, ne diraj to. (This is gypsy business, don't touch it.)",
+    "ipa_pronunciation": "tsi.gan.ska pos.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kokoška",
+    "literal_translation": "chicken / hen",
+    "english_equivalent": "dumb bird",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A female chicken.",
+    "cultural_context": "Similar to 'tuka', used to describe a woman who is loud, gossipy, and unintelligent.",
+    "example_usage": "Glupa kokoško! (Stupid chicken!)",
+    "ipa_pronunciation": "ko.koʃ.ka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "đilkoš",
+    "literal_translation": "loudmouth peasant",
+    "english_equivalent": "loudmouth / swaggering idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An arrogant, loud, usually rural young man.",
+    "cultural_context": "Used for guys who act tough but are actually just uncultured.",
+    "example_usage": "Pravi si đilkoš. (You're a real loudmouth.)",
+    "ipa_pronunciation": "dʑil.koʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "popizdio",
+    "literal_translation": "he went cunt",
+    "english_equivalent": "he lost his shit / went crazy",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The verb form of entering a state of 'pizda' (cunt) meaning utter rage or madness.",
+    "cultural_context": "Highly descriptive emotional state.",
+    "example_usage": "Toliko me naživcirao da sam popizdio. (He annoyed me so much that I went cunt/lost my shit.)",
+    "ipa_pronunciation": "po.piz.di.o",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "najebati",
+    "literal_translation": "to on-fuck",
+    "english_equivalent": "to fuck up completely / to suffer consequences",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The infinitive verb for suffering the consequences of a terrible mistake.",
+    "cultural_context": "If a storm is coming, or the boss is angry, 'Svi ćemo najebati' (We are all going to be fucked).",
+    "example_usage": "Ako ovo padne, najebali smo. (If this drops, we are totally fucked.)",
+    "ipa_pronunciation": "na.je.ba.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebo majku svoju",
+    "literal_translation": "he fucked his own mother",
+    "english_equivalent": "holy shit / goddamn",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An exclamation of awe, shock, or disgust.",
+    "cultural_context": "Often said while looking at something impressive or horrifying. Not directed at the listener.",
+    "example_usage": "Vidi auto, jebo majku svoju! (Look at the car, he fucked his own mother! [Holy shit!] )",
+    "ipa_pronunciation": "je.bo maj.ku svo.ju",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zajebano",
+    "literal_translation": "around-fucked",
+    "english_equivalent": "fucked up / extremely difficult",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Describing a situation or an object that is highly complex, dangerous, or difficult.",
+    "cultural_context": "A math test can be 'zajebano', or a dangerous curve on a road.",
+    "example_usage": "Situacija je jako zajebana. (The situation is very fucked up/difficult.)",
+    "ipa_pronunciation": "za.je.ba.no",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jebem ti krvavo sunce",
+    "literal_translation": "I fuck your bloody sun",
+    "english_equivalent": "goddammit",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Adding the adjective 'bloody' (krvavo) to the sun creates a uniquely apocalyptic curse.",
+    "cultural_context": "A legendary intensification in Balkan swearing.",
+    "example_usage": "Jebem ti krvavo sunce, što si to uradio?! (I fuck your bloody sun, why did you do that?!)",
+    "ipa_pronunciation": "je.bem ti kr.va.vo sun.tse",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "krava",
+    "literal_translation": "cow",
+    "english_equivalent": "cow",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A cow.",
+    "cultural_context": "Used to describe a woman who is perceived as fat, lazy, or particularly annoying.",
+    "example_usage": "Miči se, kravo! (Move, you cow!)",
+    "ipa_pronunciation": "kra.va",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vještica",
+    "literal_translation": "witch",
+    "english_equivalent": "witch / hag",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A witch.",
+    "cultural_context": "Used similarly to English to describe a mean, cruel older woman.",
+    "example_usage": "Ona stara vještica. (That old witch.)",
+    "ipa_pronunciation": "vjeʃ.ti.tsa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

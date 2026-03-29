@@ -1,0 +1,3089 @@
+[
+  {
+    "word": "son of a bitch",
+    "literal_translation": "son of a female dog",
+    "english_equivalent": "son of a bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "exclamation"
+    ],
+    "meaning": "One of the oldest compound insults in English, dating back to at least the 14th century. It can express genuine fury at a person or serve as an exclamation of surprise — 'son of a bitch, it actually worked!' The target doesn't have to be male; it's applied to situations, objects, and bad luck just as often as people.",
+    "cultural_context": "Abbreviated to 'SOB' in polite company, which somehow makes it acceptable even in workplace emails. In Southern US English, the drawn-out 'sunnuva bitch' is practically its own word. The insult technically targets the person's mother, but nobody processes it that way — it's been fully idiomized.",
+    "example_usage": "Said when something goes surprisingly wrong, or when someone betrays your trust. Also used with grudging admiration: 'That son of a bitch actually pulled it off.'",
+    "ipa_pronunciation": "/ˌsʌn əv ə ˈbɪtʃ/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Southern US",
+        "severity": 3,
+        "note": "Pronounced 'sunnuvabitch' as one word, sometimes almost affectionate"
+      },
+      {
+        "region": "UK",
+        "severity": 3,
+        "note": "Less common than in American English; 'bastard' fills this niche"
+      }
+    ],
+    "related_words": [
+      "bitch",
+      "bastard",
+      "motherfucker"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuck off",
+    "literal_translation": "go away (sexually)",
+    "english_equivalent": "fuck off",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The nuclear version of 'go away.' It tells someone their presence is not just unwanted but actively offensive. Can also express disbelief — 'fuck off, really?' — where it becomes almost friendly, depending entirely on delivery.",
+    "cultural_context": "In British English, this is the default aggressive dismissal, used far more frequently than in American English where 'get the fuck out' fills a similar role. British people can say 'oh fuck off' to close friends with a laugh, which confuses Americans enormously.",
+    "example_usage": "Delivered to someone who just said something outrageous, or to an actual enemy. Tone is everything — flat delivery means genuine hostility, rising intonation means amused disbelief.",
+    "ipa_pronunciation": "/fʌk ɒf/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "piss off",
+      "sod"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tosser",
+    "literal_translation": "one who tosses off (masturbates)",
+    "english_equivalent": "wanker / jerk",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A distinctly British insult for someone contemptible, foolish, or self-important. Lighter than 'wanker' despite sharing the same literal territory. You'd call someone a tosser for parking in two spaces or wearing sunglasses indoors.",
+    "cultural_context": "Peak usage was probably the 1990s–2000s British lad culture era. It's fallen slightly out of fashion with younger Brits, replaced by more creative insults, but remains instantly understood. Almost never used in American English — Americans hearing it for the first time usually can't guess the meaning.",
+    "example_usage": "Muttered under your breath at someone who just did something mildly infuriating but not worth a real confrontation.",
+    "ipa_pronunciation": "/ˈtɒs.ə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "wanker",
+      "bellend"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "git",
+    "literal_translation": "offspring (archaic, related to 'get')",
+    "english_equivalent": "idiot / jerk",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mild British insult for an annoying, foolish, or unpleasant person. It has a slightly old-fashioned, almost charming quality — like being insulted by someone's grandfather. Hermione calls Malfoy a 'foul, loathsome, evil little cockroach' but Harry Potter uses 'git' liberally, which tells you exactly where it sits on the severity scale.",
+    "cultural_context": "Derives from the archaic 'get' meaning 'offspring' (specifically an illegitimate one). Now completely disconnected from that origin. Frequently causes confusion in tech circles because of the version control software of the same name — its creator Linus Torvalds named it after this word, calling it 'the stupid content tracker.'",
+    "example_usage": "Used affectionately between British friends, or with mild annoyance at someone being selfish. 'You lucky git' is practically a compliment.",
+    "ipa_pronunciation": "/ɡɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "sod",
+      "bugger",
+      "pillock"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pillock",
+    "literal_translation": "penis (archaic Scandinavian)",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A wonderfully quaint British insult meaning a stupid person. Nobody using it today knows or cares that it derives from a Scandinavian word for penis — it's been completely sanitized by centuries of use. Safe to use in front of most grandmothers.",
+    "cultural_context": "Occupies the same gentle tier as 'git' and 'numpty.' Popular in Northern English dialects. It sounds inherently funny, which undermines any attempt to use it aggressively. Often heard on British panel shows and in pubs.",
+    "example_usage": "Said with exasperation rather than real anger. 'You pillock, you've put diesel in a petrol car.'",
+    "ipa_pronunciation": "/ˈpɪl.ək/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Northern England",
+        "severity": 1,
+        "note": "More commonly used than in Southern England"
+      }
+    ],
+    "related_words": [
+      "git",
+      "numpty",
+      "plonker"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "plonker",
+    "literal_translation": "something heavy dropped (slang: penis)",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mild British insult immortalized by Del Boy in Only Fools and Horses. Calling someone a plonker means they've done something spectacularly stupid, but you're more amused than angry about it.",
+    "cultural_context": "Forever associated with the sitcom Only Fools and Horses (1981–2003), where Del Boy's 'You plonker, Rodney!' became a national catchphrase. The word existed before the show, but the show made it iconic. Using it immediately signals a certain Britishness.",
+    "example_usage": "When your friend drops their phone in the toilet or locks their keys in the car. Always delivered with a headshake and a half-smile.",
+    "ipa_pronunciation": "/ˈplɒŋ.kə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "pillock",
+      "numpty",
+      "muppet"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "numpty",
+    "literal_translation": "no direct translation",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A Scottish/Northern English word for a clueless, incompetent person. It has an almost onomatopoeic quality — the person it describes probably looks exactly how 'numpty' sounds. Gentle enough to use in a workplace without HR getting involved.",
+    "cultural_context": "Originally Scottish dialect, now widely understood across the UK. It filled a gap in the language for an insult that's too mild to offend but specific enough to sting. Added to some dictionaries in the early 2000s. There's genuine debate about whether it derives from 'numbskull' or has independent origins.",
+    "example_usage": "When a colleague sends an email to the wrong person or can't figure out the printer. 'Away ye numpty' in Scotland.",
+    "ipa_pronunciation": "/ˈnʌm.pti/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Scotland",
+        "severity": 1,
+        "note": "Origin dialect, used most frequently and naturally here"
+      }
+    ],
+    "related_words": [
+      "pillock",
+      "plonker",
+      "eejit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "muppet",
+    "literal_translation": "a Jim Henson puppet character",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a muppet means they're behaving like a clueless puppet — going through the motions with no real brain behind it. It's the insult equivalent of a disappointed sigh.",
+    "cultural_context": "Yes, it comes from the Muppets TV show. The Jim Henson Company has never been thrilled about this usage. Extremely common in British English, especially in workplaces and sports commentary. Gordon Ramsay's frequent use of 'you fucking muppet' on Kitchen Nightmares gave it international exposure.",
+    "example_usage": "A football manager describing his defenders after conceding a goal. A chef watching someone burn toast.",
+    "ipa_pronunciation": "/ˈmʌp.ɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "numpty",
+      "plonker",
+      "pillock"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "knobhead",
+    "literal_translation": "penis head",
+    "english_equivalent": "dickhead",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "The British cousin of 'dickhead,' with identical meaning but distinctly different geographic distribution. Implies someone is being aggressively stupid or inconsiderate. The 'knob' makes it sound somehow funnier than its American equivalent.",
+    "cultural_context": "Primarily Northern English. 'Knob' as slang for penis is well-established in British English, making 'knobhead' a natural compound. Less common in Southern England where 'bellend' fills the same role. Rarely understood in American English.",
+    "example_usage": "Shouted at someone from a car window, or used to describe a coworker behind their back.",
+    "ipa_pronunciation": "/ˈnɒb.hɛd/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Northern England",
+        "severity": 3,
+        "note": "Primary usage region"
+      },
+      {
+        "region": "Southern England",
+        "severity": 3,
+        "note": "Understood but 'bellend' preferred"
+      }
+    ],
+    "related_words": [
+      "bellend",
+      "dickhead",
+      "twat"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dickhead",
+    "literal_translation": "penis head",
+    "english_equivalent": "dickhead / idiot",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Someone whose head apparently contains the same amount of brain matter as a penis. A strong insult for a person who is stupid, mean, or both simultaneously. More aggressive than 'dick' alone — the compound form escalates it.",
+    "cultural_context": "Universal across all English dialects, which is unusual for profanity. Appeared in print by the 1960s. Functions as both a direct insult ('you're a dickhead') and a descriptor ('what a dickhead move'). In Australian English, shortened to just 'DH' in text messages.",
+    "example_usage": "When someone does something that combines selfishness with stupidity — cutting in line while being loud about it.",
+    "ipa_pronunciation": "/ˈdɪk.hɛd/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Australia",
+        "severity": 2,
+        "note": "Used more casually, sometimes abbreviated to 'DH'"
+      }
+    ],
+    "related_words": [
+      "dick",
+      "knobhead",
+      "bellend"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "arse",
+    "literal_translation": "buttocks",
+    "english_equivalent": "ass / butt",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "The British spelling and pronunciation of 'ass.' Used as a body part reference, a mild insult, or an exclamation. 'Can't be arsed' (can't be bothered) is one of the most useful phrases in British English — it perfectly captures a specific flavor of laziness that no other expression quite matches.",
+    "cultural_context": "The spelling split between 'arse' (British) and 'ass' (American) happened in the 18th century. In British English, 'ass' means a donkey; 'arse' means buttocks. This creates occasional transatlantic confusion. 'Arse over tit' (falling over) is a classic British expression.",
+    "example_usage": "'I can't be arsed to go to the gym.' 'Get your arse in gear.' 'He fell arse over tit.'",
+    "ipa_pronunciation": "/ɑːs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "asshole",
+      "arsehole"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gobshite",
+    "literal_translation": "mouth shit",
+    "english_equivalent": "loudmouth / bullshitter",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Someone who talks absolute rubbish, loudly and at length. The imagery is vivid — their mouth produces nothing but shit. It's more specific than generic insults because it targets a particular behavior: talking nonsense with unearned confidence.",
+    "cultural_context": "Irish English origin, now widely used in Liverpool and Northern England. Made internationally famous by the character Malcolm Tucker in The Thick of It. In Ireland, it's a standard pub insult; in England, using it marks you as either Irish, Scouse, or a fan of political satire.",
+    "example_usage": "Directed at a politician on the TV, or at a friend who's confidently wrong about something. 'Would you listen to this gobshite.'",
+    "ipa_pronunciation": "/ˈɡɒb.ʃaɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Ireland",
+        "severity": 3,
+        "note": "Origin dialect, very common"
+      },
+      {
+        "region": "Liverpool",
+        "severity": 3,
+        "note": "Adopted as local slang"
+      }
+    ],
+    "related_words": [
+      "bullshit",
+      "bollocks"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shag",
+    "literal_translation": "to have sex",
+    "english_equivalent": "fuck / screw",
+    "severity": 2,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "British slang for sexual intercourse. Less aggressive than 'fuck' — it has a playful, almost comedic quality. Austin Powers asking 'Do I make you horny, baby? Do I? Do I make you shag?' embedded this word in international pop culture forever.",
+    "cultural_context": "In American English, a 'shag' is a carpet texture or a type of haircut, which has produced decades of transatlantic misunderstandings. In British English, it's casual and mildly vulgar but not shocking. 'Shagging' is the preferred term in comedic contexts; 'fucking' in aggressive ones.",
+    "example_usage": "Between friends discussing someone's love life. 'Are they shagging?' has a very different energy than 'are they fucking?'",
+    "ipa_pronunciation": "/ʃæɡ/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "US",
+        "severity": 1,
+        "note": "Not recognized as sexual; means carpet texture or dance style"
+      }
+    ],
+    "related_words": [
+      "shaggy",
+      "bonk"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wank",
+    "literal_translation": "to masturbate",
+    "english_equivalent": "jerk off",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "British slang for masturbation, but far more versatile than that suggests. 'Having a wank' is literal; 'what a load of wank' means something is terrible; 'wanky' describes something pretentious. The word does more work than it has any right to.",
+    "cultural_context": "Almost exclusively British/Commonwealth. Americans understand it from exposure to British media but rarely use it. The gesture of a loosely closed fist moving up and down — the 'wanker sign' — is the British equivalent of flipping someone off, commonly performed through car windows.",
+    "example_usage": "As a dismissal: 'That presentation was a load of wank.' As literal: obvious. As an adjective: 'That wine bar is a bit wanky.'",
+    "ipa_pronunciation": "/wæŋk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "wanker",
+      "tosser"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "arsehole",
+    "literal_translation": "anus",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "The British spelling of 'asshole,' carrying identical meaning — a thoroughly unpleasant person. The extra 'r' somehow gives it a more rounded, satisfying delivery. A proper arsehole is someone who knows they're being awful and doesn't care.",
+    "cultural_context": "The British/Australian/NZ version of American 'asshole.' In written form, using 'arsehole' vs 'asshole' immediately identifies which side of the Atlantic you're on. Both spellings are universally understood in the internet age.",
+    "example_usage": "When describing someone whose behavior goes beyond mere rudeness into deliberate malice.",
+    "ipa_pronunciation": "/ˈɑːs.həʊl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "asshole",
+      "arse"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cock",
+    "literal_translation": "rooster / penis",
+    "english_equivalent": "dick / penis",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A vulgar term for the penis that also functions as a mild insult. 'You cock' is weaker than 'you dick' — it sounds almost old-fashioned. The word's dual meaning with roosters creates endless accidental humor in rural contexts.",
+    "cultural_context": "Was the primary vulgar term for penis in English for centuries before 'dick' overtook it. 'Cockney' dialect gets its name from a completely different etymology, but the association is unavoidable. 'Cock-up' (a mistake) is standard British English and barely registers as vulgar.",
+    "example_usage": "'Don't be such a cock.' 'That was a right cock-up.' 'Nice cock' (at a poultry show, theoretically).",
+    "ipa_pronunciation": "/kɒk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "dick",
+      "knob",
+      "prick"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "knob",
+    "literal_translation": "round handle / penis",
+    "english_equivalent": "dick / idiot",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "British slang for penis, also used as a mild-to-moderate insult meaning someone is stupid or obnoxious. Less harsh than 'dick' but more vulgar than 'git.' Calling someone a knob suggests they're a bit ridiculous rather than genuinely threatening.",
+    "cultural_context": "The dual meaning with door handles creates a genre of British humor that never gets old (to the British). 'Knob jockey' is an offensive extension. 'Knob' as an insult is almost affectionate in certain contexts — you can call your best mate a knob without any real offense.",
+    "example_usage": "Between friends: 'You absolute knob, you forgot the beer.' About a stranger: 'Some knob parked across my driveway.'",
+    "ipa_pronunciation": "/nɒb/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "knobhead",
+      "dick",
+      "cock"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slag",
+    "literal_translation": "waste material from smelting",
+    "english_equivalent": "slut / tramp",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A harsh British insult, primarily aimed at women, implying promiscuity. The metallurgical origin — slag is the worthless residue left after extracting metal — makes the dehumanization built into this word particularly blunt.",
+    "cultural_context": "Strongly gendered and considered very offensive. More commonly heard in working-class British English. Has no real American equivalent in terms of sound and impact — 'slut' is the closest but lacks the industrial harshness. Occasionally used between men to mean someone cheap or worthless, but primarily targets women.",
+    "example_usage": "A deeply offensive gendered insult. Used in arguments or behind someone's back, never casually.",
+    "ipa_pronunciation": "/slæɡ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "slut",
+      "whore"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "minger",
+    "literal_translation": "no direct translation (possibly from Scottish 'ming' — to smell)",
+    "english_equivalent": "ugly person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "British slang for an unattractive person. The word itself sounds slightly disgusting, which helps. 'Minging' as an adjective means disgusting or ugly. It's a schoolyard insult that adults never quite grew out of.",
+    "cultural_context": "Peaked in popularity in late 1990s-2000s British youth culture. Possibly derived from Scottish dialect 'ming' meaning a bad smell. Still widely understood but sounds dated to Gen Z. Almost exclusively British — Americans rarely encounter it outside of British reality TV.",
+    "example_usage": "Cruel schoolyard insult or laddish banter. 'She's a bit of a minger' or 'That food looks minging.'",
+    "ipa_pronunciation": "/ˈmɪŋ.ə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "munter"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "naff off",
+    "literal_translation": "go away (euphemism)",
+    "english_equivalent": "buzz off / get lost",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A deliberately mild British dismissal — it's what you say when you want to tell someone to fuck off but can't. 'Naff' means uncool, tacky, or rubbish. 'Naff off' is its verb form, essentially a family-friendly expletive.",
+    "cultural_context": "Famously used by Princess Anne to paparazzi in the 1980s, which is possibly the most British thing that has ever happened. The word 'naff' may originate from Polari, the secret language used by gay men in Britain before decriminalization. Its journey from underground slang to royal usage is remarkable.",
+    "example_usage": "When you need to express irritation without actually swearing. 'Oh, naff off' — said to a persistent salesperson or an annoying sibling.",
+    "ipa_pronunciation": "/næf ɒf/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "piss off",
+      "bugger off"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "holy shit",
+    "literal_translation": "sacred feces",
+    "english_equivalent": "holy shit",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological",
+      "religious"
+    ],
+    "meaning": "An exclamation of extreme surprise, shock, or awe. The combination of sacred and profane is what gives it punch — you're so shocked that you've combined a religious invocation with a scatological noun. It can express positive surprise ('holy shit, you got the job!') just as easily as negative ('holy shit, the car is on fire').",
+    "cultural_context": "Primarily American, though now globally understood. The formula 'holy + profanity' is productive in English: holy fuck, holy crap, holy hell. 'Holy shit' is the default middle option — stronger than 'holy crap,' weaker than 'holy fuck.'",
+    "example_usage": "The first words out of someone's mouth when they see something genuinely astonishing. Always involuntary.",
+    "ipa_pronunciation": "/ˌhoʊ.li ˈʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shit",
+      "damn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "goddamn",
+    "literal_translation": "God condemn (it/them)",
+    "english_equivalent": "goddamn",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "An intensifier and exclamation asking God to damn something or someone. In practice, nobody is actually requesting divine condemnation — it's become pure emphasis. 'Goddamn right' means 'absolutely.' 'Goddamn it' means something went wrong.",
+    "cultural_context": "This is one of the few English swear words that still genuinely offends on religious grounds. In the American Bible Belt, 'goddamn' is considered significantly worse than 'fuck' by many people, because it takes God's name in vain — a literal violation of the Ten Commandments. Secular Americans often don't realize this asymmetry exists.",
+    "example_usage": "Expressing frustration ('goddamn it, not again') or emphasis ('that's a goddamn masterpiece'). Avoid in the rural American South unless you want to be lectured.",
+    "ipa_pronunciation": "/ˈɡɒd.dæm/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "US Bible Belt",
+        "severity": 4,
+        "note": "Considered blasphemous, more offensive than sexual profanity"
+      },
+      {
+        "region": "UK/Australia",
+        "severity": 2,
+        "note": "Recognized as American, mild impact"
+      }
+    ],
+    "related_words": [
+      "damn",
+      "hell"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shut the fuck up",
+    "literal_translation": "close your mouth (with extreme emphasis)",
+    "english_equivalent": "shut the fuck up",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The maximum-intensity version of 'be quiet.' There's no polite reading of this phrase. It communicates that the speaker finds everything coming out of the other person's mouth to be so worthless that continued speech is a personal offense. Abbreviated to 'STFU' online.",
+    "cultural_context": "One of the most common multi-word profane phrases in English. The 'the fuck' insertion (a tmesis — splitting a word or phrase with an expletive) is a distinctive feature of English profanity. 'Shut up' is rude; 'shut the fuck up' is aggressive; 'shut the fuck up' whispered is terrifying.",
+    "example_usage": "When someone won't stop talking during a movie, or when an argument reaches the point of no return. Online: STFU.",
+    "ipa_pronunciation": "/ʃʌt ðə fʌk ʌp/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "fuck off",
+      "fuck"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "what the fuck",
+    "literal_translation": "what (with sexual emphasis)",
+    "english_equivalent": "what the fuck / WTF",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The default English-language expression of utter bewilderment. It's the mental blue screen of death, verbalized. Can convey confusion, anger, disgust, or amazement depending on delivery. So ubiquitous that 'WTF' is understood by people who don't even speak English.",
+    "cultural_context": "Arguably the most-used three-word profane phrase in the English language. 'WTF' has transcended language barriers through internet culture. The phrase works because 'the fuck' is an infixed intensifier — it doesn't add sexual meaning, just emphasis. Same pattern as 'where the fuck,' 'who the fuck,' 'how the fuck.'",
+    "example_usage": "Opening your fridge to find someone ate your leftovers. Watching the news. Reading a bizarre email from management.",
+    "ipa_pronunciation": "/wɒt ðə fʌk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "fuck",
+      "holy shit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bite me",
+    "literal_translation": "bite me (invitation)",
+    "english_equivalent": "kiss my ass / screw you",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A defiant, dismissive comeback meaning 'I don't care what you think.' It's confrontational but playful — the kind of thing you say with a smirk rather than a snarl. The implied completion is 'bite my ass,' but stopping at 'bite me' keeps it PG-13.",
+    "cultural_context": "Peak American 1990s slang, popularized by TV shows like The Simpsons (Bart's catchphrase). Sounds distinctly American to British ears. It's fallen out of fashion somewhat but remains instantly understood. The beauty of it is its ambiguity — it's aggressive enough to be satisfying but mild enough to use at work.",
+    "example_usage": "When someone criticizes you and you want to express defiance without escalating. 'You can't pull that off.' 'Bite me.'",
+    "ipa_pronunciation": "/baɪt miː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kiss my ass",
+      "screw you"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kiss my ass",
+    "literal_translation": "press your lips to my buttocks",
+    "english_equivalent": "kiss my ass",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult",
+      "body_part"
+    ],
+    "meaning": "A defiant dismissal telling someone their opinion is worthless and they should degrade themselves. It's an act of contempt — you're not just dismissing them, you're assigning them a humiliating task. The imagery is the point.",
+    "cultural_context": "The gesture of mooning (exposing one's buttocks) is the physical equivalent. Has medieval roots — 'kiss my arse' appears in Chaucer's Canterbury Tales (1390s), making it one of the oldest surviving English insults. The American 'ass' version has overtaken the British 'arse' version globally.",
+    "example_usage": "As a defiant exit line when quitting a job or ending an argument. Also used lightheartedly: 'You think I can't do it? Kiss my ass, watch me.'",
+    "ipa_pronunciation": "/kɪs maɪ æs/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "UK",
+        "severity": 3,
+        "note": "'Kiss my arse' — same meaning, different spelling"
+      }
+    ],
+    "related_words": [
+      "bite me",
+      "arse"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "screw you",
+    "literal_translation": "have sex with you (euphemism)",
+    "english_equivalent": "fuck you (milder)",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The PG-13 version of 'fuck you.' It carries the same contemptuous dismissal but is socially acceptable in many more contexts. You can say it on American network television, which 'fuck you' cannot manage.",
+    "cultural_context": "Functions as a euphemism that everyone recognizes as a euphemism. 'Screw' as a substitute for 'fuck' became common in mid-20th century America. It's the go-to when you want to express real anger in a setting where actual profanity would be inappropriate — like a PTA meeting or a family dinner.",
+    "example_usage": "When you're furious but aware of your audience. 'Screw you, I did my best.' Also: 'screw this' (I'm done with this situation).",
+    "ipa_pronunciation": "/skɹuː juː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "fuck you",
+      "bite me"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eat shit",
+    "literal_translation": "consume feces",
+    "english_equivalent": "eat shit",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "One of the most viscerally hostile phrases in English. It tells someone to do something physically disgusting, which is the whole point — it communicates pure contempt. There's no playful version of this; it's always aggressive.",
+    "cultural_context": "Variations exist across many languages ('mangia merda' in Italian, 'mange de la merde' in French), suggesting that telling enemies to eat feces is a cross-cultural human impulse. In English, it's often combined with 'and die' for maximum effect. Featured memorably in various films and as a punk band name.",
+    "example_usage": "Reserved for genuine enemies or extreme road rage. Not said between friends. Ever.",
+    "ipa_pronunciation": "/iːt ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shit",
+      "fuck you"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "go to hell",
+    "literal_translation": "travel to the place of eternal damnation",
+    "english_equivalent": "go to hell",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious",
+      "insult"
+    ],
+    "meaning": "A dismissal wishing eternal damnation on someone, though nobody means it literally anymore. It's an all-purpose rejection that's been so overused it's lost most of its religious weight. Somewhere between 'leave me alone' and 'fuck off' in intensity.",
+    "cultural_context": "One of the oldest English curses, directly invoking Christian cosmology. In the 18th and 19th centuries, this was genuinely shocking language. Today it barely qualifies as profanity for most speakers. In the American South, it still carries slightly more weight due to stronger religious culture. Clark Gable's 'Frankly, my dear, I don't give a damn' was scandalous in 1939; 'go to hell' would have been unprintable.",
+    "example_usage": "When someone makes an offensive suggestion. 'You should apologize to him.' 'He can go to hell.'",
+    "ipa_pronunciation": "/ɡoʊ tə hɛl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "hell",
+      "damn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piss",
+    "literal_translation": "urine / to urinate",
+    "english_equivalent": "piss / pee",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "Versatile scatological term. As a noun it means urine; as a verb, to urinate; as an adjective ('piss-poor'), it means terrible; 'taking the piss' means mocking someone; 'pissed' means drunk (UK) or angry (US). Few English words have this many distinct profane meanings.",
+    "cultural_context": "The British/American split on 'pissed' causes constant confusion. A Brit saying 'I was absolutely pissed last night' means they were drunk. An American hearing this thinks they were furious. 'Taking the piss' — meaning to mock or take liberties — is one of the most essential British English phrases and has no clean American equivalent.",
+    "example_usage": "'I need a piss.' 'Are you taking the piss?' 'That was piss-poor effort.' 'He was pissed out of his mind.' (All different meanings.)",
+    "ipa_pronunciation": "/pɪs/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "UK",
+        "severity": 2,
+        "note": "'Pissed' means drunk; 'taking the piss' means mocking"
+      },
+      {
+        "region": "US",
+        "severity": 2,
+        "note": "'Pissed' means angry; 'taking the piss' is not commonly used"
+      }
+    ],
+    "related_words": [
+      "piss off"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tits",
+    "literal_translation": "breasts",
+    "english_equivalent": "boobs / tits",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "A vulgar but common term for breasts. Also used in expressions: 'tits up' means something has gone catastrophically wrong (British), derived from a dead bird lying belly-up. 'Getting on my tits' means annoying me intensely.",
+    "cultural_context": "Less offensive than you might expect — it sits in a gray zone between medical term and profanity. The word has been in English since Old English 'titt.' 'Tits up' as meaning 'failed/dead' is standard British slang used even in business contexts. The phrase 'it's all gone tits up' has been uttered in more boardrooms than anyone wants to admit.",
+    "example_usage": "'The whole project's gone tits up.' 'He's really getting on my tits today.'",
+    "ipa_pronunciation": "/tɪts/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "arse",
+      "cock"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shithead",
+    "literal_translation": "feces head",
+    "english_equivalent": "shithead / stupid person",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A strong insult implying someone's brain has been replaced with feces. More aggressive than 'idiot,' less creative than 'gobshite.' It's a blunt instrument — no subtlety, no double meaning, just direct hostility.",
+    "cultural_context": "Universal across English dialects. The compound 'shit + body part' formula is productive in English: shithead, shitface, shitbird. 'Shithead' is the most common and the most literal. Sometimes used as a name for an annoying pet, which tells you everything about the English-speaking relationship with profanity.",
+    "example_usage": "When someone does something so stupid it can only be explained by the absence of a functioning brain.",
+    "ipa_pronunciation": "/ˈʃɪt.hɛd/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shit",
+      "dickhead",
+      "asshole"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dipshit",
+    "literal_translation": "dip + shit (compound)",
+    "english_equivalent": "idiot / moron",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "An American insult for a hopelessly stupid person. The 'dip' prefix softens it slightly from 'shithead' while adding a connotation of haplessness — a dipshit isn't just stupid, they're obliviously stupid. They don't know they're the problem.",
+    "cultural_context": "Distinctly American, rarely heard in British English. Emerged in the 1960s-70s. It occupies a sweet spot in the profanity spectrum: strong enough to express real frustration but casual enough for everyday use among friends. Common in American military slang.",
+    "example_usage": "When a friend does something careless: 'Nice going, dipshit, you locked the keys in the car.'",
+    "ipa_pronunciation": "/ˈdɪp.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "dumbass",
+      "shithead"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ass",
+    "literal_translation": "buttocks / donkey",
+    "english_equivalent": "ass / butt",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The American English term for buttocks, also used as a modifier to intensify adjectives ('bad-ass,' 'dumb-ass,' 'lazy-ass'). This suffix-like usage is uniquely American and endlessly productive. 'Ass' as an intensifier can attach to almost any adjective.",
+    "cultural_context": "The '-ass' suffix construction (big-ass truck, long-ass day, cold-ass weather) is a defining feature of American informal English. Linguists have actually studied the syntax rules governing where 'ass' can be inserted — there are real patterns. 'Ass' alone is mild; compounds range from mild to strong depending on the complete word.",
+    "example_usage": "'Get your ass over here.' 'That's a big-ass spider.' 'I'm tired of his lazy-ass excuses.'",
+    "ipa_pronunciation": "/æs/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "UK",
+        "severity": 1,
+        "note": "'Ass' means donkey; 'arse' is used for buttocks"
+      }
+    ],
+    "related_words": [
+      "asshole",
+      "arse",
+      "dumbass"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "frigging",
+    "literal_translation": "euphemism for fucking",
+    "english_equivalent": "freaking / fucking",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A cleaned-up substitute for 'fucking' that lets you express the same frustration while maintaining plausible deniability. Everyone knows what you actually mean, but the substitution makes it technically acceptable. It's the profanity equivalent of censoring a middle finger on TV — the message is completely intact.",
+    "cultural_context": "Part of a long English tradition of minced oaths — 'frigging' for 'fucking,' 'darn' for 'damn,' 'shoot' for 'shit,' 'fudge' for 'fuck.' These exist because English speakers have always wanted to swear in situations where swearing is forbidden. Historically, 'frig' was actually its own separate sexual term before becoming a euphemism.",
+    "example_usage": "In front of children, at work, or around religious family members. 'Where's my frigging phone?'",
+    "ipa_pronunciation": "/ˈfɹɪɡ.ɪŋ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "fuck",
+      "freaking"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "badass",
+    "literal_translation": "bad posterior",
+    "english_equivalent": "tough / cool / impressive",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "One of the rare profane words that's almost always a compliment. Calling someone a badass means they're tough, fearless, impressively skilled, or all three. The word flipped from insult to praise sometime in the mid-20th century and never looked back.",
+    "cultural_context": "Originally African American Vernacular English, entering mainstream American slang in the 1960s-70s. The linguistic journey from 'bad' meaning 'bad' to 'bad' meaning 'good' (and then 'badass' meaning 'impressive') is a textbook example of semantic inversion in slang. Samuel L. Jackson has built a career on this word.",
+    "example_usage": "As a compliment: 'She climbed Everest solo? That's badass.' As a noun: 'Don't mess with him, he's a badass.'",
+    "ipa_pronunciation": "/ˈbæd.æs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "ass",
+      "kickass"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chickenshit",
+    "literal_translation": "chicken feces",
+    "english_equivalent": "coward / cowardly",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Calls someone a coward while also implying they're petty and insignificant. 'Chicken' alone means cowardly; adding 'shit' downgrades them further. A chickenshit person isn't just afraid — they're afraid of things that aren't even worth being afraid of.",
+    "cultural_context": "American military slang originally, referring to petty regulations and the officers who enforced them. Paul Fussell's WWII memoir distinguished between being 'scared shitless' (reasonable fear in combat) and 'chickenshit' (bureaucratic cowardice). The military distinction gave the word a specificity that separates it from just calling someone a coward.",
+    "example_usage": "When someone won't stand up for themselves in a low-stakes situation: 'He wouldn't even ask for a raise, the chickenshit.'",
+    "ipa_pronunciation": "/ˈtʃɪk.ɪn.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bullshit",
+      "shit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "smartass",
+    "literal_translation": "clever posterior",
+    "english_equivalent": "wise guy / smart aleck",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who's clever in an annoying way — making sarcastic comments, pointing out technicalities, or answering rhetorical questions literally. Being called a smartass is almost a compliment, but the person saying it definitely isn't smiling.",
+    "cultural_context": "Distinctly American. The British equivalent would be 'clever clogs' or 'smart arse.' The '-ass' suffix construction again: 'smartass,' 'dumbass,' 'badass,' 'jackass' — English treats 'ass' as a productive insult morpheme. A 'smartass' is the opposite of a 'dumbass,' but both are insults, which says something about English.",
+    "example_usage": "'Two plus two is four.' 'I know, smartass, that wasn't the question.'",
+    "ipa_pronunciation": "/ˈsmɑːɹt.æs/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "UK",
+        "severity": 2,
+        "note": "'Smart arse' — same meaning, British spelling"
+      }
+    ],
+    "related_words": [
+      "dumbass",
+      "jackass",
+      "wiseass"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "horseshit",
+    "literal_translation": "horse feces",
+    "english_equivalent": "bullshit / nonsense",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "A slightly more aggressive version of 'bullshit.' If 'bullshit' is calling something untrue, 'horseshit' is calling something untrue AND insulting your intelligence for expecting you to believe it. The larger animal implies larger lies.",
+    "cultural_context": "Less common than 'bullshit' but carries more weight. Often used in political commentary and military contexts. There's an implicit animal hierarchy in English excrement-based profanity: chickenshit (petty) < bullshit (lies) < horseshit (outrageous lies). Nobody says 'elephantshit' but the pattern suggests they should.",
+    "example_usage": "Reacting to a particularly brazen lie: 'The claim that we're all getting bonuses? Absolute horseshit.'",
+    "ipa_pronunciation": "/ˈhɔːɹs.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bullshit",
+      "chickenshit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shitfaced",
+    "literal_translation": "having a face of feces",
+    "english_equivalent": "very drunk",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Extremely drunk — so drunk that your face looks like it's been through something terrible. It's one of the most vivid English words for intoxication, and English has a LOT of words for intoxication. The imagery is unflattering and that's entirely the point.",
+    "cultural_context": "Part of English's extraordinary vocabulary for drunkenness. A 2014 study found over 500 English words and phrases for being drunk. 'Shitfaced' ranks among the most vulgar, alongside 'hammered,' 'plastered,' 'wasted,' 'smashed,' and 'legless.' Primarily American usage, though understood globally.",
+    "example_usage": "The morning after: 'I was absolutely shitfaced last night, I don't remember anything after 11.'",
+    "ipa_pronunciation": "/ˈʃɪt.feɪst/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shit",
+      "pissed"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ratbag",
+    "literal_translation": "a bag of rats",
+    "english_equivalent": "rascal / scoundrel",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An Australian/British insult for a mischievous, untrustworthy, or annoying person. It's more playful than hostile — a ratbag is someone who causes problems, but often in an entertaining way. You can call a child a 'little ratbag' with genuine affection.",
+    "cultural_context": "Very Australian. In Australia, 'ratbag' can be almost affectionate, like calling someone a rascal. A politician who bucks the party line is a 'ratbag' — and it's often said with grudging respect. In British English, it's slightly more negative but still mild.",
+    "example_usage": "'Come here, you little ratbag!' (to a child who just drew on the wall). Or about a colleague: 'He's a ratbag but he gets results.'",
+    "ipa_pronunciation": "/ˈɹæt.bæɡ/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Australia",
+        "severity": 1,
+        "note": "Can be almost affectionate"
+      },
+      {
+        "region": "UK",
+        "severity": 1,
+        "note": "Slightly more negative than in Australian usage"
+      }
+    ],
+    "related_words": [
+      "git",
+      "sod"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eejit",
+    "literal_translation": "idiot (Irish pronunciation)",
+    "english_equivalent": "idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The Irish and Scottish pronunciation of 'idiot' that has become its own distinct word with its own distinct energy. An eejit isn't just stupid — they're endearingly, hopelessly, specifically stupid in a way that 'idiot' alone doesn't capture. The word carries warmth that its Standard English parent does not.",
+    "cultural_context": "Hiberno-English (Irish English) at its finest. Father Ted made this word internationally known. It's so mild that Irish parents use it freely with their children. There's a warmth to 'eejit' that 'idiot' lacks — calling someone an eejit often means you like them despite their foolishness. 'Thick eejit' is the escalated form.",
+    "example_usage": "Fondly, to a friend: 'You forgot your coat again, ya eejit.' Or watching the news: 'Would you look at that eejit.'",
+    "ipa_pronunciation": "/ˈiː.dʒɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Ireland",
+        "severity": 1,
+        "note": "Standard usage, almost always affectionate"
+      },
+      {
+        "region": "Scotland",
+        "severity": 1,
+        "note": "Also common, same warmth"
+      }
+    ],
+    "related_words": [
+      "numpty",
+      "pillock",
+      "git"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bloody hell",
+    "literal_translation": "blood-covered damnation",
+    "english_equivalent": "damn / oh my God",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The quintessential British exclamation. It combines two historically religious curses ('bloody' from 'by Our Lady' and 'hell') into a compound that expresses surprise, frustration, or exasperation. Ron Weasley says it approximately once per Harry Potter book, which is how most of the world learned it.",
+    "cultural_context": "So iconically British that it's practically a cultural export. Harry Potter singlehandedly taught a generation of international readers this phrase. In Australia, it's equally common — the famous 2006 tourism ad 'Where the bloody hell are you?' was actually banned in the UK for the profanity, which is ironic given its British origins.",
+    "example_usage": "When something surprising happens, good or bad. 'Bloody hell, did you see that goal?' 'Bloody hell, what happened to your car?'",
+    "ipa_pronunciation": "/ˌblʌd.i ˈhɛl/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Australia",
+        "severity": 1,
+        "note": "Very common, even milder than in UK"
+      }
+    ],
+    "related_words": [
+      "bloody",
+      "hell",
+      "damn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bugger off",
+    "literal_translation": "sodomize away",
+    "english_equivalent": "go away / fuck off (mild)",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A British dismissal that's milder than 'fuck off' but ruder than 'go away.' The escalation ladder is: go away → push off → bugger off → piss off → fuck off. 'Bugger off' sits comfortably in the middle, acceptable in most casual settings.",
+    "cultural_context": "Despite 'bugger' literally meaning 'sodomite,' this phrase has been completely detached from its etymology. British sitcoms use it freely. It has a bumbling, slightly posh quality — you can imagine a country vicar saying it, which you absolutely cannot with 'fuck off.'",
+    "example_usage": "To an unwanted visitor: 'Bugger off, I'm watching telly.' Said cheerfully, it's almost friendly.",
+    "ipa_pronunciation": "/ˈbʌɡ.ə(ɹ) ɒf/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "bugger",
+      "piss off",
+      "naff off"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "for fuck's sake",
+    "literal_translation": "for the sake of fuck",
+    "english_equivalent": "for fuck's sake / FFS",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An expression of intense exasperation, usually at something that shouldn't be this difficult. The possessive construction ('fuck's sake') treats 'fuck' as a proper noun whose well-being is being threatened by whatever has just gone wrong. Abbreviated to 'FFS' in texts and online.",
+    "cultural_context": "A minced oath evolution: 'for God's sake' → 'for goodness' sake' → 'for fuck's sake.' The religious version was once the shocking one; now the profane version has overtaken it. Very common in British English, increasingly global through internet culture. 'FFS' has become standard in work Slack channels — technically deniable.",
+    "example_usage": "When the printer jams for the fourth time. When your code fails on the same bug again. When someone asks you to repeat something you've already said three times.",
+    "ipa_pronunciation": "/fə(ɹ) fʌks seɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "fuck",
+      "goddamn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slag off",
+    "literal_translation": "to talk waste about",
+    "english_equivalent": "badmouth / trash-talk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "To criticize or badmouth someone, usually behind their back. Different from 'slag' (the noun insult) — 'slagging off' is the act of speaking negatively about someone. 'Slagging' in Irish English can actually mean playful teasing between friends, which is a completely different vibe.",
+    "cultural_context": "British and Irish English. 'Stop slagging me off' means 'stop talking shit about me.' In Ireland, 'slagging' your mates is a bonding activity — the more creative the insults, the closer the friendship. This Irish usage has no edge to it; the British usage does.",
+    "example_usage": "'He's always slagging off the boss behind her back.' Irish: 'The lads were slagging me about my haircut.'",
+    "ipa_pronunciation": "/slæɡ ɒf/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "Ireland",
+        "severity": 1,
+        "note": "'Slagging' means friendly teasing, not hostile"
+      },
+      {
+        "region": "UK",
+        "severity": 2,
+        "note": "Means badmouthing, more negative"
+      }
+    ],
+    "related_words": [
+      "slag",
+      "trash-talk"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "up yours",
+    "literal_translation": "up your (rectum)",
+    "english_equivalent": "fuck you / screw you",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A contemptuous dismissal that leaves the anatomical destination to the imagination — though everyone knows what's being implied. Often accompanied by a V-sign (UK) or middle finger (US). It's aggressive but has a retro quality that makes it sound less threatening than 'fuck you.'",
+    "cultural_context": "The unfinished sentence is part of its charm and rudeness — 'up yours' deliberately leaves 'arse/ass' unsaid, which somehow makes it more insulting than completing it would. It peaked in the 1970s-80s but remains in active use. The British V-sign (two fingers, palm inward) is the traditional accompanying gesture.",
+    "example_usage": "As a defiant gesture and phrase combined, usually in response to someone trying to assert authority over you unfairly.",
+    "ipa_pronunciation": "/ʌp jɔːɹz/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "kiss my ass",
+      "fuck you",
+      "screw you"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "twit",
+    "literal_translation": "no direct translation (possibly 'tit' variant)",
+    "english_equivalent": "fool / silly person",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A gentle British insult for a silly, foolish person. So mild it's almost a term of endearment. Roald Dahl wrote an entire children's book called The Twits, which tells you everything about its severity level — you can put it in the title of a kids' book.",
+    "cultural_context": "Upper-middle class British English at its most restrained. A 'twit' is someone who is foolish in an unthreatening way. The word has a distinctly dated, almost Wodehousian quality. Younger Brits still use it, usually ironically or affectionately.",
+    "example_usage": "'Don't be such a twit, of course you should apply for the job.' Always more exasperated than angry.",
+    "ipa_pronunciation": "/twɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "twat",
+      "git",
+      "nitwit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nitwit",
+    "literal_translation": "nit (louse egg) + wit (intelligence)",
+    "english_equivalent": "idiot / dimwit",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A charmingly old-fashioned insult meaning someone with the intelligence of a louse egg. It's so gentle that Dumbledore uses it in Harry Potter ('Nitwit! Blubber! Oddment! Tweak!'). You'd use it for someone who's being silly, not someone you actually dislike.",
+    "cultural_context": "The 'nit' is from the louse egg; 'wit' means mind or intelligence. So literally: louse-brain. Despite this, it's among the mildest insults in English. Popular in mid-20th century English, now slightly quaint. Often heard in period dramas and children's literature.",
+    "example_usage": "An aunt to a nephew who forgot his umbrella: 'You nitwit, it's pouring outside!'",
+    "ipa_pronunciation": "/ˈnɪt.wɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "twit",
+      "dimwit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "suck my dick",
+    "literal_translation": "perform oral sex on my penis",
+    "english_equivalent": "suck my dick",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "One of the most aggressive sexual insults in English. It's a dominance assertion disguised as a sexual command — the speaker is claiming superiority by assigning the target a degrading act. It's almost never about actual sex; it's about power and contempt.",
+    "cultural_context": "The phrase's offensiveness comes from its intersection of sexual vulgarity and dominance hierarchy. In hip-hop culture, it's been partially normalized as a generic dismissal, but in most other contexts it remains among the strongest things you can say. Gender dynamics complicate it further — the insult works by framing oral sex as inherently degrading, which carries misogynistic and homophobic undertones.",
+    "example_usage": "Reserved for genuine confrontations. Using this casually will immediately escalate any situation.",
+    "ipa_pronunciation": "/sʌk maɪ dɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "dick",
+      "fuck you"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "SOB",
+    "literal_translation": "son of a bitch (abbreviation)",
+    "english_equivalent": "son of a bitch",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The sanitized abbreviation of 'son of a bitch,' used when you want the sentiment without the full vulgarity. Saying the letters S-O-B rather than the full phrase is a distinctly American phenomenon — it lets you swear in professional contexts while maintaining plausible formality.",
+    "cultural_context": "Common in American workplace language, politics, and older media. LBJ was famous for calling people SOBs in the Oval Office. The abbreviation creates a strange middle ground — everyone knows what it stands for, but somehow spelling it out is considered worse. This is English euphemism at its most transparently absurd.",
+    "example_usage": "In a meeting: 'That SOB undercut our bid.' In a text: 'Can you believe that SOB?'",
+    "ipa_pronunciation": "/ˌɛs.oʊˈbiː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "son of a bitch",
+      "bastard"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "taking the piss",
+    "literal_translation": "extracting the urine",
+    "english_equivalent": "mocking / joking / taking advantage",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "One of the most essential British English phrases with no clean American equivalent. It means three different things: 1) mocking someone ('are you taking the piss?'), 2) joking around ('I'm just taking the piss'), 3) taking unfair advantage ('£20 for parking? They're taking the piss'). Context determines which.",
+    "cultural_context": "Understanding 'taking the piss' is a rite of passage for anyone learning British English. The phrase is so central to British social interaction that not recognizing it marks you as an outsider. 'Taking the mickey' is the clean version. Origin is debated — possibly from 'piss-proud' (an erection caused by a full bladder, hence false pride).",
+    "example_usage": "'Are you taking the piss?' can mean 'are you serious?', 'are you mocking me?', or 'are you trying to scam me?' — and you have to figure out which from context.",
+    "ipa_pronunciation": "/ˌteɪ.kɪŋ ðə ˈpɪs/",
+    "example_sentences": [],
+    "regional_variations": [
+      {
+        "region": "UK",
+        "severity": 2,
+        "note": "Core British slang, used constantly"
+      },
+      {
+        "region": "Australia",
+        "severity": 2,
+        "note": "Equally common"
+      },
+      {
+        "region": "US",
+        "severity": 2,
+        "note": "Understood by Anglophiles but not naturally used"
+      }
+    ],
+    "related_words": [
+      "piss",
+      "piss off"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "get stuffed",
+    "literal_translation": "become stuffed (taxidermied)",
+    "english_equivalent": "fuck off / go away",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A British dismissal somewhere between 'go away' and 'fuck off.' The 'stuffed' possibly refers to taxidermy — 'go get stuffed and mounted' — or to the phrase 'stuff it.' Either way, it's an effective rejection that won't get you fired.",
+    "cultural_context": "Classic British English. Less vulgar than 'piss off,' more aggressive than 'go away.' It's the kind of thing a British person says when they're genuinely annoyed but still maintaining composure. The compressed fury of British restraint in two words.",
+    "example_usage": "When someone makes an unreasonable request: 'Work overtime for free? Get stuffed.'",
+    "ipa_pronunciation": "/ɡɛt stʌft/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "piss off",
+      "naff off",
+      "bugger off"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "munter",
+    "literal_translation": "ugly person",
+    "english_equivalent": "ugly woman / hideous person",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "appearance",
+      "gendered"
+    ],
+    "meaning": "A derogatory term for someone who is exceptionally physically unattractive, generally aimed at women.",
+    "cultural_context": "Cruel British and Antipodean slang. Specifically targets physical appearance. Used frequently in 'lad culture' to mock men who sleep with unattractive women due to heavy intoxication.",
+    "example_usage": "Mate, the girl you were talking to last night was an absolute munter.",
+    "ipa_pronunciation": "/ˈmʌn.tə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "related_words": [
+      "minger",
+      "ugly"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bonk",
+    "literal_translation": "to hit / to have sex",
+    "english_equivalent": "screw / shag",
+    "severity": 1,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A playful, almost comical British term for having sex. It sounds inherently silly — like a cartoon sound effect — which strips any aggression from it. You can say 'bonking' on British daytime television without anyone blinking.",
+    "cultural_context": "British tabloid newspapers love this word because it's sexual enough to be titillating but mild enough to print. 'MINISTER CAUGHT BONKING SECRETARY' is a classic tabloid headline format. The word's childlike sound makes sex seem harmless and ridiculous, which is very British.",
+    "example_usage": "Tabloid gossip: 'Apparently they've been bonking for months.' Between friends: 'Are you two bonking or what?'",
+    "ipa_pronunciation": "/bɒŋk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [
+      "shag",
+      "shaggy"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "motherfucking",
+    "literal_translation": "engaging in relations with a mother",
+    "english_equivalent": "fucking (intensifier)",
+    "severity": 4,
+    "categories": [
+      "intensifier",
+      "sexual",
+      "exclamation"
+    ],
+    "meaning": "A heavy emphatic adjective/adverb used to express extreme anger, excitement, or awe.",
+    "cultural_context": "Distinct from calling someone a 'motherfucker'. As an adjective, it is simply the ultimate intensifier in American English. Samuel L. Jackson famously utilizes this word as a rhythmic punctuation point to highlight narrative extremes.",
+    "example_usage": "I am tired of these motherfucking snakes on this motherfucking plane.",
+    "ipa_pronunciation": "/ˈmʌð.ɚˌfʌk.ɪŋ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "fucking",
+      "goddamn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shitshow",
+    "literal_translation": "a show of feces",
+    "english_equivalent": "utter disaster / messy spectacle",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "compound"
+    ],
+    "meaning": "A situation or event that is completely disorganized, chaotic, and failing spectacularly.",
+    "cultural_context": "Similar to shitstorm but generally implies a spectacle of incompetence rather than an active attack or backlash. A badly planned wedding or a failing company division is a shitshow.",
+    "example_usage": "The organization of this festival is a complete shitshow.",
+    "ipa_pronunciation": "/ˈʃɪt.ʃoʊ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "shitstorm",
+      "clusterfuck"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "clusterfuck",
+    "literal_translation": "a cluster of sexual acts",
+    "english_equivalent": "disastrously disorganized situation",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "compound",
+      "military slang"
+    ],
+    "meaning": "A disastrously mishandled situation or undertaking; a chaotic mess.",
+    "cultural_context": "Originating as US military slang (referencing military formations or 'cluster' bombs combined with disaster), it is the ultimate descriptor for systemic, cascading incompetence where multiple people or groups fail simultaneously.",
+    "example_usage": "The evacuation plan turned into a massive clusterfuck.",
+    "ipa_pronunciation": "/ˈklʌs.tɚ.fʌk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "shitstorm",
+      "FUBAR"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shite",
+    "literal_translation": "feces",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "UK and Irish variant of 'shit'. Used as an exclamation of dismay or to describe something of extremely poor quality.",
+    "cultural_context": "Deeply ingrained in Irish, Scottish, and Northern English dialects. Often sounds slightly softer or more comedic to American ears than 'shit', but serves the exact same vulgar purpose locally.",
+    "example_usage": "That movie was pure shite.",
+    "ipa_pronunciation": "/ʃaɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Ireland",
+      "Scotland"
+    ],
+    "related_words": [
+      "shit",
+      "shitehawk"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shitstorm",
+    "literal_translation": "a storm of feces",
+    "english_equivalent": "disaster / chaos",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "compound"
+    ],
+    "meaning": "An incredibly messy, chaotic, and disastrous situation, often involving intense public backlash or a cascade of failures.",
+    "cultural_context": "Vivid imagery that perfectly encapsulates compounding disasters. Commonly used in corporate, political, and casual settings when a minor issue spirals out of control.",
+    "example_usage": "When the emails leaked, it caused an absolute shitstorm in the press.",
+    "ipa_pronunciation": "/ˈʃɪt.stɔːɹm/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "shitshow",
+      "clusterfuck"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "batshit",
+    "literal_translation": "feces of a bat",
+    "english_equivalent": "insane / crazy",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "animal metaphor",
+      "mental_state"
+    ],
+    "meaning": "Completely insane, irrational, or unhinged.",
+    "cultural_context": "Often paired with 'crazy' ('batshit crazy'). It derives from the phrase 'bats in the belfry' combined with modern profanity to create a vivid descriptor for extreme, erratic behavior.",
+    "example_usage": "Her conspiracy theories are entirely batshit.",
+    "ipa_pronunciation": "/ˈbæt.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "apeshit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "apeshit",
+    "literal_translation": "feces of an ape",
+    "english_equivalent": "wildly angry / hysterical",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "animal metaphor",
+      "mental_state"
+    ],
+    "meaning": "To go completely berserk; a state of extreme, uncontrollable rage or excitement.",
+    "cultural_context": "Usually used as a verb phrase ('to go apeshit'). It evokes the image of enraged primates throwing their feces, describing someone who has lost all civilized emotional control.",
+    "example_usage": "When he saw the scratch on his car, he went absolutely apeshit.",
+    "ipa_pronunciation": "/ˈeɪp.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "batshit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dogshit",
+    "literal_translation": "feces of a dog",
+    "english_equivalent": "terrible / worthless",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "animal metaphor"
+    ],
+    "meaning": "Something of astonishingly poor quality, completely worthless, or untrue.",
+    "cultural_context": "An intensifier of 'shit'. Because stepping in dog feces is a universally despised urban experience, comparing an object, idea, or person's skill level to it is highly derogatory.",
+    "example_usage": "The graphics in this new game are dogshit.",
+    "ipa_pronunciation": "/ˈdɒɡ.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "horseshit",
+      "bullshit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuckwit",
+    "literal_translation": "a person with fucking intelligence",
+    "english_equivalent": "idiot / moron",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "intelligence"
+    ],
+    "meaning": "An exceptionally stupid, annoying, or incompetent person.",
+    "cultural_context": "Primarily British and Australian. It combines 'fuck' as a harsh intensifier with 'wit' (intelligence) to denote a catastrophic lack of intelligence. Very satisfying phonetically due to the hard consonants.",
+    "example_usage": "Some fuckwit parked across two spaces.",
+    "ipa_pronunciation": "/ˈfʌk.wɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia",
+      "New Zealand"
+    ],
+    "related_words": [
+      "nitwit",
+      "half-wit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fucktard",
+    "literal_translation": "fucking retard",
+    "english_equivalent": "absolute idiot",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "intelligence",
+      "ableist"
+    ],
+    "meaning": "A vulgar insult aimed at someone making astonishingly stupid decisions.",
+    "cultural_context": "A portmanteau of 'fuck' and 'retard'. It is considered highly offensive in modern contexts due to its ableist root ('retard'). Despite this, it remains common in angry online discourse and gaming culture as a maximum-impact insult.",
+    "example_usage": "What kind of fucktard designs a door that opens both ways but only has a 'pull' handle?",
+    "ipa_pronunciation": "/ˈfʌk.tɑːɹd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "fuckwit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fucknugget",
+    "literal_translation": "a nugget of fuck",
+    "english_equivalent": "idiot / annoying person",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "modern slang"
+    ],
+    "meaning": "A diminutive but sharp insult for someone who is being annoying, foolish, or acting like a jerk.",
+    "cultural_context": "A modern, somewhat comedic compound swear word. The contrast between the aggressive 'fuck' and the absurd/cute 'nugget' makes it popular on the internet and in casual banter among millennials and Gen Z.",
+    "example_usage": "Shut up, you absolute fucknugget.",
+    "ipa_pronunciation": "/ˈfʌkˌnʌɡ.ɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "dickweed",
+      "fuckwit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wankstain",
+    "literal_translation": "masturbation stain",
+    "english_equivalent": "disgusting idiot / worthless person",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual",
+      "hygiene"
+    ],
+    "meaning": "An intensely derogatory British insult for a despised or useless individual.",
+    "cultural_context": "Highly visual and visceral British insult. By comparing a person to the physical remnant of masturbation, it implies they are a disgusting, useless mistake that should have been wiped away.",
+    "example_usage": "He's a complete wankstain, don't invite him.",
+    "ipa_pronunciation": "/ˈwæŋk.steɪn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "wanker",
+      "scumbag"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "toss-pot",
+    "literal_translation": "pot tosser (archaic for drunkard)",
+    "english_equivalent": "idiot / annoying person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A fool, an idiot, or an intensely annoying person.",
+    "cultural_context": "A traditional British insult. Originally it meant someone who drank heavily (tossed pots of ale), but in modern usage it is synonymous with 'tosser' (masturbator/idiot). It carries a slightly archaic, localized flavor.",
+    "example_usage": "The manager is a miserable old toss-pot.",
+    "ipa_pronunciation": "/ˈtɒs.pɒt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "tosser",
+      "wanker"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bawbag",
+    "literal_translation": "scrotum (ball bag)",
+    "english_equivalent": "scrotum / idiot / annoying person",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "anatomical"
+    ],
+    "meaning": "Scottish slang for scrotum; heavily used as an insult for a foolish or annoying person, or occasionally affectionately among friends.",
+    "cultural_context": "Iconic Scottish profanity. It became globally famous when a massive 2011 Scottish hurricane was affectionately titled 'Hurricane Bawbag' on social media. Demonstrates the Scottish tendency to use severe anatomical terms endearingly.",
+    "example_usage": "What are you doing, ya bawbag?",
+    "ipa_pronunciation": "/ˈbɔː.bæɡ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Scotland"
+    ],
+    "related_words": [
+      "scrotum",
+      "ballbag"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "roaster",
+    "literal_translation": "one who roasts",
+    "english_equivalent": "idiot / embarrassing person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Scottish slang for someone who is making a massive fool of themselves, is incredibly annoying, or is generally an idiot.",
+    "cultural_context": "Highly specific to Glasgow and western Scotland. A 'roaster' is typically someone who lacks self-awareness and acts obnoxiously in public, metaphorically 'roasting' their own reputation.",
+    "example_usage": "Look at the state of that guy, absolute roaster.",
+    "ipa_pronunciation": "/ˈroʊ.stɚ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Scotland"
+    ],
+    "related_words": [
+      "bampot",
+      "daftie"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bampot",
+    "literal_translation": "unknown origin (possibly relating to barmy/barm)",
+    "english_equivalent": "crazy fool / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "mental_state"
+    ],
+    "meaning": "A foolish, crazy, or deeply unhinged person.",
+    "cultural_context": "Classic Scottish insult. Used to describe someone whose ideas or actions are utterly ridiculous or dangerously stupid. Often used by parents or older folks to describe wild youth.",
+    "example_usage": "Stop acting like a total bampot.",
+    "ipa_pronunciation": "/ˈbæm.pɒt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Scotland"
+    ],
+    "related_words": [
+      "roaster",
+      "numpty"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cockwomble",
+    "literal_translation": "penis womble",
+    "english_equivalent": "foolish person / idiot",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "anatomical"
+    ],
+    "meaning": "A person, usually male, prone to making staggeringly stupid decisions or statements.",
+    "cultural_context": "A quintessentially modern British internet insult. It combines 'cock' (penis) with 'Womble' (a beloved fuzzy creature from 1970s British children's television). The juxtaposition of severe vulgarity with childhood nostalgia creates a rhythmically pleasing, highly viral insult.",
+    "example_usage": "The politician proved himself to be a complete cockwomble during the debate.",
+    "ipa_pronunciation": "/ˈkɒkˌwɒm.bəl/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "knobhead",
+      "fuckwit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "knob-jockey",
+    "literal_translation": "penis rider",
+    "english_equivalent": "asshole / gay slur",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "anatomical",
+      "homophobic slur"
+    ],
+    "meaning": "A derogatory term aimed originally at homosexual men, but frequently generalized as a harsh insult for an annoying or unfair male.",
+    "cultural_context": "British and Australian slang. While its literal meaning invokes homosexuality ('riding' a penis), it is often thrown around in intensely masculine environments (sports, pubs) simply to emasculate the target. Highly offensive in modern contexts.",
+    "example_usage": "The referee is a blind knob-jockey.",
+    "ipa_pronunciation": "/ˈnɒbˌdʒɒk.i/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia"
+    ],
+    "related_words": [
+      "wanker",
+      "faggot"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dickweed",
+    "literal_translation": "penis weed",
+    "english_equivalent": "jerk / annoying person",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "anatomical"
+    ],
+    "meaning": "An American insult for a deeply irritating, socially inept, or obnoxious person.",
+    "cultural_context": "A staple of 1980s and 90s American slang. The addition of 'weed' to 'dick' strips the target of threat and renders them merely annoying, like an unwanted plant. Milder than asshole.",
+    "example_usage": "Tell that dickweed to move his car.",
+    "ipa_pronunciation": "/ˈdɪk.wiːd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "dickwad",
+      "peckerhead"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dickwad",
+    "literal_translation": "penis wad (bundle)",
+    "english_equivalent": "jerk / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "anatomical"
+    ],
+    "meaning": "Someone who is acting like an obnoxious idiot or a bully.",
+    "cultural_context": "Very similar to dickweed but carries a slightly more abrasive tone. 'Wad' often implies a useless bundle of material (like gum or paper), marking the person as both annoying and disposable.",
+    "example_usage": "Some dickwad stole my lunch from the fridge.",
+    "ipa_pronunciation": "/ˈdɪk.wɒd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "dickweed",
+      "douchebag"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "peckerhead",
+    "literal_translation": "head of a penis (or woodpecker)",
+    "english_equivalent": "idiot / aggressive jerk",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "anatomical"
+    ],
+    "meaning": "An aggressive, foolish, or intensely annoying male.",
+    "cultural_context": "Primarily American, leaning toward Southern and Midwestern usage. 'Pecker' is a colloquialism for penis. It paints the target as someone who acts solely on blind, aggressive instinct without thinking.",
+    "example_usage": "Back off, you little peckerhead.",
+    "ipa_pronunciation": "/ˈpɛk.ɚˌhɛd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "dickhead",
+      "asshat"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jagoff",
+    "literal_translation": "masturbator",
+    "english_equivalent": "jerk / idiot / asshole",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "regional slang"
+    ],
+    "meaning": "An inherently annoying, selfish, or inept person.",
+    "cultural_context": "Highly localized to the American Rust Belt, particularly Pittsburgh and Chicago. Originating from 'jacking off', it has lost much of its sexual vulgarity locally and is used casually, similar to how 'jerk' is used elsewhere in the US.",
+    "example_usage": "Learn how to merge, you jagoff!",
+    "ipa_pronunciation": "/ˈdʒæɡ.ɒf/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US (Pittsburgh, Chicago)"
+    ],
+    "related_words": [
+      "jackass",
+      "jerk"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "assclown",
+    "literal_translation": "posterior clown",
+    "english_equivalent": "ridiculous idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "compound"
+    ],
+    "meaning": "A person who is not only stupid or annoying but makes a completely embarrassing, farcical spectacle of themselves.",
+    "cultural_context": "Popularized in part by the movie 'Office Space'. Adding 'clown' to 'ass' emphasizes the absurdity and humiliating nature of the target's behavior. An assclown isn't just a jerk; they are a public embarrassment.",
+    "example_usage": "Why did that assclown think it was a good idea to microwave fish in the office?",
+    "ipa_pronunciation": "/ˈæs.klaʊn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "asshat",
+      "tool"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "asshat",
+    "literal_translation": "wearing an ass as a hat",
+    "english_equivalent": "idiot / arrogant fool",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "compound"
+    ],
+    "meaning": "An obnoxious, overconfident idiot. Someone who has their head so far up their own posterior they are wearing it like a hat.",
+    "cultural_context": "A vivid mental image that softens the severity of 'asshole' through absurdity. Used heavily on the internet and by younger millennials to describe someone acting selfishly or blindly arrogant.",
+    "example_usage": "The CEO is a complete asshat who doesn't understand the product.",
+    "ipa_pronunciation": "/ˈæs.hæt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "assclown",
+      "dickhead"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "scumbag",
+    "literal_translation": "condom (archaic) / bag of scum",
+    "english_equivalent": "despicable person / lowlife",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "character attack"
+    ],
+    "meaning": "A deeply unethical, immoral, or thoroughly despicable person.",
+    "cultural_context": "While many insults attack intelligence or annoyance, 'scumbag' is an attack on morality. It is reserved for thieves, scammers, abusers, and people completely lacking a moral compass. Its original slang meaning (used condom) is largely forgotten, replaced by intense venom.",
+    "example_usage": "The scumbag stole from his own grandmother.",
+    "ipa_pronunciation": "/ˈskʌm.bæɡ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "lowlife",
+      "bastard"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "skank",
+    "literal_translation": "foul-smelling (slang origin)",
+    "english_equivalent": "slut / trashy woman",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "classist"
+    ],
+    "meaning": "A highly derogatory term for a woman considered promiscuous, trashy, or of lower social class aesthetics.",
+    "cultural_context": "A gendered slur combining classism and misogyny. It doesn't just judge sexual behavior (like 'slut'), but also hygiene, fashion choice, and perceived moral failing. Highly offensive.",
+    "example_usage": "She acted like a total skank at the bar last night.",
+    "ipa_pronunciation": "/skæŋk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "UK"
+    ],
+    "related_words": [
+      "slut",
+      "tramp"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "minge",
+    "literal_translation": "vagina / pubic hair",
+    "english_equivalent": "pussy / vagina",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual"
+    ],
+    "meaning": "A vulgar British term for female genitalia.",
+    "cultural_context": "A staple of British profanity. It can be used descriptively in sexual slang or as an insult ('you lazy minge'), but is generally considered highly crude. Not quite as taboo as 'cunt', but totally inappropriate in formal settings.",
+    "example_usage": "He wouldn't stop staring at her, hoping for a flash of minge.",
+    "ipa_pronunciation": "/mɪndʒ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia"
+    ],
+    "related_words": [
+      "clunge",
+      "fanny"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "clunge",
+    "literal_translation": "vagina",
+    "english_equivalent": "pussy",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual"
+    ],
+    "meaning": "Gross-out British slang for female genitalia.",
+    "cultural_context": "Popularized heavily by British comedies like 'The Inbetweeners'. It is designed to sound phonetically unpleasant. Used mostly by teenage boys or men engaging in crude 'lad culture' banter to describe chasing women.",
+    "example_usage": "We're going out tonight to be knee-deep in clunge.",
+    "ipa_pronunciation": "/klʌndʒ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "minge",
+      "pussy"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fanny",
+    "literal_translation": "vagina (UK) / buttocks (US)",
+    "english_equivalent": "vagina / ass",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "cultural trap"
+    ],
+    "meaning": "In the UK, Ireland, and Australia, it means vagina and is highly vulgar. In the US, it means buttocks and is entirely childish/innocent.",
+    "cultural_context": "The ultimate transatlantic linguistic trap. An American tourist talking about their 'fanny pack' or 'falling on their fanny' will provoke gasps or uproarious laughter in London. In the UK, it is a genuine swear word for female anatomy.",
+    "example_usage": "UK: Stop acting like a fanny and climb the ladder. US: I slipped and fell on my fanny.",
+    "ipa_pronunciation": "/ˈfæn.i/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia",
+      "US (Different meaning)"
+    ],
+    "related_words": [
+      "minge",
+      "ass"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bint",
+    "literal_translation": "girl / daughter (from Arabic)",
+    "english_equivalent": "bitch / annoying woman",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "gendered"
+    ],
+    "meaning": "A derogatory British slang term for an annoying, foolish, or arrogant woman.",
+    "cultural_context": "Brought to Britain by soldiers returning from the Middle East (where 'bint' just means girl/daughter). In English, it morphed into a sexist insult. It's an older insult but still frequently utilized to dismiss a woman entirely.",
+    "example_usage": "That stupid bint at the register overcharged me.",
+    "ipa_pronunciation": "/bɪnt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "cow",
+      "bitch"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wazzock",
+    "literal_translation": "fool",
+    "english_equivalent": "idiot / daft fool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A Northern English insult for someone behaving stupidly or making a silly mistake.",
+    "cultural_context": "Not immensely vulgar—more on the level of 'idiot' or 'moron'—but uniquely Northern English (Yorkshire/Lancashire). It sounds vaguely crude without actually carrying heavy profanity, making it a favorite for exasperated parents.",
+    "example_usage": "You've put your shoes on the wrong feet, you daft wazzock.",
+    "ipa_pronunciation": "/ˈwæz.ək/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK (Northern England)"
+    ],
+    "related_words": [
+      "numpty",
+      "pillock"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gormless",
+    "literal_translation": "lacking gorm (understanding/care)",
+    "english_equivalent": "clueless / stupid-looking",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "appearance"
+    ],
+    "meaning": "Describes someone who lacks sense, understanding, or basic intelligence, often reflected in a blank facial expression.",
+    "cultural_context": "UK-specific. It perfectly describes the blank, vacant stare of someone who doesn't understand what is happening around them. A uniquely British way to insult someone's situational awareness without dropping hard swear words.",
+    "example_usage": "He just stood there with a gormless expression on his face.",
+    "ipa_pronunciation": "/ˈɡɔːm.ləs/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "clueless",
+      "dim"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "spunk",
+    "literal_translation": "semen (UK) / courage (US)",
+    "english_equivalent": "cum / jizz",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "cultural trap"
+    ],
+    "meaning": "In the UK and Australia, an extremely vulgar slang term for semen. In the US, it innocently means courage, spirit, or moxie.",
+    "cultural_context": "Another massive linguistic trap. Declaring that a young girl 'has a lot of spunk' in America is a compliment about her bravery; in the UK, it is an accidental, horrifyingly sexual statement. 'To spunk' money in the UK also means to waste it lavishly.",
+    "example_usage": "UK: Someone wiped spunk on the bathroom mirror. US: She's got spunk, kid.",
+    "ipa_pronunciation": "/spʌŋk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia",
+      "US (Different meaning)"
+    ],
+    "related_words": [
+      "jizz",
+      "cum"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jizz",
+    "literal_translation": "semen",
+    "english_equivalent": "cum / semen",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual"
+    ],
+    "meaning": "Vulgar slang for ejaculatory fluid.",
+    "cultural_context": "Universal English slang, heavily utilized in crude jokes and pornography. Despite being a highly taboo fluid objectively, the word is used somewhat casually in 'bro' culture or teenage banter. Origin is uncertain but likely a phonetic shift from 'jism'.",
+    "example_usage": "There's a stain on the couch that looks like jizz.",
+    "ipa_pronunciation": "/dʒɪz/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "cum",
+      "spunk"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cock-up",
+    "literal_translation": "penis up",
+    "english_equivalent": "massive mistake / blunder",
+    "severity": 2,
+    "categories": [
+      "compound",
+      "idiom"
+    ],
+    "meaning": "A glaring error, mistake, or bungled situation.",
+    "cultural_context": "Despite containing 'cock', this British phrase is considered relatively mild and is frequently printed in national newspapers to describe government mistakes. 'Cock-up theory' refers to the idea that incompetence rather than conspiracy explains most events.",
+    "example_usage": "The new payroll system has been a massive cock-up.",
+    "ipa_pronunciation": "/ˈkɒk.ʌp/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "fuck-up",
+      "bodge"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piss-take",
+    "literal_translation": "taking the piss",
+    "english_equivalent": "mockery / a joke at someone's expense",
+    "severity": 2,
+    "categories": [
+      "compound",
+      "idiom"
+    ],
+    "meaning": "An act of mockery, or a situation that is so unreasonable it must be a joke.",
+    "cultural_context": "A cornerstone of British/Australian social interaction. 'Taking the piss' out of someone (mocking them) is how affections are displayed. However, if a price is terribly highly, one might say 'this price is a piss-take', meaning the seller is practically robbing them.",
+    "example_usage": "We're not serious, it was just a piss-take.",
+    "ipa_pronunciation": "/ˈpɪs.teɪk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Australia"
+    ],
+    "related_words": [
+      "taking the piss"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rat-arsed",
+    "literal_translation": "having the ass of a rat",
+    "english_equivalent": "blind drunk / heavily intoxicated",
+    "severity": 2,
+    "categories": [
+      "intoxication",
+      "scatological"
+    ],
+    "meaning": "Extremely drunk.",
+    "cultural_context": "British culture maintains an endless lexicon for being drunk, almost all of them vaguely profane. 'Rat-arsed' paints a grotesque but funny picture of someone who has lost all bodily coordination and dignity due to alcohol.",
+    "example_usage": "He drank ten pints and got absolutely rat-arsed.",
+    "ipa_pronunciation": "/ˈræt.ɑːst/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "wankered",
+      "shitfaced"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wankered",
+    "literal_translation": "masturbated",
+    "english_equivalent": "hammered / extremely drunk",
+    "severity": 3,
+    "categories": [
+      "intoxication",
+      "sexual"
+    ],
+    "meaning": "A state of acute alcohol intoxication.",
+    "cultural_context": "A quintessential UK slang term. Deriving from 'wank', it means the person is drunk beyond the point of reason. Often used boastfully on weekend nights out.",
+    "example_usage": "I don't remember getting home, I was totally wankered.",
+    "ipa_pronunciation": "/ˈwæŋ.kəd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "rat-arsed",
+      "pissed"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "munted",
+    "literal_translation": "destroyed",
+    "english_equivalent": "destroyed / ugly / wildly drunk",
+    "severity": 2,
+    "categories": [
+      "intoxication",
+      "appearance",
+      "slang"
+    ],
+    "meaning": "Depending on context: a person who is extremely drunk/high, an object that is completely broken, or a distinctly ugly face.",
+    "cultural_context": "Australian and Kiwi slang that bridged into the UK. It signifies total destruction—whether of a car engine, an evening's sobriety, or someone's facial features. Versatile and aggressively casual.",
+    "example_usage": "That car has been completely munted in the crash.",
+    "ipa_pronunciation": "/ˈmʌn.tɪd/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Australia",
+      "New Zealand",
+      "UK"
+    ],
+    "related_words": [
+      "fucked",
+      "wankered"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "drongo",
+    "literal_translation": "a type of bird / name of a slow racehorse",
+    "english_equivalent": "idiot / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An Australian insult for a stupid, slow, or clumsy person.",
+    "cultural_context": "Comes from a 1920s Australian racehorse named Drongo that never won a single race. It evolved into a mild, slightly affectionate term for a lovable idiot or someone who makes a harmless mistake.",
+    "example_usage": "You forgot the keys again, you bloody drongo.",
+    "ipa_pronunciation": "/ˈdrɒŋ.ɡoʊ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Australia"
+    ],
+    "related_words": [
+      "galah",
+      "idiot"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bogan",
+    "literal_translation": "uncouth person",
+    "english_equivalent": "white trash / redneck / chav",
+    "severity": 2,
+    "categories": [
+      "social class",
+      "insult"
+    ],
+    "meaning": "An Australian/NZ term for someone of a lower working-class background, stereotyped as uncultured, drinking cheap beer, and having poor taste.",
+    "cultural_context": "A massive signifier of class war in Australian English. Like 'chav' in the UK or 'redneck' in the US, it is used pejoratively by the middle class, but has also been aggressively reclaimed by the demographic it describes as a badge of authentic, anti-pretentious pride.",
+    "example_usage": "Look at those bogans doing burnouts in the car park.",
+    "ipa_pronunciation": "/ˈboʊ.ɡən/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Australia",
+      "New Zealand"
+    ],
+    "related_words": [
+      "chav",
+      "redneck"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shitkicker",
+    "literal_translation": "one who kicks feces",
+    "english_equivalent": "hick / redneck / heavy boot",
+    "severity": 2,
+    "categories": [
+      "social class",
+      "clothing"
+    ],
+    "meaning": "An American insult for an unsophisticated rural person (working on a farm kicking manure), or the heavy boots they wear.",
+    "cultural_context": "Rooted in agricultural disdain from urbanites. Calling someone a shitkicker implies they are violently unsophisticated. Conversely, 'shitkickers' refers to heavy work boots, implying they are tough enough to wade through manure.",
+    "example_usage": "He put on his shitkickers and went to the rodeo.",
+    "ipa_pronunciation": "/ˈʃɪtˌkɪk.ɚ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US"
+    ],
+    "related_words": [
+      "redneck",
+      "hick"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cum-dumpster",
+    "literal_translation": "receptacle for semen",
+    "english_equivalent": "worthless whore",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "gendered slur",
+      "extreme"
+    ],
+    "meaning": "A violently misogynistic or homophobic slur portraying the target solely as a receptacle for sexual acts.",
+    "cultural_context": "One of the most degrading modern insults in the English language. It completely dehumanizes the target, reducing them literally to trash (dumpster) meant only for bodily fluids. It is extremely offensive and is only utilized to deal maximum psychological damage.",
+    "example_usage": "Uttered to completely dehumanize someone based on alleged hypersexuality.",
+    "ipa_pronunciation": "/ˈkʌmˌdʌmp.stɚ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "slut",
+      "whore"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cock-block",
+    "literal_translation": "penis blockade",
+    "english_equivalent": "spoil sexual chances",
+    "severity": 3,
+    "categories": [
+      "action",
+      "sexual slang"
+    ],
+    "meaning": "To intentionally or unintentionally prevent someone from successfully seducing someone else.",
+    "cultural_context": "A staple of high school and college slang. It frames sexual pursuit as an objective that can be actively blocked by an annoying friend or circumstantial obstacle. Often used as both a noun (a person) and a verb.",
+    "example_usage": "My roommate came home early and totally cock-blocked me.",
+    "ipa_pronunciation": "/ˈkɒk.blɒk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal English"
+    ],
+    "related_words": [
+      "wingman (antonym)"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuckery",
+    "literal_translation": "the act or state of fucking",
+    "english_equivalent": "nonsense / deceit / bizarre behavior",
+    "severity": 3,
+    "categories": [
+      "abstract noun",
+      "behavioral"
+    ],
+    "meaning": "Deceitful, foolish, or suspicious behavior; absolute nonsense.",
+    "cultural_context": "A modern evolution of the word 'fuck' into a conceptual noun. If management is constantly changing the rules and stealing wages, the employees will complain about the 'corporate fuckery'. It perfectly summarizes malicious, complex nonsense.",
+    "example_usage": "I refuse to put up with this fuckery any longer.",
+    "ipa_pronunciation": "/ˈfʌk.ɚ.i/",
+    "example_sentences": [],
+    "regional_variations": [
+      "US",
+      "Universal English"
+    ],
+    "related_words": [
+      "bullshit",
+      "tomfoolery"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bollocks",
+    "literal_translation": "testicles",
+    "english_equivalent": "ruined / exhausted / drunk",
+    "severity": 2,
+    "categories": [
+      "intoxication",
+      "modifier"
+    ],
+    "meaning": "When used as a verb/adjective ('bolloxed'/ 'bollocksed'), it means something is completely broken, or the person is deeply exhausted/drunk.",
+    "cultural_context": "A highly versatile derivation of 'bollocks'. If a vase falls and shatters, it is bollocksed. If a worker does a 14-hour shift, they are bollocksed. It implies the integrity of the thing/person has been totally destroyed.",
+    "example_usage": "My phone fell in the toilet, it's completely bollocksed.",
+    "ipa_pronunciation": "/ˈbɒl.əkst/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Ireland"
+    ],
+    "related_words": [
+      "fucked",
+      "knackered"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wally",
+    "literal_translation": "possibly from Walter",
+    "english_equivalent": "silly idiot / goof",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A British term for someone who is silly, foolish, or a bit incompetent.",
+    "cultural_context": "One of the mildest insults available in British English, often used affectionately toward children or friends when they perform a harmless but clumsy mistake. It lacks any true malice.",
+    "example_usage": "You dropped the cake, you absolute wally.",
+    "ipa_pronunciation": "/ˈwɒl.i/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "daftie",
+      "silly"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "berk",
+    "literal_translation": "Berkshire Hunt (rhyming slang)",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "rhyming slang"
+    ],
+    "meaning": "A foolish or ignorant person.",
+    "cultural_context": "A fascinating linguistic relic. Most people use 'berk' as a mild, harmless alternative to 'idiot'. However, it originates from Cockney rhyming slang: 'Berkshire Hunt', which rhymes with 'cunt'. Originally extremely vulgar, it slowly softened into a PG-rated, grandfatherly insult over decades.",
+    "example_usage": "Don't listen to him, he's a bit of a berk.",
+    "ipa_pronunciation": "/bɜːk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "idiot",
+      "wally"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bell-whiff",
+    "literal_translation": "smell of the glans penis",
+    "english_equivalent": "stinking idiot / dickhead",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "hygiene",
+      "anatomical"
+    ],
+    "meaning": "A person viewed with supreme contempt and disgust.",
+    "cultural_context": "A highly creative British insult popularized in modern media (like the show 'The Inbetweeners'). It combines 'bellend' (head of penis) with 'whiff' (smell), implying the person is not just a dickhead, but an unwashed, foul-smelling one.",
+    "example_usage": "He refused to pay his half of the tab, the absolute bell-whiff.",
+    "ipa_pronunciation": "/ˈbɛl.wɪf/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK"
+    ],
+    "related_words": [
+      "bellend",
+      "wankstain"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piss-poor",
+    "literal_translation": "poor as urine",
+    "english_equivalent": "extremely pathetic / low quality",
+    "severity": 2,
+    "categories": [
+      "modifier",
+      "scatological"
+    ],
+    "meaning": "Of incredibly low standard or quality.",
+    "cultural_context": "Used to express disgust at a terrible performance or a shoddy product. Some folk etymology incorrectly claims it comes from poor people selling urine to tanneries, but generally, 'piss' just operates as a negative intensifier to 'poor'.",
+    "example_usage": "That was a piss-poor excuse for missing the meeting.",
+    "ipa_pronunciation": "/ˌpɪsˈpɔːɹ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "US",
+      "Australia"
+    ],
+    "related_words": [
+      "dogshit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shitehawk",
+    "literal_translation": "shit hawk (bird of prey)",
+    "english_equivalent": "parasite / disgusting opportunist",
+    "severity": 3,
+    "categories": [
+      "animal metaphor",
+      "insult"
+    ],
+    "meaning": "Someone who is repulsive, obnoxious, or preys upon others' misfortunes.",
+    "cultural_context": "Military slang originating as an insulting term for circling seagulls or kites that scavenged garbage camps. It evolved into a cutting insult for human parasites—people who wait around to snatch something free and contribute nothing.",
+    "example_usage": "Don't let that shitehawk near your wallet.",
+    "ipa_pronunciation": "/ˈʃaɪt.hɔːk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "UK",
+      "Ireland"
+    ],
+    "related_words": [
+      "scumbag",
+      "shite"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuck",
+    "literal_translation": "to have sexual intercourse",
+    "english_equivalent": "fuck",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The most versatile English swear word. Can express anger, pain, surprise, or joy. Can function as a noun, verb, adjective, adverb, or interjection.",
+    "cultural_context": "Considered strong profanity, heavily censored in broadcast media, but extremely common in everyday casual speech. Its severity is highly dependent on context and audience.",
+    "example_usage": "What the fuck is going on?!",
+    "ipa_pronunciation": "/fʌk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shit",
+    "literal_translation": "feces / excrement",
+    "english_equivalent": "shit",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Used to express frustration, anger, or disappointment. Also used to describe something of poor quality or nonsense.",
+    "cultural_context": "Very common scatological profanity. A step below 'fuck' in severity, but still inappropriate in formal environments.",
+    "example_usage": "Oh shit, I dropped my phone.",
+    "ipa_pronunciation": "/ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bitch",
+    "literal_translation": "female dog",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory term primarily used for women, implying they are malicious, unpleasant, or selfish. Can also be used to mean a difficult situation.",
+    "cultural_context": "Highly gendered insult with misogynistic roots. However, it has been somewhat reclaimed in casual slang (e.g., 'my bitches' for close female friends), making its offensiveness highly situational.",
+    "example_usage": "Stop acting like a bitch.",
+    "ipa_pronunciation": "/bɪtʃ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "asshole",
+    "literal_translation": "anus",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "An insult for someone who is obnoxious, mean, arrogant, or inconsiderate.",
+    "cultural_context": "Primarily American English (British: 'arsehole'). A staple insult for offensive behavior. Usually directed at men, but applicable to anyone.",
+    "example_usage": "That guy who cut me off in traffic is a huge asshole.",
+    "ipa_pronunciation": "/ˈæs.hoʊl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cunt",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual",
+      "body_part"
+    ],
+    "meaning": "An extremely vulgar term for female genitalia, used as a harsh insult.",
+    "cultural_context": "One of the most taboo words in American English, viewed as a deeply offensive misogynistic slur. In British and Australian English, it is also highly offensive but is sometimes used more casually or even affectionately among male friends.",
+    "example_usage": "Considered too offensive for casual example usage.",
+    "ipa_pronunciation": "/kʌnt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "motherfucker",
+    "literal_translation": "one who has sex with their mother",
+    "english_equivalent": "motherfucker / bastard",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual",
+      "family"
+    ],
+    "meaning": "A strong insult denoting a despicable or frustrating person or situation. Rarely literal.",
+    "cultural_context": "Primarily an American insult. Unlike Arabic family insults, it doesn't trigger the same level of literal honor defense, but functions as a general-purpose intense exclamation or insult.",
+    "example_usage": "This motherfucker won't start! (referring to a broken car)",
+    "ipa_pronunciation": "/ˈmʌð.ɚˌfʌk.ɚ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "damn",
+    "literal_translation": "condemn to hell",
+    "english_equivalent": "damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to express mild frustration or annoyance.",
+    "cultural_context": "Once considered a strong religious curse, it is now one of the mildest swear words in English, suitable for most PG-13 media.",
+    "example_usage": "Damn it, I lost my keys.",
+    "ipa_pronunciation": "/dæm/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hell",
+    "literal_translation": "place of eternal damnation",
+    "english_equivalent": "hell",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to express surprise, confusion, or mild anger (e.g., 'what the hell').",
+    "cultural_context": "Like 'damn', its religious shock value has faded significantly. Very mild.",
+    "example_usage": "What the hell is going on here?",
+    "ipa_pronunciation": "/hɛl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bastard",
+    "literal_translation": "an illegitimate child",
+    "english_equivalent": "bastard / jerk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An insult for a malicious, unpleasant, or despicable person (usually male).",
+    "cultural_context": "The literal meaning of illegitimacy conveys far less stigma today than in the past. Used as a moderate character insult.",
+    "example_usage": "He stole my money, that bastard.",
+    "ipa_pronunciation": "/ˈbæs.tɚd/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dick",
+    "literal_translation": "penis",
+    "english_equivalent": "dick / jerk / prick",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "An insult for someone acting foolishly, meanly, or inconsiderately. Also a vulgar term for the penis.",
+    "cultural_context": "A very common insult, primarily directed at men. Calling someone a 'dick' implies they are being actively malicious or overly aggressive.",
+    "example_usage": "Stop being such a dick to the waiter.",
+    "ipa_pronunciation": "/dɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bullshit",
+    "literal_translation": "bull feces",
+    "english_equivalent": "bullshit / nonsense",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Nonsense, lies, or something that is completely unfair or untrue.",
+    "cultural_context": "A very common compound swear word used to call out lies or express disbelief. Milder than 'shit' alone.",
+    "example_usage": "That excuse is total bullshit.",
+    "ipa_pronunciation": "/ˈbʊl.ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bloody",
+    "literal_translation": "covered in blood (or 'by our lady')",
+    "english_equivalent": "fucking / damn",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A mild intensifier used to add emphasis, usually expressing frustration or anger.",
+    "cultural_context": "Distinctly British/Australian/New Zealand. Very mild; historically controversial but now widely accepted in casual speech.",
+    "example_usage": "Hurry up, it's bloody freezing out here!",
+    "ipa_pronunciation": "/ˈblʌd.i/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "wanker",
+    "literal_translation": "one who masturbates",
+    "english_equivalent": "jerk / tosser / asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A British insult for an annoying, foolish, or unpleasant person.",
+    "cultural_context": "Strong British insult. Its literal meaning makes it vulgar, but it is used as a general term of abuse similar to 'jerk' or 'asshole' in the US.",
+    "example_usage": "Don't listen to him, he's a wanker.",
+    "ipa_pronunciation": "/ˈwæŋ.kə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "twat",
+    "literal_translation": "vagina",
+    "english_equivalent": "idiot / fool / cunt",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "A British insult for a foolish, stupid, or annoying person.",
+    "cultural_context": "In the UK, it is highly common as a somewhat strong insult for a fool. While it literally translates to vagina, in British usage it is significantly less severe than 'cunt'.",
+    "example_usage": "You silly twat, what did you do that for?",
+    "ipa_pronunciation": "/twæt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bugger",
+    "literal_translation": "one who engages in anal intercourse",
+    "english_equivalent": "damn / nuisance",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A British mild exclamation of annoyance ('bugger it'), or an insult for an annoying person or difficult situation.",
+    "cultural_context": "Despite its historical literal meaning, in modern British English it is considered very mild and almost quaint.",
+    "example_usage": "Oh bugger, I missed the train.",
+    "ipa_pronunciation": "/ˈbʌɡ.ə(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "prick",
+    "literal_translation": "penis",
+    "english_equivalent": "dick / jerk",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "An insult for a male who is arrogant, foolish, or contemptible.",
+    "cultural_context": "Functions almost identically to 'dick'. Indicates strong disapproval of someone's behavior.",
+    "example_usage": "He acted like a total prick at the party.",
+    "ipa_pronunciation": "/pɹɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "crap",
+    "literal_translation": "feces / excrement",
+    "english_equivalent": "crap / rubbish",
+    "severity": 1,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "A milder alternative to 'shit'. Used to express annoyance or to describe things of poor quality.",
+    "cultural_context": "Usually not categorized as true profanity. Safe for most environments outside of formal writing.",
+    "example_usage": "This movie is crap.",
+    "ipa_pronunciation": "/kɹæp/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "douchebag",
+    "literal_translation": "a hygiene device",
+    "english_equivalent": "jerk / arrogant fool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An American insult for an obnoxious, arrogant, or socially inept male.",
+    "cultural_context": "Very common modern American insult. Carries connotations of unearned confidence and lack of self-awareness.",
+    "example_usage": "He popped his collar and acted like a total douchebag.",
+    "ipa_pronunciation": "/ˈduːʃ.bæɡ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bellend",
+    "literal_translation": "glans penis (head of the penis)",
+    "english_equivalent": "dickhead / idiot",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "A British insult for a stupid, annoying, or irritating man.",
+    "cultural_context": "Distinctly British. A crude anatomical insult used to mock someone's foolishness.",
+    "example_usage": "Stop acting like a bellend.",
+    "ipa_pronunciation": "/ˈbɛl.ɛnd/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piss off",
+    "literal_translation": "to urinate away",
+    "english_equivalent": "go away / fuck off",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "An aggressive command telling someone to go away.",
+    "cultural_context": "Common in British and Commonwealth English. Strongly dismissive but less offensive than 'fuck off'.",
+    "example_usage": "Piss off and leave me alone!",
+    "ipa_pronunciation": "/pɪs ɒf/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slut",
+    "literal_translation": "promiscuous woman",
+    "english_equivalent": "slut / whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A derogatory term aimed at women perceived to be promiscuous.",
+    "cultural_context": "A deeply gendered slur used to enforce sexual double standards. Highly offensive, though there have been movements to 'reclaim' the word (e.g., SlutWalk).",
+    "example_usage": "Used as a severe gendered insult attacking sexual behavior.",
+    "ipa_pronunciation": "/slʌt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "whore",
+    "literal_translation": "prostitute",
+    "english_equivalent": "whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An insult implying someone (usually female) will do anything for money, or specifically used to shame a woman sexually.",
+    "cultural_context": "A severe, direct insult with deep historical roots in misogyny.",
+    "example_usage": "Used as a severe character or sexual insult.",
+    "ipa_pronunciation": "/hɔː(ɹ)/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dumbass",
+    "literal_translation": "dumb posterior",
+    "english_equivalent": "idiot / fool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An American insult for someone who is stupid, slow-witted, or makes a foolish mistake.",
+    "cultural_context": "A very common, moderately offensive American insult. Combines 'dumb' with the intensifier suffix '-ass'.",
+    "example_usage": "You forgot the tickets, you dumbass!",
+    "ipa_pronunciation": "/ˈdʌm.æs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jackass",
+    "literal_translation": "male donkey",
+    "english_equivalent": "idiot / jerk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An American insult for a foolish, obnoxious, or reckless person.",
+    "cultural_context": "Milder than asshole, often implying loud, thoughtless, or attention-seeking bad behavior.",
+    "example_usage": "Don't act like a jackass in public.",
+    "ipa_pronunciation": "/ˈdʒæk.æs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sod",
+    "literal_translation": "sodomite",
+    "english_equivalent": "bastard / annoying person",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A British insult for an annoying or inconsiderate person ('you sod'), or used as an exclamation ('sod it').",
+    "cultural_context": "Despite its harsh historical root, in modern British English it is considered extremely mild, often used affectionately ('lucky sod').",
+    "example_usage": "Sod off, I'm busy.",
+    "ipa_pronunciation": "/sɒd/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

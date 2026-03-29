@@ -1,0 +1,1949 @@
+[
+  {
+    "word": "Kurê kûçik",
+    "literal_translation": "son of a dog",
+    "english_equivalent": "son of a bitch / bastard",
+    "severity": 4,
+    "categories": [
+      "familial",
+      "animal metaphor",
+      "kurmanji"
+    ],
+    "meaning": "An extremely common insult impugning the target's father or lineage by associating them with dogs.",
+    "cultural_context": "In traditional Kurdish society, dogs are historically viewed as unclean (necîs) or lowly animals, despite their utility as guard dogs for flocks. Calling someone the son of a dog is a severe affront to their lineage and honor. Unlike Western usage where 'bitch' insults the mother, 'kûçik' targets the familial origin as a whole.",
+    "example_usage": "Yelled at a thief or someone who has deeply betrayed your trust.",
+    "ipa_pronunciation": "/kuˈɾe kuˈtʃɪk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji regions (Turkey/Syria)"
+    ],
+    "related_words": [
+      "Kuçik",
+      "Segbab"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کوڕی سەگ (Kurrî seg)",
+    "literal_translation": "son of a dog",
+    "english_equivalent": "son of a bitch / bastard",
+    "severity": 4,
+    "categories": [
+      "familial",
+      "animal metaphor",
+      "sorani"
+    ],
+    "meaning": "The Sorani equivalent of 'son of a dog', carrying identical cultural weight.",
+    "cultural_context": "The Sorani dialect spoken heavily in Iraqi Kurdistan and Northwestern Iran relies on 'seg' for dog. Dogs, while present in every village, are conceptually dirty in religious terms. This insult is universally understood and instantly elevates an argument into a fight. It is highly aggressive but slightly less absolute than cursing someone's mother directly.",
+    "example_usage": "When a driver aggressively cuts someone off on the chaotic streets of Erbil.",
+    "ipa_pronunciation": "/kʊˈrɪ sæg/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani regions (Iraq/Iran)"
+    ],
+    "related_words": [
+      "Kurê kûçik",
+      "Segbab"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "حیز (Hîz)",
+    "literal_translation": "faggot / prostitute / coward",
+    "english_equivalent": "faggot / whore / pussy",
+    "severity": 4,
+    "categories": [
+      "homophobic slur",
+      "gendered",
+      "sorani"
+    ],
+    "meaning": "Depending on context and gender, it means a promiscuous woman, a gay man, or a deeply cowardly man.",
+    "cultural_context": "One of the most heavily loaded single words in Sorani Kurdish. When applied to a woman, it means she is a prostitute or lacks 'namus' (honor). When applied to a man, it strips him of his masculinity, either calling him gay (highly taboo in the culture) or calling him incredibly weak and cowardly. Due to the intense patriarchal honor culture, 'Hîz' is devastating.",
+    "example_usage": "Screamed during a massive brawl at someone who refuses to fight: 'Were derewe, Hîz!' (Come outside, coward!)",
+    "ipa_pronunciation": "/hiːz/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani regions"
+    ],
+    "related_words": [
+      "Qahpa",
+      "Bêxîret"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "دەیووس (Deyûs)",
+    "literal_translation": "cuckold",
+    "english_equivalent": "cuckold / spineless man",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "honor_culture",
+      "sorani"
+    ],
+    "meaning": "A man who knows his female relatives (wife, sister, daughter) are engaged in sexual misconduct but ignores it or tolerates it.",
+    "cultural_context": "Borrowed from Arabic but carrying extreme weight in Kurdish culture. To be a 'Deyûs' is to have entirely surrendered your male honor. In a society where family reputation depends entirely on female chastity, accusing a man of being complicit in its loss is an unforgivable insult. It is historically considered one of the worst things you can call a man.",
+    "example_usage": "Used against a man who fails to punish a severe family transgression.",
+    "ipa_pronunciation": "/dæˈjuːs/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani regions",
+      "General Islamic world integration"
+    ],
+    "related_words": [
+      "Bênamûs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kêr",
+    "literal_translation": "penis / knife",
+    "english_equivalent": "dick / cock",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "versatile",
+      "kurmanji"
+    ],
+    "meaning": "The male genitalia.",
+    "cultural_context": "Phonetically identical to 'kêr' meaning knife in some dialects, but contextually obvious. It forms the root of countless compound curses (e.g., Kêrkêş - dick puller/wanker). While not as universally used as a filler word compared to 'verga' in Spanish, it is the standard vulgar noun for male anatomy across Kurmanji.",
+    "example_usage": "Used within a threat: 'Kêr bi devê te' (Dick in your mouth).",
+    "ipa_pronunciation": "/keːɾ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Kêrê kerê",
+      "Qûz"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Qûz",
+    "literal_translation": "vagina",
+    "english_equivalent": "pussy / cunt",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "kurmanji"
+    ],
+    "meaning": "Vulgar term for female genitalia.",
+    "cultural_context": "Highly taboo and rarely spoken in mixed company. It is primarily used in aggressive, violent curses directed at a rival's mother or sister (e.g., 'Kûzê diya te'). Uttering this word in front of traditional elders or family members is considered profoundly disrespectful and shameful.",
+    "example_usage": "Most commonly paired with female relatives in threats.",
+    "ipa_pronunciation": "/quːz/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji",
+      "Sorani (Qoz / Qûz)"
+    ],
+    "related_words": [
+      "Kêr",
+      "Qûn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Qûn",
+    "literal_translation": "ass / buttocks",
+    "english_equivalent": "ass",
+    "severity": 2,
+    "categories": [
+      "anatomical",
+      "scatological"
+    ],
+    "meaning": "The buttocks or anus.",
+    "cultural_context": "The word itself is mildly vulgar but becomes severe when compounded. Calling someone an 'ass-giver' (Qûnek/Qûneder) implies they are a submissive homosexual, which is a massive taboo. The anatomy itself is considered dirty, so referencing it in arguments is an attempt to demean the listener.",
+    "example_usage": "Telling someone to back off: 'Dev li qûn nede' (Don't kiss [my] ass).",
+    "ipa_pronunciation": "/quːn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Qûnek",
+      "Sergû"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Qûna te diqelêşim",
+    "literal_translation": "I will tear your ass",
+    "english_equivalent": "I will tear you a new asshole / I will fuck you up",
+    "severity": 4,
+    "categories": [
+      "threat",
+      "anatomical",
+      "kurmanji"
+    ],
+    "meaning": "A violent threat indicating the speaker intends to physically destroy or violently beat the listener.",
+    "cultural_context": "While it sounds like a sexual threat, it is more commonly used to convey absolute physical violence—similar to the English 'tear a new asshole'. The verb 'qelêşin' means to split or tear apart (like wood). It represents a total loss of patience and an imminent physical altercation.",
+    "example_usage": "Screamed by someone who has just had property stolen or destroyed by the listener.",
+    "ipa_pronunciation": "/quːˈna tɛ dɪqɛleːˈʃɪm/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Qûn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خوشک حیز (Xwîşk hîz)",
+    "literal_translation": "whore sister",
+    "english_equivalent": "sister-fucker / your sister is a whore",
+    "severity": 5,
+    "categories": [
+      "familial",
+      "honor_culture",
+      "sorani"
+    ],
+    "meaning": "An insult implying the listener's sister is profoundly promiscuous or a prostitute.",
+    "cultural_context": "In Sorani culture, the purity of sisters and mothers is the bedrock of a man's honor. To call someone's sister a 'hîz' implies not only that she has ruined herself, but that the brother has failed to control or protect his household. This insult guarantees a physical fight, and historically could even provoke honor killings. It is functionally the highest severity insult available.",
+    "example_usage": "Used only when the speaker intends to completely sever relations and invoke violence.",
+    "ipa_pronunciation": "/xwiːʃk hiːz/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Hîz",
+      "Daik Sozani"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کێر نەرم (Kêr nerm)",
+    "literal_translation": "soft dick",
+    "english_equivalent": "limp dick / impotent loser",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "character attack",
+      "sorani"
+    ],
+    "meaning": "A man who is sexually impotent, or metaphorically weak, indecisive, and cowardly.",
+    "cultural_context": "A direct attack on masculine performativity. While literal impotence is a major social stigma in a culture that prizes large families, the insult extends to a man's general effectiveness in life. A 'soft dick' man can't stand up for himself in business, can't command his household, and folds under pressure.",
+    "example_usage": "Describing a politician who quickly surrenders to demands: 'Ew pyawêkî kêr nerme.'",
+    "ipa_pronunciation": "/keːɾ næɾm/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Kêr",
+      "Hîz"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Şêt / شێت (Şît)",
+    "literal_translation": "crazy / mad",
+    "english_equivalent": "insane / crazy",
+    "severity": 1,
+    "categories": [
+      "mental_state",
+      "sorani",
+      "kurmanji"
+    ],
+    "meaning": "Someone who is mentally unstable, behaving erratically, or making foolish decisions.",
+    "cultural_context": "This crosses the line between a clinical description and an insult. In casual conversation, friends might call each other 'şît' playfully if someone suggests a wild idea. In an argument, it becomes an accusation of irrationality. Mental health was historically highly stigmatized, so the word carries a slight venom when used seriously.",
+    "example_usage": "Playfully dismissing a friend's foolish plan: 'Şît bî? Çawa dibe?' (Are you crazy? How is that possible?)",
+    "ipa_pronunciation": "/ʃiːt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani",
+      "Kurmanji (Şêt)"
+    ],
+    "related_words": [
+      "Dîn",
+      "Maftoon"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dîn",
+    "literal_translation": "crazy",
+    "english_equivalent": "mad / crazy bastard",
+    "severity": 1,
+    "categories": [
+      "mental_state",
+      "kurmanji"
+    ],
+    "meaning": "The Kurmanji equivalent for crazy, insane, or wild behavior.",
+    "cultural_context": "Like 'Şêt', it can be affectionate or insulting. 'Kurê dîn' (crazy boy) can be said to a rambunctious child. When yelled in anger ('Tu dîn î!'), it questions the person's sanity and judgment. Sometimes combined with other insults to amplify their wild nature.",
+    "example_usage": "When someone proposes driving through a snowstorm in the mountains: 'Tu dîn î!'",
+    "ipa_pronunciation": "/diːn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Şêt"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Qehbik",
+    "literal_translation": "little whore (diminutive of Qahpa)",
+    "english_equivalent": "little bitch / slut",
+    "severity": 3,
+    "categories": [
+      "gendered",
+      "insult",
+      "kurmanji"
+    ],
+    "meaning": "A diminutive form of whore. Frequently used to insult younger people or to convey a slightly more dismissive, petty contempt.",
+    "cultural_context": "The '-ik' suffix in Kurmanji implies smallness or cuteness, but when attached to 'prostitute', it creates a deeply condescending insult. It is often thrown at young women whose behavior is deemed unseemly or overly Westernized by conservative elders. It attacks their morality but frames them as insignificant rather than deeply threatening.",
+    "example_usage": "Muttered by older women gossiping about a girl wearing immodest clothing.",
+    "ipa_pronunciation": "/qæhˈbɪk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Qahpa"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بێ نامووس (Bê namûs)",
+    "literal_translation": "without honor / without modesty",
+    "english_equivalent": "shameless bastard / dishonorable scum",
+    "severity": 4,
+    "categories": [
+      "honor_culture",
+      "moral_judgment",
+      "sorani"
+    ],
+    "meaning": "A person who lacks the fundamental moral compass of honor, modesty, and family loyalty.",
+    "cultural_context": "This strikes directly at the heart of Kurdish social fabric. 'Namus' is a highly specific form of honor linked strictly to familial purity and moral boundaries. A man without 'namus' will not defend his family, will lie, cheat, and allow his household to fall into disrepute. It's a social excommunication wrapped in a single word.",
+    "example_usage": "Used against a man who abandons his family or fails to protect his sisters.",
+    "ipa_pronunciation": "/bɛː naːˈmuːs/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani",
+      "Kurmanji (Bênamus)"
+    ],
+    "related_words": [
+      "Bêşeref",
+      "Deyûs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bêxwedê",
+    "literal_translation": "without God",
+    "english_equivalent": "godless pagan / ruthless bastard",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "moral_judgment",
+      "kurmanji"
+    ],
+    "meaning": "Someone who operates without fear of God, meaning they are cruel, ruthless, and without morals.",
+    "cultural_context": "In traditional, highly religious Kurdish society, the ultimate restraint on human cruelty is the fear of Allah ('tirsa Xwedê'). Calling someone 'Bêxwedê' means they have abandoned this restraint. It is often used to describe oppressive rulers, brutal military forces, or simply a landlord who kicks out a poor family in the winter. It frames the enemy as fundamentally evil.",
+    "example_usage": "Describing soldiers who raid a village: 'Ew Bêxwedê ne.'",
+    "ipa_pronunciation": "/bɛxweˈdeː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji",
+      "Sorani (Bexwê)"
+    ],
+    "related_words": [
+      "Zalim"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "خوێڕی (Xwêrî)",
+    "literal_translation": "saltless / useless person",
+    "english_equivalent": "useless scum / vagabond / lowlife",
+    "severity": 3,
+    "categories": [
+      "character attack",
+      "social class",
+      "sorani"
+    ],
+    "meaning": "A person completely lacking in value, productivity, or social standing; a vagrant or rascal.",
+    "cultural_context": "The etymology is fascinating—it relates to things lacking 'xwê' (salt), therefore lacking flavor or substance. A 'Xwêrî' is someone who hangs around on street corners all day with no job, no prospects, and bad manners. They contribute nothing to society. It is the perfect word for rowdy teenagers causing trouble or adults who refuse to work.",
+    "example_usage": "A father yelling at his unemployed son who sleeps until noon: 'Heste, Xwêrî!'",
+    "ipa_pronunciation": "/xweːˈɾiː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Serserî",
+      "Mamnun naes"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "پیس (Pîs)",
+    "literal_translation": "dirty / filthy / foul",
+    "english_equivalent": "dirty bastard / evil / foul",
+    "severity": 2,
+    "categories": [
+      "hygiene",
+      "moral_judgment",
+      "sorani"
+    ],
+    "meaning": "Physically dirty, but more commonly used to describe someone with a filthy heart, bad intentions, or a foul mouth.",
+    "cultural_context": "Cleanliness (pakî) is both a physical hygiene standard and a spiritual necessity in Islam. Therefore, being 'Pîs' is a denunciation of a person's soul. Often combined with 'dil' (heart) to say someone has a dirty heart ('dil pîs'), meaning they are jealous, malicious, or hold grudges.",
+    "example_usage": "Warning a friend about a manipulative colleague: 'Lê haydar be, ew kesekî pîs e.'",
+    "ipa_pronunciation": "/piːs/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Gemar",
+      "Çaw pîs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pîç / پێچ (Pîç)",
+    "literal_translation": "illegitimate child",
+    "english_equivalent": "bastard / little shit",
+    "severity": 3,
+    "categories": [
+      "birth-based",
+      "character attack"
+    ],
+    "meaning": "A bastard. Depending on context, a severe insult regarding illegitimacy or a playful term for a mischievous kid.",
+    "cultural_context": "Similar to how 'bastard' functions in English. When used aggressively between adults, it is a serious slur against lineage. However, it is also incredibly common to use mildly toward a clever or mischievous child ('Kurê pîç' = you little rascal). The tone of voice dictates whether blood will be drawn or a laugh will be shared.",
+    "example_usage": "When a child outsmarts you in a game: 'Aha, pîç!' (Aha, you little rascal!)",
+    "ipa_pronunciation": "/piːtʃ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Heramzade",
+      "Bêbav"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "حەرامزادە (Heramzade)",
+    "literal_translation": "born of sin / born of the unlawful",
+    "english_equivalent": "bastard / son of a bitch",
+    "severity": 4,
+    "categories": [
+      "birth-based",
+      "religious",
+      "sorani"
+    ],
+    "meaning": "A person conceived out of wedlock, conceptually tied to religious sin (haram).",
+    "cultural_context": "Inherited from Persian/Islamic terminology, it is much heavier than 'Pîç'. Because 'Haram' represents that which is forbidden by God, a 'Heramzade' is intrinsically tainted. It is rarely used playfully; it is a heavy, archaic-sounding curse designed to cut deep into a person's legitimacy and soul.",
+    "example_usage": "Uttered to curse a brutal dictator or a profoundly evil person.",
+    "ipa_pronunciation": "/hæɾaːmzaːˈdæ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani",
+      "Kurmanji (Heramzade)"
+    ],
+    "related_words": [
+      "Pîç",
+      "Zikmak"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "کێر بە قوونیت (Kêr be qûnît)",
+    "literal_translation": "dick in your ass",
+    "english_equivalent": "up your ass / fuck you",
+    "severity": 4,
+    "categories": [
+      "threat",
+      "anatomical",
+      "sorani"
+    ],
+    "meaning": "A vulgar exclamation combining aggressive sexual dominance with an anatomical dismissal.",
+    "cultural_context": "A classic Sorani dismissal when someone is profoundly annoying you. It implies sexual violation and submission. In a fiercely patriarchal culture, telling another man you will sodomize him (or wishing it upon him) is about establishing absolute dominance and humiliating his masculinity. It is functionally the same as the middle finger.",
+    "example_usage": "When someone gives you terrible, unsolicited advice while you're working.",
+    "ipa_pronunciation": "/keːɾ bæ quːˈniːt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Qûn",
+      "Kêr bi devê te"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kêr bi devê te",
+    "literal_translation": "dick in your mouth",
+    "english_equivalent": "shut the fuck up / suck my dick",
+    "severity": 4,
+    "categories": [
+      "command",
+      "sexual",
+      "kurmanji"
+    ],
+    "meaning": "A vulgar way to tell someone to stop talking or to aggressively shut them down.",
+    "cultural_context": "By proposing to place a penis in the speaker's mouth, this Kurmanji insult forces silence through sexual degradation. It implies that anything coming out of the person's mouth is worthless. It's highly street-level and entirely inappropriate for any polite setting, almost guaranteeing escalation.",
+    "example_usage": "Screamed at an opponent in an argument who refuses to stop talking.",
+    "ipa_pronunciation": "/keːɾ bɪ dɛˈveː tɛ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Kêr be qûnît"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gûyê min bixwe",
+    "literal_translation": "eat my shit",
+    "english_equivalent": "eat shit and die / go to hell",
+    "severity": 3,
+    "categories": [
+      "command",
+      "scatological",
+      "kurmanji"
+    ],
+    "meaning": "A direct, foul command for someone to consume your excrement.",
+    "cultural_context": "The variation with 'my' (min) makes it intimately disrespectful. While 'eat shit' is universal across many languages, Kurds use it lavishly to express that someone's opinions are utterly invalidated. The physical revulsion aspect makes it a very satisfying phrase to yell when walking away from an impossible person.",
+    "example_usage": "Ending a phone call with a scammer or a bitter ex.",
+    "ipa_pronunciation": "/guːˈjeː mɪn bɪˈxwɛ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Gî bxû",
+      "Gû"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سەرگۆ (Sergû)",
+    "literal_translation": "shit head",
+    "english_equivalent": "shithead / complete idiot",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "character attack",
+      "sorani"
+    ],
+    "meaning": "A person whose head is full of feces; an idiot who makes terrible decisions.",
+    "cultural_context": "A very literal, almost universally translatable compound ('ser' = head, 'gû' = shit). It's incredibly common in Sorani, often used by parents frustrated with their children's bad grades, or friends roasting each other for doing something exceptionally dumb. Because it doesn't invoke family honor, it rarely leads to violence.",
+    "example_usage": "When your friend locks the keys inside the running car: 'Aferîn sergû!' (Bravo, shithead!)",
+    "ipa_pronunciation": "/sæɾˈguː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Gû",
+      "Bêqelît"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "جاش (Cehş / Jash)",
+    "literal_translation": "donkey foal / young mule",
+    "english_equivalent": "traitor / collaborator / Judas",
+    "severity": 5,
+    "categories": [
+      "political",
+      "animal metaphor",
+      "extreme"
+    ],
+    "meaning": "Literally a baby donkey, but culturally one of the most toxic words in modern Kurdish history: a traitor to the Kurdish people.",
+    "cultural_context": "DURING the brutal Ba'athist regimes and various conflicts, Kurds who took money from the state to fight against Kurdish rebels were termed 'Jash' (Donkey foals). They were seen as carrying the master's burden. Today, calling a Kurd a 'Jash' is an unforgivable political and moral slur. It accuses them of having the blood of their own people on their hands. It is vastly heavier than just calling someone a donkey.",
+    "example_usage": "Screamed at politicians who are perceived as selling out Kurdish autonomy for personal wealth.",
+    "ipa_pronunciation": "/dʒaʃ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Kero"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kero / Kerê",
+    "literal_translation": "donkey (masculine / feminine call form)",
+    "english_equivalent": "jackass / idiot / stubborn fool",
+    "severity": 2,
+    "categories": [
+      "animal metaphor",
+      "intelligence",
+      "kurmanji"
+    ],
+    "meaning": "Calling someone a donkey to highlight their stupidity or immense stubbornness.",
+    "cultural_context": "The suffix '-o' is the masculine vocative, and '-ê' is the feminine. Donkey is the absolute standard intelligence insult across the Middle East. They are viewed as stubborn, dumb beasts of burden. While less politically charged than 'Jash', being called a donkey is a sharp reprimand, often used by frustrated parents or teachers.",
+    "example_usage": "A teacher to a student who forgets his book for the fifth time: 'Tu wekî kero yî!'",
+    "ipa_pronunciation": "/kɛˈɾo/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Cehş",
+      "Manga je karaoë"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "بێ غەیرەت (Bê xîret)",
+    "literal_translation": "without zeal / without effort",
+    "english_equivalent": "coward / lazy bum / unmanly",
+    "severity": 3,
+    "categories": [
+      "character attack",
+      "honor_culture",
+      "sorani"
+    ],
+    "meaning": "Someone who lacks the drive, courage, or masculine zeal to defend themselves, work hard, or protect their family.",
+    "cultural_context": "'Xîret' (ghayrah in Arabic) translates roughly to protective zeal or honor-driven effort. A man without it is pathetic. He won't fight back if insulted, he won't provide for his children, and he lacks pride. It attacks the very foundation of patriarchal expectation.",
+    "example_usage": "Accusing a man who stood by while his brother was beaten up: 'Te zilamekî bêxîret î!'",
+    "ipa_pronunciation": "/bɛː ɣæɪˈɾæt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani",
+      "Kurmanji (Bêxîret)"
+    ],
+    "related_words": [
+      "Hîz",
+      "Bênamûs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gû",
+    "literal_translation": "shit / excrement",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation",
+      "kurmanji"
+    ],
+    "meaning": "Literal feces; used universally as an exclamation of failure or to describe something worthless.",
+    "cultural_context": "The baseline scatological swear word across both Kurmanji and Sorani. 'Ev tişt gû ye' means this thing is shit. Because it doesn't involve God or family, it is relatively safe to utter when dropping a plate or messing up a task, though still entirely inappropriate in formal or religious settings.",
+    "example_usage": "When the internet inevitably disconnects during an important call: 'Gû!'",
+    "ipa_pronunciation": "/guː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Sergû",
+      "Gûyê min bixwe"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Mîz",
+    "literal_translation": "urine / piss",
+    "english_equivalent": "piss",
+    "severity": 1,
+    "categories": [
+      "scatological",
+      "kurmanji"
+    ],
+    "meaning": "Urine.",
+    "cultural_context": "Not generally used as a standalone heavy exclamation like 'shit', but forms the basis of descriptive curses. Being covered in piss or drinking it signifies ultimate hygienic and spiritual degradation.",
+    "example_usage": "To describe something utterly worthless: 'Wekî mîz e.' (It's like piss).",
+    "ipa_pronunciation": "/miːz/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Gû"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Tif li rûyê te",
+    "literal_translation": "spit on your face",
+    "english_equivalent": "I spit on you / shame on you",
+    "severity": 3,
+    "categories": [
+      "degradation",
+      "command",
+      "kurmanji"
+    ],
+    "meaning": "A declaration of utter contempt, often accompanied by the physical sound 'Tfu!'",
+    "cultural_context": "In Middle Eastern culture, spitting on someone (or the ground before them) is the ultimate gesture of disrespect and disgust. It implies the person is lower than dirt. Saying 'Tif' captures this exact motion linguistically. It is used when someone's actions are so morally repulsive that words fail.",
+    "example_usage": "When seeing a politician lie blatantly on television: 'Tfu li rûyê te!'",
+    "ipa_pronunciation": "/tɪf lɪ ɾuːˈjeː tɛ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji",
+      "Universal concept"
+    ],
+    "related_words": [
+      "Rûreş",
+      "Pîs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "قونەدەر (Qûneder)",
+    "literal_translation": "ass-giver",
+    "english_equivalent": "faggot / passive gay",
+    "severity": 5,
+    "categories": [
+      "homophobic slur",
+      "anatomical",
+      "sorani"
+    ],
+    "meaning": "A male who is passively penetrated. The most vulgar homophobic slur available.",
+    "cultural_context": "In traditional Kurdish society, strict heteronormativity and patriarchal dominance mean that passive homosexuality is viewed as the ultimate degradation of manhood. By calling someone an 'ass-giver', you are stripping them of all male status. It is extremely offensive and is strictly utilized as a severe slur.",
+    "example_usage": "Used as the ultimate emasculating insult during a confrontation.",
+    "ipa_pronunciation": "/quːnæˈdæɾ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani",
+      "Kurmanji (Qûnek)"
+    ],
+    "related_words": [
+      "Hîz",
+      "Qûn"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Rûreş",
+    "literal_translation": "black-faced",
+    "english_equivalent": "disgraced / shamed / dishonored",
+    "severity": 3,
+    "categories": [
+      "honor_culture",
+      "character attack",
+      "kurmanji"
+    ],
+    "meaning": "Someone who has brought profound shame upon themselves and their family.",
+    "cultural_context": "A deeply poetic and historic concept. In Kurdish culture, 'white-faced' (rûspî) means to be honorable, respected, and pure. Therefore, 'black-faced' means you have committed an act so shameful (cowardice, betrayal, sexual misconduct) that your face is permanently stained. It is a terrible social indictment.",
+    "example_usage": "Describing someone who fled a battle or betrayed their kin: 'Ew rûreş e.'",
+    "ipa_pronunciation": "/ɾuːˈɾɛʃ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Bênamûs",
+      "Cehş"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Agir bi mala te keve",
+    "literal_translation": "may fire fall upon your house",
+    "english_equivalent": "burn in hell / I curse your whole family",
+    "severity": 4,
+    "categories": [
+      "curse",
+      "familial",
+      "kurmanji"
+    ],
+    "meaning": "A traditional curse wishing absolute destruction (fire) upon the listener's home and family lineage.",
+    "cultural_context": "Kurdish swearing heavily relies on 'Nifir' (curses). Wishing fire upon a house is wishing the eradication of the family line, their wealth, and their physical safety. Older Kurdish women are famously adept at weaving these complex, devastating curses rather than using modern sexual swear words. It invokes a fear of divine or cosmic retribution.",
+    "example_usage": "Muttered by a woman who has been deeply wronged or cheated out of money.",
+    "ipa_pronunciation": "/aˈgɪɾ bɪ ˈma.la tɛ ˈkɛ.vɛ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Malwêran",
+      "Kor bî"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kor bî",
+    "literal_translation": "may you go blind",
+    "english_equivalent": "damn you / I curse you",
+    "severity": 3,
+    "categories": [
+      "curse",
+      "medical",
+      "kurmanji"
+    ],
+    "meaning": "A harsh wish for the listener to lose their eyesight.",
+    "cultural_context": "Another staple of old-world 'Nifir' (curses). Blindness in a traditional agrarian society meant an inability to work, massive vulnerability, and becoming a burden on the family. Wishing blindness upon someone is wishing them a slow, miserable life. Often combined with 'tu' (you) for emphasis: 'Xwedê te kor bike' (May God make you blind).",
+    "example_usage": "Yelled when someone 'fails to see' the obvious truth or betrays a friend.",
+    "ipa_pronunciation": "/koɾ biː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Agir bi mala te keve",
+      "Milşkay"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ملشکای (Milşkay)",
+    "literal_translation": "neck-broken",
+    "english_equivalent": "may you break your neck / I hope you die",
+    "severity": 3,
+    "categories": [
+      "curse",
+      "medical",
+      "sorani"
+    ],
+    "meaning": "A Sorani curse wishing catastrophic physical injury upon the listener.",
+    "cultural_context": "Like its Kurmanji counterparts, this relies on wishing severe misfortune. It suggests the person should suffer a fatal or paralyzing accident. It can be said with immense venom by an elder, or occasionally used semi-jokingly between aggressive friends, though the literal meaning is entirely morbid.",
+    "example_usage": "Screamed out the window at a reckless driver speeding through a village.",
+    "ipa_pronunciation": "/mɪlʃˈkaɪ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Kor bî",
+      "Hûrî xwar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bêbav",
+    "literal_translation": "fatherless",
+    "english_equivalent": "bastard",
+    "severity": 4,
+    "categories": [
+      "birth-based",
+      "family insult",
+      "kurmanji"
+    ],
+    "meaning": "A child of unverified paternity, implying the mother is promiscuous.",
+    "cultural_context": "In a staunchly patriarchal lineage system, a man's entire identity is derived from his father's line (eşîr/tribe). To be fatherless is to be a social ghost without roots or protection, inherently implying illegitimate birth. It is slightly softer than 'Heramzade' but still a very heavy, serious attack on family honor.",
+    "example_usage": "Describing a treacherous person: 'Ew mirovekî bêbav e.'",
+    "ipa_pronunciation": "/bɛːˈbav/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Pîç",
+      "Heramzade"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Tir",
+    "literal_translation": "fart",
+    "english_equivalent": "fart / bullshit",
+    "severity": 1,
+    "categories": [
+      "scatological",
+      "kurmanji"
+    ],
+    "meaning": "Flatulence, also used to indicate someone is talking nonsense or making empty threats.",
+    "cultural_context": "While 'gû' (shit) is heavy, 'tir' (fart) is light, airy, and ridiculous. If a politician makes huge, empty promises, their words are just 'tir'. It is a dismissive, mildly vulgar noun that deflates the ego of whoever is speaking.",
+    "example_usage": "Dismissing a braggart: 'Ew tev tir in.' (It's all just farts/bullshit.)",
+    "ipa_pronunciation": "/tɪɾ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Tirtorek",
+      "Gû"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Tirtorek",
+    "literal_translation": "chronic farter",
+    "english_equivalent": "bullshitter / blowhard / coward",
+    "severity": 2,
+    "categories": [
+      "character attack",
+      "scatological",
+      "kurmanji"
+    ],
+    "meaning": "A person who talks constantly but accomplishes nothing, or someone who is easily frightened (farting from fear).",
+    "cultural_context": "A deeply humorous but belittling insult. It paints a picture of a guy who talks tough but, when push comes to shove, just 'farts' around. It carries a village-humor vibe, often used by older people to describe the useless, loud youth of the town.",
+    "example_usage": "Mocking the guy who always claims he's going to start a business but never does.",
+    "ipa_pronunciation": "/tɪɾ.toˈɾɛk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Tir",
+      "Sefîh"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Serê kêrê min",
+    "literal_translation": "the head of my dick",
+    "english_equivalent": "suck my dick / eat a dick",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "kurmanji"
+    ],
+    "meaning": "A dismissive exclamation inviting the listener to fellate the speaker.",
+    "cultural_context": "Usually completed with 'bixwe' (eat/consume). It is highly offensive street slang. Utilizing the specific anatomy ensures maximum vulgarity. It asserts absolute dominance and stops a conversation dead in its tracks. Never said in civil company.",
+    "example_usage": "When someone asks for an unreasonable favor: 'Te serê kêrê min divê?' (Do you want the head of my dick?)",
+    "ipa_pronunciation": "/sɛˈɾeː keːˈɾeː mɪn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Kêr bi devê te"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Rûqayîm",
+    "literal_translation": "strong-faced / thick-faced",
+    "english_equivalent": "shameless / brazen",
+    "severity": 2,
+    "categories": [
+      "character attack",
+      "behavioral",
+      "kurmanji"
+    ],
+    "meaning": "Someone who does wrong but shows absolutely no shame or embarrassment.",
+    "cultural_context": "In a culture where 'şerm' (shame/modesty) is a highly valued trait indicating good upbringing, a 'Rûqayîm' person is sociopathically immune to social pressure. Their 'face' is too thick to blush. If someone gets caught stealing and just smiles, they are Rûqayîm. It's a heavy critique of character.",
+    "example_usage": "Scolding someone who showed up to a party after explicitly being uninvited.",
+    "ipa_pronunciation": "/ɾuː.qaˈjiːm/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji",
+      "Sorani (Rûqayîm)"
+    ],
+    "related_words": [
+      "Bêşeref",
+      "Bênamûs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ماڵوێران (Malwêran)",
+    "literal_translation": "house-ruined",
+    "english_equivalent": "wretch / doomed one / miserable bastard",
+    "severity": 3,
+    "categories": [
+      "curse",
+      "sorani",
+      "sympathetic insult"
+    ],
+    "meaning": "Someone whose life or family has collapsed; used simultaneously as an insult and an expression of tragic pity.",
+    "cultural_context": "A deeply poetic Sorani word. It can be yelled as a curse ('May your house be ruined'), but it is most famously used to describe someone who is pathetic. Because the family home ('mal') represents wealth, lineage, and safety, a 'malwêran' is utterly destitute. It carries the weight of Kurdish historical tragedy (villages destroyed by regimes).",
+    "example_usage": "Said with shaking head at a drunk who has gambled away his life savings.",
+    "ipa_pronunciation": "/maːɫ.weːˈɾaːn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Agir bi mala te keve"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Çavnebar",
+    "literal_translation": "eye-unbearable",
+    "english_equivalent": "envious / evil-eyed / hater",
+    "severity": 2,
+    "categories": [
+      "supernatural",
+      "moral_judgment",
+      "kurmanji"
+    ],
+    "meaning": "A deeply jealous person whose envy is so strong it might manifest as the 'evil eye' and cause physical harm.",
+    "cultural_context": "Belief in the evil eye (çavî pîs) is profound in the region. A 'çavnebar' isn't just a hater; they are spiritually dangerous. They cannot bear to see others succeed. Calling a neighbor this implies that if your cows get sick, or your son breaks his leg, their jealousy is to blame.",
+    "example_usage": "Warning your daughter not to show off her new jewelry to a specific aunt.",
+    "ipa_pronunciation": "/tʃav.nɛˈbaɾ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Çaw pîs",
+      "Pîs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Serserî",
+    "literal_translation": "head-head / restless head",
+    "english_equivalent": "hoodlum / delinquent / thug",
+    "severity": 2,
+    "categories": [
+      "social class",
+      "behavioral",
+      "kurmanji"
+    ],
+    "meaning": "A street tough, a delinquent youth, or someone who refuses to live a respectable, disciplined life.",
+    "cultural_context": "A universally understood term across Kurdish, Turkish, and Persian contexts. A 'serserî' loiters on street corners, smokes cigarettes at 14, gets into knife fights, and respects no elders. It bridges the gap between 'useless' and 'dangerous'. Parents use it as a grave warning about who their children should not befriend.",
+    "example_usage": "A father commanding his son: 'Netirse, bi wan serseriyan re neçe!' (Don't go with those hoodlums!)",
+    "ipa_pronunciation": "/sɛɾ.sɛˈɾiː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Xwêrî",
+      "Cehş"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ژنانی (Jinani)",
+    "literal_translation": "womanly / feminine",
+    "english_equivalent": "pussy / weak / effeminate",
+    "severity": 3,
+    "categories": [
+      "gendered",
+      "insult",
+      "sorani"
+    ],
+    "meaning": "A derogatory term applied to men who display weakness, emotional sensitivity, or a lack of machismo.",
+    "cultural_context": "In an honor-based patriarchal society, the worst thing a man can be associated with is the social station of a woman. It attacks a man's courage and authority. If a man refuses to fight, cries in public, or gossips, he is acting 'Jinani'. It reinforces strict gender stratification.",
+    "example_usage": "Mocking a man who complains about physical labor or pain.",
+    "ipa_pronunciation": "/ʒɪnaːˈniː/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Hîz",
+      "Mêrko"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "چاو پیس (Çaw pîs)",
+    "literal_translation": "dirty eye",
+    "english_equivalent": "bearer of the evil eye / jinx",
+    "severity": 2,
+    "categories": [
+      "supernatural",
+      "insult",
+      "sorani"
+    ],
+    "meaning": "Someone whose envious gaze causes misfortune, illness, or destruction.",
+    "cultural_context": "The Sorani equivalent to the concept of the evil eye. This is not to be taken lightly. If someone is labeled 'Çaw pîs', people will actively hide their pregnant wives, new cars, and healthy children from them to avoid bringing curses upon their households. It ostracizes a person socially.",
+    "example_usage": "Blaming a neighbor when a glass mysteriously shatters after they walked by.",
+    "ipa_pronunciation": "/tʃaːw piːs/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Çavnebar",
+      "Pîs"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kûzê diya te",
+    "literal_translation": "your mother's vagina",
+    "english_equivalent": "motherfucker / fuck your mother",
+    "severity": 5,
+    "categories": [
+      "familial",
+      "anatomical",
+      "extreme",
+      "kurmanji"
+    ],
+    "meaning": "A devastatingly vulgar exclamation targeting the mother's genitalia.",
+    "cultural_context": "This is raw street profanity. It bypasses all poetic or indirect curses and cuts straight to biological violation. By reducing the listener's mother to genitalia, it desecrates the sanctity of motherhood that Kurdish culture demands. Guaranteed to trigger an immediate, violent reaction if said to a stranger or rival.",
+    "example_usage": "Screamed as a standalone curse when physically attacked or deeply wronged.",
+    "ipa_pronunciation": "/kuːˈzeː dɪˈja tɛ/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Qûz",
+      "Qozî daykit"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "قووزی دایکت (Qûzî daykit)",
+    "literal_translation": "your mother's vagina",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "familial",
+      "anatomical",
+      "extreme",
+      "sorani"
+    ],
+    "meaning": "The exact Sorani parallel to 'Kûzê diya te'.",
+    "cultural_context": "Like its Kurmanji counterpart, this is the absolute bottom of the barrel regarding politeness. It exists entirely in the realm of street fights, prison environments, and furious teenage rage. It weaponizes the mother's anatomy against the son's honor.",
+    "example_usage": "The ultimate trump card in a screaming match before fists are thrown.",
+    "ipa_pronunciation": "/quːˈziː daɪˈkɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Daik Sozani",
+      "Xwîşk hîz"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bê dîn",
+    "literal_translation": "without religion",
+    "english_equivalent": "heathen / infidel / cruel bastard",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "moral_judgment",
+      "kurmanji"
+    ],
+    "meaning": "Someone who acts so callously and without mercy that they must surely lack any religion.",
+    "cultural_context": "Similar to 'Bêxwedê' (Godless). In the Middle East, religion is equated with basic human morality and societal boundaries. An atheist isn't just someone who disagrees on theology; they are conceptually untethered from human empathy. Thus, 'Bê dîn' is used for dictators, torturers, or just incredibly selfish people.",
+    "example_usage": "Lamenting the actions of an unjust boss who fires a pregnant woman.",
+    "ipa_pronunciation": "/bɛː diːn/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Bêxwedê",
+      "Zalim"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Xwîna te vedixwim",
+    "literal_translation": "I will drink your blood",
+    "english_equivalent": "I will murder you / I will rip your throat out",
+    "severity": 4,
+    "categories": [
+      "threat",
+      "violent",
+      "kurmanji"
+    ],
+    "meaning": "An extreme, literal, and visceral threat of murder and vengeance.",
+    "cultural_context": "Kurdish threats can be incredibly poetic in their brutality. Drinking someone's blood implies a level of hatred that simple murder cannot satisfy—it requires vampiric mutilation and total consumption of the enemy's life force. It harkens back to ancient tribal blood feuds (xwîndarî).",
+    "example_usage": "A threat issued against someone who has murdered a family member.",
+    "ipa_pronunciation": "/xwiːˈna tɛ vɛdɪˈxwɪm/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Agir bi mala te keve"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "گوو بە قەبرت (Gû be qebrit)",
+    "literal_translation": "shit on your grave",
+    "english_equivalent": "fuck you and your ancestors / rot in hell",
+    "severity": 4,
+    "categories": [
+      "scatological",
+      "death_wish",
+      "sorani"
+    ],
+    "meaning": "Defiling the final resting place of the listener or their ancestors.",
+    "cultural_context": "Graves are sacred in Islamic and Kurdish culture, carefully tended and respected. Threatening to perform an act of ultimate uncleanness (defecation) on someone's grave implies that you have zero respect for their eternal soul or their family legacy. It is highly blasphemous and profoundly offensive.",
+    "example_usage": "Cursing the memory of a deceased oppressor or an enemy.",
+    "ipa_pronunciation": "/guː bæ qæbˈɾɪt/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Gû",
+      "Hûrî xwar"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dêw",
+    "literal_translation": "monster / demon",
+    "english_equivalent": "monster / ugly bastard / brute",
+    "severity": 2,
+    "categories": [
+      "mythological",
+      "appearance",
+      "kurmanji"
+    ],
+    "meaning": "A giant mythological monster; used to insult someone's physical ugliness or their brutal, clumsy nature.",
+    "cultural_context": "The 'Dêw' (Daeva in ancient Iranian mythology) are giant, horrific, dim-witted monsters present in countless Kurdish fairy tales. Calling someone a Dêw means they are massive, grotesquely ugly, and incredibly stupid. It can also be used affectionately for a very large, strong friend.",
+    "example_usage": "Teasing a massive, clumsy friend who keeps breaking things.",
+    "ipa_pronunciation": "/deːw/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Universal Kurdish"
+    ],
+    "related_words": [
+      "Gemar",
+      "Kurro"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Qûnek",
+    "literal_translation": "little ass / ass-haver",
+    "english_equivalent": "faggot / passive gay",
+    "severity": 5,
+    "categories": [
+      "homophobic slur",
+      "anatomical",
+      "kurmanji"
+    ],
+    "meaning": "The Kurmanji equivalent to Sorani's 'Qûneder', signifying a passive homosexual male.",
+    "cultural_context": "The suffix '-ek' attaches slightly dismissive or diminutive flair to 'Qûn' (ass). It is utilized exclusively to challenge a man's sexual orientation and, by proxy, his ability to defend his honor. It is a fighting word of the highest order among younger men.",
+    "example_usage": "Used by street toughs attempting to goad a rival into a physical fight.",
+    "ipa_pronunciation": "/quːˈnɛk/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Kurmanji"
+    ],
+    "related_words": [
+      "Qûn",
+      "Qûneder",
+      "Hîz"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "سەگباب (Segbab)",
+    "literal_translation": "dog-fathered / father of a dog",
+    "english_equivalent": "son of a bitch / bastard",
+    "severity": 4,
+    "categories": [
+      "animal metaphor",
+      "familial",
+      "sorani"
+    ],
+    "meaning": "A person whose father is a dog, or related to dogs, thereby invalidating their human lineage.",
+    "cultural_context": "Similar to 'Kurrî seg'. By invoking 'bab' (father), it strikes directly at the patriarchal lineage. It implies the entire family tree is polluted. Highly common, extremely offensive, yet used so frequently in some regions it has become standardized street jargon.",
+    "example_usage": "Yelled out the window during intense traffic jams.",
+    "ipa_pronunciation": "/sægˈbaːb/",
+    "example_sentences": [],
+    "regional_variations": [
+      "Sorani"
+    ],
+    "related_words": [
+      "Kurrî seg",
+      "Bêbav"
+    ],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "قەحپە (qahpa)",
+    "literal_translation": "bitch / slut / whore",
+    "english_equivalent": "bitch / slut / whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual",
+      "sorani"
+    ],
+    "meaning": "Derogatory term for woman implying promiscuity or low morals. Can also insult intelligence.",
+    "cultural_context": "Extremely offensive in Sorani-speaking regions (Iraq/Iran). Attacks both sexuality and character. Comparable to English 'cunt' in severity. Variations exist across dialects. Related terms include 'Jafi' (idiot) and 'Mamnun naes' (worthless).",
+    "example_usage": "قەحپە! چۆن دەتوانی ئەوەندە گەمژە بیت؟ (Qahpa! How can you be so clueless?)",
+    "needs_review": false,
+    "ipa_pronunciation": "qæhpæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "سۆزانی (sozani)",
+    "literal_translation": "bitch / prostitute",
+    "english_equivalent": "bitch / whore",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual",
+      "sorani"
+    ],
+    "meaning": "Severe insult targeting women's sexual morality.",
+    "cultural_context": "In Sorani, this is one of the worst things you can call a woman. Combined with 'Daik' (mother) to create 'Daik Sozani' (motherfucker, literally 'mother is a whore').",
+    "example_usage": "سۆزانی (Sozani - You whore) / دایک سۆزانی (Daik Sozani - Your mother is a whore)",
+    "needs_review": false,
+    "ipa_pronunciation": "soːzaniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "دایک سۆزانی (daik sozani)",
+    "literal_translation": "mother is a whore",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "compound",
+      "familial",
+      "gendered",
+      "extreme"
+    ],
+    "meaning": "Compound insult attacking the target's mother as sexually promiscuous.",
+    "cultural_context": "ABSOLUTE TABOO. In Kurdish honor culture, attacking someone's mother is the most severe provocation possible. This implies the target is illegitimate or from dishonored stock. Guaranteed to incite violence.",
+    "example_usage": "دایک سۆزانی، وەرە دەرێ! (Daik sozani, were dera! - Motherfucker, come outside!)",
+    "needs_review": false,
+    "ipa_pronunciation": "daɪk soːzaniː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez ê te dayika te dokem",
+    "literal_translation": "I will do [penetrate] your mother",
+    "english_equivalent": "I fucked your mom / motherfucker",
+    "severity": 5,
+    "categories": [
+      "threat",
+      "familial",
+      "sexual",
+      "kurmanji"
+    ],
+    "meaning": "Explicit threat of sexual violence against the listener's mother.",
+    "cultural_context": "Nuclear option in Kurmanji (Turkey/Syria). The structure 'Ez e te [family] danem' (I will penetrate your [family]) is the most offensive grammatical construction in Kurdish. Used only when intending mortal offense.",
+    "example_usage": "Ez ê te dayika te dokem! (I will fuck your mother!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz eː tɛ daɪka tɛ dokɛm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez ê te nîka te dokem",
+    "literal_translation": "I will do [penetrate] your grandmother",
+    "english_equivalent": "I'll fuck your grandmother",
+    "severity": 5,
+    "categories": [
+      "threat",
+      "familial",
+      "sexual",
+      "kurmanji"
+    ],
+    "meaning": "Threat to sexually violate the listener's grandmother.",
+    "cultural_context": "Even more extreme than threatening the mother in some contexts, as it insults the ancestral line. Shows the depth of Kurdish multi-generational honor concepts.",
+    "example_usage": "Ez ê te nîka te dokem! (I'll fuck your grandmother!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz eː tɛ niːka tɛ dokɛm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez ê te xolê dokem",
+    "literal_translation": "I will penetrate your hole",
+    "english_equivalent": "I'll fuck your hole / ass",
+    "severity": 4,
+    "categories": [
+      "threat",
+      "sexual",
+      "anatomical",
+      "kurmanji"
+    ],
+    "meaning": "Sexual threat using anatomical reference.",
+    "cultural_context": "Aggressive sexual dominance display. 'Xol' refers to orifice/hole. Used to assert power and humiliate.",
+    "example_usage": "Ez ê te xolê dokem! (I'll fuck your hole!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz eː tɛ xoːlɛ dokɛm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez ê kuza dayika te sor bikim",
+    "literal_translation": "I will fry your mother's pussy",
+    "english_equivalent": "I'll fuck your mom's pussy raw",
+    "severity": 5,
+    "categories": [
+      "threat",
+      "familial",
+      "sexual",
+      "culinary_metaphor"
+    ],
+    "meaning": "Bizarre compound threat combining sexual violence with cooking metaphor ('sor' = fry).",
+    "cultural_context": "Unique to Kurmanji. The 'frying' metaphor adds surreal intensity. Demonstrates how Kurdish swearing often combines sexual and domestic imagery to heighten offense.",
+    "example_usage": "Ez ê kuza dayika te sor bikim! (I'll fry your mom's pussy!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz eː kuza daɪka tɛ soːɾ bikɪm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Pişkêr (pishker)",
+    "literal_translation": "disgusting one / filthy one",
+    "english_equivalent": "disgusting / filthy / revolting",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "hygiene",
+      "sorani"
+    ],
+    "meaning": "Describes someone as physically or morally repulsive.",
+    "cultural_context": "Sorani term for someone who is seen as dirty or morally corrupt. Can refer to behavior or appearance.",
+    "example_usage": "تۆ پشکێری (To pishkeri - You are disgusting)",
+    "needs_review": false,
+    "ipa_pronunciation": "pɪʃkɛr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Gundar / Qundar",
+    "literal_translation": "from the village / rustic / gay",
+    "english_equivalent": "faggot / queer / hillbilly",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "homophobic",
+      "rural_slur",
+      "sorani"
+    ],
+    "meaning": "Originally 'villager' (implying backwardness), now slur for gay men.",
+    "cultural_context": "Dual meaning: can mean unsophisticated rural person OR homosexual man. In Kurdish contexts, 'sharing your ass' (implying passive homosexuality) is considered deeply shameful for men in patriarchal culture.",
+    "example_usage": "قوندار (Qundar - Faggot/Villager)",
+    "needs_review": false,
+    "ipa_pronunciation": "qʊndaːɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Qozkêş",
+    "literal_translation": "pussy-puller / pussy-magnet",
+    "english_equivalent": "womanizer / pussy-chaser / cunt-struck",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual",
+      "behavioral",
+      "kurmanji"
+    ],
+    "meaning": "Man obsessed with women/sex; controlled by sexual desire.",
+    "cultural_context": "Despite sounding like a compliment, used insultingly to imply lack of self-control or that the man is led by his genitals rather than his brain. Implies weakness of character.",
+    "example_usage": "Tu qozkêşî (You are pussy-struck/cunt-struck)",
+    "needs_review": false,
+    "ipa_pronunciation": "qozkeːʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Tu bed î / Tu bed es",
+    "literal_translation": "You are bad/evil",
+    "english_equivalent": "You are evil / bad person",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "moral_judgment",
+      "kurmanji"
+    ],
+    "meaning": "Moral condemnation of character.",
+    "cultural_context": "Germancia-Kurmanci dialect. In honor-based culture, being called 'bad' implies dishonorable intentions or actions. Less severe than sexual/familial insults but serious moral accusation.",
+    "example_usage": "Tu bed î! (You are evil!)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʊ bɛd iː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Tu piş î / Tu pis es",
+    "literal_translation": "You are dirty/filthy",
+    "english_equivalent": "You are filthy / disgusting",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "hygiene",
+      "moral_judgment"
+    ],
+    "meaning": "Implying physical or moral uncleanliness.",
+    "cultural_context": "Implies the person has committed shameful acts. Cleanliness is culturally valued; calling someone dirty attacks their social worth.",
+    "example_usage": "Tu piş î! (You are filthy!)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʊ pɪs iː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Tu gemar î / Tu mağda es",
+    "literal_translation": "You are ugly",
+    "english_equivalent": "You are ugly / hideous",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "appearance"
+    ],
+    "meaning": "Direct insult regarding physical appearance.",
+    "cultural_context": "Appearance insults carry weight in Kurdish culture where family reputation includes presentation. 'Mağda' in Germancia dialect.",
+    "example_usage": "Tu mağda yî! (You are ugly!)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʊ maɣda iː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Tu dom î / Tu dom es",
+    "literal_translation": "You are dumb/stupid",
+    "english_equivalent": "You are stupid / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "kurmanji"
+    ],
+    "meaning": "Intellectual insult.",
+    "cultural_context": "'Dompa' (silly/stupid) is noun form. Less offensive than family insults but still confrontational.",
+    "example_usage": "Tu dom î! (You are stupid!)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʊ dom iː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Gemze / Gêmje (gemzha)",
+    "literal_translation": "stupid / mentally slow",
+    "english_equivalent": "stupid / idiot / moron",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "intelligence",
+      "sorani"
+    ],
+    "meaning": "Stronger term for stupidity.",
+    "cultural_context": "Sorani dialect. Used for serious accusations of incompetence. Can be fighting words if said with intent.",
+    "example_usage": "گەمژە (Gemzha - Stupid)",
+    "needs_review": false,
+    "ipa_pronunciation": "gɛmʒæ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Jafi",
+    "literal_translation": "idiot / dummy",
+    "english_equivalent": "idiot / dummy / stupid",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "sorani"
+    ],
+    "meaning": "Mild to moderate intelligence insult.",
+    "cultural_context": "Sorani term. Related to 'qahpa' but less severe. Used in daily arguments.",
+    "example_usage": "تۆ جافی (To jafi - You idiot)",
+    "needs_review": false,
+    "ipa_pronunciation": "dʒafɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Manga je karaoë",
+    "literal_translation": "You are [from] cow to donkey among animals",
+    "english_equivalent": "You are nothing but an animal / beast",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "animal",
+      "dehumanization",
+      "kurmanji"
+    ],
+    "meaning": "Comparing person to livestock, denying humanity.",
+    "cultural_context": "Germancia-Kurmanci dialect. Dehumanization by comparing to farm animals (cow and donkey, the most common livestock). Implies the person has no human dignity or honor.",
+    "example_usage": "Manga je karaoë! (You are all animals from cow to donkey!)",
+    "needs_review": false,
+    "ipa_pronunciation": "maŋga dʒɛ karaoːɛ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez de da te gim",
+    "literal_translation": "I will fuck your mother",
+    "english_equivalent": "I will fuck your mother",
+    "severity": 5,
+    "categories": [
+      "threat",
+      "familial",
+      "sexual",
+      "bahdini"
+    ],
+    "meaning": "Sexual threat against mother.",
+    "cultural_context": "Bahdini dialect variation. Same cultural weight as Kurmanji equivalents. 'Gim' appears to be variant of 'dokem.'",
+    "example_usage": "Ez de da te gim! (I'll fuck your mother!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz dɛ da tɛ gɪm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez de seyê te nim",
+    "literal_translation": "I will fuck your dog",
+    "english_equivalent": "I will fuck your dog",
+    "severity": 4,
+    "categories": [
+      "threat",
+      "bestiality_implication",
+      "bahdini"
+    ],
+    "meaning": "Threat implying bestiality to insult the family.",
+    "cultural_context": "Bahdini dialect. Extremely offensive, implying the family is so dishonorable even their animals are sexually available/used. Also implies the target is lower than animals.",
+    "example_usage": "Ez de seyê te nim! (I'll fuck your dog!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz dɛ sejɛ tɛ nɪm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Gî bxû",
+    "literal_translation": "Eat shit",
+    "english_equivalent": "Eat shit",
+    "severity": 4,
+    "categories": [
+      "command",
+      "scatological",
+      "bahdini"
+    ],
+    "meaning": "Direct command to consume feces.",
+    "cultural_context": "Bahdini dialect. Equivalent to English 'eat shit.' Very vulgar, aggressive.",
+    "example_usage": "Gî bxû! (Eat shit!)",
+    "needs_review": false,
+    "ipa_pronunciation": "giː bxuː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Dennim / Bikime te",
+    "literal_translation": "Fuck you",
+    "english_equivalent": "Fuck you",
+    "severity": 4,
+    "categories": [
+      "command",
+      "sexual",
+      "kurmanji"
+    ],
+    "meaning": "Sexual exclamation of anger.",
+    "cultural_context": "General Kurmanji. 'Dennim' may relate to 'doing' sexual act. 'Bikime te' is alternative phrasing.",
+    "example_usage": "Dennim! (Fuck you!)",
+    "needs_review": true,
+    "ipa_pronunciation": "dɛnnɪm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Déllik",
+    "literal_translation": "bitch",
+    "english_equivalent": "bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "kurmanji"
+    ],
+    "meaning": "Female insult implying promiscuity or bad character.",
+    "cultural_context": "Kurmanji equivalent of Sorani 'qahpa.' Gendered insult used to control women's behavior.",
+    "example_usage": "Déllik! (Bitch!)",
+    "needs_review": false,
+    "ipa_pronunciation": "dɛllɪk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Ez bi Xwedê sond dixwum",
+    "literal_translation": "I with God oath drink",
+    "english_equivalent": "I swear to God",
+    "severity": 1,
+    "categories": [
+      "oath",
+      "religious",
+      "formulaic"
+    ],
+    "meaning": "Taking oath in God's name.",
+    "cultural_context": "Kurmanji. Common in Muslim Kurdish communities. Can be used before statements or as emphasis. Religious oaths taken seriously; breaking them considered sinful.",
+    "example_usage": "Ez bi Xwedê sond dixwum! (I swear to God!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɛz bɪ xwɛdeː sond dɪxwʊm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Min ba Xwedê sond dexom",
+    "literal_translation": "I with God oath drink",
+    "english_equivalent": "I swear by God",
+    "severity": 1,
+    "categories": [
+      "oath",
+      "religious",
+      "formulaic",
+      "sorani"
+    ],
+    "meaning": "Sorani version of religious oath.",
+    "cultural_context": "Sorani dialect. Used to emphasize truthfulness or as exclamation. Breaking such oaths is taboo.",
+    "example_usage": "من بە خواس سوێند دەخۆم (Min ba Xwedê sond dexom)",
+    "needs_review": false,
+    "ipa_pronunciation": "mɪn ba xwɛdeː sond dɛxom",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Kesek maftoon",
+    "literal_translation": "a possessed person / touched person",
+    "english_equivalent": "crazy person / lunatic / touched in the head",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "mental_state",
+      "sorani"
+    ],
+    "meaning": "Implies mental illness or being touched by supernatural forces (jinn).",
+    "cultural_context": "Sorani. 'Maftoon' relates to being afflicted by spirits or madness. Serious accusation in traditional society where mental illness is stigmatized.",
+    "example_usage": "تۆ کەسێکی مەفتوونی (To kesekî maftoonî - You are a crazy person)",
+    "needs_review": false,
+    "ipa_pronunciation": "kɛsɛk maftuːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Mamnun naes",
+    "literal_translation": "worthless / useless",
+    "english_equivalent": "worthless / useless / good-for-nothing",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "worthlessness",
+      "sorani"
+    ],
+    "meaning": "Person with no value or utility.",
+    "cultural_context": "Sorani. Attacks person's social worth and productivity. In communal culture, being 'useless' is severe criticism.",
+    "example_usage": "تۆ کەسێکی مامنون نایسی (To kesekî mamnun naesî)",
+    "needs_review": false,
+    "ipa_pronunciation": "mamnʊn naɛs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Au je tema nexosa",
+    "literal_translation": "He is beyond sick",
+    "english_equivalent": "He is sick in the head / mentally ill",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "mental_state",
+      "kurmanji"
+    ],
+    "meaning": "Describes someone as mentally deranged.",
+    "cultural_context": "Germancia-Kurmanci dialect. 'Nexosa' relates to sickness. Implies the person is beyond help or reason.",
+    "example_usage": "Ew jî tema nexosa! (He is beyond sick!)",
+    "needs_review": false,
+    "ipa_pronunciation": "aw dʒɛ tɛma nɛxosa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Tu çima vang î?",
+    "literal_translation": "You why like-this are?",
+    "english_equivalent": "Why are you like this? / What's wrong with you?",
+    "severity": 2,
+    "categories": [
+      "question",
+      "frustration",
+      "kurmanji"
+    ],
+    "meaning": "Expression of frustration or disbelief at someone's behavior.",
+    "cultural_context": "Germancia dialect. Not strictly profanity but confrontational. Implies the person is behaving inappropriately or strangely.",
+    "example_usage": "Tu çima vang î? (Why are you like this?)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʊ tʃɪma vaŋ iː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Bêserûş / Bêşeref",
+    "literal_translation": "without honor / without shame",
+    "english_equivalent": "shameless / honorless / disgraced",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "honor_culture",
+      "moral_judgment"
+    ],
+    "meaning": "Person lacking honor (sheref) or shame (serûş).",
+    "cultural_context": "DEVASTATING INSULT in Kurdish culture. Honor ('namus'/'sheref') is the core social currency. Calling someone 'bêşeref' (honorless) socially destroys them. Can be used for men who don't protect family honor or women who 'dishonor' family.",
+    "example_usage": "Tu bêşeref î! (You are shameless/honorless!)",
+    "needs_review": true,
+    "ipa_pronunciation": "bɛʃɛrɛf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Kurro / Kurroh",
+    "literal_translation": "blind / unseeing",
+    "english_equivalent": "blind one / clueless one",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sensory",
+      "ability"
+    ],
+    "meaning": "Person who cannot see or understand.",
+    "cultural_context": "Implies willful ignorance or stupidity. Can be ableist but also used for metaphorical blindness to truth.",
+    "example_usage": "Kurro! (Blind one!)",
+    "needs_review": true,
+    "ipa_pronunciation": "kʊrroː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Hûrî xwar",
+    "literal_translation": "eaten by worms / worm-eaten",
+    "english_equivalent": "worm food / rotting / decayed",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "death_wish",
+      "decay"
+    ],
+    "meaning": "Wish for person to be dead and decaying.",
+    "cultural_context": "Traditional curse wishing death and decomposition. 'Hûr' = worm; implies the person deserves to be dead and rotting.",
+    "example_usage": "Hûrî xwar! (May worms eat you!)",
+    "needs_review": true,
+    "ipa_pronunciation": "huːrɪ xwaːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "Bêqelît",
+    "literal_translation": "without brain / brainless",
+    "english_equivalent": "brainless / stupid / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "anatomical"
+    ],
+    "meaning": "Person lacking intelligence.",
+    "cultural_context": "Similar to English 'brainless.' Direct but less severe than family insults.",
+    "example_usage": "Tu bêqelît î! (You are brainless!)",
+    "needs_review": true,
+    "ipa_pronunciation": "bɛqəlɪt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  }
+]

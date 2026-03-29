@@ -1,0 +1,1233 @@
+[
+  {
+    "word": "Faen",
+    "literal_translation": "the Devil",
+    "english_equivalent": "fuck / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The most versatile and frequently used Norwegian swear word. Used to express frustration, anger, surprise, or as a general intensifier. Derived from 'fanden' (the devil).",
+    "cultural_context": "Despite its literal religious meaning, 'faen' has drifted so far into everyday use that most Norwegians no longer consciously think of its origin. Equivalent in force and flexibility to English 'fuck'. Can be used alone as an exclamation or combined with other words.",
+    "example_usage": "Faen! (Fuck! / Damn!) | Faen ta deg! (Fuck you!) | Faen i helvete! (Fucking hell!)",
+    "ipa_pronunciation": "/fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fy faen",
+    "literal_translation": "ugh devil / ugh the devil",
+    "english_equivalent": "fucking hell / goddamn",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "An intensified form of 'faen'. 'Fy' adds disgust or exasperation, making the overall exclamation stronger than 'faen' alone.",
+    "cultural_context": "One of the most characteristic Norwegian exclamations, widely used across all age groups when something goes seriously wrong or is deeply frustrating.",
+    "example_usage": "Fy faen, det var ikke bra! (Fucking hell, that was not good!)",
+    "ipa_pronunciation": "/fyː fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hva faen",
+    "literal_translation": "what the devil",
+    "english_equivalent": "what the fuck",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Exclamation of shock, disbelief, or confusion. Direct Norwegian parallel to 'what the fuck'.",
+    "cultural_context": "Extremely common in everyday speech. Pops up in arguments, moments of surprise, or when witnessing something inexplicable.",
+    "example_usage": "Hva faen gjør du? (What the fuck are you doing?)",
+    "ipa_pronunciation": "/vɑː fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faen ta deg",
+    "literal_translation": "the Devil take you",
+    "english_equivalent": "fuck you",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A direct verbal attack on another person. Rooted in the old curse of wishing the Devil would claim someone's soul.",
+    "cultural_context": "More dramatic in origin than the English 'fuck you' but functionally identical. Used in genuine anger rather than casual banter.",
+    "example_usage": "Faen ta deg, aldri mer! (Fuck you, never again!)",
+    "ipa_pronunciation": "/fæːn tɑː dæɪ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gi faen",
+    "literal_translation": "give the Devil / give a fuck",
+    "english_equivalent": "fuck off / I don't give a fuck",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Used to dismiss something or tell someone to stop. Similar to 'fuck off' or 'I don't care'.",
+    "cultural_context": "Extremely versatile: can mean 'fuck off', 'stop it', or 'I give up caring'. Very common among all age groups.",
+    "example_usage": "Gi faen i det! (Forget it! / I don't give a fuck about it!)",
+    "ipa_pronunciation": "/jiː fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faen meg",
+    "literal_translation": "the Devil me",
+    "english_equivalent": "fucking / I swear to God",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used for emphasis or to stress the absurdity of a situation. Difficult to translate directly but acts as an intensifier expressing exasperation or disbelief.",
+    "cultural_context": "A typical Norwegian construction adding strong emotional emphasis: 'han var faen meg ikke klar engang' means 'he wasn't even fucking ready'.",
+    "example_usage": "Han var faen meg flink! (He was fucking good, I swear!)",
+    "ipa_pronunciation": "/fæːn mæɪ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Det var som faen",
+    "literal_translation": "it was like the Devil",
+    "english_equivalent": "well I'll be damned / holy shit",
+    "severity": 2,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "An expression of astonishment or impressed disbelief at something surprising.",
+    "cultural_context": "Despite the literal meaning, it more commonly conveys wide-eyed surprise rather than anything sinister.",
+    "example_usage": "Det var som faen, det gikk faktisk bra! (Well I'll be damned, it actually went well!)",
+    "ipa_pronunciation": "/deː vɑː sɔm fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Helvete",
+    "literal_translation": "hell",
+    "english_equivalent": "hell / fucking hell",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Used as a standalone exclamation of extreme frustration, or in phrases meaning 'go to hell'. Carries slightly more weight than its English counterpart.",
+    "cultural_context": "Historical Protestant taboo around the concept of hell gives this word more force than simply saying 'hell' in English. Often combined with 'faen' to escalate intensity.",
+    "example_usage": "Helvete! (Hell!) | Dra til helvete! (Go to hell!) | Hva i helvete? (What the hell?)",
+    "ipa_pronunciation": "/ˈhɛlvɛtə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faen i helvete",
+    "literal_translation": "the Devil in hell",
+    "english_equivalent": "fucking hell",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "A compound exclamation combining the two most powerful religious swear words. Used in moments of extreme anger, frustration, or shock.",
+    "cultural_context": "One of the most emphatic Norwegian curses. Stacking these two words signals that the situation is genuinely terrible or infuriating.",
+    "example_usage": "Faen i helvete, hva skjedde her? (Fucking hell, what happened here?)",
+    "ipa_pronunciation": "/fæːn iː ˈhɛlvɛtə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dra til helvete",
+    "literal_translation": "go to hell",
+    "english_equivalent": "go to hell / get lost",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A direct dismissal or insult telling someone to go to hell.",
+    "cultural_context": "A firm rejection. Unambiguous and quite harsh; not said lightheartedly.",
+    "example_usage": "Dra til helvete med planene dine! (Go to hell with your plans!)",
+    "ipa_pronunciation": "/drɑː tɪl ˈhɛlvɛtə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hva i helvete",
+    "literal_translation": "what in hell",
+    "english_equivalent": "what the hell / what the fuck",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Exclamation of shock, confusion, or disbelief, using 'helvete' as the religious intensifier.",
+    "cultural_context": "Standard Norwegian expression of shocked confusion. Slightly more emphatic than 'hva faen' in some contexts.",
+    "example_usage": "Hva i helvete tenker du på? (What the hell are you thinking about?)",
+    "ipa_pronunciation": "/vɑː iː ˈhɛlvɛtə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Satan",
+    "literal_translation": "Satan",
+    "english_equivalent": "damn / bloody hell / wow",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Used as a standalone interjection expressing anger, shock, or even impressed amazement. Uniquely, 'satan' can be positive in tone.",
+    "cultural_context": "Unlike most Norwegian swear words, 'satan' can express both furious anger and wide-eyed admiration depending on tone. 'Satan, for en flott bil!' is entirely positive.",
+    "example_usage": "Satan! Det gikk bra! (Bloody hell! That went well!) | For satan! (Damn it!)",
+    "ipa_pronunciation": "/ˈsɑːtɑn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævlig",
+    "literal_translation": "devilish / devil-like",
+    "english_equivalent": "fucking / terrible / amazingly",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Functions as both a negative descriptor ('that was terrible') and a positive intensifier ('that was fucking great'). Derived from 'jævel' (the devil).",
+    "cultural_context": "Like the English word 'fucking', 'jævlig' works in both positive and negative contexts depending entirely on intonation and context. Very common in informal speech.",
+    "example_usage": "Det er jævlig bra! (That's fucking great!) | Jævlig kjedelig. (Terribly boring.)",
+    "ipa_pronunciation": "/ˈjɛːvlɪ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævla",
+    "literal_translation": "devilish (attributive adjective form)",
+    "english_equivalent": "fucking (before a noun)",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The attributive adjective form of 'jævlig'. Used before nouns to intensify descriptions negatively.",
+    "cultural_context": "Typically used in compound insults. 'En jævla idiot' is one of the most frequently uttered Norwegian insults.",
+    "example_usage": "En jævla idiot! (A fucking idiot!) | Den jævla bilen. (That fucking car.)",
+    "ipa_pronunciation": "/ˈjɛːvlɑ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævel",
+    "literal_translation": "devil / bastard",
+    "english_equivalent": "bastard / son of a bitch",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "The noun form. Used to call someone a 'devil', 'bastard', or unpleasant person. Can also express admiration at recklessness.",
+    "cultural_context": "Less frequently aimed at morality, more often expressing exasperated astonishment. 'Han er en tøff jævel' (he's a tough bastard) can actually be a compliment.",
+    "example_usage": "Han er en rik jævel. (He is a rich bastard.) | Din grimme jævel! (You ugly bastard!)",
+    "ipa_pronunciation": "/ˈjɛːvəl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævelens avkom",
+    "literal_translation": "offspring of the devil",
+    "english_equivalent": "spawn of the devil / son of a bitch",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A dramatic and severe religious insult calling someone literally the spawn of the Devil.",
+    "cultural_context": "More literary and elaborate than most Norwegian curses. Used in situations of genuine outrage rather than everyday frustration.",
+    "example_usage": "Din jævelens avkom! (You spawn of the devil!)",
+    "ipa_pronunciation": "/ˈjɛːvələns ˈɑːvkɔm/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævelskap",
+    "literal_translation": "devilry / deviltry",
+    "english_equivalent": "fucking nonsense / outrageous bullshit",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "A noun form describing a terrible situation, something deeply frustrating or unfair.",
+    "cultural_context": "More literary than the adjective forms 'jævlig/jævla'. Evokes the idea of something truly wicked or outrageously bad.",
+    "example_usage": "Det er et jævelskap! (This is fucking bullshit! / This is outrageous!)",
+    "ipa_pronunciation": "/ˈjɛːvəlˌskɑp/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pokker",
+    "literal_translation": "smallpox / the pox",
+    "english_equivalent": "damn / darn / heck",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A mild expletive historically derived from 'smallpox' (a dread disease). Now completely detached from its origin and used as a light curse word.",
+    "cultural_context": "Often used in Norwegian subtitle translations of foreign films because it's inoffensive enough but still technically a swear word. Its mildness can have an unintentionally comic effect in real speech.",
+    "example_usage": "Hva pokker gjør du her? (What the heck are you doing here?) | Pokker! (Damn!)",
+    "ipa_pronunciation": "/ˈpɔkər/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pokkers",
+    "literal_translation": "of the pox / blasted",
+    "english_equivalent": "blasted / darn",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Genitive form of 'pokker', used as a mild intensifier prefix before nouns.",
+    "cultural_context": "Extremely mild. Old-fashioned. Often sounds humorous in modern use because it is so gentle.",
+    "example_usage": "Den pokkers maskinen virker ikke! (That blasted machine doesn't work!)",
+    "ipa_pronunciation": "/ˈpɔkərs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Søren",
+    "literal_translation": "variant of 'Satan' (softened proper name)",
+    "english_equivalent": "darn / shoot",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A very mild softened substitute for stronger curses like 'faen' or 'satan'. Expresses mild frustration without offending anyone.",
+    "cultural_context": "The Norwegian equivalent of English 'darn' or 'shoot'. Safe to use in any context, including around children and elderly relatives.",
+    "example_usage": "Søren og! (Darn it!) | Hva søren? (What the heck?)",
+    "ipa_pronunciation": "/ˈsøːrən/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fillern",
+    "literal_translation": "the rag",
+    "english_equivalent": "shoot / dang",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An extremely mild substitute for stronger swear words. Said to derive from 'faen' as a bowdlerized form.",
+    "cultural_context": "So mild that it is nearly impossible to cause offense with this word. A relic used mostly by older generations or in children's contexts.",
+    "example_usage": "Fillern og! (Shoot! / Dang it!)",
+    "ipa_pronunciation": "/ˈfɪlərn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fyttirakkern",
+    "literal_translation": "unclear exclamation of surprise",
+    "english_equivalent": "good grief / blimey",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An old-fashioned exclamation of surprise or amazement. Used in astonishment, not anger.",
+    "cultural_context": "Despite superficially resembling 'fitte', it has no etymological connection. Safe to use in almost all contexts. Sounds charmingly old-fashioned to modern ears.",
+    "example_usage": "Fyttirakkern, det var flott! (Good grief, that was great!)",
+    "ipa_pronunciation": "/ˈfʏtɪˌrɑkərn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dritt",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "The standard Norwegian word for 'shit'. Used as an exclamation when something goes wrong or as a noun for something of poor quality.",
+    "cultural_context": "Somewhat milder than its English equivalent in everyday use. Very commonly used as a prefix in compound words ('drittsekk', 'drittjobb', etc.) to intensify negative descriptions.",
+    "example_usage": "Dritt! Det gikk galt. (Shit! That went wrong.) | Det er bare dritt. (It is just shit.)",
+    "ipa_pronunciation": "/drɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Drit og dra",
+    "literal_translation": "shit and leave",
+    "english_equivalent": "fuck off / get lost",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "Used to aggressively dismiss someone and tell them to go away.",
+    "cultural_context": "A colorful Norwegian idiom. The rudeness comes partly from the scatological image and partly from the blunt dismissal. More distinctly Norwegian than just saying 'fuck off'.",
+    "example_usage": "Drit og dra, jeg orker deg ikke! (Fuck off, I can't stand you!)",
+    "ipa_pronunciation": "/drɪt ɔ drɑː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Drittsekk",
+    "literal_translation": "shit bag / shit sack",
+    "english_equivalent": "scumbag / shit bag",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "insult"
+    ],
+    "meaning": "A direct insult calling someone a contemptible, worthless person.",
+    "cultural_context": "One of the most common compound insults in Norwegian. Widely used in everyday arguments and online.",
+    "example_usage": "Den drittsekken lurte meg! (That scumbag tricked me!)",
+    "ipa_pronunciation": "/ˈdrɪtˌsɛk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Drittunge",
+    "literal_translation": "shit child / shit kid",
+    "english_equivalent": "little shit / brat",
+    "severity": 3,
+    "categories": [
+      "scatological",
+      "insult"
+    ],
+    "meaning": "Used to call a child or young person a 'little shit' — someone who is annoying, misbehaving, or contemptible.",
+    "cultural_context": "Frequently used by frustrated parents or adults toward unruly children. Can also be applied to young adults behaving immaturely.",
+    "example_usage": "Den drittungen lytter aldri! (That little shit never listens!)",
+    "ipa_pronunciation": "/ˈdrɪtˌɵŋə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Drittjobb",
+    "literal_translation": "shit job",
+    "english_equivalent": "shit job / terrible job",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "'Dritt' used as a prefix to describe a terrible job or task. Shows how 'dritt' functions productively in Norwegian.",
+    "cultural_context": "Mirrors 'shitty' as a prefix in English. Applicable to occupations or quality of work performed.",
+    "example_usage": "Dette er en skikkelig drittjobb. (This is a real shit job.)",
+    "ipa_pronunciation": "/ˈdrɪtˌjɔb/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Skitt",
+    "literal_translation": "dirt / filth",
+    "english_equivalent": "shoot / crap",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "A milder alternative to 'dritt'. Used as a mild exclamation when something goes wrong, or to describe something dirty.",
+    "cultural_context": "Essentially the Norwegian equivalent of 'shoot' or 'crap'. Acceptable in most contexts.",
+    "example_usage": "Å skitt! Jeg glemte lommeboken. (Oh shoot! I forgot my wallet.)",
+    "ipa_pronunciation": "/ʃɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Skit i det",
+    "literal_translation": "shit in it / forget about it",
+    "english_equivalent": "screw it / fuck it",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "Used to dismiss a situation or express resigned indifference to a problem.",
+    "cultural_context": "A very common expression of giving up on something or deciding it is not worth the trouble.",
+    "example_usage": "Skit i det, vi gjør det i morgen. (Screw it, we'll do it tomorrow.)",
+    "ipa_pronunciation": "/ʃɪt iː deː/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Møkk",
+    "literal_translation": "manure / dung",
+    "english_equivalent": "shit / crap / filth",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Literally means animal dung or manure, used colloquially to mean 'shit' in a general sense of low quality or unpleasantness.",
+    "cultural_context": "Rural in origin (farm culture), but now widely used across the country. A bit earthier than 'dritt'.",
+    "example_usage": "Det er bare møkk. (It is just crap.) | Full av møkk. (Full of shit.)",
+    "ipa_pronunciation": "/mœk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dritt au",
+    "literal_translation": "shit ow",
+    "english_equivalent": "ow shit / fuck that hurts",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "A spontaneous verbal reaction to sudden pain, combining 'dritt' with 'au' (ouch).",
+    "cultural_context": "The Norwegian version of 'ow shit' or 'ouch fuck'. Entirely automatic and reactive.",
+    "example_usage": "Dritt au! Jeg slo foten min! (Ow shit! I hit my foot!)",
+    "ipa_pronunciation": "/drɪt ɑʊ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fitte",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female genitalia, used as a very strong insult. Can be directed at any person regardless of gender to humiliate or attack.",
+    "cultural_context": "Falls in severity between American English 'cunt' (very severe) and British English 'cunt' (more casual). Definitely not appropriate in polite company. More powerful than scatological terms in Norwegian.",
+    "example_usage": "Din fitte! (You cunt!) | Hold kjeft, fitte! (Shut up, cunt!)",
+    "ipa_pronunciation": "/ˈfɪtə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fitte-ansikt",
+    "literal_translation": "cunt face",
+    "english_equivalent": "cunt face",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A severe compound insult combining the most offensive anatomical term with a facial reference.",
+    "cultural_context": "Among the most aggressive compound insults available in Norwegian. Reserved for genuine contempt.",
+    "example_usage": "Hold kjeft, fitte-ansikt! (Shut up, cunt face!)",
+    "ipa_pronunciation": "/ˈfɪtə ˈɑnsɪkt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kuk",
+    "literal_translation": "cock / penis",
+    "english_equivalent": "cock / dick",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Male genitalia, used as an insult calling someone a 'dick' or to express contempt.",
+    "cultural_context": "One of the core anatomical Norwegian profanities. More direct and forceful than 'pikk'. Used as both a noun and in compound words.",
+    "example_usage": "For en kuk du er! (What a dick you are!)",
+    "ipa_pronunciation": "/kʊk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Pikk",
+    "literal_translation": "dick / penis",
+    "english_equivalent": "dick",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Male genitalia. Slightly less blunt than 'kuk' but functionally similar. Found in many compound insults.",
+    "cultural_context": "'Pikk' is considered slightly tamer than 'kuk' by some speakers, though both are clearly vulgar.",
+    "example_usage": "Sug min pikk. (Suck my dick.)",
+    "ipa_pronunciation": "/pɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hestkuk",
+    "literal_translation": "horse cock",
+    "english_equivalent": "horse cock (used as insult)",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A colorful compound insult. Used to call someone stupid, foolish, or contemptible.",
+    "cultural_context": "Famous for its sharp regional divide: considered mild and almost affectionate in Northern Norway, but significantly more offensive in the south. One of the most uniquely Norwegian profanities.",
+    "example_usage": "Hva er det med deg, hestkuk? (What's wrong with you, you dick?)",
+    "ipa_pronunciation": "/ˈhɛstˌkʊk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kuk-hode",
+    "literal_translation": "cock head",
+    "english_equivalent": "dickhead",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A direct compound insult calling someone a 'dickhead'.",
+    "cultural_context": "Directly mirrors the English 'dickhead'. Widely used in casual insult culture.",
+    "example_usage": "Hva er det med deg, kuk-hode? (What is wrong with you, dickhead?)",
+    "ipa_pronunciation": "/ˈkʊkˌhuːdə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Ræva",
+    "literal_translation": "ass-related / butt (adjective form)",
+    "english_equivalent": "shitty / terrible",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Used as an adjective to describe something terrible, low-quality, or worthless. Derived from 'ræv' (butt).",
+    "cultural_context": "Distinctive Norwegian usage — 'ræva' functions more like an adjective in common usage than a noun, unlike English 'ass'. 'Det var helt ræva' is one of the most common complaints.",
+    "example_usage": "Det var helt ræva! (That was totally shit!) | For et ræva hotellrom! (What a shitty hotel room!)",
+    "ipa_pronunciation": "/ˈrɛːvɑ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Ræv",
+    "literal_translation": "butt / rear end",
+    "english_equivalent": "ass / butt",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The standard vulgar word for buttocks.",
+    "cultural_context": "Used in various idiomatic expressions and compound insults. Slightly milder than its English equivalent in casual usage.",
+    "example_usage": "Kyss meg i ræva! (Kiss my ass!) | Han er en smerte i ræva. (He is a pain in the ass.)",
+    "ipa_pronunciation": "/rɛːv/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kyss meg i ræva",
+    "literal_translation": "kiss me in the ass",
+    "english_equivalent": "kiss my ass",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "A defiant exclamation dismissing someone's authority or opinion.",
+    "cultural_context": "Direct equivalent of the English phrase. Used to show contempt for someone's demands or criticism.",
+    "example_usage": "Kyss meg i ræva, det gjør jeg ikke! (Kiss my ass, I'm not doing that!)",
+    "ipa_pronunciation": "/ˈçʏs mæɪ iː ˈrɛːvɑ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Rasshøl",
+    "literal_translation": "ass hole",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A derogatory insult for a contemptible or obnoxious person.",
+    "cultural_context": "Usage has increased significantly since the 2010s, partly influenced by the English 'asshole'. Becoming one of the more common Norwegian insults in modern speech.",
+    "example_usage": "Han er et rasshøl av første klasse. (He is a first-class asshole.)",
+    "ipa_pronunciation": "/ˈrɑsˌhøːl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Forbanna",
+    "literal_translation": "cursed / damned",
+    "english_equivalent": "fucking / bloody / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "An adjective meaning 'cursed' or 'damned', used as a general-purpose emphatic intensifier.",
+    "cultural_context": "Rooted in the idea of being cursed (bann = curse). Stronger and more venomous-sounding than faen-based expressions, conveying genuine resentment.",
+    "example_usage": "Den forbanna bilen starter ikke igjen! (That fucking car won't start again!)",
+    "ipa_pronunciation": "/fɔrˈbɑnɑ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Satans",
+    "literal_translation": "Satan's",
+    "english_equivalent": "bloody / fucking",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Genitive form of 'satan', used as a prefix intensifier before nouns.",
+    "cultural_context": "Equivalent to using 'faens' but slightly more dramatic. 'Satans maskin!' is a common frustrated outburst toward malfunctioning equipment.",
+    "example_usage": "Din satans idiot! (You bloody idiot!) | Satans bil! (Bloody car!)",
+    "ipa_pronunciation": "/ˈsɑːtɑns/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faens idiot",
+    "literal_translation": "devil's idiot",
+    "english_equivalent": "fucking idiot",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A compound insult using 'faens' (genitive of faen, 'devil's') before a noun to intensify the insult.",
+    "cultural_context": "Shows the productive use of 'faens' as an intensifying prefix. Commonly used in arguments, road rage, and online disputes.",
+    "example_usage": "Din faens idiot! (You fucking idiot!)",
+    "ipa_pronunciation": "/fæːns iːˈdiːot/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Helvetes idiot",
+    "literal_translation": "hellish idiot",
+    "english_equivalent": "fucking idiot",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "insult"
+    ],
+    "meaning": "A powerful compound insult combining 'helvetes' (hell's / of hell) with 'idiot'.",
+    "cultural_context": "The religious prefix 'helvetes' significantly amplifies the rudeness. Common in Norwegian road rage or heated arguments.",
+    "example_usage": "Din helvetes idiot! (You fucking idiot!)",
+    "ipa_pronunciation": "/ˈhɛlvɛtəs iːˈdiːot/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faen i helsike",
+    "literal_translation": "the devil in hellsike (softened 'helvete')",
+    "english_equivalent": "fucking hell (softened)",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A euphemistic version of 'faen i helvete', replacing 'helvete' with the softened form 'helsike'.",
+    "cultural_context": "Used when the speaker wants to swear but slightly less aggressively. Common on television or around families.",
+    "example_usage": "Faen i helsike, det var nær! (Fucking heck, that was close!)",
+    "ipa_pronunciation": "/fæːn iː ˈhɛlsɪkə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Ludder",
+    "literal_translation": "whore / hussy",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory term for a woman, implying sexual promiscuity or low moral standing.",
+    "cultural_context": "From German 'Luder' (carcass used as bait / hussy). A harsh gendered insult. Considered very offensive in modern Norwegian society.",
+    "example_usage": "Din ludder! (You whore!) | Sett deg ned, ludder. (Sit down, slut.)",
+    "ipa_pronunciation": "/ˈlʊdər/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hore",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / hooker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A direct and offensive term for a sex worker or sexually promiscuous person.",
+    "cultural_context": "Deeply gendered and offensive. Cognate with English 'whore'. Found in medieval Norwegian texts and still in active use as a severe insult.",
+    "example_usage": "Din jævla hore! (You fucking whore!)",
+    "ipa_pronunciation": "/ˈhuːrə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hold kjeft",
+    "literal_translation": "hold jaw / keep jaw",
+    "english_equivalent": "shut up",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "exclamation"
+    ],
+    "meaning": "An offensive command to stop talking. 'Kjeft' specifically refers to an animal's jaw, making its application to a human inherently demeaning.",
+    "cultural_context": "Technically not a classic swear word, but firmly on the list because of its rudeness. Allowed in some children's TV, but widely recognized as highly impolite.",
+    "example_usage": "Hold kjeft og lytt! (Shut up and listen!)",
+    "ipa_pronunciation": "/hɔl çɛft/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Idiot",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A basic insult for a stupid or foolish person.",
+    "cultural_context": "Universal and slightly tame, but commonly combined with intensifiers like 'jævla' to escalate. Used alone it sounds almost childish.",
+    "example_usage": "Din jævla idiot! (You fucking idiot!)",
+    "ipa_pronunciation": "/iːˈdiːot/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dust",
+    "literal_translation": "dolt / dimwit",
+    "english_equivalent": "moron / fool",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mild insult for someone who is being stupid or clumsy.",
+    "cultural_context": "Very common and relatively harmless. Often used affectionately between friends when something silly happens. Equivalent to 'you moron' said with a laugh.",
+    "example_usage": "Nå er du en skikkelig dust, da! (You are being a real moron now!)",
+    "ipa_pronunciation": "/dʊst/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Fjott",
+    "literal_translation": "fool / dimwit",
+    "english_equivalent": "fool / dummy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A light insult primarily used to call someone foolish or slow-witted.",
+    "cultural_context": "Very mild. Often used with children or in affectionate teasing among friends. Minimal social risk.",
+    "example_usage": "Din lille fjott. (You little fool.)",
+    "ipa_pronunciation": "/fjɔt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gjøk",
+    "literal_translation": "cuckoo (bird)",
+    "english_equivalent": "idiot / fool / crackpot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a 'cuckoo' — implying they are daft, crazy, or foolish.",
+    "cultural_context": "The cuckoo bird is associated with foolishness in Norwegian culture. Playful and not particularly harmful.",
+    "example_usage": "Du er en ordentlig gjøk! (You are a proper fool!)",
+    "ipa_pronunciation": "/jøːk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Bikkje",
+    "literal_translation": "bitch (female dog)",
+    "english_equivalent": "bitch",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically referred specifically to a female dog, now used as a mild-to-moderate insult toward a person.",
+    "cultural_context": "Lower severity than English 'bitch'. Can sound almost affectionate between close male friends, but is clearly offensive to strangers.",
+    "example_usage": "Din lille bikkje! (You little bitch!)",
+    "ipa_pronunciation": "/ˈbɪkjə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Svin",
+    "literal_translation": "pig / swine",
+    "english_equivalent": "bastard / pig / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a 'pig' or 'swine', implying they are dirty, cruel, or morally contemptible.",
+    "cultural_context": "Carrying real moral weight: 'svin' implies the person has no decency. Similar to Scandinavian neighbors' uses.",
+    "example_usage": "Du er et jævla svin! (You are a fucking pig!)",
+    "ipa_pronunciation": "/svɪn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Hund",
+    "literal_translation": "dog",
+    "english_equivalent": "dog / bastard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a 'dog' — implying low status, servility, or contemptible behavior.",
+    "cultural_context": "Less strong than in some other cultures, but still insulting. More commonly combined with a stronger word.",
+    "example_usage": "Din dritne hund! (You filthy dog!)",
+    "ipa_pronunciation": "/hʊn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Gris",
+    "literal_translation": "pig",
+    "english_equivalent": "pig / slob",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a 'pig' emphasizing their messiness, uncleanliness, or gluttony.",
+    "cultural_context": "Primarily targets hygiene or greediness. Similar to calling someone a slob in English.",
+    "example_usage": "Rydd opp etter deg, din gris! (Clean up after yourself, you pig!)",
+    "ipa_pronunciation": "/ɡrɪs/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Jævla drittunge",
+    "literal_translation": "fucking shit child",
+    "english_equivalent": "fucking little shit",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A compound insult combining 'jævla' (fucking) and 'drittunge' (shit kid), targeting a young person or someone acting immaturely.",
+    "cultural_context": "Demonstrates the Norwegian tendency to stack multiple profanities for greater emphasis. Very common in heated parental frustration or arguments.",
+    "example_usage": "Den jævla drittungen slo til meg! (That fucking little shit hit me!)",
+    "ipa_pronunciation": "/ˈjɛːvlɑ ˈdrɪtˌɵŋə/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Faens dritt",
+    "literal_translation": "devil's shit",
+    "english_equivalent": "fucking shit",
+    "severity": 4,
+    "categories": [
+      "religious",
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "An exclamation combining religious and scatological profanity for maximum frustration.",
+    "cultural_context": "Typical Norwegian stacking of two strong words. More emphatic than either alone.",
+    "example_usage": "Faens dritt! Nå ødela jeg alt. (Fucking shit! Now I ruined everything.)",
+    "ipa_pronunciation": "/fæːns drɪt/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Niding",
+    "literal_translation": "villain / cowardly wretch",
+    "english_equivalent": "villain / coward / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An archaic and potent Norse insult for a coward and dishonest person. In Viking law, a 'niding' had no legal rights and was completely outside of society.",
+    "cultural_context": "One of the oldest and most serious insults in Norwegian history. The worst possible label in the Viking Age. Still understood and occasionally used for dramatic or ironic effect.",
+    "example_usage": "Du er en niding! (You are a villain / You are a coward!)",
+    "ipa_pronunciation": "/ˈniːdɪŋ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Dum som en stokk",
+    "literal_translation": "dumb as a stump / log",
+    "english_equivalent": "thick as a brick / dumb as a post",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An idiomatic expression calling someone hopelessly stupid.",
+    "cultural_context": "A classic Norwegian rural saying. Comparing someone to a stump or log implies they have no more sense than an inanimate piece of wood.",
+    "example_usage": "Han er dum som en stokk. (He is dumb as a post.)",
+    "ipa_pronunciation": "/dʊm sɔm ɛn stɔk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Tullball",
+    "literal_translation": "nonsense ball / foolery ball",
+    "english_equivalent": "bullshit / nonsense",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A dismissal of something as complete nonsense or rubbish.",
+    "cultural_context": "Very mild and slightly childish. Safe to use in most contexts. Often used to dismiss a silly statement.",
+    "example_usage": "Det er bare tullball det der! (That's just complete nonsense!)",
+    "ipa_pronunciation": "/ˈtʊlˌbɑl/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kødder du med meg?",
+    "literal_translation": "are you fooling with me?",
+    "english_equivalent": "are you fucking with me? / are you kidding me?",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An expression of disbelief or exasperation when someone says or does something absurd.",
+    "cultural_context": "'Kødde' means to joke or mess around. Not obscene on its own but often used in contexts where English speakers would use its obscene equivalent. Very common in everyday Norwegian speech.",
+    "example_usage": "Kødder du med meg? Det er ikke sant! (Are you messing with me? That can't be true!)",
+    "ipa_pronunciation": "/ˈkøːdər dʊ mɛ mæɪ/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Ta faen",
+    "literal_translation": "take the devil",
+    "english_equivalent": "damn it / to hell with it",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "An emphatic exclamation expressing frustrated defiance or cursing a situation.",
+    "cultural_context": "Less commonly used than 'gi faen' or 'faen ta deg', but understood by all Norwegians. Often used to express frustrated resignation.",
+    "example_usage": "Ta faen, dette funka ikke. (Damn it, this didn't work.)",
+    "ipa_pronunciation": "/tɑː fæːn/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Kakk",
+    "literal_translation": "poo / poop",
+    "english_equivalent": "crap / poo",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A very mild scatological word. Less severe than 'dritt'. Often used by children or in polite-ish company.",
+    "cultural_context": "The softest possible scatological expression in Norwegian. Essentially 'poo' in English.",
+    "example_usage": "Å, kakk! (Oh, crap!) | Bilen stoppet, kakk! (Car broke down, crap!)",
+    "ipa_pronunciation": "/kɑk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Krik",
+    "literal_translation": "nag (old tired horse)",
+    "english_equivalent": "wreck / decrepit thing",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone or something old, decrepit, and run-down. Often used humorously.",
+    "cultural_context": "A somewhat affectionate insult, often used for cars, machinery, or elderly animals. Can be applied to people to suggest they are past their prime.",
+    "example_usage": "Den gamle krikken nekter å starte! (The old wreck refuses to start!)",
+    "ipa_pronunciation": "/krɪk/",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

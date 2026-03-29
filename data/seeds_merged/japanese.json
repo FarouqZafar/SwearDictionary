@@ -1,0 +1,930 @@
+[
+  {
+    "word": "馬鹿 (baka)",
+    "literal_translation": "horse-deer",
+    "english_equivalent": "idiot / stupid / fool",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "animal"
+    ],
+    "meaning": "The most famous Japanese insult. Derived from Chinese legend where calling a deer a horse tested loyalty; those who spoke truth were 'fools.'",
+    "cultural_context": "SEVERITY REVERSAL ALERT: In Kanto (Tokyo), this is standard/playful among friends. In Kansai (Osaka), this is extremely offensive—use 'aho' instead. The kanji 馬鹿 literally means 'horse-deer.' Context determines everything; can be affectionate between couples or fighting words between strangers.",
+    "example_usage": "馬鹿！そんなことしないで！(Baka! Don't do that!) / 馬鹿みたい (Baka mitai - like a fool)",
+    "needs_review": true,
+    "ipa_pronunciation": "ba̠ka̠",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "アホ (aho)",
+    "literal_translation": "fool/idiot",
+    "english_equivalent": "moron / dummy / twit",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence"
+    ],
+    "meaning": "Regional variant of 'baka' used primarily in Kansai (Osaka, Kyoto).",
+    "cultural_context": "SEVERITY REVERSAL ALERT: In Kansai, this is mild and often affectionate between friends ('You silly goose'). In Kanto (Tokyo), this sounds harsher and more insulting than 'baka.' Never use 'aho' in Tokyo unless you intend to be rude. Derived from Chinese 'ahou' (阿呆).",
+    "example_usage": "ほんまアホやな (Honma aho ya na - You really are silly, Kansai dialect)",
+    "needs_review": true,
+    "ipa_pronunciation": "a̠ho̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "糞 (kuso)",
+    "literal_translation": "excrement/feces",
+    "english_equivalent": "shit / fuck / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological",
+      "intensifier"
+    ],
+    "meaning": "The Japanese 'f-word.' Functions as noun, exclamation, and adjective prefix. Most versatile swear word.",
+    "cultural_context": "Ubiquitous in anime but milder than English equivalents. Can be used as exclamation when stubbing toe, or as prefix to create compound insults (kusogaki = shitty brat). 'Kuso kurae' (eat shit) is nuclear option. Not as taboo as sexual or racial slurs, but avoid in polite company.",
+    "example_usage": "糸！忘れた！(Kuso! I forgot!) / クソ野郎 (Kuso yarou - fucking bastard)",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝso̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "貴様 (kisama)",
+    "literal_translation": "honorable you (ironic)",
+    "english_equivalent": "you bastard / you son of a bitch",
+    "severity": 5,
+    "categories": [
+      "pronoun",
+      "honorific_perversion"
+    ],
+    "meaning": "Originally a highly respectful pronoun 'your honorable self,' transformed through sarcasm into the rudest 'you.'",
+    "cultural_context": "In modern usage, exclusively hostile and aggressive. Common in anime but almost never used in real life unless starting a physical fight. Represents the Japanese concept of profanity through honorific inversion. Using any second-person pronoun is already risky in Japanese; this one is combat language.",
+    "example_usage": "貴様！何をしている！(Kisama! What are you doing!)",
+    "needs_review": true,
+    "ipa_pronunciation": "kʲisa̠ma̠",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "手前 (temee)",
+    "literal_translation": "before hand/you (slurred)",
+    "english_equivalent": "you bastard / you piece of shit",
+    "severity": 5,
+    "categories": [
+      "pronoun",
+      "aggressive"
+    ],
+    "meaning": "Slurred, aggressive version of 'te-mae.' Extremely confrontational second-person pronoun.",
+    "cultural_context": "Implies both contempt and anger. Manga/anime staple but rarely heard in real conversations unless violence is imminent. Even rougher than 'kisama' in some contexts because it implies the speaker is looking down on the listener from above.",
+    "example_usage": "手前、誰のつもりだ？(Temee, dare no tsumori da? - Who do you think you are, bastard?)",
+    "needs_review": true,
+    "ipa_pronunciation": "teme̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "お前 (omae)",
+    "literal_translation": "honorable front (ironic)",
+    "english_equivalent": "you / hey you / bastard",
+    "severity": 4,
+    "categories": [
+      "pronoun",
+      "hierarchical"
+    ],
+    "meaning": "Originally respectful ('honorable one before me'), now used to address inferiors or intimate peers.",
+    "cultural_context": "Acceptable only between close male friends or from superior to subordinate. Using with strangers, superiors, or women is highly offensive. In anime, used constantly; in real life, use signals either intimacy or aggression. Never use in business settings.",
+    "example_usage": "お前が言うな (Omae ga iu na - Look who's talking / You have no say)",
+    "needs_review": true,
+    "ipa_pronunciation": "o̞ma̠e̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "死ね (shine)",
+    "literal_translation": "die (command)",
+    "english_equivalent": "die / go to hell / drop dead",
+    "severity": 5,
+    "categories": [
+      "command",
+      "death_wish",
+      "extreme"
+    ],
+    "meaning": "Imperative form of 'shinu' (to die). Direct command to die.",
+    "cultural_context": "ONE OF THE WORST THINGS YOU CAN SAY. In a culture that avoids direct confrontation, wishing death is the nuclear option. Can be said jokingly between very close friends in anime culture, but in real life likely to end relationships or start physical fights. 'Shinjimae' (go to hell/drop dead) is variant.",
+    "example_usage": "死ね！もう我慢できない！(Shine! Mou gaman dekinai! - Die! I can't take it anymore!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɕi̥ne̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "くたばれ (kutabare)",
+    "literal_translation": "drop dead / kick the bucket",
+    "english_equivalent": "fuck you / drop dead / go to hell",
+    "severity": 5,
+    "categories": [
+      "command",
+      "death_wish"
+    ],
+    "meaning": "Vulgar way to tell someone to die, stronger than 'shine' in some contexts as it implies rotting death.",
+    "cultural_context": "Extreme hostility. Rarely used in real life except in genuine rage. Comparable to 'fuck you' in English severity. Often combined with 'kono yarou' (this bastard).",
+    "example_usage": "くたばれ、この野郎！(Kutabare, kono yarou! - Drop dead, you bastard!)",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝta̠ba̠ɾe̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "野郎 (yarou)",
+    "literal_translation": "field-man / fellow",
+    "english_equivalent": "bastard / jerk / guy (derogatory)",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "masculine",
+      "suffix"
+    ],
+    "meaning": "Originally meant 'fellow' or 'guy,' now derogatory masculine suffix.",
+    "cultural_context": "Almost always used as 'kono yarou' (this bastard) or combined with insults (bakayarou, kusoyarou). Not used for women. Indicates rough, masculine aggression. Can be affectionate between close male friends ('you rascal'), but generally negative.",
+    "example_usage": "この野郎！(Kono yarou! - You bastard!) / 馬鹿野郎 (Bakayarou - stupid bastard)",
+    "needs_review": true,
+    "ipa_pronunciation": "ja̠ɾo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "畜生 (chikushou)",
+    "literal_translation": "beast/brute/livestock",
+    "english_equivalent": "damn it / son of a bitch / fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "animal",
+      "religious"
+    ],
+    "meaning": "Buddhist term for animals/beasts; used as exclamation of frustration.",
+    "cultural_context": "Common in anime, acceptable in casual male speech. Literally implies someone is subhuman/animalistic. Can express surprise, frustration, or joy depending on context and tone. 'Chikushou' when losing a game; 'Chikushou!' when winning dramatically.",
+    "example_usage": "畜生、パンクだ！(Chikushou, panku da! - Damn it, I have a flat tire!)",
+    "needs_review": true,
+    "ipa_pronunciation": "t͡ɕikɯ̟ᵝɕo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "黙れ (damare)",
+    "literal_translation": "be silent (imperative)",
+    "english_equivalent": "shut up / shut the fuck up",
+    "severity": 4,
+    "categories": [
+      "command",
+      "silence"
+    ],
+    "meaning": "Imperative form of 'damaru' (to be silent). Direct command to stop talking.",
+    "cultural_context": "Extremely rude due to directness. Japanese prefers indirect requests ('urusai' = noisy). 'Damare' cuts all pretense of politeness. 'Damare kono yarou' (shut up, you bastard) is highly confrontational.",
+    "example_usage": "黙れ！うるさい！(Damare! Urusai! - Shut up! You're noisy!)",
+    "needs_review": true,
+    "ipa_pronunciation": "da̠ma̠ɾe̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "うるさい (urusai)",
+    "literal_translation": "noisy / loud",
+    "english_equivalent": "shut up / you're annoying / be quiet",
+    "severity": 3,
+    "categories": [
+      "command",
+      "indirect",
+      "noise"
+    ],
+    "meaning": "Literally 'noisy,' used to tell someone to be quiet.",
+    "cultural_context": "Less direct than 'damare' but still rude. Shortened to 'uzai' (annoying) or elongated 'uruseee' in rough speech. Can be used playfully with friends. Women use this more than 'damare.'",
+    "example_usage": "うるさい！静かにして！(Urusai! Shizuka ni shite! - You're loud! Be quiet!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɯɾɯsa̠i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "うざい (uzai)",
+    "literal_translation": "annoying (shortened)",
+    "english_equivalent": "pain in the ass / annoying / shut up",
+    "severity": 3,
+    "categories": [
+      "descriptive",
+      "slang"
+    ],
+    "meaning": "Short for 'uzattai' or 'urusai.' Describes something unbearably irritating.",
+    "cultural_context": "Modern slang, common among youth. 'Uzai' is less confrontational than 'urusai' but implies sustained annoyance. 'Uzee' is masculine rough pronunciation. Used for people, situations, or obligations.",
+    "example_usage": "あいつ本当にうざい (Aitsu hontou ni uzai - That guy is really a pain in the ass)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɯza̠i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ふざけるな (fuzakeru na)",
+    "literal_translation": "don't mess around",
+    "english_equivalent": "don't fuck with me / stop bullshitting / fuck off",
+    "severity": 4,
+    "categories": [
+      "command",
+      "frustration"
+    ],
+    "meaning": "Negative command telling someone to stop joking/messing around.",
+    "cultural_context": "Can escalate conflicts. 'Na' ending makes it aggressive command. Shortened to 'fuzakenna' in rough speech. Used when someone crosses a line or lies. 'Fuzakeru' alone means to play/joke; 'na' negates and confronts.",
+    "example_usage": "ふざけるな、マジで！(Fuzakeru na, maji de! - Don't fuck with me, seriously!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɸɯ̟ᵝza̠ke̞ɾɯna̠",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "どけ (doke)",
+    "literal_translation": "move (imperative)",
+    "english_equivalent": "get out of the way / move it / fuck off",
+    "severity": 4,
+    "categories": [
+      "command",
+      "movement"
+    ],
+    "meaning": "Rude imperative of 'doku' (to move aside).",
+    "cultural_context": "Brusque and aggressive. No polite buffer ('doko' would be polite). Used when someone is physically blocking path and speaker is angry. Can start physical altercations.",
+    "example_usage": "どけ！邪魔だ！(Doke! Jama da! - Move! You're in the way!)",
+    "needs_review": true,
+    "ipa_pronunciation": "do̞ke̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ばばあ (babaa) / じじい (jijii)",
+    "literal_translation": "old hag / old geezer",
+    "english_equivalent": "old hag / old fart / geezer",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "age",
+      "familial"
+    ],
+    "meaning": "Derogatory terms for elderly women (babaa) and men (jijii).",
+    "cultural_context": "EXTREMELY offensive in Japan's elder-respect culture. Using these constitutes a major moral violation. 'Kusobabaa' (shitty old hag) and 'kusojijii' (shitty old fart) are even worse. Spirited Away's Yubaba character derives from this term.",
+    "example_usage": "あのばばあ、また文句ばかり (Ano babaa, mata monku bakari - That old hag is complaining again)",
+    "needs_review": true,
+    "ipa_pronunciation": "ba̠ba̠ː / dʑi̥dʑiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ブス (busu)",
+    "literal_translation": "ugly woman",
+    "english_equivalent": "ugly / hideous / bitch (looks-based)",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "appearance",
+      "gendered"
+    ],
+    "meaning": "Harsh insult specifically targeting women's appearance.",
+    "cultural_context": "Deeply hurtful, attacks physical appearance directly. 'Debusu' (fat + ugly) is compound form. 'Buotoko' is male equivalent but less common. Can destroy self-esteem; considered cruel even among friends.",
+    "example_usage": "ブスだね (Busu da ne - You're ugly)",
+    "needs_review": true,
+    "ipa_pronunciation": "bɯ̟ᵝsɯ̟ᵝ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "デブ (debu)",
+    "literal_translation": "fatso / fatty",
+    "english_equivalent": "fatty / fatass",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "appearance",
+      "body_shaming"
+    ],
+    "meaning": "Direct insult regarding weight.",
+    "cultural_context": "Body shaming is common in Japan but still rude. 'Debu' is blunt; 'pocchari' is softer euphemism. Combined with 'busu' to make 'debusu' (fat and ugly).",
+    "example_usage": "デブス (Debusu - fat ugly woman)",
+    "needs_review": true,
+    "ipa_pronunciation": "de̞bɯ̟ᵝ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ハゲ (hage)",
+    "literal_translation": "bald / baldy",
+    "english_equivalent": "baldy",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "appearance",
+      "masculine"
+    ],
+    "meaning": "Insults male pattern baldness.",
+    "cultural_context": "Targets male insecurity about hair loss. Verb form 'hageru' means 'to go bald.' Common in office bullying but considered harassment. Less severe than 'busu' but still hurtful.",
+    "example_usage": "ハゲてるね (Hageteru ne - You're going bald)",
+    "needs_review": true,
+    "ipa_pronunciation": "ha̠ɡe̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "チビ (chibi)",
+    "literal_translation": "small/shorty",
+    "english_equivalent": "runt / shorty / midget",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "appearance",
+      "height"
+    ],
+    "meaning": "Refers to short stature, often used for children or small characters.",
+    "cultural_context": "Can be affectionate (Chibi Maruko-chan) or insulting depending on tone. 'Chibi' alone is mild; 'kuso chibi' (shitty runt) is aggressive. Height is sensitive topic in Japan.",
+    "example_usage": "このチビが！(Kono chibi ga! - This little runt!)",
+    "needs_review": true,
+    "ipa_pronunciation": "t͡ɕibi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "カス (kasu)",
+    "literal_translation": "dregs / scum / residue",
+    "english_equivalent": "scum / trash / worthless",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "worthlessness"
+    ],
+    "meaning": "Compares person to waste/residue left after filtering.",
+    "cultural_context": "Implies person has no value, is leftover waste. Extremely demeaning. 'Kasugai' (scum) is variant. Used in heated arguments to deny someone's humanity.",
+    "example_usage": "このカスが！(Kono kasu ga! - You scum!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ka̠sɯ̟ᵝ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "クズ (kuzu)",
+    "literal_translation": "trash / rubbish",
+    "english_equivalent": "trash / scum / piece of shit",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "worthlessness",
+      "character"
+    ],
+    "meaning": "Denotes moral worthlessness. 'Kuzu otoko' (scum man) describes cheating, lying men.",
+    "cultural_context": "Moral judgment stronger than 'kasu.' Used for people with bad character—cheaters, thieves, abusers. 'Kuzu' is modern internet slang for 'trash person.'",
+    "example_usage": "クズ男 (Kuzu otoko - scumbag man)",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝzɯ̟ᵝ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "アバズレ (abazure)",
+    "literal_translation": "promiscuous woman / loose woman",
+    "english_equivalent": "slut / whore / bitch",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual",
+      "misogynistic"
+    ],
+    "meaning": "Strong misogynistic slur for sexually promiscuous women.",
+    "cultural_context": "EXTREMELY offensive, archaic but still used. Implies moral degradation and shamelessness. Can technically apply to men but almost exclusively used against women. Carries heavy sexist baggage.",
+    "example_usage": "あのアバズレめ (Ano abazure me - That slut [contemptuous])",
+    "needs_review": true,
+    "ipa_pronunciation": "aba̠zɯ̟ᵝɾe̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "やりまん (yariman)",
+    "literal_translation": "sex-maniac (woman)",
+    "english_equivalent": "slut / whore / nympho",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual",
+      "misogynistic"
+    ],
+    "meaning": "Compound of 'yaru' (to do/have sex) and 'man' (vagina slang).",
+    "cultural_context": "Vulgar term for promiscuous woman. 'Yari' implies casual sex; 'man' is crude slang for female anatomy. Highly offensive and sexually charged. 'Yarichin' is male equivalent but less common.",
+    "example_usage": "やりまん (Yariman - slut)",
+    "needs_review": true,
+    "ipa_pronunciation": "ja̠ɾimãɴ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "まんこ (manko)",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt / pussy",
+    "severity": 5,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "vulgar"
+    ],
+    "meaning": "Crude slang for female genitalia.",
+    "cultural_context": "Extremely vulgar anatomical term. Not used in polite conversation. 'Oman-ko' is slightly softer prefix. Comparable to English 'cunt' in vulgarity level. Used in pornography and angry slurs.",
+    "example_usage": "NOTE: Extreme vulgarity, anatomical reference",
+    "needs_review": true,
+    "ipa_pronunciation": "mãŋko̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ちんこ (chinko) / ちんぽ (chinpo)",
+    "literal_translation": "penis",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "masculine"
+    ],
+    "meaning": "Childish to vulgar slang for penis. 'Chinchin' is childish; 'chinpo' is vulgar.",
+    "cultural_context": "'Chinchin' acceptable for children; 'chinko/chinpo' vulgar adult slang. 'Chinpo' is harsher. 'Chinpoko' is diminutive/dismissive. Used in insults and sexual contexts.",
+    "example_usage": "ちんぽこ (Chinpoko - little dick/prick)",
+    "needs_review": true,
+    "ipa_pronunciation": "t͡ɕiŋko̞ / t͡ɕiɰ̃po̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "変態 (hentai)",
+    "literal_translation": "transformation / pervert",
+    "english_equivalent": "pervert / creep",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual",
+      "behavior"
+    ],
+    "meaning": "Describes sexual perversion or paraphilia.",
+    "cultural_context": "Famous worldwide for meaning 'anime porn,' but in Japanese primarily means 'pervert.' 'Hentai' describes people with unusual sexual interests. 'Ecchi' (H) is softer version. Calling someone 'hentai' accuses them of sexual deviancy.",
+    "example_usage": "この変態！(Kono hentai! - You pervert!)",
+    "needs_review": true,
+    "ipa_pronunciation": "he̞nta̠i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "スケベ (sukebe)",
+    "literal_translation": "lech / lecher",
+    "english_equivalent": "lech / pervert / horny bastard",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual",
+      "behavior"
+    ],
+    "meaning": "Person with excessive sexual interest, lecherous person.",
+    "cultural_context": "Can be used jokingly among friends ('You lech') but accusing a stranger is serious. 'Sukebe' implies handsy, inappropriate behavior. Less clinical than 'hentai,' more about lust than paraphilia.",
+    "example_usage": "スケベ！ (Sukebe! - You lech!)",
+    "needs_review": true,
+    "ipa_pronunciation": "sɯ̟ᵝke̞be̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "お釜 (okama)",
+    "literal_translation": "pot/kettle",
+    "english_equivalent": "faggot / queer / tranny",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "homophobic",
+      "transphobic",
+      "hate_speech"
+    ],
+    "meaning": "Slur for gay men, especially effeminate or cross-dressing men.",
+    "cultural_context": "HATE SPEECH. Originally meant 'pot,' became slur for gay men (men who 'take' like a pot). Extremely offensive. Reclaimed by some LGBTQ+ communities but dangerous for outsiders to use. 'Onabe' (pot) is lesbian equivalent.",
+    "example_usage": "NOTE: Hate speech, included for recognition",
+    "needs_review": true,
+    "ipa_pronunciation": "o̞ka̠ma̠",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "外人 (gaijin)",
+    "literal_translation": "outside person / foreigner",
+    "english_equivalent": "foreigner / outsider",
+    "severity": 2,
+    "categories": [
+      "ethnic",
+      "xenophobic"
+    ],
+    "meaning": "Short for 'gaikokujin' (foreigner).",
+    "cultural_context": "Context-dependent. Neutral in some contexts, xenophobic in others. 'Gaijin' excludes; implies 'outsider who doesn't belong.' 'Gaikokujin' is polite form. Can be muttered with hostility or used neutrally.",
+    "example_usage": "外人さん (Gaijin-san - Mr. Foreigner [potentially condescending])",
+    "needs_review": true,
+    "ipa_pronunciation": "ɡa̠i̥dʑiɴ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "チョン (chon)",
+    "literal_translation": "Korean (slur)",
+    "english_equivalent": "gook / chink (targeting Koreans)",
+    "severity": 5,
+    "categories": [
+      "ethnic",
+      "racial_slur",
+      "hate_speech"
+    ],
+    "meaning": "Extremely offensive ethnic slur for Korean people.",
+    "cultural_context": "HATE SPEECH. Derived from 'Chosen' (Korea). Equivalent to N-word or other severe racial slurs. Using this marks the speaker as far-right or extremely racist. Criminal hate speech in some contexts.",
+    "example_usage": "NOTE: Extreme racial slur, included for recognition only",
+    "needs_review": true,
+    "ipa_pronunciation": "t͡ɕo̞ɴ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "しまった (shimatta)",
+    "literal_translation": "done/finished (regretful)",
+    "english_equivalent": "damn / oh no / oops / darn it",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "mild"
+    ],
+    "meaning": "Expression of regret when making mistake.",
+    "cultural_context": "NOT truly profanity. Mild as 'oops' or 'darn.' Acceptable for children. Comes from verb 'shimau' (to finish). 'Shimatta' implies 'I've done it now' or 'I messed up.' Kansai variant: 'shimota.'",
+    "example_usage": "しまった！鍵を忘れた！(Shimatta! Kagi wo wasureta! - Damn! I forgot my keys!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɕima̠t̚ta̠",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "ちくしょう (chikushou) [hiragana]",
+    "literal_translation": "beast/livestock",
+    "english_equivalent": "damn it / son of a bitch / fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "animal"
+    ],
+    "meaning": "Exclamation of frustration from Buddhist term for animals.",
+    "cultural_context": "Common in male speech and anime. 'Chikushou' literally means 'beast' (畜生). Implies situation is beastly/unworthy of human dignity. Can express positive excitement too ('Chikushou, yatta!' = 'Fuck yeah, I did it!').",
+    "example_usage": "ちくしょう、負けた！(Chikushou, maketa! - Damn it, I lost!)",
+    "needs_review": true,
+    "ipa_pronunciation": "t͡ɕikɯ̟ᵝɕo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "馬鹿野郎 (bakayarou)",
+    "literal_translation": "foolish bastard",
+    "english_equivalent": "idiot / asshole / you bastard",
+    "severity": 4,
+    "categories": [
+      "compound",
+      "insult",
+      "intelligence"
+    ],
+    "meaning": "Compound of 'baka' (fool) and 'yarou' (bastard).",
+    "cultural_context": "Standard aggressive insult. Stronger than 'baka' alone due to 'yarou' suffix. Severity depends on region (harsher in Kansai). Common in road rage and arguments.",
+    "example_usage": "この馬鹿野郎！(Kono bakayarou! - You stupid bastard!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ba̠ka̠ja̠ɾo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "クソ野郎 (kusoyarou)",
+    "literal_translation": "shitty bastard",
+    "english_equivalent": "shithead / asshole / motherfucker",
+    "severity": 5,
+    "categories": [
+      "compound",
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Compound of 'kuso' (shit) and 'yarou' (bastard).",
+    "cultural_context": "Very strong compound. 'Kuso' amplifies 'yarou' significantly. Used in extreme anger. Similar to English 'motherfucker' in severity.",
+    "example_usage": "クソ野郎め！(Kusoyarou me! - You fucking bastard [contemptuous])",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝso̞ja̠ɾo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "クソガキ (kusogaki)",
+    "literal_translation": "shitty brat",
+    "english_equivalent": "shitty brat / little shit",
+    "severity": 4,
+    "categories": [
+      "compound",
+      "youth",
+      "scatological"
+    ],
+    "meaning": "Compound of 'kuso' (shit) and 'gaki' (brat/kid).",
+    "cultural_context": "Used for misbehaving children or immature adults. 'Gaki' alone means brat; 'kuso' makes it aggressive. Older generations use this for younger people who disrespect them.",
+    "example_usage": "このクソガキが！(Kono kusogaki ga! - You little shit!)",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝso̞ɡa̠ki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "クソくらえ (kuso kurae)",
+    "literal_translation": "eat shit",
+    "english_equivalent": "eat shit",
+    "severity": 5,
+    "categories": [
+      "command",
+      "scatological",
+      "extreme"
+    ],
+    "meaning": "Direct command to consume feces.",
+    "cultural_context": "Nuclear option. Comparable to English 'eat shit.' Very aggressive, likely to provoke physical fight. Used at peak of anger.",
+    "example_usage": "くそくらえ！(Kuso kurae! - Eat shit!)",
+    "needs_review": true,
+    "ipa_pronunciation": "kɯ̟ᵝso̞ kɯ̟ᵝɾa̠e̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "最低 (saitei)",
+    "literal_translation": "lowest / worst",
+    "english_equivalent": "the worst / disgusting / scum",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "moral_judgment"
+    ],
+    "meaning": "Describes someone as morally lowest of the low.",
+    "cultural_context": "Moral condemnation. 'Saitei' implies person's behavior is beneath human dignity. Used for cheaters, liars, abusers. Stronger than English 'the worst' due to cultural emphasis on social harmony.",
+    "example_usage": "最低だね (Saitei da ne - You're the worst/scum)",
+    "needs_review": true,
+    "ipa_pronunciation": "sa̠ite̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "意地悪 (ijiwaru)",
+    "literal_translation": "malicious intent",
+    "english_equivalent": "mean / malicious / bitchy / bully",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "personality",
+      "behavior"
+    ],
+    "meaning": "Person who enjoys causing suffering or is spiteful.",
+    "cultural_context": "Can describe teasing ('ijiwaru shinaide' = don't tease me) or genuine malice. Women called 'ijiwaru' are seen as catty or bitchy. Less vulgar than sexual terms but strong moral judgment.",
+    "example_usage": "意地悪しないで (Ijiwaru shinaide - Don't be mean/don't tease)",
+    "needs_review": true,
+    "ipa_pronunciation": "idʑiwa̠ɾɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "嘘つき (usotsuki)",
+    "literal_translation": "lie-person",
+    "english_equivalent": "liar",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "honesty",
+      "moral_judgment"
+    ],
+    "meaning": "Person who tells lies.",
+    "cultural_context": "Strong insult in truth-valuing Japanese culture. 'Usotsuki' implies moral failing. Often shouted as accusation: 'Usotsuki!' (Liar!). Can be playful among friends but serious among strangers.",
+    "example_usage": "嘘つき！(Usotsuki! - Liar!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɯso̞t͡sɯ̟ᵝki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "腰抜け (koshinuke)",
+    "literal_translation": "missing hips/loose loins",
+    "english_equivalent": "coward / weakling / pussy",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "cowardice",
+      "masculine"
+    ],
+    "meaning": "Coward, literally 'hips removed' implying no backbone.",
+    "cultural_context": "Challenges masculine courage. 'Koshinuke' implies physical and moral cowardice. Serious insult to male pride. Can be used for women but predominantly masculine-targeted.",
+    "example_usage": "腰抜けめ！(Koshinuke me! - You coward!)",
+    "needs_review": true,
+    "ipa_pronunciation": "ko̞ɕiɲɯ̟ᵝke̞",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "弱虫 (yowamushi)",
+    "literal_translation": "weak insect",
+    "english_equivalent": "weakling / wimp / coward",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "cowardice",
+      "weakness"
+    ],
+    "meaning": "Weak person, literally 'weak bug/insect.'",
+    "cultural_context": "Milder than 'koshinuke.' Can be affectionate ('Don't be such a wimp'). Common in anime. Implies fragility rather than moral cowardice. 'Yowamushi Pedal' (anime) uses this term.",
+    "example_usage": "弱虫！(Yowamushi! - Weakling!)",
+    "needs_review": true,
+    "ipa_pronunciation": "jo̞wa̠mɯ̟ᵝɕi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "下衆野郎 (gesuyarou)",
+    "literal_translation": "low-class bastard",
+    "english_equivalent": "creep / lowlife / sleazebag",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "class",
+      "behavior"
+    ],
+    "meaning": "Person of low birth and lower moral character.",
+    "cultural_context": "Combines class and moral judgment. 'Gesu' means vulgar/low-class; 'yarou' is bastard. Stronger than 'yarou' alone. Used for people who behave beneath social standards.",
+    "example_usage": "下衆野郎 (Gesuyarou - sleazebag)",
+    "needs_review": true,
+    "ipa_pronunciation": "ɡe̞sɯ̟ᵝja̠ɾo̞ː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "気持ち悪い (kimochi warui)",
+    "literal_translation": "feeling-bad",
+    "english_equivalent": "gross / disgusting / creepy",
+    "severity": 2,
+    "categories": [
+      "descriptive",
+      "disgust"
+    ],
+    "meaning": "Something feels bad physically or emotionally; disgusting.",
+    "cultural_context": "Shortened to 'kimoi' in slang. Describes anything from rotten food to creepy behavior. Calling a person 'kimochi warui' is serious insult to their character/appearance. 'Kimoi' is casual; full phrase is stronger.",
+    "example_usage": "気持ち悪い！(Kimochi warui! - Gross!) / キモい (Kimoi - creepy/gross)",
+    "needs_review": true,
+    "ipa_pronunciation": "kimo̞t͡ɕi wa̠ɾɯi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "きしょい (kishoi)",
+    "literal_translation": "creepy/gross",
+    "english_equivalent": "creepy / gross / disgusting",
+    "severity": 2,
+    "categories": [
+      "descriptive",
+      "slang",
+      "disgust"
+    ],
+    "meaning": "Slang for disgusting or creepy (shortened from 'kimochi warui').",
+    "cultural_context": "Youth slang, internet language. Less formal than 'kimochi warui.' Describes unpleasant sensations or people. 'Kishoi' is very casual; older generations may not understand.",
+    "example_usage": "きしょいな (Kishoi na - That's gross/creepy)",
+    "needs_review": true,
+    "ipa_pronunciation": "kʲi̥ɕo̞i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "土方 (dobutsu)",
+    "literal_translation": "beast / animal",
+    "english_equivalent": "beast / brute",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "animal",
+      "behavior"
+    ],
+    "meaning": "Animal/beast; implies subhuman behavior.",
+    "cultural_context": "Buddhist concept—animals are lower than humans in reincarnation cycle. Calling someone 'dobutsu' denies their humanity and spiritual worth. Stronger than English 'beast.'",
+    "example_usage": "この土方め！(Kono dobutsu me! - You beast!)",
+    "needs_review": true,
+    "ipa_pronunciation": "do̞bɯ̟ᵝt͡sɯ̟ᵝ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "阿保 (ahokusai)",
+    "literal_translation": "foolish-smelling",
+    "english_equivalent": "stupid / foolish",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "kansai"
+    ],
+    "meaning": "Kansai adjective form of 'aho.'",
+    "cultural_context": "Kansai dialect specific. 'Ahokusai' (foolish) and 'ahorashii' (foolish-acting) are colorful Kansai descriptors. 'Do-aho' (extremely foolish) is intensifier.",
+    "example_usage": "阿保くさい (Ahokusai - foolish/smelling of stupidity)",
+    "needs_review": true,
+    "ipa_pronunciation": "a̠ho̞kɯ̟ᵝsa̠i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  }
+]

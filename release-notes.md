@@ -382,13 +382,13 @@
 8. **Robots disallows `/api/`** — but ViewTracker calls `/api/track-view` from client (works fine, crawlers just won't index it)
 9. **Low word counts for some languages** — English (26), Farsi (26), Vietnamese (27) need more content
 10. **No error logging** — `error.tsx` catches but doesn't report errors anywhere
-11. **Duplicate word slugs in DB** — ~49 words have duplicate slugs within their language (pages 404 gracefully)
+11. ~~**Duplicate word slugs in DB**~~ — Fixed by unicode slug migration in v1.0.0 (0 duplicates remaining)
 
 ---
 
 ## What's Next (Priority Order)
 
-1. **Add `SUPABASE_SERVICE_ROLE_KEY` to Vercel env** — required for waitlist API to work in production
+1. ~~**Add `SUPABASE_SERVICE_ROLE_KEY` to Vercel env**~~ — Done, added to Vercel env vars
 2. **Google AdSense setup** — add ad script, ensure content passes review
 3. **Expand low-count languages** — target 50+ words for English, Farsi, Vietnamese
 4. **Fix duplicate word slugs in DB** — ~49 duplicates causing build warnings

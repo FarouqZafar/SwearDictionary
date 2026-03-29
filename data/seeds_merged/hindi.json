@@ -1,0 +1,752 @@
+[
+  {
+    "word": "मादरचोद (madarchod)",
+    "literal_translation": "mother-fucker",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "familial",
+      "sexual",
+      "incest"
+    ],
+    "meaning": "Person who has sexual relations with their own mother.",
+    "cultural_context": "The nuclear option of Hindi profanity. Abbreviated as 'MC' in text/speech. Persian 'madar' (mother) + Sanskrit-derived 'chod' (to pierce/fuck). Despite India's strong incest taboos, this is the most common severe insult. Using this with strangers is fighting words; among Delhi youth, sometimes used casually (controversially).",
+    "example_usage": "Madarchod, saale! (Motherfucker, bastard!) / BC MC mat kar (Don't do bullshit - literally don't do BC MC)",
+    "needs_review": false,
+    "ipa_pronunciation": "maːdər tʃoːd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "बहनचोद (behenchod/bhenchod)",
+    "literal_translation": "sister-fucker",
+    "english_equivalent": "sisterfucker",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "familial",
+      "sexual",
+      "incest"
+    ],
+    "meaning": "Person who has sexual relations with their own sister.",
+    "cultural_context": "Equally severe as madarchod. Abbreviated as 'BC' (causing confusion with 'Before Christ' or 'Because' in texting). 'Behen' (sister) from Prakrit. In Punjabi pronounced 'penchod.' Extremely offensive, attacks family honor directly.",
+    "example_usage": "Behenchod, hat ja! (Sisterfucker, move aside!)",
+    "needs_review": false,
+    "ipa_pronunciation": "bɛːhn tʃoːd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "भोसड़ीके (bhosdike/bhosdike)",
+    "literal_translation": "vagina-born / from the pussy",
+    "english_equivalent": "cunt / son of a whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "anatomical",
+      "familial"
+    ],
+    "meaning": "Born from a vagina; implying illegitimacy or low birth. 'Bhosda' = loose vagina/whore's vagina.",
+    "cultural_context": "Abbreviated as 'BSDK' in texting. Extremely vulgar but slightly less severe than MC/BC because it attacks the mother indirectly rather than accusing incest. Common in North Indian street language.",
+    "example_usage": "Bhosdike, chup kar! (Cunt, shut up!)",
+    "needs_review": false,
+    "ipa_pronunciation": "bʰoːsɽiːkeː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "चूतिया (chutiya)",
+    "literal_translation": "vagina-born / cunt",
+    "english_equivalent": "idiot / cunt / fool",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "anatomical",
+      "paradoxical_usage"
+    ],
+    "meaning": "Originally 'born of a vagina' (redundant insult); evolved to mean 'idiot' or 'fool.'",
+    "cultural_context": "THE GREAT PARADOX: Among urban Indian youth and in Bollywood, this has softened to mean 'silly person' or 'dude' ('Abey chutiya, sun na' = Hey dude, listen). However, to older generations or in rural areas, remains extremely vulgar (referencing female anatomy). Usage context determines severity completely. Can be affectionate or deeply offensive.",
+    "example_usage": "Chutiya hai kya? (Are you an idiot?) / Abe chutiya (Hey dude/fool)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʃuːtɪjaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "रांड (rand)",
+    "literal_translation": "widow / prostitute",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual"
+    ],
+    "meaning": "Promiscuous woman; prostitute. 'Randi' is the more common form.",
+    "cultural_context": "Extremely offensive when directed at women. Attacks sexual morality. 'Randi' implies professional prostitution. Can be used metaphorically for men ('randi ka bachcha' = son of a whore). Related to Sanskrit 'randa' (widow) showing historical stigma against widows.",
+    "example_usage": "Randi kahin ki! (Whore! literally 'whore of somewhere')",
+    "needs_review": false,
+    "ipa_pronunciation": "raːɳɖ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "रंडी (randi)",
+    "literal_translation": "prostitute / whore",
+    "english_equivalent": "whore / hooker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual"
+    ],
+    "meaning": "Woman who sells sex; severe gendered slur.",
+    "cultural_context": "Highly misogynistic. 'Randi' is fighting word. Often combined: 'Randi ka bachcha' (son of a whore), 'Randi ka pati' (husband of a whore). Used in Bollywood villain dialogue.",
+    "example_usage": "Randi! (You whore!)",
+    "needs_review": false,
+    "ipa_pronunciation": "raːɳɖiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "हरामी (harami)",
+    "literal_translation": "forbidden one / bastard",
+    "english_equivalent": "bastard / illegitimate",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "familial",
+      "religious"
+    ],
+    "meaning": "Born of forbidden union; illegitimate child. From Arabic 'haram' (forbidden).",
+    "cultural_context": "Perso-Arabic origin. Less severe than MC/BC but serious moral judgment. 'Haramkhor' (one who eats forbidden) implies someone who survives through illicit means. Common in Urdu-influenced Hindi.",
+    "example_usage": "Harami! Chor hai tu! (Bastard! You are a thief!)",
+    "needs_review": false,
+    "ipa_pronunciation": "həɾaːmiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "हरामखोर (haramkhor)",
+    "literal_translation": "forbidden-eater / useless eater",
+    "english_equivalent": "good-for-nothing / bastard / parasite",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious",
+      "behavioral"
+    ],
+    "meaning": "Person who consumes forbidden things or lives off others immorally.",
+    "cultural_context": "Implies moral worthlessness and parasitic existence. Less vulgar than sexual terms but strong condemnation of character.",
+    "example_usage": "Haramkhor, kaam nahi karta! (Good-for-nothing, doesn't work!)",
+    "needs_review": false,
+    "ipa_pronunciation": "həɾaːmkʰoːɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "गांडू (gandu)",
+    "literal_translation": "ass-person / ass-fucker",
+    "english_equivalent": "asshole / faggot",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "anatomical",
+      "homophobic"
+    ],
+    "meaning": "Receptive partner in anal sex; by extension, spineless or contemptible person.",
+    "cultural_context": "Homophobic undertones implying submission/weakness. Very common in North India. 'Gand' = ass. 'Gandfat' (ass-torn) is even more vulgar. Can imply cowardice rather than sexuality in some contexts.",
+    "example_usage": "Gandu hai tu! (You asshole!)",
+    "needs_review": false,
+    "ipa_pronunciation": "gaːɳɖuː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "गांड (gaand/gand)",
+    "literal_translation": "ass / buttocks",
+    "english_equivalent": "ass",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "scatological"
+    ],
+    "meaning": "Buttocks; used in dozens of compounds.",
+    "cultural_context": "Central to Hindi idiomatic abuse. 'Gand mara' (get fucked in ass), 'Gand fat gayi' (scared shitless - literally ass torn), 'Gandu' (ass-person). Less severe than 'chut' but versatile.",
+    "example_usage": "Gand mara! (Get fucked in the ass!)",
+    "needs_review": false,
+    "ipa_pronunciation": "gaːɳɖ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "चूत (choot/chut)",
+    "literal_translation": "vagina / cunt",
+    "english_equivalent": "cunt / pussy",
+    "severity": 5,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "vulgar"
+    ],
+    "meaning": "Female genitalia; extremely vulgar anatomical term.",
+    "cultural_context": "The anatomical core of Hindi profanity. 'Chutiya' (cunt-born), 'chutmar' (cunt-fucker), 'chut ke pasine' (sweat of cunt - extreme insult). Rarely used as standalone exclamation unlike English 'fuck'; always targets anatomy.",
+    "example_usage": "Chut! (Cunt! - extremely vulgar)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʃuːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "लंड (lund)",
+    "literal_translation": "penis / dick",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "masculine"
+    ],
+    "meaning": "Male genitalia; used in insults and exclamations.",
+    "cultural_context": "Common in North Indian abuses. 'Lund' appears in compounds: 'lund choos' (suck dick), 'lund ka topa' (dickhead - literally glans). Less versatile than English 'dick' but equally vulgar.",
+    "example_usage": "Lund pe rakhta hai kya? (Do you keep it on your dick? - implying carelessness)",
+    "needs_review": false,
+    "ipa_pronunciation": "lʊɳɖ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "लौंडिया (laundiya)",
+    "literal_translation": "girl / chick / prostitute",
+    "english_equivalent": "chick / bitch / whore",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "gendered",
+      "demeaning"
+    ],
+    "meaning": "Derogatory term for women; implies availability or lower status.",
+    "cultural_context": "Street Hindi for 'girl' but highly demeaning. Reduces women to sex objects. 'Laundiya' objectifies; 'launda' (boy) is less offensive. Common in item songs and street harassment.",
+    "example_usage": "Laundiya ghum rahi hai (The chick is roaming around)",
+    "needs_review": false,
+    "ipa_pronunciation": "lɔːɳɖɪjaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "झाट (jhaat/jhat)",
+    "literal_translation": "pubic hair",
+    "english_equivalent": "pubes / cunt hair",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "insult"
+    ],
+    "meaning": "Pubic hair; used to dismiss someone as insignificant.",
+    "cultural_context": "'Jhaatu' (pubic hair person) = worthless person. 'Meri jhaat barabar bhi nahi' = Not even equal to my pubic hair (utterly worthless). Dismissive rather than angry.",
+    "example_usage": "Jhaatu kahin ka! (Worthless pubes!)",
+    "needs_review": false,
+    "ipa_pronunciation": "dʒʰaːʈ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "भड़वा (bhadwa/bhadua)",
+    "literal_translation": "pimp",
+    "english_equivalent": "pimp",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "occupational"
+    ],
+    "meaning": "Man who sells women; procurer.",
+    "cultural_context": "Serious insult to masculine honor. Implies the man lives off women's sexuality rather than working. 'Bhadwa' attacks the man's role as protector/provider.",
+    "example_usage": "Bhadwa! (You pimp!)",
+    "needs_review": false,
+    "ipa_pronunciation": "bʱəɖʋaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "चमार (chamar)",
+    "literal_translation": "leatherworker (caste name)",
+    "english_equivalent": "untouchable",
+    "severity": 5,
+    "categories": [
+      "caste_slur",
+      "hate_speech",
+      "illegal"
+    ],
+    "meaning": "Member of Dalit leatherworking caste; used as generic insult.",
+    "cultural_context": "EXTREME HATE SPEECH - ILLEGAL IN INDIA. Using this as insult violates Scheduled Castes and Tribes (Prevention of Atrocities) Act. Worse than any sexual profanity. Historical oppression makes this the ultimate taboo word. Can result in arrest.",
+    "example_usage": "NOTE: Hate speech - included for recognition only. Do not use.",
+    "needs_review": false,
+    "ipa_pronunciation": "tʃəmaːɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "भंगी (bhangi)",
+    "literal_translation": "sanitation worker (caste name)",
+    "english_equivalent": "untouchable / cleaner",
+    "severity": 5,
+    "categories": [
+      "caste_slur",
+      "hate_speech",
+      "illegal"
+    ],
+    "meaning": "Dalit caste associated with manual scavenging; used as 'dirty' insult.",
+    "cultural_context": "EXTREME HATE SPEECH. Using 'bhangi' as insult is criminal offense in India. Represents centuries of caste oppression. Absolutely forbidden in any context.",
+    "example_usage": "NOTE: Criminal hate speech under Indian law",
+    "needs_review": false,
+    "ipa_pronunciation": "bʱəŋɡiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "साला (saala)",
+    "literal_translation": "wife's brother / brother-in-law",
+    "english_equivalent": "bastard / scoundrel",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "familial",
+      "mild"
+    ],
+    "meaning": "Brother-in-law; used as mild insult implying illicit relations with one's own sister.",
+    "cultural_context": "Complex term. Literally means wife's brother, but 'saala' implies 'I have sexual relations with your sister (therefore you are my brother-in-law).' Mild enough for Bollywood films ('Saala, main toh idhar hoon!' = Damn, I'm right here!). Can be affectionate.",
+    "example_usage": "Saala, hat ja! (Damn/Move aside, brother-in-law!)",
+    "needs_review": false,
+    "ipa_pronunciation": "saːlaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "साली (saali)",
+    "literal_translation": "wife's sister / sister-in-law",
+    "english_equivalent": "bitch / sister-in-law",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "familial",
+      "mild"
+    ],
+    "meaning": "Sister-in-law; similar to saala but gendered.",
+    "cultural_context": "Less common than 'saala.' Can imply sexual interest in wife's sister. Mild insult.",
+    "example_usage": "Saali! (Sister-in-law/bitch)",
+    "needs_review": false,
+    "ipa_pronunciation": "saːliː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "कुत्ता (kutta)",
+    "literal_translation": "dog",
+    "english_equivalent": "dog / cur",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "animal"
+    ],
+    "meaning": "Dog; implies low status or treachery.",
+    "cultural_context": "Common animal insult. 'Kutte ki aulad' (son of a dog), 'Kutti' (bitch). Less severe than English 'bitch' when used for women; more about low status than sexuality.",
+    "example_usage": "Kutte! (You dog!)",
+    "needs_review": false,
+    "ipa_pronunciation": "kʊt̪t̪aː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "कुतिया (kutiya)",
+    "literal_translation": "bitch (female dog)",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "animal",
+      "gendered"
+    ],
+    "meaning": "Female dog; strong insult for women.",
+    "cultural_context": "Stronger than English 'bitch.' Implies both promiscuity and low birth. 'Kutiya' is fighting word when directed at women.",
+    "example_usage": "Kutiya! (Bitch!)",
+    "needs_review": false,
+    "ipa_pronunciation": "kʊt̪ɪjaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "सुअर (suar)",
+    "literal_translation": "pig",
+    "english_equivalent": "pig / swine",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "animal",
+      "religious_sensitivity"
+    ],
+    "meaning": "Pig; filthy animal.",
+    "cultural_context": "Dangerous to use against Muslims (pork taboo) or as communal insult. Generally implies gluttony or filth. 'Suar ki aulad' (son of a pig).",
+    "example_usage": "Suar! (Pig!)",
+    "needs_review": false,
+    "ipa_pronunciation": "sʊər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "गधा (gadha)",
+    "literal_translation": "donkey / ass",
+    "english_equivalent": "donkey / ass / idiot",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "animal",
+      "intelligence"
+    ],
+    "meaning": "Donkey; stupid person.",
+    "cultural_context": "Mild insult for stupidity. Child-safe. 'Gadhe ki aulad' (son of a donkey).",
+    "example_usage": "Gadha! (Donkey/Ass!)",
+    "needs_review": false,
+    "ipa_pronunciation": "gəd̪ʱaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "उल्लू (ullu)",
+    "literal_translation": "owl",
+    "english_equivalent": "fool / idiot",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "animal",
+      "intelligence"
+    ],
+    "meaning": "Owl; fool (owls symbolize foolishness in Indian culture, unlike Western wisdom).",
+    "cultural_context": "Gentle insult. 'Ullu ka pattha' (son of an owl = idiot). Used in children's scolding and playful adult banter.",
+    "example_usage": "Ullu hai tu! (You are an owl/fool!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ʊlluː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "बेवकूफ (bewakoof)",
+    "literal_translation": "without brain / foolish",
+    "english_equivalent": "fool / idiot / stupid",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "intelligence"
+    ],
+    "meaning": "Foolish person; lacking intelligence.",
+    "cultural_context": "Standard non-vulgar insult. Acceptable in most contexts. 'Bewakoofi' = foolishness.",
+    "example_usage": "Bewakoof! (Fool!)",
+    "needs_review": false,
+    "ipa_pronunciation": "beːʋaːkuːf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "गधालंड (gadhalund)",
+    "literal_translation": "donkey-penis",
+    "english_equivalent": "donkey-dick",
+    "severity": 3,
+    "categories": [
+      "compound",
+      "animal",
+      "anatomical"
+    ],
+    "meaning": "Compound insult combining animal and anatomy.",
+    "cultural_context": "Creative compound combining 'gadha' (donkey) and 'lund' (penis). Implies the person has a large but useless penis (donkey's traits). Humiliating rather than angry.",
+    "example_usage": "Gadhalund! (Donkey-dick!)",
+    "needs_review": false,
+    "ipa_pronunciation": "gəd̪ʱaːlʊɳɖ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "चरसी (charsi)",
+    "literal_translation": "hashish-eater / opium addict",
+    "english_equivalent": "pothead / junkie / stoner",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "drug_use",
+      "behavioral"
+    ],
+    "meaning": "Drug addict; specifically cannabis/opium user.",
+    "cultural_context": "Attacks character through drug use implication. 'Charas' = hashish. Can be playful among drug users but serious accusation otherwise.",
+    "example_usage": "Charsi! (Pothead!)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʃəɾsiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "दलाल (dalal)",
+    "literal_translation": "broker / middleman / pimp",
+    "english_equivalent": "pimp / broker / agent",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "occupational"
+    ],
+    "meaning": "Middleman; profiteer; pimp.",
+    "cultural_context": "Accuses someone of being a parasitic middleman or pimp. Common in political discourse ('dalali' = brokering). Professional insult rather than personal.",
+    "example_usage": "Dalal hai tu! (You are a pimp/broker!)",
+    "needs_review": false,
+    "ipa_pronunciation": "d̪əlaːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "पाजी (paaji)",
+    "literal_translation": "honorable brother (ironic)",
+    "english_equivalent": "buddy / brother (ironic) / mister",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "ironic",
+      "sarcastic"
+    ],
+    "meaning": "Respectful term 'ji' applied to 'pa' (brother); used sarcastically.",
+    "cultural_context": "Punjabi influence. Can be genuine respect or heavy sarcasm depending on tone. 'O paaji!' can mean 'Hey brother!' or 'Hey asshole!'",
+    "example_usage": "Paaji, side ho jao (Brother/Mister, move aside)",
+    "needs_review": false,
+    "ipa_pronunciation": "paːdʒiː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "पेशाब (peshaab)",
+    "literal_translation": "urine",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "bodily_functions",
+      "scatological"
+    ],
+    "meaning": "Urine; used in scatological insults.",
+    "cultural_context": "Medical/scientific term but used vulgarly. 'Peshab karna' = to urinate. Less severe than 'hag' (shit).",
+    "example_usage": "Peshab peeta hai kya? (Do you drink piss? - insulting)",
+    "needs_review": false,
+    "ipa_pronunciation": "peːʃaːb",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "हग (hag)",
+    "literal_translation": "shit / defecation",
+    "english_equivalent": "shit / crap",
+    "severity": 3,
+    "categories": [
+      "bodily_functions",
+      "scatological",
+      "verb"
+    ],
+    "meaning": "To defecate; feces.",
+    "cultural_context": "Vulgar term for defecation. 'Haggu' (shitter), 'Hag diya' (shat oneself - messed up). 'Hag deta hai' = talks nonsense (literally 'shits out words').",
+    "example_usage": "Haggu! (Shitter!) / Hag diya tu ne! (You messed up!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ɦəg",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "टट्टे (tatte)",
+    "literal_translation": "testicles / balls",
+    "english_equivalent": "balls / nuts",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "masculine"
+    ],
+    "meaning": "Testicles; used in masculine insults.",
+    "cultural_context": "Masculine challenge. 'Tatte chat' (lick my balls), 'Tatte thande ho gaye' (got cold balls = got scared). 'Tattu' (ball-less) = coward.",
+    "example_usage": "Tatte nahi hain kya? (Don't you have balls?)",
+    "needs_review": false,
+    "ipa_pronunciation": "ʈəʈʈeː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "बकचोद (bakchod)",
+    "literal_translation": "bullshit-fucker / nonsense-doer",
+    "english_equivalent": "bullshitter / nonsense talker",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "behavioral",
+      "modern"
+    ],
+    "meaning": "Person who talks nonsense; engages in 'bakchodi' (bullshitting).",
+    "cultural_context": "Modern slang popularized by internet culture. 'Bakchodi' = bullshit activity. 'Bakchod' is almost affectionate among male friends. Describes time-wasting or nonsense talk.",
+    "example_usage": "Bakchod mat kar! (Don't bullshit!)",
+    "needs_review": false,
+    "ipa_pronunciation": "bək tʃoːd",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "बेवड़ा (bevda/bewda)",
+    "literal_translation": "drunkard / alcoholic",
+    "english_equivalent": "drunk / alcoholic / lush",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "alcohol",
+      "behavioral"
+    ],
+    "meaning": "Habitual drunkard.",
+    "cultural_context": "Social stigma against alcohol in conservative India. 'Bevda' implies moral weakness. Less severe than drug-related 'charsi.'",
+    "example_usage": "Bevde! (You drunkard!)",
+    "needs_review": false,
+    "ipa_pronunciation": "beːʋɖaː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "मूत (moot)",
+    "literal_translation": "urine",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "bodily_functions",
+      "scatological"
+    ],
+    "meaning": "Urine; vulgar term.",
+    "cultural_context": "Synonym of 'peshaab' but more vulgar. 'Moot diya' = pissed oneself (also messed up).",
+    "needs_review": false,
+    "ipa_pronunciation": "muːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "गोटे (gote)",
+    "literal_translation": "testicles",
+    "english_equivalent": "balls / nuts",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "masculine",
+      "synonym"
+    ],
+    "meaning": "Testicles; synonym of 'tatte.'",
+    "cultural_context": "Same usage as 'tatte.' Regional variation in anatomical slang.",
+    "example_usage": "Gote nahi hain? (No balls?)",
+    "needs_review": false,
+    "ipa_pronunciation": "goːʈeː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "चूचे (chooche)",
+    "literal_translation": "nipples / teats",
+    "english_equivalent": "tits / nipples",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "gendered"
+    ],
+    "meaning": "Nipples; used to infantilize or demean.",
+    "cultural_context": "Infantile term for breasts/nipples. Using this as insult implies the person is breastfeeding/dependent like a baby, or reduces women to breasts.",
+    "example_usage": "Chooche jaise kyun behave kar raha hai? (Why are you behaving like nipples? - nonsensical/idiotic)",
+    "needs_review": false,
+    "ipa_pronunciation": "tʃuːtʃeː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "फट्टू (fattu)",
+    "literal_translation": "torn / ripped / scared",
+    "english_equivalent": "coward / pussy / scaredy-cat",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "cowardice"
+    ],
+    "meaning": "Coward; literally 'torn/ripped' implying fear has torn their courage.",
+    "cultural_context": "Youth slang for coward. 'Fattu hai tu!' (You are a coward!). Less vulgar than 'gandu.'",
+    "needs_review": false,
+    "ipa_pronunciation": "fəʈʈuː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  }
+]

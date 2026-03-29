@@ -1,0 +1,1666 @@
+[
+  {
+    "word": "kanker",
+    "literal_translation": "cancer",
+    "english_equivalent": "fucking (intensifier) / worst disease",
+    "severity": 5,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The ultimate taboo word in Dutch. Used as a curse, an insult ('kankerhond'), or as a profound intensifier ('kankergoed' = fucking great).",
+    "cultural_context": "Extremely offensive because cancer affects so many families. Using it in public (especially around elders) is deeply frowned upon and can lead to physical altercations or police fines. Despite this, it's ubiquitous in youth slang.",
+    "example_usage": "Kanker op! (Fuck off! / Cancer off!)",
+    "ipa_pronunciation": "ˈkɑŋ.kər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tyfus",
+    "literal_translation": "typhus",
+    "english_equivalent": "fucking / damn",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Typhus. Used to wish a terrible disease on someone or to complain about a severe problem ('tyfusweer' = typhus weather / shitty weather).",
+    "cultural_context": "A classic historical disease curse. Less taboo than 'kanker', but still highly vulgar and unacceptable in formal settings.",
+    "example_usage": "Krijg de tyfus! (Get typhus! / Drop dead!)",
+    "ipa_pronunciation": "ˈti.fʏs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tering",
+    "literal_translation": "tuberculosis",
+    "english_equivalent": "fucking / damn it",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Tuberculosis (phthisis). Used frequently as an exclamation indicating surprise, pain, or as an intensifier.",
+    "cultural_context": "Has lost much of its medical taboo compared to cancer, making it a very common exclamation (e.g., 'Krijg de tering!' = Fuck off / Get tuberculosis).",
+    "example_usage": "Tering, dat doet pijn! (Fuck, that hurts!)",
+    "ipa_pronunciation": "ˈteː.rɪŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "klere",
+    "literal_translation": "cholera",
+    "english_equivalent": "fucking / shitty",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Cholera (spelled chronologically as kolera/klere). Used predominantly as an adjective/prefix to mean annoying or bothersome.",
+    "cultural_context": "Very mild compared to other disease curses. Used casually by adults ('klerezooi' = cholera mess / fucking mess).",
+    "example_usage": "Wat een klereweer. (What shitty/cholera weather.)",
+    "ipa_pronunciation": "ˈkleː.rə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kut",
+    "literal_translation": "cunt / vagina",
+    "english_equivalent": "shit / fuck / cunt",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "Female genitalia. The most common exclamation for when things go wrong.",
+    "cultural_context": "Functions exactly like 'shit' or 'fuck' in English when stubbing a toe. Also used as a prefix to mean bad ('kutauto' = shitty car). Less offensive than the English 'cunt'.",
+    "example_usage": "Kut! Ik ben mijn sleutels vergeten. (Shit! I forgot my keys.)",
+    "ipa_pronunciation": "kʏt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lul",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / prick",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Male genitalia. Used to call a man a jerk or an idiot.",
+    "cultural_context": "Very common insult for bad drivers or annoying people. 'Lullen' as a verb means to talk nonsense or chat.",
+    "example_usage": "Wat een lul ben jij. (What a dick you are.)",
+    "ipa_pronunciation": "lʏl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "klootzak",
+    "literal_translation": "ball sack",
+    "english_equivalent": "asshole / bastard / scumbag",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Scrotum. The standard strong insult for an obnoxious or mean man.",
+    "cultural_context": "Universally understood and frequently used. Arguably the most common personal insult for adult males in the Netherlands.",
+    "example_usage": "Vuile klootzak! (Dirty asshole!)",
+    "ipa_pronunciation": "ˈkloːt.sɑk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "godverdomme",
+    "literal_translation": "God damn me",
+    "english_equivalent": "goddammit",
+    "severity": 3,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "The classic religious curse, invoking God to damn the speaker.",
+    "cultural_context": "Historically the most offensive word in the deeply Protestant Netherlands, but today it is common and secularized. Still forbidden in devoutly Christian areas (the Bible Belt).",
+    "example_usage": "Godverdomme, het regent weer. (Goddammit, it's raining again.)",
+    "ipa_pronunciation": "ˌɣɔt.fərˈdɔ.mə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "teringlijer",
+    "literal_translation": "tuberculosis sufferer",
+    "english_equivalent": "motherfucker / bastard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person suffering from tuberculosis. Used to describe a deeply terrible or malicious person.",
+    "cultural_context": "A classic Dutch insult structure: combining a deadly illness with 'lijer' (sufferer). Very harsh.",
+    "example_usage": "Die teringlijer heeft mijn fiets gestolen. (That motherfucker stole my bike.)",
+    "ipa_pronunciation": "ˈteː.rɪŋˌlɛi̯.ər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kankerlijer",
+    "literal_translation": "cancer sufferer",
+    "english_equivalent": "piece of shit / worst bastard",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person suffering from cancer.",
+    "cultural_context": "EXTREMELY offensive. One of the worst personal insults you can hurl at someone. Likely to instigate severe violence.",
+    "example_usage": "Sterf, kankerlijer! (Die, you cancer-sufferer!)",
+    "ipa_pronunciation": "ˈkɑŋ.kərˌlɛi̯.ər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hoer",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / bitch",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Direct literal term for prostitute. Used heavily as a slur against women.",
+    "cultural_context": "Also used as a prefix to mean 'terrible' or 'fucking' ('hoerenweer' = whore weather / terrible weather).",
+    "example_usage": "Ze is een vuile hoer. (She's a dirty whore.)",
+    "ipa_pronunciation": "ɦuːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kankerhoer",
+    "literal_translation": "cancer whore",
+    "english_equivalent": "fucking bitch / worst kind of whore",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A combination of the worst disease prefix and a sexual insult.",
+    "cultural_context": "An absolutely nuclear insult directed at a woman. Intended to inflict maximum emotional damage.",
+    "example_usage": "Houd je bek, kankerhoer. (Shut your mouth, cancer-whore.)",
+    "ipa_pronunciation": "ˈkɑŋ.kərˌɦuːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "slet",
+    "literal_translation": "slut",
+    "english_equivalent": "slut / tramp",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A sexually promiscuous woman.",
+    "cultural_context": "Frequent insult among youths. Also used jokingly between close female friends, but offensive when used maliciously.",
+    "example_usage": "Wat een slet is zij. (What a slut she is.)",
+    "ipa_pronunciation": "slɛt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "flikker",
+    "literal_translation": "faggot",
+    "english_equivalent": "faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Homophobic slur for a gay man.",
+    "cultural_context": "Highly offensive hate speech. The verb 'opflikkeren' (to fuck off) derives from this but is divorced from the homophobic roots in daily use.",
+    "example_usage": "Vuile flikker! (Dirty faggot!)",
+    "ipa_pronunciation": "ˈflɪk.ər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "homo",
+    "literal_translation": "homosexual",
+    "english_equivalent": "gay / faggot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Technically the neutral word for homosexual, but heavily weaponized by youths as a general insult for cowardice or stupidity.",
+    "cultural_context": "Despite the Netherlands' progressive stance on LGBTQ issues, 'homo' remains an incredibly common schoolyard insult.",
+    "example_usage": "Doe niet zo homo. (Don't act so gay.)",
+    "ipa_pronunciation": "ˈɦoː.moː",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "klootwijf",
+    "literal_translation": "ball-sack woman",
+    "english_equivalent": "bitch / annoying woman",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The female equivalent of 'klootzak', combining 'kloot' (scrotum) and 'wijf' (wife/broad).",
+    "cultural_context": "An aggressive, somewhat contradictory biological insult aimed at obnoxious women.",
+    "example_usage": "Wat een klootwijf. (What a bitch.)",
+    "ipa_pronunciation": "ˈkloːt.wɛi̯f",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pannenkoek",
+    "literal_translation": "pancake",
+    "english_equivalent": "idiot / dummy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A soft, flat food. Used to describe someone who is being silly, foolish, or clumsy.",
+    "cultural_context": "A very well-known 'clean' insult. Often shouted by parents or coaches at kids who make a dumb mistake.",
+    "example_usage": "Wat doe je nou, pannenkoek? (What are you doing now, you pancake?)",
+    "ipa_pronunciation": "ˈpɑ.nəˌkuːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sukkel",
+    "literal_translation": "loser / dummy",
+    "english_equivalent": "loser / idiot / dork",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A clumsy, naive, or slightly stupid person.",
+    "cultural_context": "Mild insult. Can be affectionate or dismissive.",
+    "example_usage": "Je bent echt een sukkel. (You're a real dummy/loser.)",
+    "ipa_pronunciation": "ˈsʏ.kəl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "debiel",
+    "literal_translation": "moron / retarded",
+    "english_equivalent": "retard / imbecile",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically a medical term for mentally deficient, now a standard insult for supreme stupidity.",
+    "cultural_context": "Commonly used. Less severe than its English counterpart 'retard', but operates on the same premise.",
+    "example_usage": "Ben je helemaal debiel? (Are you completely retarded?)",
+    "ipa_pronunciation": "dəˈbiːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idioot",
+    "literal_translation": "idiot",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is acting completely irrationally or stupidly.",
+    "cultural_context": "Standard European insult. Safe for TV but insulting in person.",
+    "example_usage": "Rij toch door, idioot! (Keep driving, idiot!)",
+    "ipa_pronunciation": "ˌi.diˈoːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mongool",
+    "literal_translation": "Mongol (Down syndrome)",
+    "english_equivalent": "retard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically used to describe someone with Down syndrome. Now a severe insult for a stupid person.",
+    "cultural_context": "Highly offensive capableist language. Has sparked diplomatic incidents when used by politicians, but remains prevalent in street slang.",
+    "example_usage": "Wat ben jij een mongool. (What a retard you are.)",
+    "ipa_pronunciation": "mɔŋˈɣoːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kak",
+    "literal_translation": "crap / feces",
+    "english_equivalent": "crap / darn",
+    "severity": 1,
+    "categories": [
+      "scatological",
+      "exclamation"
+    ],
+    "meaning": "A softer version of shit. Used exactly like 'crap' in English.",
+    "cultural_context": "Child-friendly or polite society exclamation for dropping something.",
+    "example_usage": "Kak, ik ben mijn portemonnee vergeten. (Crap, I forgot my wallet.)",
+    "ipa_pronunciation": "kɑk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "stront",
+    "literal_translation": "shit / turd",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces. Used to describe something worthless or as a prefix for an annoying person.",
+    "cultural_context": "Used in phrases like 'strontvervelend' (shit-annoying) or 'strontzat' (shit-drunk).",
+    "example_usage": "Ik ben er strontziek van. (I'm sick to shit of it.)",
+    "ipa_pronunciation": "strɔnt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zeik",
+    "literal_translation": "piss",
+    "english_equivalent": "piss / whining",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Urine. The verb 'zeiken' means to whine or complain endlessly.",
+    "cultural_context": "A crucial concept in Dutch culture: 'Stop met zeiken' (stop whining/bitching).",
+    "example_usage": "Zit niet zo te zeiken. (Stop your endless bitching/whining.)",
+    "ipa_pronunciation": "zɛi̯k",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zeikerd",
+    "literal_translation": "pisser / whiner",
+    "english_equivalent": "whiner / crybaby / bitch",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person who complains constantly about minor things.",
+    "cultural_context": "Because the Dutch value directness, complaining passively is highly discouraged. A 'zeikerd' is very annoying to them.",
+    "example_usage": "Wat een zeikerd ben jij. (What a whiner you are.)",
+    "ipa_pronunciation": "ˈzɛi̯.kərt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "smeerlap",
+    "literal_translation": "smear/grease cloth",
+    "english_equivalent": "scumbag / creep / dirty bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person completely lacking in morals, a cheat, or sexually creepy person.",
+    "cultural_context": "A fairly old-fashioned but intense insult for a man who is dirty either physically or morally.",
+    "example_usage": "Vuile smeerlap! (Dirty scumbag!)",
+    "ipa_pronunciation": "ˈsmeːr.lɑp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hufter",
+    "literal_translation": "bastard / hooligan",
+    "english_equivalent": "jerk / prick",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is incredibly rude, antisocial, and selfish.",
+    "cultural_context": "A 'hufter' parked his car across two handicapped spots and threw garbage out the window. Highly anti-social behavior.",
+    "example_usage": "Die asociale hufter. (That antisocial jerk.)",
+    "ipa_pronunciation": "ˈɦʏf.tər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "klootviool",
+    "literal_translation": "testicle violin",
+    "english_equivalent": "fucking idiot / dumbass",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A creative, slightly comical insult for someone acting stupidly.",
+    "cultural_context": "Sounds harsh but is often used playfully between friends due to its sheer absurdity.",
+    "example_usage": "Kijk uit, klootviool! (Watch out, you testicle violin!)",
+    "ipa_pronunciation": "ˈkloːt.fiˌoːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "trut",
+    "literal_translation": "cow / silly woman",
+    "english_equivalent": "bitch / cow / annoying woman",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A boring, annoying, or slightly stupid older woman.",
+    "cultural_context": "Less severe than 'hoer' or 'klootwijf'. It's the Dutch equivalent of calling an older woman an annoying cow or old hag.",
+    "example_usage": "Stomme trut. (Stupid cow/bitch.)",
+    "ipa_pronunciation": "trʏt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bitch",
+    "literal_translation": "bitch (English loanword)",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Borrowed directly from English to mean a mean, catty girl.",
+    "cultural_context": "Extremely common among Dutch youth. Pronounced exactly as in English.",
+    "example_usage": "Wat een bitch is dat. (What a bitch she is.)",
+    "ipa_pronunciation": "bɪt͡ʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fuck",
+    "literal_translation": "fuck (English loanword)",
+    "english_equivalent": "fuck",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Borrowed from English. Used as an exclamation of surprise or failure.",
+    "cultural_context": "Because it's foreign, 'fuck' doesn't carry the extreme taboo in the Netherlands that it does in the US. It's used on daytime TV completely uncensored.",
+    "example_usage": "Ah fuck, vergeten! (Ah fuck, I forgot!)",
+    "ipa_pronunciation": "fʏk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shit",
+    "literal_translation": "shit (English loanword)",
+    "english_equivalent": "shit",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The ultimate normalized loanword for 'oops'.",
+    "cultural_context": "So normalized that grandmothers and kindergarten teachers use it. Zero shock value in the Netherlands.",
+    "example_usage": "Shit happens.",
+    "ipa_pronunciation": "ʃɪt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mof",
+    "literal_translation": "muff/sleeve",
+    "english_equivalent": "kraut (derogatory term for a German)",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A deeply offensive slur for a German person.",
+    "cultural_context": "Originated during WWII. It is considered extremely rude and xenophobic to call a German tourist a 'mof'.",
+    "example_usage": "Die rotmoffen! (Those damn Krauts!)",
+    "ipa_pronunciation": "mɔf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kaaskop",
+    "literal_translation": "cheese head",
+    "english_equivalent": "cheese head (derogatory term for a Dutch person)",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A derogatory slang for a native white Dutch person.",
+    "cultural_context": "Often used by immigrants or in rap music to refer to stereotypical native Dutch people. Surprisingly mild; many Dutch wear it as a badge of pride.",
+    "example_usage": "Typisch kaaskop gedrag. (Typical cheese-head behavior.)",
+    "ipa_pronunciation": "ˈkaːs.kɔp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "opkankeren",
+    "literal_translation": "to cancer upwards/away",
+    "english_equivalent": "to fuck off / piss off and die",
+    "severity": 5,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A verb meaning to leave immediately, heavily intensified by 'cancer'.",
+    "cultural_context": "The absolute most aggressive way to tell someone to leave in the Dutch language. Used in severe street fights.",
+    "example_usage": "Je moet nu opkankeren! (You need to fuck off right fucking now!)",
+    "ipa_pronunciation": "ˈɔpˌkɑŋ.kə.rən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "optyfen",
+    "literal_translation": "to typhus upwards/away",
+    "english_equivalent": "to fuck off",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Another disease-based verb command meaning 'get lost'.",
+    "cultural_context": "Slightly less nuclear than 'opkankeren', but still highly vulgar.",
+    "example_usage": "Tyf op! (Fuck off!)",
+    "ipa_pronunciation": "ˈɔpˌti.fən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "opsodemieteren",
+    "literal_translation": "to sodomize upwards/away",
+    "english_equivalent": "bugger off / fuck off",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Command to leave. Derived from Gomorrah and Sodom (sodomy).",
+    "cultural_context": "An older, slightly cartoonish way of aggressively telling someone to leave. Often used by angry older men.",
+    "example_usage": "Sodemieter op! (Bugger off!)",
+    "ipa_pronunciation": "ˈɔp.soː.dəˌmi.tə.rən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "oprotten",
+    "literal_translation": "to rot upwards/away",
+    "english_equivalent": "piss off / bugger off",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Telling someone to leave, derived from 'rotting'.",
+    "cultural_context": "The standard, common aggressive 'go away'. Not technically a swear word, but hostile.",
+    "example_usage": "Rot op! (Piss off!)",
+    "ipa_pronunciation": "ˈɔpˌrɔ.tən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pleuris",
+    "literal_translation": "pleurisy",
+    "english_equivalent": "fucking / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Pleurisy. Another vintage disease used as an exclamation or intensifier.",
+    "cultural_context": "'Krijg de pleuris' (Get pleurisy) means go to hell. A 'pleurishekel' means a deep, fucking hatred for something.",
+    "example_usage": "Ik heb een pleurishekel aan hem. (I have a fucking hatred for him.)",
+    "ipa_pronunciation": "ˈpløː.rɪs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kolere",
+    "literal_translation": "cholera (variant)",
+    "english_equivalent": "goddamn",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A phonetic variant of klere (cholera).",
+    "cultural_context": "Often yelled when hitting a thumb with a hammer.",
+    "example_usage": "Krijg nou de kolere! (Well get cholera now! / I'll be damned!)",
+    "ipa_pronunciation": "koːˈleː.rə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hoerenzoon",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch / motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A direct translation of 'son of a bitch'.",
+    "cultural_context": "Very hostile. In Dutch multicultural cities, this is often mixed with Arabic or Turkish slurs for the same meaning, but the Dutch version hits hard.",
+    "example_usage": "Jij bent een hoerenzoon. (You are a son of a bitch.)",
+    "ipa_pronunciation": "ˈɦuː.rə(n)ˌzoːn",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "schaamhaar",
+    "literal_translation": "pubic hair",
+    "english_equivalent": "twat / useless idiot",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Literally pubic hair. Used to call someone entirely insignificant and annoying.",
+    "cultural_context": "A somewhat childish but funny insult meant to belittle someone entirely.",
+    "example_usage": "Zwijg, schaamhaar. (Silence, pubic hair.)",
+    "ipa_pronunciation": "ˈsxaːm.ɦaːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eikel",
+    "literal_translation": "acorn / glans",
+    "english_equivalent": "dickhead",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Literally means acorn, but anatomically refers to the tip of a penis (glans).",
+    "cultural_context": "A very common, slightly milder insult for an annoying man. Equivalent to calling someone a 'jerk' or 'dickhead'.",
+    "example_usage": "Die vent is een echte eikel. (That guy is a real dickhead.)",
+    "ipa_pronunciation": "ˈɛi̯.kəl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pikkie",
+    "literal_translation": "little dick",
+    "english_equivalent": "little prick",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Diminutive of 'pik' (dick).",
+    "cultural_context": "Used to belittle a man, especially a young man trying to act tough.",
+    "example_usage": "Kijk uit, pikkie. (Watch out, little prick.)",
+    "ipa_pronunciation": "ˈpɪ.ki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kutzooi",
+    "literal_translation": "cunt mess",
+    "english_equivalent": "fucking mess / total bullshit",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Describes a terribly disorganized situation, bad weather, or a broken item.",
+    "cultural_context": "One of the most satisfying words to yell when your bicycle chain breaks in the rain.",
+    "example_usage": "Wat een kutzooi! (What a fucking mess!)",
+    "ipa_pronunciation": "ˈkʏt.soːi̯",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kutwijf",
+    "literal_translation": "cunt woman",
+    "english_equivalent": "fucking bitch / cunt",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A deeply offensive slur for a despised woman.",
+    "cultural_context": "Much stronger than 'klootwijf'. Truly means you hate the woman you are talking to.",
+    "example_usage": "Dat vieze kutwijf. (That dirty cunt.)",
+    "ipa_pronunciation": "ˈkʏt.wɛi̯f",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kuthond",
+    "literal_translation": "cunt dog",
+    "english_equivalent": "shitty dog / fucking bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally a shitty dog. Can be applied to a misbehaving pet or a human.",
+    "cultural_context": "Dutch people love compounding 'kut' with nouns. 'Kutkind' (cunt-child) and 'kuthond' are prime examples.",
+    "example_usage": "Hou die kuthond bij je. (Keep that fucking dog to yourself.)",
+    "ipa_pronunciation": "ˈkʏt.ɦɔnt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kankerjong",
+    "literal_translation": "cancer boy",
+    "english_equivalent": "cancerous little shit",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child or young male afflicted with cancer (as a curse).",
+    "cultural_context": "Used by furious adults or youths toward misbehaving teenagers. Extreme severity.",
+    "example_usage": "Rot op, kankerjong! (Fuck off, you cancerous little shit!)",
+    "ipa_pronunciation": "ˈkɑŋ.kərˌjɔŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "takkewijf",
+    "literal_translation": "branch woman",
+    "english_equivalent": "old hag / bitch",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A milder, somewhat old-fashioned insult for a bitter, annoying older woman.",
+    "cultural_context": "'Takke' comes from stroke/apoplexy originally (taking), but sounds like branches. Mild enough for standard television.",
+    "example_usage": "Wat een takkewijf is mijn buurvrouw. (My neighbor is such a hag.)",
+    "ipa_pronunciation": "ˈtɑ.kəˌwɛi̯f",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pokkeweer",
+    "literal_translation": "pox weather",
+    "english_equivalent": "shitty weather",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Weather that gives you smallpox (terrible weather).",
+    "cultural_context": "The Dutch complain about the rain constantly. 'Pokkeweer' is the standard descriptor for a gray, rainy Tuesday.",
+    "example_usage": "Het is weer pokkeweer. (It's pox/shitty weather again.)",
+    "ipa_pronunciation": "ˈpɔ.kəˌweːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "snotaap",
+    "literal_translation": "snot monkey",
+    "english_equivalent": "little brat / snot-nosed kid",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An annoying, disrespectful child.",
+    "cultural_context": "Very mild. Used by grandfathers jokingly or when scolding a child.",
+    "example_usage": "Luister naar me, snotaap. (Listen to me, you snot monkey.)",
+    "ipa_pronunciation": "ˈsnɔt.aːp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zakkenwasser",
+    "literal_translation": "sack washer",
+    "english_equivalent": "scrotum washer / loser / idiot",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone whose job is supposedly to wash scrotums. An absolute loser.",
+    "cultural_context": "A classic, distinctively Dutch comedic insult. Very popular in 1980s and 1990s TV.",
+    "example_usage": "Rij door, zakkenwasser! (Drive on, you sack-washer!)",
+    "ipa_pronunciation": "ˈzɑ.kə(n)ˌʋɑ.sər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lulletje rozenwater",
+    "literal_translation": "little dick of rosewater",
+    "english_equivalent": "wimp / softy",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A man who is extremely soft, weak, or effeminate.",
+    "cultural_context": "A beautifully poetic yet completely emasculating insult. Implies the man smells nice but has no spine.",
+    "example_usage": "Hij is een echt lulletje rozenwater. (He's a real soft little prick.)",
+    "ipa_pronunciation": "ˈlʏ.lə.cə ˈroː.zə(n)ˌʋaː.tər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "naaien",
+    "literal_translation": "to sew",
+    "english_equivalent": "to fuck / to screw over",
+    "severity": 2,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To copulate or to scam/screw someone over financially.",
+    "cultural_context": "Used identically to English 'He screwed me'. 'Ik ben genaaid' means 'I've been screwed over'.",
+    "example_usage": "Ik ben keihard genaaid door de baas. (I was screwed over hard by the boss.)",
+    "ipa_pronunciation": "ˈnaː.jən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "neuken",
+    "literal_translation": "to copulate",
+    "english_equivalent": "to fuck",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The literal, explicit Dutch word for sexual intercourse.",
+    "cultural_context": "While it just means exactly 'to fuck', it is less often used as an angry exclamation (unlike English) and mostly reserved for the physical act or specific insults ('ga mieren neuken' = go fuck ants / stop nitpicking).",
+    "example_usage": "Willen we neuken? (Do we want to fuck?)",
+    "ipa_pronunciation": "ˈnøː.kən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mierenneuker",
+    "literal_translation": "ant fucker",
+    "english_equivalent": "nitpicker / pedant",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who obsesses over highly insignificant, useless details.",
+    "cultural_context": "Because fucking an ant is very precise and useless work. A staple phrase in corporate Netherlands.",
+    "example_usage": "Wees niet zo'n mierenneuker. (Don't be such an ant-fucker / nitpicker.)",
+    "ipa_pronunciation": "ˈmiː.rə(n)ˌnøː.kər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "droogkloot",
+    "literal_translation": "dry testicle",
+    "english_equivalent": "boring person / someone with deadpan humor",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A very boring, emotionless person, or someone with extremely dry humor.",
+    "cultural_context": "Can be an insult or a neutral observation of someone's stoic Dutch behavior.",
+    "example_usage": "Mijn leraar is een echte droogkloot. (My teacher is a real dry-ball.)",
+    "ipa_pronunciation": "ˈdroːx.kloːt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hoerensloep",
+    "literal_translation": "whore's sloop (boat)",
+    "english_equivalent": "pimp mobile / overly flashy car",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A large, flashy, usually slightly trashy or overly tuned car.",
+    "cultural_context": "A humorous term to mock young men who drive aggressively in loud, cheap cars trying to impress women.",
+    "example_usage": "Hij rijdt in een enorme hoerensloep. (He drives a massive pimp-mobile.)",
+    "ipa_pronunciation": "ˈɦuː.rə(n)ˌsluːp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "godver de godver",
+    "literal_translation": "goddamn the goddamn",
+    "english_equivalent": "god fucking dammit",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A rhythmic, intensified version of godverdomme.",
+    "cultural_context": "Often yelled when repeatedly failing a task (like assembling IKEA furniture).",
+    "example_usage": "Godver de godver, het past niet! (God fucking dammit, it doesn't fit!)",
+    "ipa_pronunciation": "ˈɣɔt.fər də ˈɣɔt.fər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gloeiende",
+    "literal_translation": "glowing",
+    "english_equivalent": "flaming (curse)",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used as an intensifier, essentially asking for the object to be red-hot.",
+    "cultural_context": "Used in phrases like 'gloeiende godverdomme' (flaming goddamn). Or by itself as a mild curse.",
+    "example_usage": "Gloeiende, gloeiende! (Flaming, flaming! / Darn it!)",
+    "ipa_pronunciation": "ˈɣlu.jən.də",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "krijg de vinkentering",
+    "literal_translation": "get the finch's tuberculosis",
+    "english_equivalent": "get utterly fucked / get the worst disease",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A highly specific, creative disease curse. 'Vinkentering' acts as an intensified version of normal 'tering'.",
+    "cultural_context": "Shows off the Dutch flair for elaborating on diseases.",
+    "example_usage": "Krijg allemaal de vinkentering. (All of you get the finch's tuberculosis.)",
+    "ipa_pronunciation": "krɛi̯x də ˈvɪŋ.kə.teː.rɪŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aars",
+    "literal_translation": "arse",
+    "english_equivalent": "ass",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The anus. Mostly clinical but used in curses.",
+    "cultural_context": "Not very strong on its own, but combined as 'aarsgat' (ass-hole).",
+    "example_usage": "Lik mijn aars! (Lick my arse!)",
+    "ipa_pronunciation": "aːrs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "graftak",
+    "literal_translation": "grave branch",
+    "english_equivalent": "miserable bastard / grim person",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who looks or acts like they belong in a cemetery. A completely joyless person.",
+    "cultural_context": "A uniquely Dutch poetic insult. Describes people who complain and suck the life out of a room.",
+    "example_usage": "Lach eens, oude graftak. (Smile for once, you old grave-branch.)",
+    "ipa_pronunciation": "ˈɣrɑf.tɑk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "schijt",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces. Having 'schijt aan' something means 'I literally shit on it', i.e., I don't care at all.",
+    "cultural_context": "A cornerstone of rebellious Dutch attitude is having 'schijt' at rules.",
+    "example_usage": "Ik heb schijt aan de regels. (I give a shit about / ignore the rules.)",
+    "ipa_pronunciation": "sxɛi̯t",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kakhals",
+    "literal_translation": "shit neck",
+    "english_equivalent": "snob / piece of shit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is arrogant, usually upper-class 'old money' types who speak with a posh accent ('kakker').",
+    "cultural_context": "A derogatory term for rich kids from wealthy suburbs.",
+    "example_usage": "Die kakhals denkt dat hij alles is. (That shit-neck thinks he's everything.)",
+    "ipa_pronunciation": "ˈkɑk.ɦɑls",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "teringzooi",
+    "literal_translation": "tuberculosis mess",
+    "english_equivalent": "fucking mess",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Translates to a disorganized, terrible mess.",
+    "cultural_context": "Equivalent to 'kutzooi', used when entering a teenager's messy bedroom or seeing a badly coded project.",
+    "example_usage": "Ruim deze teringzooi op. (Clean up this tuberculosis mess.)",
+    "ipa_pronunciation": "ˈteː.rɪŋˌzoːi̯",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "flapdrol",
+    "literal_translation": "flap turd",
+    "english_equivalent": "goofball / dummy",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "A goofy idiot.",
+    "cultural_context": "It means turd, but it sounds so incredibly silly that it's barely an insult. Used by teachers or parents constantly.",
+    "example_usage": "Je bent een echte flapdrol. (You're a real goofball.)",
+    "ipa_pronunciation": "ˈflɑp.drɔl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hersenloze",
+    "literal_translation": "brainless one",
+    "english_equivalent": "brainless idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone functioning without a brain.",
+    "cultural_context": "A direct attack on someone's intelligence. Common in traffic arguments.",
+    "example_usage": "Kijk uit, hersenloze! (Watch out, brainless!)",
+    "ipa_pronunciation": "ˈɦɛr.sə(n)ˌloː.zə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "potverdorie",
+    "literal_translation": "pot-darn-it",
+    "english_equivalent": "darn it / gosh darn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A completely sanitized, minced oath version of godverdomme.",
+    "cultural_context": "Ned Flanders-tier cursing. Spoken exclusively by sweet grandmothers, children, and prime ministers trying not to offend voters.",
+    "example_usage": "Potverdorie, het koffiezetapparaat is stuk. (Darn it, the coffee maker is broken.)",
+    "ipa_pronunciation": "ˈpɔt.fər.dɔ.ri",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jezus mina",
+    "literal_translation": "Jesus Wilhelmina",
+    "english_equivalent": "Jesus Christ / Good grief",
+    "severity": 1,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "A mild exclamation combining Jesus with a random name to soften the blasphemy.",
+    "cultural_context": "An expression of shock or fatigue.",
+    "example_usage": "Jezus mina, wat een dag. (Good grief, what a day.)",
+    "ipa_pronunciation": "ˈjeː.zʏs ˈmi.na",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "krijg het zuur",
+    "literal_translation": "get the acid",
+    "english_equivalent": "get heartburn / fuck off",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Wishing extreme gastric acid reflux / heartburn upon an enemy.",
+    "cultural_context": "A uniquely polite yet hostile Dutch curse. Not a deadly disease, just severe discomfort.",
+    "example_usage": "Ach, krijg toch het zuur. (Oh, just go get heartburn.)",
+    "ipa_pronunciation": "krɛi̯x ɦɛt zyːr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "halve zool",
+    "literal_translation": "half sole (of a shoe)",
+    "english_equivalent": "half-wit / dummy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is not quite all there intellectually.",
+    "cultural_context": "A classic analog insult. Shoes with half soles are useless, much like the person.",
+    "example_usage": "Wat een halve zool is hij. (What a half-wit he is.)",
+    "ipa_pronunciation": "ˈɦɑl.və zoːl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "koekwaus",
+    "literal_translation": "cake fool",
+    "english_equivalent": "crazy fool / wacko",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A crazy or incredibly stupid person. Derived from Brabant regional dialect.",
+    "cultural_context": "Often yelled during Carnaval in the south of the Netherlands. Friendly but insulting.",
+    "example_usage": "Grote koekwaus! (Massive wacko!)",
+    "ipa_pronunciation": "ˈkuːk.waːu̯s",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "makaak",
+    "literal_translation": "macaque (monkey)",
+    "english_equivalent": "macaque / slur for North Africans",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A racist slur directed against Moroccan and North African immigrants in the Netherlands and Belgium.",
+    "cultural_context": "HATE SPEECH. An extremely offensive and criminal racial slur.",
+    "example_usage": "[Racist slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "maˈkaːk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kankersnol",
+    "literal_translation": "cancer mare (nag)",
+    "english_equivalent": "fucking ugly slut",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A cancer-ridden old horse (snol), meaning a cheap, ragged prostitute.",
+    "cultural_context": "Combines disease with a highly derogatory classification of a woman. Utterly deplorable language.",
+    "example_usage": "Zwijg, kankersnol. (Silence, cancer-slut.)",
+    "ipa_pronunciation": "ˈkɑŋ.kərˌsnɔl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "graftyfus",
+    "literal_translation": "grave typhus",
+    "english_equivalent": "fucking terrible (worse than typhus)",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Typhus from the grave. A magnified curse designed to sound doubly fatal.",
+    "cultural_context": "Used to describe circumstances or weather that is entirely unredeemable.",
+    "example_usage": "Wat een graftyfus weer. (What fucking grave-typhus weather.)",
+    "ipa_pronunciation": "ˈɣrɑf.ti.fʏs",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "godsgruwelijk",
+    "literal_translation": "god-gruesome",
+    "english_equivalent": "god-awful / intensely",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to indicate that something is intensely bad or intensely annoying.",
+    "cultural_context": "A colorful, slightly poetic enhancement. Can also just mean 'very' (godsgruwelijk duur = god-awful expensive).",
+    "example_usage": "Het was godsgruwelijk saai. (It was god-awfully boring.)",
+    "ipa_pronunciation": "ɣɔtsˈxry.wə.lək",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kuttenkop",
+    "literal_translation": "cunt head",
+    "english_equivalent": "cunt-face",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A person whose face resembles, or possesses the qualities of, a vagina.",
+    "cultural_context": "An aggressive, hostile word. Equivalent to 'cunt face' in English.",
+    "example_usage": "Kijk dan, kuttenkop. (Look here, cunt-face.)",
+    "ipa_pronunciation": "ˈkʏ.tə(n)ˌkɔp",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zeiksnor",
+    "literal_translation": "piss mustache",
+    "english_equivalent": "whining old man",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "An older man who constantly complains (literally: his mustache is soaked in whine/urine).",
+    "cultural_context": "A brilliantly descriptive insult for a grumpy, pedantic baby boomer.",
+    "example_usage": "Luister niet naar die oude zeiksnor. (Don't listen to that old piss-mustache / whiner.)",
+    "ipa_pronunciation": "ˈzɛi̯k.snɔr",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "schoft",
+    "literal_translation": "brute",
+    "english_equivalent": "scoundrel / brute",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A man entirely devoid of manners or ethics. A cruel bastard.",
+    "cultural_context": "Slightly formal but severe moral condemnation. Used for criminals, abusers, or terrible politicians.",
+    "example_usage": "Die gast is een gewetenloze schoft. (That guy is a ruthless brute.)",
+    "ipa_pronunciation": "sxɔft",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pijpen",
+    "literal_translation": "to pipe",
+    "english_equivalent": "to give a blowjob",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The standard vulgar verb for performing fellatio.",
+    "cultural_context": "Commonly used in juvenile jokes and insults. 'Pijp me' = Blow me.",
+    "example_usage": "Pijp me, lul. (Blow me, dick.)",
+    "ipa_pronunciation": "ˈpɛi̯.pən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rukker",
+    "literal_translation": "yanker",
+    "english_equivalent": "wanker / jerk/ tosser",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A man who masturbates ('rukken'). A wanker.",
+    "cultural_context": "Practically identical to British 'wanker'. A standard vehicular insult.",
+    "example_usage": "Rij door, rukker! (Drive on, wanker!)",
+    "ipa_pronunciation": "ˈrʏ.kər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "beffen",
+    "literal_translation": "to lick/bark",
+    "english_equivalent": "to perform cunnilingus",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The female-equivalent vulgar verb to 'pijpen', meaning cunnilingus.",
+    "cultural_context": "Primarily sexual slang, not used widely as a curse word, but definitely vulgar vocabulary.",
+    "example_usage": "Hij is beffen. (He is going down on her.) [Used purely as slang]",
+    "ipa_pronunciation": "ˈbɛ.fən",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kutje",
+    "literal_translation": "little cunt",
+    "english_equivalent": "pussy / little cunt",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Diminutive of 'kut'. Used affectionately or to describe someone acting weak.",
+    "cultural_context": "Calling a friend a 'kutje' when they won't jump off a bridge into a river means they are acting like a pussy.",
+    "example_usage": "Doe niet als een kutje. (Don't act like a pussy.)",
+    "ipa_pronunciation": "ˈkʏ.cə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zaadcel",
+    "literal_translation": "sperm cell",
+    "english_equivalent": "useless idiot",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone so insignificantly stupid they haven't evolved past being a sperm cell.",
+    "cultural_context": "Creative biological insult often traded between teenage boys.",
+    "example_usage": "Stille aap, zaadcel. (Quiet monkey, sperm cell.)",
+    "ipa_pronunciation": "ˈzaːt.sɛl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "glijmiddel",
+    "literal_translation": "lube / sliding agent",
+    "english_equivalent": "smooth operator (derogatory) / slimy bastard",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Literally lube. Used metaphorically for a slimy, untrustworthy, snake-oil-salesman type.",
+    "cultural_context": "Not highly vulgar, just a very accurate description of a sleazy car salesman.",
+    "example_usage": "Hij is een echt glijmiddel. (He's a real slimy bastard.)",
+    "ipa_pronunciation": "ˈɣlɛi̯ˌmɪ.dəl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rotzak",
+    "literal_translation": "rotten sack",
+    "english_equivalent": "jerk / mean bastard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A mean person. An older, kinder brother to 'klootzak'.",
+    "cultural_context": "Common vocabulary in children's books to describe villains since it avoids cursing the genitals.",
+    "example_usage": "De schout is een echte rotzak. (The sheriff is a real rotten bastard.)",
+    "ipa_pronunciation": "ˈrɔt.sɑk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "verdomme",
+    "literal_translation": "damn me",
+    "english_equivalent": "damn / damn it",
+    "severity": 2,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "Godverdomme with the 'God' part dropped to make it slightly less blasphemous.",
+    "cultural_context": "Similar to saying 'darn it' instead of 'god dammit'. Completely socially acceptable in causal environments.",
+    "example_usage": "Verdomme, ik heb honger. (Damn it, I'm hungry.)",
+    "ipa_pronunciation": "vərˈdɔ.mə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "moederneuker",
+    "literal_translation": "mother fucker",
+    "english_equivalent": "motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A literally translated loanword/concept from American cinema.",
+    "cultural_context": "Not traditionally Dutch (native insults focus on disease), but adopted by younger generations directly from Hollywood.",
+    "example_usage": "Krijg de tering, moederneuker! (Get tuberculosis, motherfucker!)",
+    "ipa_pronunciation": "ˈmu.dərˌnøː.kər",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fokking",
+    "literal_translation": "fucking",
+    "english_equivalent": "fucking",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Dutch phonetic spelling of fucking.",
+    "cultural_context": "Considered much less offensive than true Dutch curses. Mostly used by teens to sound edgy but safe.",
+    "example_usage": "Dat was fokking vet. (That was fucking cool/phat.)",
+    "ipa_pronunciation": "ˈfɔ.kɪŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

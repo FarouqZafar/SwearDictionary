@@ -1,0 +1,1476 @@
+[
+  {
+    "word": "puta (poo-tah)",
+    "literal_translation": "whore (Spanish loan)",
+    "english_equivalent": "fuck / bitch / whore",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Derived directly from Spanish. A prostitute, but universally used as an exclamation.",
+    "cultural_context": "Deeply ingrained in Filipino culture. It is the building block for the most iconic Filipino curses.",
+    "example_usage": "Puta, ang init! (Fuck, it's hot!)",
+    "ipa_pronunciation": "ˈpu.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "putang ina (poo-tang ee-nah)",
+    "literal_translation": "whore mother",
+    "english_equivalent": "son of a bitch / fuck / motherfucker",
+    "severity": 5,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Literally 'Your mother is a whore', but functions entirely like the English word 'Fuck'.",
+    "cultural_context": "The most famous and versatile Filipino curse word. Can be used in anger, surprise, or joy. Often shortened. When directed at someone ('Putang ina mo'), it is highly offensive.",
+    "example_usage": "Putang ina mo! (You son of a bitch!)",
+    "ipa_pronunciation": "ˈpu.taŋ ʔi.ˈna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tangina (tang-ee-nah)",
+    "literal_translation": "whore mother (contracted)",
+    "english_equivalent": "fuck / damn / shit",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A contraction of 'putang ina'.",
+    "cultural_context": "Slightly less intensely aggressive than enunciating the full phrase. Used constantly in casual street speech like 'damn'.",
+    "example_usage": "Tangina, nakalimutan ko. (Fuck/Damn, I forgot.)",
+    "ipa_pronunciation": "taŋ.ʔi.ˈna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gago (gah-go)",
+    "literal_translation": "stupid / stutterer",
+    "english_equivalent": "idiot / stupid / asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A stupid or foolish male. (Feminine: gaga).",
+    "cultural_context": "Can range from playful among friends to a serious insult meaning 'asshole' when yelled in traffic.",
+    "example_usage": "Ang gago mo. (You're such an idiot/asshole.)",
+    "ipa_pronunciation": "ˈɡa.ɡo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tarantado (tah-ran-tah-do)",
+    "literal_translation": "confused / stupid",
+    "english_equivalent": "bastard / stupid fool / jerk",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who acts recklessly, foolishly, or with malicious intent.",
+    "cultural_context": "Stronger than gago. It implies the person is deliberately acting like an arrogant fool.",
+    "example_usage": "Tarantado ka ah! (You're a real bastard/jerk!)",
+    "ipa_pronunciation": "ta.ɾan.ˈta.do",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ulol (oo-lol)",
+    "literal_translation": "rabid / deranged",
+    "english_equivalent": "crazy / retarded / fool",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally meaning a rabid dog, now means a completely crazy or deranged person.",
+    "cultural_context": "Often yelled as a direct insult: 'Ulol!' (You crazy fool!).",
+    "example_usage": "Ulol ka ba?! (Are you crazy/rabid?!)",
+    "ipa_pronunciation": "ʔu.ˈlol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hayop (ha-yop)",
+    "literal_translation": "animal",
+    "english_equivalent": "animal / beast / bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An animal. Used to describe someone acting without human decency.",
+    "cultural_context": "Can be a vicious insult, or used to express admiration for extreme skill (e.g. 'Hayop sa galing!' - Beastly good!).",
+    "example_usage": "Hayop ka! (You animal/bastard!)",
+    "ipa_pronunciation": "ˈha.jop",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bobo (boh-bo)",
+    "literal_translation": "stupid (Spanish loan)",
+    "english_equivalent": "dumbass / stupid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone with very low intelligence.",
+    "cultural_context": "Extremely common in online gaming (e.g., 'Bobo gaming') to insult teammates.",
+    "example_usage": "Ang bobo mo talaga. (You are really a dumbass.)",
+    "ipa_pronunciation": "ˈbo.bo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tanga (tang-ah)",
+    "literal_translation": "stupid",
+    "english_equivalent": "idiot / moron",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A clueless, incredibly stupid person.",
+    "cultural_context": "Native Tagalog word, slightly harsher and more personal than the Spanish loan 'bobo'.",
+    "example_usage": "Wag kang tanga. (Don't be an idiot.)",
+    "ipa_pronunciation": "ta.ˈŋa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "punyeta (poon-yeh-tah)",
+    "literal_translation": "fist / fist-fuck (Spanish loanpuñeta)",
+    "english_equivalent": "dammit / fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "An expression of extreme exasperation.",
+    "cultural_context": "Made famous by historical movies, associated with older generations being extremely frustrated.",
+    "example_usage": "Punyeta! Napakabagal! (Dammit! It's so slow!)",
+    "ipa_pronunciation": "pun.ˈje.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "leche (leh-cheh)",
+    "literal_translation": "milk (Spanish loan)",
+    "english_equivalent": "crap / dammit",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Derived from the Spanish 'Me cago en la leche' (I shit in the milk). In Tagalog it's a standalone mild curse.",
+    "cultural_context": "A somewhat child-friendly or TV-safe way to express annoyance.",
+    "example_usage": "Leche! Ayaw gumana. (Crap! It won't work.)",
+    "ipa_pronunciation": "ˈle.tʃe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lintik (lin-tik)",
+    "literal_translation": "lightning",
+    "english_equivalent": "damn / blasted",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Literally wishing someone would be struck by lightning.",
+    "cultural_context": "An older curse, still used by adults when deeply frustrated.",
+    "example_usage": "Lintik na ulan ito! (This damn rain!)",
+    "ipa_pronunciation": "lin.ˈtik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pisti / peste (pis-tih / pes-teh)",
+    "literal_translation": "pest / plague",
+    "english_equivalent": "nuisance / dammit / pest",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A plague or a terrible nuisance.",
+    "cultural_context": "Widely used in the Visayan regions but heavily adopted in Metro Manila.",
+    "example_usage": "Pisti kang bata ka. (You're a pest of a child.)",
+    "ipa_pronunciation": "ˈpes.te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bwisit (bwee-sit)",
+    "literal_translation": "bullshit (Hokkien loan)",
+    "english_equivalent": "annoying / bullshit / dammit",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Derived from Hokkien Chinese ('bô-uī-sit' meaning without clothes/food, bad luck), now meaning an annoying situation or person.",
+    "cultural_context": "Highly pervasive. Safe to use in front of almost anyone to express annoyance.",
+    "example_usage": "Nakakabwisit ka. (You are so annoying / pisses me off.)",
+    "ipa_pronunciation": "ˈbwi.sit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hinayupak (hee-nah-yoo-pak)",
+    "literal_translation": "animal (intensified)",
+    "english_equivalent": "bastard / son of a bitch",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A heavy, archaic intensification of 'hayop' (animal).",
+    "cultural_context": "Used when someone has done something incredibly cruel or disrespectful.",
+    "example_usage": "Hinayupak ka! Nakaw pa! (You bastard! You even stole!)",
+    "ipa_pronunciation": "hi.na.ˈju.pak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sirang ulo (see-rang oo-lo)",
+    "literal_translation": "broken head",
+    "english_equivalent": "crazy / fucked in the head",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone whose brain/head is completely broken.",
+    "cultural_context": "Can be a serious insult regarding someone's mental state or decision making.",
+    "example_usage": "Sirang ulo ka ba? (Are you fucked in the head/crazy?)",
+    "ipa_pronunciation": "si.ˈɾaŋ ˈʔu.lo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pakyu (pak-yoo)",
+    "literal_translation": "fuck you (English loan)",
+    "english_equivalent": "fuck you",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The Filipinized spelling and pronunciation of 'fuck you'.",
+    "cultural_context": "Universally understood. Often accompanied by the middle finger.",
+    "example_usage": "Uy, pakyu ka! (Hey, fuck you!)",
+    "ipa_pronunciation": "ˈpak.ju",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siraulo (see-rah-oo-lo)",
+    "literal_translation": "broken head",
+    "english_equivalent": "crazy / stupid",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A single-word contraction of sirang ulo.",
+    "cultural_context": "Very common insult.",
+    "example_usage": "Siraulo! (Crazy fool!)",
+    "ipa_pronunciation": "si.ɾa.ˈʔu.lo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kupal (koo-pal)",
+    "literal_translation": "smegma",
+    "english_equivalent": "asshole / dickhead / annoying jerk",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Literally the smegma under an uncircumcised foreskin.",
+    "cultural_context": "Metaphorically used to describe an incredibly annoying, arrogant, or thick-headed person.",
+    "example_usage": "Ang kupal ng ugali mo. (Your attitude is so dickheaded / smegma-like.)",
+    "ipa_pronunciation": "ˈku.pal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "titi (tee-tee)",
+    "literal_translation": "penis",
+    "english_equivalent": "dick / cock",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Male genitalia.",
+    "cultural_context": "Basic vulgar noun. Often used in sexual jokes or insults.",
+    "example_usage": "Gusto mo ba ng titi? (Do you want dick?)",
+    "ipa_pronunciation": "ˈti.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pokpok (pok-pok)",
+    "literal_translation": "to pound / to hammer",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Street slang for a prostitute or a deeply promiscuous woman.",
+    "cultural_context": "Highly degrading towards women. Derives from the sound of pounding.",
+    "example_usage": "Mukha siyang pokpok. (She looks like a slut.)",
+    "ipa_pronunciation": "ˈpok.pok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "puke (poo-keh)",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt / pussy",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Female genitalia.",
+    "cultural_context": "A direct and highly vulgar anatomical term.",
+    "example_usage": "Ang baho ng puke. (The pussy smells bad.)",
+    "ipa_pronunciation": "ˈpu.ke",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "puki (poo-kee)",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt / pussy",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Alternative spelling/pronunciation of puke.",
+    "cultural_context": "Often used in curses targeting a mother (e.g. 'Puki ng ina mo').",
+    "example_usage": "Puki ng ina! (Cunt of a mother!)",
+    "ipa_pronunciation": "ˈpu.ki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tae (tah-eh)",
+    "literal_translation": "feces / shit",
+    "english_equivalent": "shit / crap",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Excrement.",
+    "cultural_context": "Milder than the English 'shit', but still vulgar when yelled as an exclamation or insult.",
+    "example_usage": "Amoy tae! (Smells like shit!)",
+    "ipa_pronunciation": "ˈta.ʔe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "burat (boo-rat)",
+    "literal_translation": "foreskin / penis",
+    "english_equivalent": "dick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "An uncircumcised penis or exposed glans.",
+    "cultural_context": "Heavier and more offensive slang than 'titi'. Often used in rural or highly masculine contexts.",
+    "example_usage": "Kainin mo burat ko. (Eat my dick.)",
+    "ipa_pronunciation": "bu.ˈɾat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kantot (kan-tot)",
+    "literal_translation": "to have sex",
+    "english_equivalent": "to fuck / a fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The vulgar verb for sexual intercourse.",
+    "cultural_context": "Highly explicit. 'Kumantot' (to fuck) or 'Kantutan' (a fucking session).",
+    "example_usage": "Gusto ko kumantot. (I want to fuck.)",
+    "ipa_pronunciation": "kan.ˈtot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bading (bah-ding)",
+    "literal_translation": "homosexual",
+    "english_equivalent": "faggot / gay",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "An effeminate gay man.",
+    "cultural_context": "Can be a neutral identifier within the community, but used offensively by straight men to mock masculinity.",
+    "example_usage": "Mukha kang bading. (You look like a faggot/fairy.)",
+    "ipa_pronunciation": "ba.ˈdiŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bakla (bak-lah)",
+    "literal_translation": "homosexual / coward",
+    "english_equivalent": "faggot / coward",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Similar to bading, a gay man. Also means a coward.",
+    "cultural_context": "'Wag kang bakla' (Don't be gay/a fairy) is a common toxic masculinity insult.",
+    "example_usage": "Ang bakla mo kumilos. (You act so gay/like a fairy.)",
+    "ipa_pronunciation": "bak.ˈla",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "inutil (ee-noo-til)",
+    "literal_translation": "useless (Spanish loan)",
+    "english_equivalent": "useless idiot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is completely incompetent or physically/mentally useless.",
+    "cultural_context": "A deeply biting insult against someone's capability as a human.",
+    "example_usage": "Inutil ka pala eh. (So you're actually completely useless.)",
+    "ipa_pronunciation": "ʔi.ˈnu.til",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "supot (soo-pot)",
+    "literal_translation": "uncircumcised / bag",
+    "english_equivalent": "uncircumcised boy / coward",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A male who has not undergone traditional circumcision (Tuli).",
+    "cultural_context": "In the Philippines, circumcision is a major rite of passage into manhood. Calling an adult male 'supot' is telling him he is not a real man.",
+    "example_usage": "Supot ka pa eh! (You're still uncircumcised/not a real man!)",
+    "ipa_pronunciation": "ˈsu.pot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "malandi (mah-lan-dih)",
+    "literal_translation": "flirtatious",
+    "english_equivalent": "slutty / flirt",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A woman who is overly flirtatious or easy.",
+    "cultural_context": "A socially damning adjective, though slightly milder than 'pokpok' (whore).",
+    "example_usage": "Napakalandi mong babae. (You are such a slutty woman.)",
+    "ipa_pronunciation": "ma.lan.ˈdi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hinampak (hee-nam-pak)",
+    "literal_translation": "cursed / hit",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Variant of roughly 'accursed one'.",
+    "cultural_context": "Used similarly to hinayupak as a strong, emotional insult.",
+    "example_usage": "Hinampak ka! (You bastard!)",
+    "ipa_pronunciation": "hi.nam.ˈpak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pota (po-tah)",
+    "literal_translation": "whore",
+    "english_equivalent": "fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A phonetic alteration/softening of puta.",
+    "cultural_context": "Often used in online chat or texting to evade chat filters or soften the curse.",
+    "example_usage": "Pota, nakalimutan ko. (Fuck, I forgot.)",
+    "ipa_pronunciation": "ˈpo.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "putragis (poo-trah-gis)",
+    "literal_translation": "whore (altered)",
+    "english_equivalent": "dammit / blasted",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A masked, older variant of Puta.",
+    "cultural_context": "Used by older individuals to avoid swearing explicitly.",
+    "example_usage": "Putragis na buhay ito. (This blasted life.)",
+    "ipa_pronunciation": "pu.ˈtɾa.ɡis",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "putik (poo-tik)",
+    "literal_translation": "mud",
+    "english_equivalent": "shoot / fudge",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Literally means mud, but used as a fake-out curse word instead of Puta.",
+    "cultural_context": "The closest Filipino equivalent to saying 'Shoot!' or 'Fudge!' to avoid swearing around children.",
+    "example_usage": "Anak ng putik! (Son of a mud! / Son of a gun!)",
+    "ipa_pronunciation": "ˈpu.tik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "anak ng puta (ah-nak nang poo-tah)",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally calling someone the son of a prostitute.",
+    "cultural_context": "A direct translation from Spanish 'hijo de puta'. Very offensive.",
+    "example_usage": "Ikaw, anak ng puta ka! (You, you're a son of a bitch!)",
+    "ipa_pronunciation": "ʔa.ˈnak naŋ ˈpu.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "anak ng tokwa (ah-nak nang tok-wah)",
+    "literal_translation": "son of a tofu",
+    "english_equivalent": "son of a gun",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A child-friendly replacement for 'anak ng puta'.",
+    "cultural_context": "Highly comedic and widely used by annoyed parents.",
+    "example_usage": "Anak ng tokwa, ang gulo! (Son of a tofu / gun, what a mess!)",
+    "ipa_pronunciation": "ʔa.ˈnak naŋ ˈtok.wa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yawa (yah-wah)",
+    "literal_translation": "devil / demon",
+    "english_equivalent": "devil / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A Cebuano/Visayan word for Devil, heavily absorbed into national slang.",
+    "cultural_context": "Used as an exclamation of extreme surprise, anger, or frustration.",
+    "example_usage": "Yawa! Ang sakit! (Damn/Devil! It hurts!)",
+    "ipa_pronunciation": "ˈja.wa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "giatay (gee-ah-tay)",
+    "literal_translation": "liver ruined by disease",
+    "english_equivalent": "dammit / ruined",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A Cebuano curse meaning to be struck with a liver disease.",
+    "cultural_context": "A very strong exclamation when something goes wrong.",
+    "example_usage": "Giatay na 'to. (This is damned / ruined.)",
+    "ipa_pronunciation": "ɡi.ˈa.taɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "shit (sheet)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The English word shit.",
+    "cultural_context": "Used constantly by middle/upper-class Filipinos (Conyo) instead of native curses.",
+    "example_usage": "Oh shit, I forgot my wallet.",
+    "ipa_pronunciation": "ʃɪt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "syet (syet)",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The Filipinized spelling of 'shit'.",
+    "cultural_context": "Found in texts and social media.",
+    "example_usage": "Syet naman oh. (Oh shit man.)",
+    "ipa_pronunciation": "ʃet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "buang (boo-ang)",
+    "literal_translation": "crazy",
+    "english_equivalent": "crazy fool / insane",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Visayan word for crazy.",
+    "cultural_context": "Adopted nationally. Slightly lighter than 'ulol' or 'siraulo'.",
+    "example_usage": "Buang ka talaga. (You're truly crazy.)",
+    "ipa_pronunciation": "ˈbu.aŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "taeng (tah-eng)",
+    "literal_translation": "shit of",
+    "english_equivalent": "shitty",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Something made of shit.",
+    "cultural_context": "Used to describe awful situations.",
+    "example_usage": "Isang taeng sitwasyon. (A shitty situation.)",
+    "ipa_pronunciation": "ˈta.ʔeŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tarantada (tah-ran-tah-dah)",
+    "literal_translation": "confused / stupid (female)",
+    "english_equivalent": "bitch / stupid girl",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The female version of tarantado.",
+    "cultural_context": "Highly aggressive insult against a woman acting recklessly.",
+    "example_usage": "Tarantada ka! (You crazy bitch!)",
+    "ipa_pronunciation": "ta.ɾan.ˈta.da",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gaga (gah-gah)",
+    "literal_translation": "stupid female",
+    "english_equivalent": "stupid bitch / silly girl",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female form of gago.",
+    "cultural_context": "Often used among female friends affectionately ('Gaga ka, bakit mo ginawa?'), but a strong insult otherwise.",
+    "example_usage": "Ang gaga mo. (You're such a stupid girl.)",
+    "ipa_pronunciation": "ˈɡa.ɡa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tanga-tanga (tang-ah tang-ah)",
+    "literal_translation": "stupid-stupid",
+    "english_equivalent": "incredibly stupid",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "An emphasized, redundant version of tanga.",
+    "cultural_context": "Used to berate someone who constantly makes foolish mistakes.",
+    "example_usage": "Ang tanga-tanga mo kase eh! (Because you're so incredibly stupid!)",
+    "ipa_pronunciation": "ta.ˈŋa ta.ˈŋa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "badingding (bah-ding-ding)",
+    "literal_translation": "gay (comedic)",
+    "english_equivalent": "fairy / queer",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A sing-song, childish expansion of 'bading'.",
+    "cultural_context": "Mostly a playground insult.",
+    "example_usage": "Siya ay isang badingding. (He is a fairy.)",
+    "ipa_pronunciation": "ba.ˈdiŋ.diŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hindot (hin-dot)",
+    "literal_translation": "to hump",
+    "english_equivalent": "fucker / bastard",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Slang for the pelvic thrusting motion during sex.",
+    "cultural_context": "Calling someone a 'hindot' is highly vulgar and implies they are a despicable fucker.",
+    "example_usage": "Hindot ka! (You fucker!)",
+    "ipa_pronunciation": "hin.ˈdot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tumbong (toom-bong)",
+    "literal_translation": "rectum",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The actual physical rectum/anus.",
+    "cultural_context": "Rarely used conversationally, but highly shocking when used to insult.",
+    "example_usage": "Ipasok mo sa tumbong mo. (Shove it up your rectum.)",
+    "ipa_pronunciation": "ˈtum.boŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "iyut (ee-yoot)",
+    "literal_translation": "fuck",
+    "english_equivalent": "fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Visayan word for sexual intercourse, adopted everywhere.",
+    "cultural_context": "The southern equivalent of 'kantot'.",
+    "example_usage": "Gusto ko iyut. (I want to fuck.)",
+    "ipa_pronunciation": "ˈʔi.jut",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bilat (bee-lat)",
+    "literal_translation": "vagina",
+    "english_equivalent": "cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Visayan word for female genitalia.",
+    "cultural_context": "Highly vulgar.",
+    "example_usage": "Bahong bilat. (Smelly cunt.)",
+    "ipa_pronunciation": "bi.ˈlat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "burikat (boo-ree-kat)",
+    "literal_translation": "prostitute",
+    "english_equivalent": "slut / whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Visayan word for whore, widely understood.",
+    "cultural_context": "Vicious insult for a woman.",
+    "example_usage": "Burikat ka. (You're a whore.)",
+    "ipa_pronunciation": "bu.ˈɾi.kat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kantutero (kan-too-teh-ro)",
+    "literal_translation": "one who fucks often",
+    "english_equivalent": "fucker / man-whore",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A noun for a man obsessed with sex or who sleeps around constantly.",
+    "cultural_context": "Takes the Tagalog root 'kantot' and applies the Spanish '-ero' suffix.",
+    "example_usage": "Ang lalaking 'yan ay kantutero. (That man is a sex-fiend.)",
+    "ipa_pronunciation": "kan.tu.ˈte.ɾo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pangit (pah-ngit)",
+    "literal_translation": "ugly",
+    "english_equivalent": "ugly freak",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Unattractive or ugly.",
+    "cultural_context": "Not legally a swear word, but 'Pangit mo!' (You're ugly!) is a foundational insult.",
+    "example_usage": "Ang pangit ng mukha mo. (Your face is ugly.)",
+    "ipa_pronunciation": "ˈpa.ŋit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "salot (sah-lot)",
+    "literal_translation": "plague / pestilence",
+    "english_equivalent": "menace / plague",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A plague upon society.",
+    "cultural_context": "Used for corrupt politicians or deeply toxic people.",
+    "example_usage": "Salot ka sa lipunan. (You are a plague on society.)",
+    "ipa_pronunciation": "ˈsa.lot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chupa (choo-pah)",
+    "literal_translation": "to suck / blowjob",
+    "english_equivalent": "suck dick / blowjob",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Derived from Spanish 'chupar' (to suck). In Tagalog it exclusively refers to fellatio.",
+    "cultural_context": "Highly explicit slang.",
+    "example_usage": "Gusto kang chupain. (I want you to suck it.)",
+    "ipa_pronunciation": "ˈtʃu.pa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tanga ka ba (tang-ah ka bah)",
+    "literal_translation": "are you stupid",
+    "english_equivalent": "are you a fucking idiot?",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Rhetorical question questioning someone's mental capacity.",
+    "cultural_context": "Used when someone makes an easily preventable mistake.",
+    "example_usage": "Tanga ka ba kase eh? (Are you stupid or what?)",
+    "ipa_pronunciation": "ta.ˈŋa ˈka ˈba",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "puta ka (poo-tah kah)",
+    "literal_translation": "you whore",
+    "english_equivalent": "you bitch / you whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Directing the word whore at someone.",
+    "cultural_context": "Hostile insult, easily starting fights.",
+    "example_usage": "Puta ka, umalis ka dito! (You bitch, get out of here!)",
+    "ipa_pronunciation": "ˈpu.ta ˈka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "walanghiya (wah-lang-hee-yah)",
+    "literal_translation": "without shame",
+    "english_equivalent": "shameless bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "'Hiya' (shame/face) is a core Filipino value. Being 'without shame' is a severe character defect.",
+    "cultural_context": "Used heavily in soap operas (Teleseryes) when a dramatic betrayal occurs.",
+    "example_usage": "Walanghiya ka! Paano mo nagawa ito? (You shameless bastard! How could you do this?)",
+    "ipa_pronunciation": "wa.ˈlaŋ.hi.ˈja",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tuntong (toon-tong)",
+    "literal_translation": "uneducated",
+    "english_equivalent": "ignorant fool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Rustic or ignorant.",
+    "cultural_context": "A somewhat dated, milder insult.",
+    "example_usage": "Ang tuntong mo talaga. (You are truly ignorant.)",
+    "ipa_pronunciation": "ˈtun.toŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tarantado't kalahati (tah-ran-tah-do't kah-lah-hah-tih)",
+    "literal_translation": "bastard and a half",
+    "english_equivalent": "a massive bastard",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Someone who is mathematically 150% tarantado.",
+    "cultural_context": "A creatively dramatic emphasis.",
+    "example_usage": "Tarantado't kalahati ka! (You are a bastard and a half!)",
+    "ipa_pronunciation": "ta.ɾan.ˈta.do ʔat ka.la.ˈha.ti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amputa (am-poo-tah)",
+    "literal_translation": "the whore",
+    "english_equivalent": "holy shit / this fucker",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A contraction of 'Ang puta' (The whore/fuck). Used to express disbelief at someone's audacity.",
+    "cultural_context": "A modern slang exclamation. Usually typed as 'ampt'.",
+    "example_usage": "Ang yabang amputa. (This fucker is so arrogant.)",
+    "ipa_pronunciation": "ʔam.ˈpu.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jakol (jah-kol)",
+    "literal_translation": "masturbation",
+    "english_equivalent": "wank / jerk-off",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Male masturbation.",
+    "cultural_context": "A highly vulgar word. 'Panjakol' means something to masturbate to. 'Jakolero' means a wanker.",
+    "example_usage": "Mahilig mag-jakol. (He likes to wank.)",
+    "ipa_pronunciation": "ˈdʒa.kol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "putang ina mo (poo-tang ee-nah mo)",
+    "literal_translation": "your mother is a whore",
+    "english_equivalent": "fuck you / motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The fully targeted version of 'putang ina'.",
+    "cultural_context": "Whereas 'putang ina' can just be an exclamation of surprise, adding 'mo' (you/yours) directs the extreme insult directly at the listener's mother.",
+    "example_usage": "Putang ina mo, tigilan mo yan! (Fuck you, stop that!)",
+    "ipa_pronunciation": "ˈpu.taŋ ʔi.ˈna ˈmo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bobo mo (boh-bo mo)",
+    "literal_translation": "your stupidity",
+    "english_equivalent": "you're so fucking dumb",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Focusing the 'bobo' directly on the listener.",
+    "cultural_context": "Classic toxic gamer trash-talk.",
+    "example_usage": "Ang bobo mo maglaro. (You play so fucking stupidly.)",
+    "ipa_pronunciation": "ˈbo.bo ˈmo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kantot mo (kan-tot mo)",
+    "literal_translation": "your fuck",
+    "english_equivalent": "fuck you",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Crude expression roughly equating to 'fuck your mother' depending on missing context.",
+    "cultural_context": "Rarely stands alone but is highly vulgar when used.",
+    "example_usage": "Wala akong paki. Kantot mo. (I don't care. Fuck you.)",
+    "ipa_pronunciation": "kan.ˈtot ˈmo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "unggoy (oong-goy)",
+    "literal_translation": "monkey",
+    "english_equivalent": "monkey / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a monkey.",
+    "cultural_context": "Used to denote primitive, stupid, or chaotic behavior.",
+    "example_usage": "Kumikilos na parang unggoy. (Acting like a monkey.)",
+    "ipa_pronunciation": "ʔuŋ.ˈɡoɪ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kupal mo (koo-pal mo)",
+    "literal_translation": "your smegma",
+    "english_equivalent": "you arrogant dick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "An insult highlighting someone's unbearable arrogance.",
+    "cultural_context": "A strong form of telling someone their behavior is unacceptable.",
+    "example_usage": "Kupal mo talaga. (You're a real arrogant dick.)",
+    "ipa_pronunciation": "ˈku.pal ˈmo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "baliw (bah-liw)",
+    "literal_translation": "crazy",
+    "english_equivalent": "crazy / insane",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally clinically insane, but used loosely.",
+    "cultural_context": "Used like 'crazy'.",
+    "example_usage": "Baliw ka. (You are crazy.)",
+    "ipa_pronunciation": "ba.ˈlɪw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gunggong (goong-gong)",
+    "literal_translation": "idiot",
+    "english_equivalent": "numbskull / dumbass",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone lacking common sense or brains.",
+    "cultural_context": "Somewhat dated insult popular in older action movies.",
+    "example_usage": "Isa kang gunggong. (You are a numbskull.)",
+    "ipa_pronunciation": "ɡuŋ.ˈɡoŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lintian (lin-tee-an)",
+    "literal_translation": "lightning struck",
+    "english_equivalent": "dammit / son of a bitch",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Visayan form of lintik.",
+    "cultural_context": "Swearing at someone's misfortune.",
+    "example_usage": "Lintian na. (Damned already.)",
+    "ipa_pronunciation": "lin.ti.ˈʔan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pisting yawa (pis-ting yah-wah)",
+    "literal_translation": "pest demon",
+    "english_equivalent": "fucking hell / goddammit",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "A heavy Visayan compound curse joining 'pest' and 'devil'.",
+    "cultural_context": "Incredibly popular exclamation nation-wide to express supreme frustration.",
+    "example_usage": "Oh pisting yawa! (Oh fucking hell!)",
+    "ipa_pronunciation": "ˈpes.tiŋ ˈja.wa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "deputa (deh-poo-tah)",
+    "literal_translation": "of a whore",
+    "english_equivalent": "son of a bitch",
+    "severity": 4,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Spanish contraction of 'de puta'.",
+    "cultural_context": "Often yelled when suddenly startled or injured in Visayan regions.",
+    "example_usage": "Deputa, sakit! (Son of a bitch, it hurts!)",
+    "ipa_pronunciation": "de.ˈpu.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kiki (kee-kee)",
+    "literal_translation": "vagina",
+    "english_equivalent": "pussy",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Slang for female genitalia.",
+    "cultural_context": "Slightly more conversational/childish than 'puke'.",
+    "example_usage": "Hugasan mo kiki mo. (Wash your pussy.)",
+    "ipa_pronunciation": "ˈki.ki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ngina (ngi-nah)",
+    "literal_translation": "whore mother (ultra-contracted)",
+    "english_equivalent": "fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The ultimate lazy contraction of Tangina.",
+    "cultural_context": "Chat slang.",
+    "example_usage": "Ngina, antok na ako. (Fuck, I'm sleepy.)",
+    "ipa_pronunciation": "ŋi.ˈna",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bastos (bas-tos)",
+    "literal_translation": "rude / crude",
+    "english_equivalent": "pervert / crude bastard",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Can mean generally rude, but often means sexually inappropriate or perverted.",
+    "cultural_context": "A woman slapping a man might yell 'Bastos ka!' (You pervert!).",
+    "example_usage": "Bastos na bunganga. (Crude mouth.)",
+    "ipa_pronunciation": "bas.ˈtos",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "suso (soo-so)",
+    "literal_translation": "breasts / snail",
+    "english_equivalent": "tits",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Female breasts. (Also legally means snail).",
+    "cultural_context": "The standard vulgar anatomical word for breasts.",
+    "example_usage": "Malaki suso niya. (Her tits are big.)",
+    "ipa_pronunciation": "ˈsu.so",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "betlog (bet-log)",
+    "literal_translation": "testicles",
+    "english_equivalent": "balls / nuts",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Testicles.",
+    "cultural_context": "Slang used among male friends.",
+    "example_usage": "Masakit betlog ko. (My balls hurt.)",
+    "ipa_pronunciation": "bet.ˈloɡ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bayag (bah-yag)",
+    "literal_translation": "scrotum / testicles",
+    "english_equivalent": "balls",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Scrotum.",
+    "cultural_context": "Often used in idioms about courage (e.g. 'walang bayag' = no balls / coward).",
+    "example_usage": "Wala kang bayag! (You have no balls!)",
+    "ipa_pronunciation": "ba.ˈjaɡ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "inodoro (ee-no-doh-ro)",
+    "literal_translation": "toilet (Spanish loan)",
+    "english_equivalent": "toilet / shithole",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A toilet.",
+    "cultural_context": "Used to describe a filthy place.",
+    "example_usage": "Mukhang inodoro yung kwarto. (The room looks like a toilet.)",
+    "ipa_pronunciation": "ʔi.no.ˈdo.ɾo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

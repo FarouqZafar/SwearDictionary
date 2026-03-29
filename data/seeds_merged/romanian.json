@@ -1,0 +1,1495 @@
+[
+  {
+    "word": "pula",
+    "literal_translation": "dick",
+    "english_equivalent": "fuck / shit / dick",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "The ultimate Romanian swear word. Refers to the penis, but functions as a universal exclamation, filler word, and insult.",
+    "cultural_context": "Used in hundreds of phrases. 'Pula mea' (my dick) is used exactly like 'fucking hell/shit' as a conversational filler. Very vulgar but universally used by men.",
+    "example_usage": "Ce pula mea faci? (What the fuck / my dick are you doing?)",
+    "ipa_pronunciation": "ˈpu.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizda",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt / pussy",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Female genitalia. Used as a severe insult or to describe something terrible or very far away.",
+    "cultural_context": "'Pizda mă-tii' (your mother's cunt) is a foundational insult in Romanian. Highly offensive when directed at someone.",
+    "example_usage": "Du-te-n pizda mă-tii! (Go into your mother's cunt! / Fuck off!)",
+    "ipa_pronunciation": "ˈpiz.da",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "muie",
+    "literal_translation": "face / mouth (archaic)",
+    "english_equivalent": "blowjob / fuck you",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Originally meaning face/mouth, it exclusively means a blowjob today. Handing someone 'muie' means telling them to suck your dick.",
+    "cultural_context": "The most common aggressive insult. 'Să-mi dai muie' (Give me a blowjob). Famous politically ('Muie PSD').",
+    "example_usage": "Muie ție! (Fuck you / Suck my dick!)",
+    "ipa_pronunciation": "ˈmu.je",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "căcat",
+    "literal_translation": "shit",
+    "english_equivalent": "shit",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Human or animal feces. Used to mean something is worthless or as an exclamation.",
+    "cultural_context": "A standard, moderately severe swear word. 'A mânca căcat' (to eat shit) means to talk bullshit or lie.",
+    "example_usage": "E un căcat de mașină. (It's a shit car.)",
+    "ipa_pronunciation": "kəˈkat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "coaie",
+    "literal_translation": "testicles",
+    "english_equivalent": "balls / bro / dude",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Testicles. But widely used among teenagers and men to mean 'bro' or 'dude'.",
+    "cultural_context": "Similar to Spanish 'huevón'. Men address their closest friends constantly as 'coaie'.",
+    "example_usage": "Ce faci, coaie? (What are you doing, bro/balls?)",
+    "ipa_pronunciation": "ˈko̯a.je",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "futu-ți",
+    "literal_translation": "fuck your",
+    "english_equivalent": "fuck your...",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A contraction of 'Aș fute ție' (I would fuck to you). The mandatory prefix for all complex Romanian curses.",
+    "cultural_context": "Never used alone, always attached to a target: mother, God, church, dead relatives, sun, moon, etc.",
+    "example_usage": "Futu-ți morții mă-tii! (Fuck your mother's dead relatives!)",
+    "ipa_pronunciation": "ˈfu.tut͡sʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mă-ta",
+    "literal_translation": "your mother",
+    "english_equivalent": "your mom",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Short for 'mama ta' (your mother). Inherently insulting in a cursing context.",
+    "cultural_context": "The foundation of Balkan swearing. Attacking the mother is the quickest way to escalate a fight.",
+    "example_usage": "Futu-o pe mă-ta! (Fuck your mother!)",
+    "ipa_pronunciation": "ˈmə.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "morții mă-tii",
+    "literal_translation": "your mother's dead relatives",
+    "english_equivalent": "fuck your dead relatives",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A curse wishing damnation or sexual violation upon the deceased ancestors of someone's mother.",
+    "cultural_context": "A hallmark of Romanian profanity. Breathtakingly offensive but culturally standard when extremely angry.",
+    "example_usage": "Să-mi bag pula-n morții mă-tii. (Let me put my dick in your mother's dead relatives.)",
+    "ipa_pronunciation": "ˈmor.t͡sij ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dumnezeii mă-tii",
+    "literal_translation": "your mother's Gods",
+    "english_equivalent": "goddamn your mother",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the specific version of God that watches over the person's mother.",
+    "cultural_context": "Highly blasphemous. In rural Romania, this can get you beaten by older religious people.",
+    "example_usage": "Futu-ți dumnezeii mă-tii! (Fuck your mother's Gods!)",
+    "ipa_pronunciation": "dum.neˈze.jij ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "biserica mă-tii",
+    "literal_translation": "your mother's church",
+    "english_equivalent": "fuck your church",
+    "severity": 4,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the church where someone's mother prays or was baptized.",
+    "cultural_context": "Extends the insult to the sacred space of the family. A common daily curse.",
+    "example_usage": "Futu-ți biserica mă-tii! (Fuck your mother's church!)",
+    "ipa_pronunciation": "biˈse.ri.ka ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cur",
+    "literal_translation": "ass",
+    "english_equivalent": "ass",
+    "severity": 3,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The buttocks or anus.",
+    "cultural_context": "Used in phrases like 'mă doare-n cur' (it hurts me in the ass / I don't give a fuck).",
+    "example_usage": "Mă doare fix în cur de tine. (I don't give a flying fuck about you.)",
+    "ipa_pronunciation": "kur",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sloboz",
+    "literal_translation": "semen",
+    "english_equivalent": "cum / jizz",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Semen/cum. Used as an exclamation of disgust or to insult someone's intelligence.",
+    "cultural_context": "A highly vulgar word. 'Face cu sloboz la gură' (Target of oral sex).",
+    "example_usage": "Mânca-mi-ai slobozul! (Eat my cum!)",
+    "ipa_pronunciation": "sloˈboz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "curvă",
+    "literal_translation": "whore",
+    "english_equivalent": "whore / bitch / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A prostitute. Used as a heavy slur against women.",
+    "cultural_context": "Shared with many Slavic languages (kurwa) but pronounced slightly differently. Used more literally as 'whore' than the Polish filler word.",
+    "example_usage": "Ești o curvă proastă! (You're a stupid whore!)",
+    "ipa_pronunciation": "ˈkur.və",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pizdă",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Variant spelling/pronunciation of pizda.",
+    "cultural_context": "When describing a man: 'Ești o pizdă' (You are a cunt/pussy), attacking his masculinity.",
+    "example_usage": "Ce pizdă ești. (What a pussy you are.)",
+    "ipa_pronunciation": "ˈpiz.də",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sugi pula",
+    "literal_translation": "suck the dick",
+    "english_equivalent": "suck my dick / fuck you",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A direct command to perform fellatio on the speaker.",
+    "cultural_context": "One of the most common ways to tell someone to fuck off or that their opinion is worthless.",
+    "example_usage": "Sugi pula, idiotule! (Suck my dick, you idiot!)",
+    "ipa_pronunciation": "sud͡ʒʲ ˈpu.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dracu",
+    "literal_translation": "the devil",
+    "english_equivalent": "hell / the devil / damn",
+    "severity": 2,
+    "categories": [
+      "religious",
+      "exclamation"
+    ],
+    "meaning": "The devil/demon. Used to add emphasis or show frustration.",
+    "cultural_context": "Relatively mild, acceptable on TV. 'Ce dracu faci?' (What the hell are you doing?). 'Du-te dracu' (Go to hell).",
+    "example_usage": "Du-te dracu! (Go to hell!)",
+    "ipa_pronunciation": "ˈdra.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "târfă",
+    "literal_translation": "bitch / hussy",
+    "english_equivalent": "slut / bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A slut or a promiscuous/malicious woman.",
+    "cultural_context": "Slightly less severe than curvă, but still highly insulting.",
+    "example_usage": "Târfă ordinară! (Ordinary / common slut!)",
+    "ipa_pronunciation": "ˈtɨr.fə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "labă",
+    "literal_translation": "paw / masturbation",
+    "english_equivalent": "wanking / circlejerk",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Originally a paw (animal foot), now exclusively street slang for masturbation.",
+    "cultural_context": "Used to describe wasting time ('a face labă') or someone who is a loser ('labagiu').",
+    "example_usage": "Nu mai face atâta labă! (Stop wanking around / wasting time!)",
+    "ipa_pronunciation": "ˈla.bə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "labagiu",
+    "literal_translation": "masturbator",
+    "english_equivalent": "wanker / jerk / loser",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Someone who masturbates constantly; metaphorically, a useless idiot or loser.",
+    "cultural_context": "Exact equivalent to the British 'wanker'. Highly popular among teens.",
+    "example_usage": "E un labagiu trist. (He's a sad wanker.)",
+    "ipa_pronunciation": "la.baˈd͡ʒi.u",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "futai",
+    "literal_translation": "a fucking",
+    "english_equivalent": "a fucking mess / grueling task",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A sexual encounter, or frequently used to describe an incredibly difficult, tedious, or exhausting task.",
+    "cultural_context": "Used at work to describe a terrible project: 'E un futai total' (It's a total mindfuck/exhausting mess).",
+    "example_usage": "Ce futai a fost examenul ăla. (What an absolute mindfuck that exam was.)",
+    "ipa_pronunciation": "fuˈtaj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "chiș",
+    "literal_translation": "piss",
+    "english_equivalent": "piss",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "From the verb 'a se pișa' (to piss).",
+    "cultural_context": "'Mă piș pe el' (I piss on it) means 'I don't give a fuck about it'.",
+    "example_usage": "Mă piș pe tine. (I piss on you / Fuck you).",
+    "ipa_pronunciation": "pɪʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pișat",
+    "literal_translation": "urine / pissed",
+    "english_equivalent": "piss / shitty",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Urine or something of terrible quality.",
+    "cultural_context": "Describing cheap beer or terrible weather. 'Ești un pișat' (You are a piece of piss / nobody).",
+    "example_usage": "Berea asta e un pișat. (This beer is piss.)",
+    "ipa_pronunciation": "piˈʃat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Poponar",
+    "literal_translation": "bottomer (from popou = bottom)",
+    "english_equivalent": "faggot / ass-pirate",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Highly derogatory homophobic slur for a gay man.",
+    "cultural_context": "Focuses mocking on anal sex. Widespread in macho environments.",
+    "example_usage": "[Homophobic slur omitted in translation directly, context recognized]",
+    "ipa_pronunciation": "po.poˈnar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bulangiu",
+    "literal_translation": "faggot / asshole",
+    "severity": 4,
+    "english_equivalent": "asshole / bastard / faggot",
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Traditionally a gay slur, now broadly used to mean a backstabbing, unfair, or cruel bastard.",
+    "cultural_context": "Very common insult for a referee in a sports match or a boss who fires you unfairly.",
+    "example_usage": "Arbitrul e un bulangiu! (The referee is a bastard!)",
+    "ipa_pronunciation": "bu.lanˈd͡ʒi.u",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "țăran",
+    "literal_translation": "peasant",
+    "english_equivalent": "hillbilly / uncultured swine",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A rural farmer/peasant. Used to insult someone's manners, hygiene, or intelligence.",
+    "cultural_context": "A devastating insult in class-conscious Romanian society. Implies one lacks education and culture.",
+    "example_usage": "Te porți ca un țăran. (You act like a peasant.)",
+    "ipa_pronunciation": "t͡səˈran",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cocalar",
+    "literal_translation": "bone-picker / lowlife",
+    "english_equivalent": "chav / guido / trashy person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A flashy, uneducated, arrogant man who wears fake designer brands, listens to manele music, and acts aggressively.",
+    "cultural_context": "A defining societal insult since the 2000s. Extremely common. The female equivalent is 'pițipoancă'.",
+    "example_usage": "Uite-l pe cocalarul ăla cum turează motorul. (Look at that chav revving his engine.)",
+    "ipa_pronunciation": "ko.kaˈlar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pițipoancă",
+    "literal_translation": "flashy bimbo",
+    "english_equivalent": "bimbo / trashy girl",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A superficial, overly tanned, heavily made-up woman seeking rich men.",
+    "cultural_context": "The female counterpart to 'cocalar'. An insult to a woman's character and intelligence.",
+    "example_usage": "E o pițipoancă disperată. (She's a desperate bimbo.)",
+    "ipa_pronunciation": "pi.t͡siˈpo̯an.kə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bag pula",
+    "literal_translation": "I insert the dick",
+    "english_equivalent": "I don't give a fuck / fuck this",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Used to express giving up, not caring, or anger. Often 'Îmi bag pula în...' (I put my dick in...).",
+    "cultural_context": "The standard way to say 'I quit' or 'I abandon this'.",
+    "example_usage": "Îmi bag pula în ea de treabă. (I put my dick in this job / I'm fucking done with this job.)",
+    "ipa_pronunciation": "baɡ ˈpu.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Băga-mi-aș pula",
+    "literal_translation": "I would insert my dick",
+    "english_equivalent": "fuck my life / fucking hell",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Conditional optative form of inserting one's dick. A deeply satisfying sigh of immense frustration.",
+    "cultural_context": "Used when something goes horribly wrong. Often followed by 'în gâtul tău' (in your throat) or 'în viața mea' (in my life).",
+    "example_usage": "Băga-mi-aș pula în el de noroc. (Goddammit my fucking luck.)",
+    "ipa_pronunciation": "bəˈɡa.mjaʃ ˈpu.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "muist",
+    "literal_translation": "blowjobber / face-man",
+    "english_equivalent": "cocksucker / scumbag",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Derived from 'muie'. Someone who gives blowjobs. Used for a despicable man.",
+    "cultural_context": "A very harsh insult for a man who is a cheat or an asshole.",
+    "example_usage": "Nu-l crede, e un muist. (Don't believe him, he's a cocksucker.)",
+    "ipa_pronunciation": "muˈist",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jigodie",
+    "literal_translation": "canine distemper",
+    "english_equivalent": "scumbag / worthless dog",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A diseased dog. An unforgivable, treacherous, worthless person.",
+    "cultural_context": "A very cold, sharp insult implying the person has zero moral fiber.",
+    "example_usage": "Ești o jigodie ordinară! (You're a common scumbag!)",
+    "ipa_pronunciation": "ʒiˈɡo.di.e",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "javră",
+    "literal_translation": "mutt / stray dog",
+    "english_equivalent": "bitch / mutt",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A flea-ridden stray dog. Used to describe someone pathetic or a backstabber.",
+    "cultural_context": "Commonly directed at people who betray you or lie.",
+    "example_usage": "Javră dracului! (Hell's mutt / You fucking bitch!)",
+    "ipa_pronunciation": "ˈʒa.vrə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "rahat",
+    "literal_translation": "Turkish delight / shit",
+    "english_equivalent": "crap / bullshit",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Borrowed from Turkish 'rahat' (delight), but in Romanian ironically evolved to mean feces or crap.",
+    "cultural_context": "Safe for children and TV. Milder than 'căcat'. 'A mânca rahat' means talking nonsense.",
+    "example_usage": "Mănânci rahat. (You're talking crap/bullshit.)",
+    "ipa_pronunciation": "raˈhat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hristosii mă-tii",
+    "literal_translation": "your mother's Christs",
+    "english_equivalent": "fuck your mother's Christ",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Pluralizing Christ and cursing the mother's religion.",
+    "cultural_context": "Deeply blasphemous and uniquely Romanian in its grammatical structure.",
+    "example_usage": "Futu-ți hristosii mă-tii! (Fuck your mother's Christs!)",
+    "ipa_pronunciation": "hrisˈto.sij ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "crucea mă-tii",
+    "literal_translation": "your mother's cross",
+    "english_equivalent": "fuck your mother's cross",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the cross/faith of someone's mother.",
+    "cultural_context": "A staple of the 'futu-ți' string of religious architectural cursing.",
+    "example_usage": "Futu-ți crucea mă-tii de prost. (Fuck your mother's cross, you idiot.)",
+    "ipa_pronunciation": "ˈkru.t͡ʃe̯a ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "paștele mă-tii",
+    "literal_translation": "your mother's Easter",
+    "english_equivalent": "fuck your mother's Easter",
+    "severity": 4,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Cursing the holiest holiday (Easter) associated with someone's mother.",
+    "cultural_context": "Often yelled out exactly when you hurt yourself (e.g., slamming a finger in a door).",
+    "example_usage": "Futu-ți paștele mă-tii! (Fuck your mother's Easter!)",
+    "ipa_pronunciation": "ˈpaʃ.te.le ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dumnezeul mă-tii",
+    "literal_translation": "your mother's God",
+    "english_equivalent": "goddamn your mother",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Singular variant of cursing the mother's God.",
+    "cultural_context": "Devastatingly offensive to devout Romanians.",
+    "example_usage": "Dă-te-n dumnezeul mă-tii! (Go into your mother's God / Fuck off!)",
+    "ipa_pronunciation": "dum.neˈze.ul ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "maica domnului",
+    "literal_translation": "Mother of the Lord",
+    "english_equivalent": "fuck the Virgin Mary",
+    "severity": 5,
+    "categories": [
+      "religious"
+    ],
+    "meaning": "Targeting the Virgin Mary. Usually appended to 'Futu-ți'.",
+    "cultural_context": "Considered the ultimate sin by Orthodox priests to utter.",
+    "example_usage": "Futu-ți maica domnului! (Fuck the Virgin Mary!)",
+    "ipa_pronunciation": "ˈmaj.ka ˈdom.nu.luj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "soarele mă-tii",
+    "literal_translation": "your mother's sun",
+    "english_equivalent": "fuck your mother's sun",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing the celestial bodies shining upon someone's mother. Often combined with the moon (luna).",
+    "cultural_context": "Demonstrates the pagan/poetic roots in Romanian swearing where you curse the entire universe of the target.",
+    "example_usage": "Futu-ți soarele și luna mă-tii! (Fuck your mother's sun and moon!)",
+    "ipa_pronunciation": "ˈso̯a.re.le ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "neamul mă-tii",
+    "literal_translation": "your mother's bloodline/nation",
+    "english_equivalent": "fuck your entire family tree",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Cursing the entire ancestry and extended family of the target.",
+    "cultural_context": "A comprehensive insult that leaves nothing out.",
+    "example_usage": "Futu-ți tot neamul mă-tii! (Fuck your mother's whole bloodline!)",
+    "ipa_pronunciation": "ˈne̯a.mul ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bou",
+    "literal_translation": "ox",
+    "english_equivalent": "dumbass / ox / idiot",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A castrated bull. Used to call a man extremely stupid and stubborn.",
+    "cultural_context": "Very mild, universally used on TV and in classrooms.",
+    "example_usage": "Taci, măi boule! (Shut up, you idiot/ox!)",
+    "ipa_pronunciation": "bow",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "vacă",
+    "literal_translation": "cow",
+    "english_equivalent": "stupid cow / idiot",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A stupid, slow woman.",
+    "cultural_context": "The female equivalent of 'bou'. Insults intelligence rather than appearance or morality.",
+    "example_usage": "Ce vacă ești. (What a cow you are.)",
+    "ipa_pronunciation": "ˈva.kə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "prost",
+    "literal_translation": "stupid / bad",
+    "english_equivalent": "idiot / stupid",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The standard word for 'stupid' or 'low quality'.",
+    "cultural_context": "A building block. 'Ești un prost' = You're an idiot.",
+    "example_usage": "Ești prost ca noaptea. (You're as stupid as the night.)",
+    "ipa_pronunciation": "prost",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tâmpit",
+    "literal_translation": "dulled / retarded",
+    "english_equivalent": "moron / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone severely lacking in intelligence or doing something dangerous.",
+    "cultural_context": "Stronger than prost. Often used for reckless drivers.",
+    "example_usage": "Dă-o naibii de treabă, ești tâmpit? (Damn it, are you a moron?)",
+    "ipa_pronunciation": "tɨmˈpit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dobitoc",
+    "literal_translation": "beast of burden",
+    "english_equivalent": "brute / mindless idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A dumb animal. Denotes a person acting entirely without a functioning brain.",
+    "cultural_context": "A harsh attack on intelligence.",
+    "example_usage": "Băi dobitocule, uită-te pe unde mergi! (Hey brute, watch where you're walking!)",
+    "ipa_pronunciation": "do.biˈtok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "handicapat",
+    "literal_translation": "handicapped",
+    "english_equivalent": "retard / disabled",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Technically the medical term for disabled, but weaponized heavily in Romania to mean 'retard'.",
+    "cultural_context": "Very common among youths and in traffic to denote someone acting blindly or stupidly.",
+    "example_usage": "Uite la handicapatul ăla cum parchează. (Look at that retard parking.)",
+    "ipa_pronunciation": "han.di.kaˈpat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aurolac",
+    "literal_translation": "gold-lacquer (paint sniffer)",
+    "english_equivalent": "junky / trash / street urchin",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derived from 'Aurolac', a brand of metallic paint sniffed by homeless orphans in 1990s post-communist Romania to get high.",
+    "cultural_context": "A tragic historical origin turned into a slang term for a disgusting, drug-addled, or pathetic person.",
+    "example_usage": "Miroase a aurolac aici. (It smells like a paint-sniffer in here.)",
+    "ipa_pronunciation": "a.u.roˈlak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "călca-te-ar trenul",
+    "literal_translation": "may the train run you over",
+    "english_equivalent": "drop dead",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A curse wishing a deadly accident upon someone.",
+    "cultural_context": "A classic Romanian folk-curse. Surprisingly not considered extremely vulgar, almost comedic today.",
+    "example_usage": "Călca-te-ar trenul să te calce! (May the train run your ass over!)",
+    "ipa_pronunciation": "ˈkəl.ka te̯ar ˈtre.nul",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "în gât",
+    "literal_translation": "in the throat",
+    "english_equivalent": "down your throat",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Often added after 'futu-ți' or 'îmi bag pula' to direct the act violently into someone's throat.",
+    "cultural_context": "Intensifies any preceding curse.",
+    "example_usage": "Băga-mi-aș pula în gâtul tău! (I'll stick my dick down your throat!)",
+    "ipa_pronunciation": "ɨn ɡɨt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lingău",
+    "literal_translation": "licker",
+    "english_equivalent": "ass-kisser / bootlicker",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A sycophant. Someone who metaphorically or literally licks boots for favors.",
+    "cultural_context": "Highly despised in the workplace.",
+    "example_usage": "E doar un lingău obosit. (He's just a tired ass-kisser.)",
+    "ipa_pronunciation": "liŋˈɡəw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pește",
+    "literal_translation": "fish",
+    "english_equivalent": "pimp",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A pimp.",
+    "cultural_context": "Romanian underworld slang. Being called a 'fish' means you traffic women.",
+    "example_usage": "A ajuns mare pește prin Spania. (He became a big pimp in Spain.)",
+    "ipa_pronunciation": "ˈpeʃ.te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "panaramă",
+    "literal_translation": "panorama / spectacle",
+    "english_equivalent": "trainwreck / drama queen / slut",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A woman who creates a huge public scene, acts trashy, or sleeps around.",
+    "cultural_context": "Means making a 'spectacle' of oneself in the cheapest way possible.",
+    "example_usage": "Mai taci, panaramă! (Shut up, you trainwreck/slut!)",
+    "ipa_pronunciation": "pa.naˈra.mə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "du-te dracu",
+    "literal_translation": "go to the devil",
+    "english_equivalent": "go to hell / fuck off",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "The standard way to tell someone to go to hell.",
+    "cultural_context": "Ubiquitous. Not highly severe, but definitely hostile.",
+    "example_usage": "Du-te dracu cu ideile tale. (Go to hell with your ideas.)",
+    "ipa_pronunciation": "ˈdu.te ˈdra.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dă-te-n sloboz",
+    "literal_translation": "go into semen",
+    "english_equivalent": "fuck off",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A much harsher version of telling someone to go away.",
+    "cultural_context": "Very aggressive street language.",
+    "example_usage": "Dă-te-n sloboz de aici! (Get the fuck out of here in semen!)",
+    "ipa_pronunciation": "ˈdə.ten sloˈboz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " sugi ceapa",
+    "literal_translation": "suck the onion",
+    "english_equivalent": "suck it / fuck off",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A humorous, clean alternative to 'sugi pula'.",
+    "cultural_context": "Used when you want to tell someone to bend over and take it, but you don't want to curse.",
+    "example_usage": "Când am văzut scorul, am zis 'sugi ceapa'. (When I saw the score, I said 'suck the onion'.)",
+    "ipa_pronunciation": "sud͡ʒʲ ˈt͡ʃe̯a.pa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " futu-i",
+    "literal_translation": "fuck its...",
+    "english_equivalent": "fuck it / damn",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "An abbreviated curse used when something goes wrong.",
+    "cultural_context": "The speaker stops themselves before adding 'the mother'. Very common exclamation of sudden anger.",
+    "example_usage": "Futu-i! Am scăpat paharul. (Fuck! I dropped the glass.)",
+    "ipa_pronunciation": "ˈfu.tuj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " curve",
+    "literal_translation": "whores",
+    "english_equivalent": "whores (plural)",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Placed here because describing the world or politicians as 'niște curve' (some whores) is the primary political analysis method in Romania.",
+    "cultural_context": "Plural of curvă. Politics and business are often described as pure prostitution.",
+    "example_usage": "Toți politicienii sunt niște curve. (All politicians are whores.)",
+    "ipa_pronunciation": "ˈkur.ve",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " pupincurist",
+    "literal_translation": "ass-kisser (from a pupa în cur = to kiss in the ass)",
+    "english_equivalent": "brown-noser / ass-kisser",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Someone who literally kisses asses for favors.",
+    "cultural_context": "More vulgar and forceful than 'lingău'.",
+    "example_usage": "Un politician pupincurist. (An ass-kissing politician.)",
+    "ipa_pronunciation": "pu.pin.kuˈrist",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " freacă-menta",
+    "literal_translation": "rub the mint",
+    "english_equivalent": "waste of time / slacking off",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Doing absolutely nothing productive.",
+    "cultural_context": "A classic Romanian idiom. Rather than swearing, you accuse them of rubbing mint leaves. A 'frecangiu' is a slacker.",
+    "example_usage": "Nu mai freca menta, treci la muncă! (Stop rubbing the mint and get to work!)",
+    "ipa_pronunciation": "ˈfre̯a.kə ˈmen.ta",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " freacă-pula",
+    "literal_translation": "rub the dick",
+    "english_equivalent": "fucking around / circle-jerking",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The highly vulgar version of 'rubbing the mint'. Means wasting time by jerking off metaphorically.",
+    "cultural_context": "Commonly said to lazy employees or teenagers.",
+    "example_usage": "Toată ziua freci pula! (You've been jerking off / wasting time all day!)",
+    "ipa_pronunciation": "ˈfre̯a.kə ˈpu.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " arde-te-ar focul",
+    "literal_translation": "may the fire burn you",
+    "english_equivalent": "burn in hell",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Wishing someone to burn in hellish fire.",
+    "cultural_context": "A folk curse, often used melodramatically by mothers or grandmothers when a child does something wrong but mostly harmlessly.",
+    "example_usage": "Arde-te-ar focul să te ardă! (May the fire burn you up!)",
+    "ipa_pronunciation": "ˈar.de te̯ar ˈfo.kul",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " futai de mamă",
+    "literal_translation": "mother-fucking",
+    "english_equivalent": "motherfucking mess",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A tremendous failure or an unbearable piece of work.",
+    "cultural_context": "Used to complain about a situation that is essentially a violation of one's sanity.",
+    "example_usage": "E un futai de mamă aici. (It's a motherfucking mess in here.)",
+    "ipa_pronunciation": "fuˈtaj de ˈma.mə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " sparg găoaza",
+    "literal_translation": "break the anus/shell",
+    "english_equivalent": "tear your ass a new one",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A threat to assault someone violently or sexually.",
+    "cultural_context": "Găoaza originally means 'eggshell' but in slang exclusively means the anus. Prison/street vocabulary.",
+    "example_usage": "Îți sparg găoaza dacă mai vii. (I'll tear your ass open if you come back.)",
+    "ipa_pronunciation": "sparɡ ɡəˈo̯a.za",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " fute-vânt",
+    "literal_translation": "fuck-wind",
+    "english_equivalent": "useless idiot / waste of space",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who is so useless that all they accomplish is having sex with the wind.",
+    "cultural_context": "A wonderfully descriptive, dismissive insult for an incompetent person.",
+    "example_usage": "E un fute-vânt, nu știe nimic. (He's a wind-fucker, he knows nothing.)",
+    "ipa_pronunciation": "ˈfu.te vɨnt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " fofoloancă",
+    "literal_translation": "fluffy thing (slang)",
+    "english_equivalent": "pussy / muff",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "A comical, softer slang term for the vagina.",
+    "cultural_context": "Made famous by a song in the early 2000s, it's used more in jokes than as a genuine curse.",
+    "example_usage": "Ea are o fofoloancă auriu. (She has a golden muff.) [Pop culture reference]",
+    "ipa_pronunciation": "fo.foˈlo̯an.kə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " țâțe",
+    "literal_translation": "tits",
+    "english_equivalent": "tits",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Vulgar slang for breasts.",
+    "cultural_context": "The standard colloquial word used by men when objectifying women.",
+    "example_usage": "Ce țâțe are. (What tits she has.)",
+    "ipa_pronunciation": "ˈt͡sɨ.t͡se",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " sâni",
+    "literal_translation": "breasts",
+    "english_equivalent": "boobs",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Not a swear word, but the proper term, often used sensually or casually.",
+    "cultural_context": "Included to contrast with 'țâțe'.",
+    "example_usage": "Femeia cu sâni mari. (The woman with big breasts.)",
+    "ipa_pronunciation": "sɨnʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " sugaci",
+    "literal_translation": "sucker / suckling",
+    "english_equivalent": "cocksucker / baby",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Can refer to a suckling infant, but as an insult to an adult, it means 'cocksucker'.",
+    "cultural_context": "Used to call someone inexperienced or a sycophant.",
+    "example_usage": "Taci din gură, sugaciule! (Shut your mouth, cocksucker!)",
+    "ipa_pronunciation": "suˈɡat͡ʃʲ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " olog",
+    "literal_translation": "cripple",
+    "english_equivalent": "cripple",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A person lacking the use of their legs.",
+    "cultural_context": "Used mostly in traffic to insult slow drivers.",
+    "example_usage": "Mișcă, ologule! (Move, cripple!)",
+    "ipa_pronunciation": "oˈloɡ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " chior",
+    "literal_translation": "blind in one eye",
+    "english_equivalent": "blind bat / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used when someone doesn't see something obvious or drops something.",
+    "cultural_context": "Romanian president Traian Băsescu was often derogatorily called 'Chiorul' by enemies due to a lazy eye.",
+    "example_usage": "Ești chior, nu vezi semaforul? (Are you blind, do you not see the light?)",
+    "ipa_pronunciation": "kjor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " bășină",
+    "literal_translation": "fart",
+    "english_equivalent": "fart / bullshit",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A fart. 'Cu nasul pe sus ca o bășină' (Nose stuck up like a fart) means arrogant.",
+    "cultural_context": "Widely used to describe arrogance or cheap things (ieftin ca o bășină).",
+    "example_usage": "Are niște bășini în cap. (He has farts in his head / He is so arrogant.)",
+    "ipa_pronunciation": "bəˈʃi.nə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " pizdos",
+    "literal_translation": "cunt-ish",
+    "english_equivalent": "fucking awesome / badass",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Something that is extraordinarily cool or high quality.",
+    "cultural_context": "While 'pizdă' is an insult, 'pizdos' (like the British 'the dog's bollocks') is a supreme compliment among men.",
+    "example_usage": "Mașina aia e pizdoasă rău. (That car is fucking badass.)",
+    "ipa_pronunciation": "pizˈdos",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " pula-n cur",
+    "literal_translation": "dick in ass",
+    "english_equivalent": "up your ass",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Often part of a rhyming retort. If someone asks 'Where?' (Unde?), you reply 'Cu pula-n cur să-ți afunde!' (With a dick in your ass to sink deep!).",
+    "cultural_context": "A classic schoolyard and bar rhyme meant to humiliate the person asking a question.",
+    "example_usage": "-Unde? -La pula-n cur! (-Where? -At the dick in the ass!)",
+    "ipa_pronunciation": "ˈpu.lan kur",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " bulău",
+    "literal_translation": "prison",
+    "english_equivalent": "the clink / jail",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Underworld slang for prison.",
+    "cultural_context": "Widely known. To go 'la bulău' means doing time.",
+    "example_usage": "A intrat la bulău pentru furt. (He went to the clink for theft.)",
+    "ipa_pronunciation": "buˈləw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " mucea",
+    "literal_translation": "snotty",
+    "english_equivalent": "snot-nosed brat",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An annoying, inexperienced kid with snot on his face.",
+    "cultural_context": "Used strictly for children playing adults.",
+    "example_usage": "Taci, mucea. (Quiet, snot.)",
+    "ipa_pronunciation": "ˈmu.t͡ʃe̯a",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " gabor",
+    "literal_translation": "detective/cop",
+    "english_equivalent": "pig / cop",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Romani-derived slang for a police officer.",
+    "cultural_context": "Used negatively by criminals or youths running from the law.",
+    "example_usage": "Vin gaborii! (The pigs are coming!)",
+    "ipa_pronunciation": "ˈɡa.bor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " ciumă",
+    "literal_translation": "plague",
+    "english_equivalent": "plague / awful person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The bubonic plague. Used to describe a terribly evil or annoying person.",
+    "cultural_context": "'Ciuma roșie' (The Red Plague) is the primary slogan used to curse the left-wing PSD party.",
+    "example_usage": "Jos ciuma roșie! (Down with the red plague!)",
+    "ipa_pronunciation": "ˈt͡ʃu.mə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " curvar",
+    "literal_translation": "whoremonger",
+    "english_equivalent": "womanizer / fuckboy",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A man who chases after whores or cheats on his wife constantly.",
+    "cultural_context": "Surprisingly, often used with a smirk in macho culture, but meant as a severe marital insult when used by a spouse.",
+    "example_usage": "Ești un curvar împuțit. (You're a stinking whoremonger.)",
+    "ipa_pronunciation": "kurˈvar",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " împuțit",
+    "literal_translation": "stinking",
+    "english_equivalent": "stinking / filthy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Used to describe something or someone that smells literally or metaphorically terrible.",
+    "cultural_context": "Acts as an intensifier for insults, e.g. 'țăran împuțit' (stinking peasant).",
+    "example_usage": "Ce miros împuțit. (What a stinking smell.)",
+    "ipa_pronunciation": "ɨm.puˈt͡sit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " zdreanță",
+    "literal_translation": "rag",
+    "english_equivalent": "slut / rag",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A torn cloth. Equivalent to 'szmata' in Polish. Means a promiscuous or worthless woman.",
+    "cultural_context": "Also the name of a famous dog in a Romanian children's poem, but in adult language, it strictly means a slut.",
+    "example_usage": "Te porți ca o zdreanță. (You act like a rag/slut.)",
+    "ipa_pronunciation": "ˈzdre̯an.t͡sə",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": " pizda mătii",
+    "literal_translation": "your mother's cunt",
+    "english_equivalent": "fuck you / motherfucker",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "The holy grail of Romanian single-phrase insults. Direct and incredibly offensive.",
+    "cultural_context": "The quickest route to a physical altercation in a Romanian traffic jam. Never say this to a stranger.",
+    "example_usage": "Băi, pizda mă-tii, dă-te la o parte! (Hey, motherfucker, move aside!)",
+    "ipa_pronunciation": "ˈpiz.da ˈmə.tij",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

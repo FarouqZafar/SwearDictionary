@@ -1,0 +1,4147 @@
+[
+  {
+    "word": "lanet",
+    "literal_translation": "curse",
+    "english_equivalent": "damn",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used as a mild curse word meaning 'damn' or 'cursed'. Can be directed at situations or people.",
+    "cultural_context": "One of the mildest Turkish curse words, acceptable in most contexts. Derived from Arabic.",
+    "example_usage": "Lanet olsun! (Damn it! / Be cursed!)",
+    "ipa_pronunciation": "lanet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lanet olsun",
+    "literal_translation": "let it be cursed",
+    "english_equivalent": "damn it",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Expression of frustration or displeasure, equivalent to 'damn it'.",
+    "cultural_context": "Mild oath used when something goes wrong. Socially acceptable in most informal settings.",
+    "example_usage": "Lanet olsun, yine geç kaldım! (Damn it, I'm late again!)",
+    "ipa_pronunciation": "lanet olsun",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hay Allah",
+    "literal_translation": "oh God",
+    "english_equivalent": "oh God / oh my God",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Mild exclamation of surprise, frustration, or exasperation.",
+    "cultural_context": "Very mild, commonly used by all ages and genders. Invokes God's name but is not considered blasphemous.",
+    "example_usage": "Hay Allah, anahtarlarımı unuttum! (Oh God, I forgot my keys!)",
+    "ipa_pronunciation": "haj allah",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Allah kahretsin",
+    "literal_translation": "may God destroy/damn [it/you]",
+    "english_equivalent": "God damn it",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Used to express frustration or anger at a situation. Stronger than 'hay Allah'.",
+    "cultural_context": "Moderate oath invoking God's wrath. More emotional than 'lanet olsun'. Used when something bad happens unexpectedly.",
+    "example_usage": "Allah kahretsin, araba yine bozuldu! (God damn it, the car broke down again!)",
+    "ipa_pronunciation": "allah kahɾetsin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Allah belanı versin",
+    "literal_translation": "may Allah give you trouble/calamity",
+    "english_equivalent": "may God curse you",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious",
+      "insult"
+    ],
+    "meaning": "A curse wishing misfortune upon someone, invoking divine punishment.",
+    "cultural_context": "Directed at a person rather than a situation. Considered a real curse in traditional culture. Wishing karma/divine retribution rather than direct confrontation.",
+    "example_usage": "Allah belanı versin, hayatımı mahvettin! (May God curse you, you ruined my life!)",
+    "ipa_pronunciation": "allah belanɯ veɾsin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "Allah cezanı versin",
+    "literal_translation": "may Allah give you your punishment",
+    "english_equivalent": "may God punish you",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious",
+      "insult"
+    ],
+    "meaning": "Wishing divine punishment on someone.",
+    "cultural_context": "Similar to 'Allah belanı versin' but focuses on deserved punishment rather than general calamity.",
+    "example_usage": "Allah cezanı versin! (May God punish you!)",
+    "ipa_pronunciation": "allah dʒezanɯ veɾsin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "allahsız",
+    "literal_translation": "without God / godless",
+    "english_equivalent": "godless / heathen",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone godless, implying they have no morals or conscience.",
+    "cultural_context": "In a predominantly Muslim society, being called godless is a significant insult implying complete moral bankruptcy.",
+    "example_usage": "Allahsız herif! (Godless bastard!)",
+    "ipa_pronunciation": "allahsɯz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "çüş",
+    "literal_translation": "whoa (command to stop a horse/donkey)",
+    "english_equivalent": "whoa / stop it / no way",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Mild exclamation of surprise or disbelief. Originally a command to stop a donkey.",
+    "cultural_context": "Very mild, commonly used among young people. Expresses shock or amazement at something outrageous.",
+    "example_usage": "Çüş, bu kadar da olmaz! (Whoa, that's too much!)",
+    "ipa_pronunciation": "tʃyʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lan",
+    "literal_translation": "man / dude (shortened from 'ulan')",
+    "english_equivalent": "dude / man / hey",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Informal way to address someone. Friendly among close friends, aggressive or disrespectful from strangers.",
+    "cultural_context": "Context-dependent severity. Among friends it's like 'dude' or 'bro'. From a stranger or elder, it's disrespectful and confrontational. Originally from 'oğlan' (boy).",
+    "example_usage": "Lan, ne yapıyorsun? (Dude, what are you doing?)",
+    "ipa_pronunciation": "lan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ulan",
+    "literal_translation": "hey you / boy",
+    "english_equivalent": "hey you / boy",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "More emphatic and aggressive form of 'lan'. Used to express anger or to address someone dismissively.",
+    "cultural_context": "Longer form of 'lan' with more aggressive connotation. Using this with strangers or elders is very disrespectful.",
+    "example_usage": "Ulan, çekil yolumdan! (Hey you, get out of my way!)",
+    "ipa_pronunciation": "ulan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aptal",
+    "literal_translation": "stupid / idiot",
+    "english_equivalent": "idiot / stupid",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone stupid or foolish. One of the milder intelligence-based insults.",
+    "cultural_context": "Relatively mild insult, can be used in friendly teasing contexts. Common in everyday speech.",
+    "example_usage": "Aptal mısın sen? (Are you stupid?)",
+    "ipa_pronunciation": "aptal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "salak",
+    "literal_translation": "silly / foolish",
+    "english_equivalent": "idiot / moron",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone silly or stupid. Very common mild insult.",
+    "cultural_context": "Among the most commonly used mild insults. Can be playful or genuinely insulting depending on tone.",
+    "example_usage": "Salak salak konuşma! (Don't talk nonsense!)",
+    "ipa_pronunciation": "salak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gerizekalı",
+    "literal_translation": "backward-minded",
+    "english_equivalent": "retard / moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Insulting someone's intelligence by implying their mind works backwards.",
+    "cultural_context": "Stronger than 'aptal' or 'salak'. The compound word literally suggests a reversed intellect.",
+    "example_usage": "Gerizekalı mısın, anlamıyor musun? (Are you a moron, don't you understand?)",
+    "ipa_pronunciation": "ɡeɾizekalɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "embesil",
+    "literal_translation": "imbecile (borrowed from French)",
+    "english_equivalent": "imbecile",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone an imbecile. Borrowed from French 'imbécile'.",
+    "cultural_context": "Loanword insult, slightly more 'educated'-sounding than native Turkish equivalents.",
+    "example_usage": "Embesil herif! (You imbecile!)",
+    "ipa_pronunciation": "embesil",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gerzek",
+    "literal_translation": "fool",
+    "english_equivalent": "fool / dimwit",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a fool or dimwit.",
+    "cultural_context": "Mild insult, similar in weight to 'salak'.",
+    "example_usage": "Gerzek gibi davranma! (Don't act like a fool!)",
+    "ipa_pronunciation": "ɡeɾzek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dangalak",
+    "literal_translation": "bonehead / oaf",
+    "english_equivalent": "bonehead / blockhead",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone thick-headed or clumsy-minded. Implies rural unsophistication.",
+    "cultural_context": "Mainly used in eastern Turkey, especially the Gaziantep region. Considered light profanity between close friends.",
+    "example_usage": "Dangalak herif, ne yaptın? (You bonehead, what did you do?)",
+    "ipa_pronunciation": "danɡalak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mankafa",
+    "literal_translation": "blockhead (man + kafa/head)",
+    "english_equivalent": "blockhead",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a blockhead or thickskull.",
+    "cultural_context": "Common insult implying dense stupidity.",
+    "example_usage": "Mankafa, dikkat et! (Blockhead, pay attention!)",
+    "ipa_pronunciation": "mankafa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "angut",
+    "literal_translation": "bustard (a bird known for being slow)",
+    "english_equivalent": "dimwit / dolt",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to a bustard bird, implying they are slow and stupid.",
+    "cultural_context": "The bustard is considered a slow, dim bird in Turkish folk culture.",
+    "example_usage": "Angut gibi bakma bana! (Don't stare at me like a dimwit!)",
+    "ipa_pronunciation": "anɡut",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mal",
+    "literal_translation": "cattle / goods / wares",
+    "english_equivalent": "dumbass / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to livestock, implying they are stupid and have no value as a thinking being.",
+    "cultural_context": "Very commonly used insult. Reducing a person to the status of goods or cattle.",
+    "example_usage": "Mal mısın? (Are you a dumbass?)",
+    "ipa_pronunciation": "mal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "öküz",
+    "literal_translation": "ox",
+    "english_equivalent": "ox / oaf / loser",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to an ox - implying they are big, dumb, and clumsy.",
+    "cultural_context": "Common animal-based insult. Oxen are seen as strong but stupid work animals.",
+    "example_usage": "Öküz gibi oturma orada! (Don't sit there like an ox!)",
+    "ipa_pronunciation": "økyz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eşek",
+    "literal_translation": "donkey",
+    "english_equivalent": "jackass / ass",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a donkey, implying stubbornness and stupidity.",
+    "cultural_context": "Classic insult across many cultures. In Turkish culture, donkeys represent stubbornness and low intelligence.",
+    "example_usage": "Eşek herif! (You jackass!)",
+    "ipa_pronunciation": "eʃek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eşşoğlueşşek",
+    "literal_translation": "donkey, son of a donkey",
+    "english_equivalent": "jackass, son of a jackass",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Emphatic form of calling someone a donkey, extending the insult to their parentage.",
+    "cultural_context": "Traditional Turkish curse often directed at misbehaving children. Doubling the animal insult with lineage.",
+    "example_usage": "Eşşoğlueşşek, dur bakalım! (You jackass son of a jackass, wait right there!)",
+    "ipa_pronunciation": "eʃʃoːlueʃʃek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hayvan",
+    "literal_translation": "animal",
+    "english_equivalent": "animal / brute / beast",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone an animal, implying they lack human qualities like reason and manners.",
+    "cultural_context": "Reducing someone to animal status is a significant insult in Turkish culture, which emphasizes human dignity and civility.",
+    "example_usage": "Hayvan gibi davranma! (Don't behave like an animal!)",
+    "ipa_pronunciation": "hajvan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hayvan herif",
+    "literal_translation": "animal fellow",
+    "english_equivalent": "you brute / you animal",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Intensified form of 'hayvan' with 'herif' (fellow/guy) added for emphasis.",
+    "cultural_context": "'Herif' itself is slightly derogatory, meaning 'fellow' in a dismissive way. Combined with 'hayvan' it becomes a strong character insult.",
+    "example_usage": "Hayvan herif, ne yaptığını biliyor musun? (You brute, do you know what you're doing?)",
+    "ipa_pronunciation": "hajvan heɾif",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "it",
+    "literal_translation": "dog",
+    "english_equivalent": "cur / mutt",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a dog. In Islamic culture, dogs are considered unclean.",
+    "cultural_context": "Dogs are traditionally viewed negatively in Turkish-Islamic culture (unlike Western culture). Being called a dog is a real insult.",
+    "example_usage": "It herif! (You cur!)",
+    "ipa_pronunciation": "it",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "itoğlu it",
+    "literal_translation": "dog, son of a dog",
+    "english_equivalent": "son of a bitch / cur",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Emphatic dog insult extending to parentage. Equivalent to 'son of a bitch'.",
+    "cultural_context": "Doubling the insult by attacking both the person and their parents. More severe than just 'it'.",
+    "example_usage": "İtoğlu it, seni bulacağım! (You son of a bitch, I'll find you!)",
+    "ipa_pronunciation": "itoːlu it",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "köpek",
+    "literal_translation": "dog",
+    "english_equivalent": "dog",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Another word for dog used as an insult. Slightly more formal than 'it'.",
+    "cultural_context": "Same cultural weight as 'it' but used in slightly different registers.",
+    "example_usage": "Köpek gibi yalvardı. (He begged like a dog.)",
+    "ipa_pronunciation": "køpek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "domuz",
+    "literal_translation": "pig",
+    "english_equivalent": "pig / swine",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone a pig. Particularly offensive in Islamic context where pigs are haram (forbidden).",
+    "cultural_context": "Extra offensive due to Islamic prohibition on pork. Implies the person is filthy, greedy, or morally impure.",
+    "example_usage": "Domuz herif! (You pig!)",
+    "ipa_pronunciation": "domuz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ayı",
+    "literal_translation": "bear",
+    "english_equivalent": "oaf / boor / brute",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to a bear - implying they are clumsy, uncouth, or rough in manners.",
+    "cultural_context": "Milder animal insult focusing on lack of social graces rather than intelligence.",
+    "example_usage": "Ayı gibi oturma! (Don't sit like a bear!)",
+    "ipa_pronunciation": "ajɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "manda",
+    "literal_translation": "water buffalo",
+    "english_equivalent": "buffalo / oaf",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to a water buffalo - implying slow, heavy, and stupid.",
+    "cultural_context": "Animal insult similar to 'öküz' but with added connotation of heaviness.",
+    "example_usage": "Manda gibi ne oturuyorsun? (Why are you sitting there like a buffalo?)",
+    "ipa_pronunciation": "manda",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "malak",
+    "literal_translation": "water buffalo calf",
+    "english_equivalent": "calf / dimwit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Baby buffalo - implying young and stupid, even dumber than an adult buffalo.",
+    "cultural_context": "Used for someone who is particularly clueless or naive.",
+    "example_usage": "Malak gibi bakma! (Don't stare like a calf!)",
+    "ipa_pronunciation": "malak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "davar",
+    "literal_translation": "livestock / cattle",
+    "english_equivalent": "dumb animal",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to generic livestock, implying they are mindless.",
+    "cultural_context": "Generic livestock insult, somewhat rural in flavor.",
+    "example_usage": "Davar mısın sen? (Are you livestock?)",
+    "ipa_pronunciation": "davaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ezik",
+    "literal_translation": "crushed / squashed",
+    "english_equivalent": "loser / pushover",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a loser, someone who has been defeated or has no backbone.",
+    "cultural_context": "Popular among younger generations. Implies weakness and low social standing.",
+    "example_usage": "Ezik gibi davranma! (Don't act like a loser!)",
+    "ipa_pronunciation": "ezik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yavşak",
+    "literal_translation": "newborn head louse / nit",
+    "english_equivalent": "creep / sleazeball / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to a louse/nit. Implies they are slimy, untrustworthy, and disgusting.",
+    "cultural_context": "Quite harsh insult. The literal meaning (baby louse) makes it particularly degrading - even lower than a full louse.",
+    "example_usage": "Yavşak herif, bir daha yaklaşma! (You creep, don't come near again!)",
+    "ipa_pronunciation": "javʃak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pislik",
+    "literal_translation": "piece of dirt / filth",
+    "english_equivalent": "dirt / filth / jerk",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone filthy or a piece of dirt.",
+    "cultural_context": "Implies moral filthiness as well as physical uncleanliness.",
+    "example_usage": "Pislik herif! (You filthy jerk!)",
+    "ipa_pronunciation": "pislik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dallama",
+    "literal_translation": "refers to a castrated goat or nonsensical person",
+    "english_equivalent": "dumbass / twit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "General insult implying stupidity and uselessness.",
+    "cultural_context": "Common insult, somewhat vulgar but not extremely severe.",
+    "example_usage": "Dallama, ne yapıyorsun? (You dumbass, what are you doing?)",
+    "ipa_pronunciation": "dallama",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "manyak",
+    "literal_translation": "maniac (from French 'maniaque')",
+    "english_equivalent": "maniac / crazy / nutjob",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone crazy or maniacal. Can be used both negatively and in admiration.",
+    "cultural_context": "Loanword from French. Can actually be complimentary in some contexts ('you're crazy good').",
+    "example_usage": "Manyak mısın? (Are you crazy?)",
+    "ipa_pronunciation": "manjak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hödük",
+    "literal_translation": "boor / yokel",
+    "english_equivalent": "bumpkin / hick / yokel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone an unsophisticated rustic. Implies lack of urban manners.",
+    "cultural_context": "Urban vs rural class insult. Implies someone is from the countryside and lacks refinement.",
+    "example_usage": "Hödük gibi davranma! (Don't act like a yokel!)",
+    "ipa_pronunciation": "hødyk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kıro",
+    "literal_translation": "yokel / bumpkin",
+    "english_equivalent": "hick / boor / redneck",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term for someone perceived as uncultured and rural.",
+    "cultural_context": "Class-based insult common in urban areas. Has ethnic overtones in some contexts.",
+    "example_usage": "Kıro gibi giyinme! (Don't dress like a hick!)",
+    "ipa_pronunciation": "kɯɾo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "köylü",
+    "literal_translation": "villager / peasant",
+    "english_equivalent": "peasant / yokel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Using 'villager' as an insult implying someone is unsophisticated and uneducated.",
+    "cultural_context": "Reflects the urban-rural divide in Turkish society. Used to mock manners and sophistication.",
+    "example_usage": "Köylü gibi yemek yeme! (Don't eat like a peasant!)",
+    "ipa_pronunciation": "køjly",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "beyinsiz",
+    "literal_translation": "brainless",
+    "english_equivalent": "brainless / moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone brainless.",
+    "cultural_context": "Direct and clear insult to intelligence.",
+    "example_usage": "Beyinsiz herif! (Brainless idiot!)",
+    "ipa_pronunciation": "bejinsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kafasız",
+    "literal_translation": "headless / without a head",
+    "english_equivalent": "brainless / stupid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Implying someone has no head (i.e., no brain).",
+    "cultural_context": "Emphasizes thoughtlessness and inability to think.",
+    "example_usage": "Kafasız adam! (Headless/stupid man!)",
+    "ipa_pronunciation": "kafasɯz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "enayi",
+    "literal_translation": "sucker / gullible person",
+    "english_equivalent": "sucker / fool / dupe",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone gullible or easily fooled.",
+    "cultural_context": "In Turkish culture, being outsmarted or cheated is seen as particularly shameful. This insult attacks street-smarts.",
+    "example_usage": "Enayi gibi her şeye inanıyorsun! (You believe everything like a sucker!)",
+    "ipa_pronunciation": "enaji",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "keriz",
+    "literal_translation": "sucker / mark",
+    "english_equivalent": "sucker / easy target / mark",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone easily cheated or taken advantage of.",
+    "cultural_context": "Slang term popular in urban settings. From the world of scams and street dealings.",
+    "example_usage": "Keriz gibi kandırdılar seni. (They fooled you like a sucker.)",
+    "ipa_pronunciation": "keɾiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lavuk",
+    "literal_translation": "clown / fool",
+    "english_equivalent": "clown / loser / tool",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a clown or a tool. Implies they are not to be taken seriously.",
+    "cultural_context": "Slang insult, common in casual speech among younger people.",
+    "example_usage": "Lavuğun teki! (Such a tool!)",
+    "ipa_pronunciation": "lavuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zibidi",
+    "literal_translation": "good-for-nothing / rascal",
+    "english_equivalent": "rascal / scallywag",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Light insult for a mischievous or unruly person.",
+    "cultural_context": "Mild, sometimes affectionate insult. Can be used for naughty children.",
+    "example_usage": "Zibidi çocuk! (You little rascal!)",
+    "ipa_pronunciation": "zibidi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hırt",
+    "literal_translation": "boor / ruffian",
+    "english_equivalent": "boor / ruffian",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone uncouth and rough-mannered.",
+    "cultural_context": "Implies someone lacks basic social graces and refinement.",
+    "example_usage": "Hırt herif! (You boor!)",
+    "ipa_pronunciation": "hɯɾt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gâvur",
+    "literal_translation": "infidel / non-Muslim",
+    "english_equivalent": "infidel / unbeliever",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Originally meant non-Muslim/infidel, now used as a general insult implying cruelty or ruthlessness.",
+    "cultural_context": "Has strong historical connotations from Ottoman era. Can be used admiringly ('gavur gibi inatçı' = stubborn as an infidel) or as a genuine insult. From Arabic 'kafir'.",
+    "example_usage": "Gavur gibi inat etme! (Don't be stubborn like an infidel!)",
+    "ipa_pronunciation": "ɡaːvuɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gavurun dölü",
+    "literal_translation": "spawn/sperm of an infidel",
+    "english_equivalent": "infidel's spawn",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone the offspring of an infidel, attacking both them and their lineage.",
+    "cultural_context": "Combines religious insult with lineage attack, making it significantly more severe than 'gavur' alone.",
+    "example_usage": "Gavurun dölü! (You infidel's spawn!)",
+    "ipa_pronunciation": "ɡavuɾun døly",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dinsiz",
+    "literal_translation": "without religion / irreligious",
+    "english_equivalent": "godless / heathen",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone irreligious, implying they have no moral compass.",
+    "cultural_context": "In Turkey's predominantly Muslim society, being called religionless is a moral condemnation.",
+    "example_usage": "Dinsiz imansız herif! (Godless faithless bastard!)",
+    "ipa_pronunciation": "dinsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cenabet",
+    "literal_translation": "ritually impure (Islamic term for state after sexual activity)",
+    "english_equivalent": "filthy / unclean",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone ritually impure. Implies they are dirty and haven't cleansed themselves.",
+    "cultural_context": "From Islamic jurisprudence - 'cünüp/cenabet' is the state of ritual impurity. Using it as an insult implies spiritual and physical dirtiness.",
+    "example_usage": "Cenabet herif! (You filthy/impure bastard!)",
+    "ipa_pronunciation": "dʒenabet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cibilliyetsiz",
+    "literal_translation": "without ancestry/breeding",
+    "english_equivalent": "ill-bred / classless",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Implying someone has no proper upbringing or breeding.",
+    "cultural_context": "Attacks family honor and upbringing. In Turkish culture where family reputation matters greatly, this is a pointed insult.",
+    "example_usage": "Cibilliyetsiz adam! (Ill-bred man!)",
+    "ipa_pronunciation": "dʒibillijetsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "haysiyetsiz",
+    "literal_translation": "without dignity / without honor",
+    "english_equivalent": "dishonorable / scoundrel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone without honor or dignity.",
+    "cultural_context": "Attacks personal honor, which is extremely important in Turkish culture.",
+    "example_usage": "Haysiyetsiz herif! (You dishonorable scoundrel!)",
+    "ipa_pronunciation": "hajsijetsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "şerefsiz",
+    "literal_translation": "without honor",
+    "english_equivalent": "dishonorable / scumbag",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "One of the most cutting character insults - calling someone completely without honor.",
+    "cultural_context": "In Turkish culture, 'şeref' (honor) is paramount. Being called 'şerefsiz' is a profound personal attack. Can provoke serious confrontation.",
+    "example_usage": "Şerefsiz herif, bunu nasıl yaparsın? (You dishonorable scumbag, how could you do this?)",
+    "ipa_pronunciation": "ʃeɾefsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "namussuz",
+    "literal_translation": "without namus (honor/virtue)",
+    "english_equivalent": "dishonorable / immoral",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone without 'namus' - a concept encompassing personal and family honor, especially sexual honor.",
+    "cultural_context": "'Namus' is a deeply important concept in Turkish culture relating to sexual honor and family reputation. This is an extremely serious accusation.",
+    "example_usage": "Namussuz adam! (Dishonorable/immoral man!)",
+    "ipa_pronunciation": "namussuz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "alçak",
+    "literal_translation": "low / base",
+    "english_equivalent": "lowlife / scoundrel",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone low, base, or vile.",
+    "cultural_context": "Implies moral baseness and contemptible behavior.",
+    "example_usage": "Alçak herif! (You lowlife!)",
+    "ipa_pronunciation": "altʃak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aşağılık",
+    "literal_translation": "inferior / despicable",
+    "english_equivalent": "despicable / lowlife",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone despicable or beneath contempt.",
+    "cultural_context": "Strong moral condemnation.",
+    "example_usage": "Aşağılık herif! (You despicable bastard!)",
+    "ipa_pronunciation": "aʃaːɯlɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kepaze",
+    "literal_translation": "disgraceful / shameful",
+    "english_equivalent": "disgrace / shameful wretch",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a disgrace, implying they have brought shame upon themselves.",
+    "cultural_context": "From Persian. Attacks someone's reputation and social standing.",
+    "example_usage": "Kepaze olma! (Don't disgrace yourself!)",
+    "ipa_pronunciation": "kepaze",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piç",
+    "literal_translation": "bastard (born out of wedlock)",
+    "english_equivalent": "bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone illegitimate. Attacks their parentage and family honor.",
+    "cultural_context": "Illegitimacy is a severe stigma in traditional Turkish culture. This word attacks the person's very right to exist in polite society.",
+    "example_usage": "Piç kurusu! (You dried-up bastard!)",
+    "ipa_pronunciation": "pitʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "piç kurusu",
+    "literal_translation": "dried-up bastard",
+    "english_equivalent": "rotten bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Intensified form of 'piç'. Adding 'kurusu' (dried) makes it more emphatic and degrading.",
+    "cultural_context": "The 'kurusu' suffix implies the bastard has dried up and is worthless.",
+    "example_usage": "Piç kurusu, defol! (You rotten bastard, get lost!)",
+    "ipa_pronunciation": "pitʃ kuɾusu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "veledizina",
+    "literal_translation": "child of adultery (from Arabic walad az-zina)",
+    "english_equivalent": "bastard / child of sin",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Calling someone a child born of fornication/adultery. Extremely offensive Islamic-origin insult.",
+    "cultural_context": "From Arabic religious terminology. Combines illegitimacy with sin. One of the more archaic but cutting insults.",
+    "example_usage": "Veled-i zina! (Child of adultery!)",
+    "ipa_pronunciation": "veledizina",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dönek",
+    "literal_translation": "turncoat / one who turns",
+    "english_equivalent": "traitor / turncoat",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a traitor or someone who changes sides for personal gain.",
+    "cultural_context": "Loyalty is highly valued in Turkish culture. Being called a turncoat is a serious character attack.",
+    "example_usage": "Dönek herif! (You turncoat!)",
+    "ipa_pronunciation": "dønek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hıyar",
+    "literal_translation": "cucumber",
+    "english_equivalent": "dickhead / moron",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Originally means cucumber but became slang for penis and by extension, an insult meaning dickhead or moron.",
+    "cultural_context": "The word changed meaning over time so that people now say 'salatalık' (salad ingredient) when they mean actual cucumber. Similar to how 'gay' changed meaning in English.",
+    "example_usage": "Hıyar gibi davranma! (Don't act like a dickhead!)",
+    "ipa_pronunciation": "hɯjaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hıyar ağası",
+    "literal_translation": "cucumber master / lord of cucumbers",
+    "english_equivalent": "king dickhead",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Emphatic form of 'hıyar'. The 'ağası' (master/lord) makes it more insulting.",
+    "cultural_context": "Adding 'ağası' creates an ironic title, mocking the person.",
+    "example_usage": "Hıyar ağası, sen sus! (King dickhead, you shut up!)",
+    "ipa_pronunciation": "hɯjaɾ aːasɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bok",
+    "literal_translation": "shit / feces",
+    "english_equivalent": "shit / crap",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Equivalent of 'shit'. Used as an exclamation or to describe something worthless.",
+    "cultural_context": "Very common scatological term. Used in many compound expressions.",
+    "example_usage": "Bok gibi! (Like shit! / It's crap!)",
+    "ipa_pronunciation": "bok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "boktan",
+    "literal_translation": "from shit / shitty",
+    "english_equivalent": "shitty / crappy",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Adjective meaning shitty or crappy. Used to describe things of terrible quality.",
+    "cultural_context": "Very common in everyday speech to describe poor quality things.",
+    "example_usage": "Boktan bir gün geçirdim. (I had a shitty day.)",
+    "ipa_pronunciation": "boktan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ağzına sıçayım",
+    "literal_translation": "let me shit in your mouth",
+    "english_equivalent": "shut the fuck up",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Extremely vulgar way to tell someone to shut up. Threatens to defecate in their mouth.",
+    "cultural_context": "Highly offensive scatological insult. Combines physical degradation with silencing.",
+    "example_usage": "Ağzına sıçayım, sus artık! (Shut the fuck up already!)",
+    "ipa_pronunciation": "aːzɯna sɯtʃajɯm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sıçmak",
+    "literal_translation": "to shit / to defecate",
+    "english_equivalent": "to shit",
+    "severity": 2,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Vulgar term for defecation. Used in many compound insults.",
+    "cultural_context": "Base scatological verb used in numerous compound insults and expressions.",
+    "example_usage": "İşin içine sıçtın. (You shat into the matter / You fucked it up.)",
+    "ipa_pronunciation": "sɯtʃmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nah",
+    "literal_translation": "fig sign (thumb between fingers)",
+    "english_equivalent": "up yours / no way in hell",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Represents the 'fig' hand gesture (thumb between index and middle finger). Means 'no way' or 'you'll get nothing'.",
+    "cultural_context": "The fig gesture is an ancient Mediterranean insult. Saying 'nah' is the verbal equivalent.",
+    "example_usage": "Nah, sana yok! (Up yours, you get nothing!)",
+    "ipa_pronunciation": "nah",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yuh",
+    "literal_translation": "shame / boo",
+    "english_equivalent": "shame on you / boo",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Expression of disapproval, disgust, or disbelief.",
+    "cultural_context": "Can be mild or strong depending on context. Used to shame someone publicly.",
+    "example_usage": "Yuh artık! (Shame on you! / Come on, that's too much!)",
+    "ipa_pronunciation": "juh",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "terbiyesiz",
+    "literal_translation": "without manners/upbringing",
+    "english_equivalent": "ill-mannered / rude",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone rude or ill-mannered.",
+    "cultural_context": "Attacks upbringing, which reflects on the family. Milder but still pointed.",
+    "example_usage": "Terbiyesiz çocuk! (Ill-mannered child!)",
+    "ipa_pronunciation": "teɾbijesiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "edepsiz",
+    "literal_translation": "without manners/decency",
+    "english_equivalent": "indecent / rude",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Similar to 'terbiyesiz' - calling someone lacking in decency and proper behavior.",
+    "cultural_context": "Slightly more formal/old-fashioned than 'terbiyesiz'.",
+    "example_usage": "Edepsiz herif! (You indecent fellow!)",
+    "ipa_pronunciation": "edepsiz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kes sesini",
+    "literal_translation": "cut your voice",
+    "english_equivalent": "shut up",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Command to shut up. More aggressive than 'sus' (be quiet).",
+    "cultural_context": "Rude but not profane. 'Sus' is the standard way to say 'be quiet'; 'kes sesini' is confrontational.",
+    "example_usage": "Kes sesini! (Shut up!)",
+    "ipa_pronunciation": "kes sesini",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "defol",
+    "literal_translation": "get lost / scram",
+    "english_equivalent": "get lost / scram / piss off",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Harsh way to tell someone to leave. From Arabic.",
+    "cultural_context": "Strong dismissal without being sexually vulgar.",
+    "example_usage": "Defol git! (Get lost! / Scram!)",
+    "ipa_pronunciation": "defol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siktir",
+    "literal_translation": "get fucked / causative form of 'to fuck'",
+    "english_equivalent": "fuck",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "exclamation"
+    ],
+    "meaning": "The primary Turkish f-word. Can be used as an exclamation or part of compound phrases.",
+    "cultural_context": "One of the strongest single-word profanities in Turkish. The causative form of 'sikmek' (to fuck).",
+    "example_usage": "Siktir! (Fuck!)",
+    "ipa_pronunciation": "siktiɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siktir git",
+    "literal_translation": "get fucked and go",
+    "english_equivalent": "fuck off",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Direct equivalent of 'fuck off'. Tells someone to leave in the most vulgar way.",
+    "cultural_context": "Extremely offensive. Can provoke physical confrontation. One of the most recognizable Turkish curses.",
+    "example_usage": "Siktir git buradan! (Fuck off from here!)",
+    "ipa_pronunciation": "siktiɾ ɡit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siktir et",
+    "literal_translation": "fuck it (causative)",
+    "english_equivalent": "fuck it / forget about it",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "exclamation"
+    ],
+    "meaning": "Used to express giving up on something or dismissing it. Less confrontational than 'siktir git'.",
+    "cultural_context": "More about dismissing a situation than insulting a person.",
+    "example_usage": "Siktir et, boşver! (Fuck it, never mind!)",
+    "ipa_pronunciation": "siktiɾ et",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sik",
+    "literal_translation": "penis / dick",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Vulgar term for penis. Also the root verb 'to fuck' (sikmek).",
+    "cultural_context": "Core vulgar term. Forms the basis of many compound insults.",
+    "example_usage": "Used in many compound insults.",
+    "ipa_pronunciation": "sik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sikmek",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The primary vulgar verb for sexual intercourse. Root of many compound curses.",
+    "cultural_context": "Base verb for the most severe category of Turkish profanity.",
+    "example_usage": "Many compound curses are built on this verb.",
+    "ipa_pronunciation": "sikmek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sikik",
+    "literal_translation": "fucked / one who has been fucked",
+    "english_equivalent": "fucked / fucktard",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Past participle of 'sikmek' used as an insult. Implies someone is damaged or worthless.",
+    "cultural_context": "Being the passive recipient in sexual acts is considered deeply shameful in Turkish masculine culture.",
+    "example_usage": "Sikik herif! (You fucktard!)",
+    "ipa_pronunciation": "sikik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sikimsonik",
+    "literal_translation": "my-dick-sonic / worthless like my dick",
+    "english_equivalent": "bullshit / worthless crap",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Adjective meaning worthless, trashy, or bullshit.",
+    "cultural_context": "Commonly used to describe things of no value or importance.",
+    "example_usage": "Sikimsonik işlerle uğraşma! (Don't deal with bullshit stuff!)",
+    "ipa_pronunciation": "sikimsonik",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siktiğimin",
+    "literal_translation": "of the one I fucked / fucking (possessive)",
+    "english_equivalent": "fucking (adjective)",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Used as a modifier equivalent to 'fucking' in English.",
+    "cultural_context": "Used before nouns to intensify insults, like 'fucking' in English.",
+    "example_usage": "Siktiğimin yeri! (This fucking place!)",
+    "ipa_pronunciation": "siktiːimin",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siktirboktan",
+    "literal_translation": "fuck-shit (compound)",
+    "english_equivalent": "complete shit / fucking worthless",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "scatological",
+      "insult"
+    ],
+    "meaning": "Compound word combining sexual and scatological profanity. Means something is absolutely worthless.",
+    "cultural_context": "Double-barreled profanity combining two vulgar roots for maximum effect.",
+    "example_usage": "Siktirboktan bir iş. (A completely worthless job.)",
+    "ipa_pronunciation": "siktiɾboktan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amına koyayım",
+    "literal_translation": "I'll put it in your (mother's) pussy",
+    "english_equivalent": "motherfucker / fuck / damn it",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "One of the most versatile and commonly used Turkish curses. Can express frustration, anger, disbelief, or be directed at someone. Often abbreviated as AMK.",
+    "cultural_context": "Despite being the most severe curse, it's paradoxically one of the most commonly used. Young men especially use it constantly in casual speech. The abbreviation 'AMK' is ubiquitous online.",
+    "example_usage": "Amına koyayım, yine mi? (Fuck, again?)",
+    "ipa_pronunciation": "amɯna kojajɯm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amk",
+    "literal_translation": "abbreviation of 'amına koyayım'",
+    "english_equivalent": "fuck / ffs",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "exclamation"
+    ],
+    "meaning": "Text/internet abbreviation of 'amına koyayım'. Ubiquitous in online Turkish communication.",
+    "cultural_context": "The abbreviated form is somewhat less severe than the full phrase. Extremely common in Turkish social media and messaging.",
+    "example_usage": "Bu ne amk? (What the fuck is this?)",
+    "ipa_pronunciation": "amk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ananı sikeyim",
+    "literal_translation": "let me fuck your mother",
+    "english_equivalent": "fuck your mother / motherfucker",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Direct threat to violate someone's mother. One of the most provocative things you can say in Turkish.",
+    "cultural_context": "Mothers are sacred in Turkish culture. This is among the most fighting-words level insults. Will almost certainly provoke a physical response if said seriously.",
+    "example_usage": "Ananı sikeyim! (Fuck your mother!)",
+    "ipa_pronunciation": "ananɯ sikejim",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ananı avradını sikeyim",
+    "literal_translation": "let me fuck your mother and wife",
+    "english_equivalent": "fuck your mother and wife",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Extended form attacking both mother and wife/woman. Maximum provocation.",
+    "cultural_context": "Extends the mother insult to include the wife, doubling the offense. Expression of extreme anger or outrage.",
+    "example_usage": "Used in extreme anger.",
+    "ipa_pronunciation": "ananɯ avɾadɯnɯ sikejim",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ananın amı",
+    "literal_translation": "your mother's pussy",
+    "english_equivalent": "your mother's cunt / holy shit",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "exclamation",
+      "body_part"
+    ],
+    "meaning": "Can be an exclamation of extreme surprise or a direct insult. References mother's genitalia.",
+    "cultural_context": "Combining maternal reference with genital reference creates maximum offense. Also used as an exclamation when something is outrageous or unbelievable.",
+    "example_usage": "Ananın amı, bu ne fiyat? (Holy shit, what is this price?)",
+    "ipa_pronunciation": "ananɯn amɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ananın dölü",
+    "literal_translation": "your mother's sperm/semen",
+    "english_equivalent": "your mother's cum",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone their mother's sexual secretion. Deeply degrading.",
+    "cultural_context": "Reduces the person to a bodily fluid, combining maternal insult with sexual degradation.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "ananɯn døly",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amın oğlu",
+    "literal_translation": "son of a pussy/cunt",
+    "english_equivalent": "son of a cunt",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone 'son of a vagina' - implying their mother is defined only by her genitalia.",
+    "cultural_context": "Reduces the mother to her genitalia, which is a severe insult in honor culture.",
+    "example_usage": "Amın oğlu, defol! (Son of a cunt, get lost!)",
+    "ipa_pronunciation": "amɯn oːlu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amın feryadı",
+    "literal_translation": "cry/scream of a pussy",
+    "english_equivalent": "cunt's wail / worthless person",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone the wail of a vagina - implying they are nothing but noise from genitalia.",
+    "cultural_context": "Creative compound insult. Reduces the person to an insignificant sound.",
+    "example_usage": "Amın feryadı, sus! (You cunt's wail, shut up!)",
+    "ipa_pronunciation": "amɯn feɾjadɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "am",
+    "literal_translation": "vagina / pussy / cunt",
+    "english_equivalent": "pussy / cunt",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Vulgar term for female genitalia.",
+    "cultural_context": "Core vulgar term for female anatomy. Forms the root of many compound insults.",
+    "example_usage": "Used in many compound insults.",
+    "ipa_pronunciation": "am",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amcık",
+    "literal_translation": "little pussy / little cunt",
+    "english_equivalent": "cunt / pussy",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Diminutive of 'am'. Used as an insult meaning someone is stupid, annoying, or foolish.",
+    "cultural_context": "Despite being a diminutive form, it's actually harsher as an insult than 'am' itself. Very commonly used.",
+    "example_usage": "Amcık herif! (You cunt!)",
+    "ipa_pronunciation": "amdʒɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amcık hoşafı",
+    "literal_translation": "pussy compote / cunt stew",
+    "english_equivalent": "cunt juice / worthless person",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Comparing someone to the juice/stew of a vagina. Creative and highly vulgar compound insult.",
+    "cultural_context": "Hoşaf is a traditional Turkish fruit compote. Combining it with 'amcık' creates a uniquely Turkish vulgar metaphor.",
+    "example_usage": "Amcık hoşafı, çekil yolumdan! (You cunt stew, get out of my way!)",
+    "ipa_pronunciation": "amdʒɯk hoʃafɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amcık ağızlı",
+    "literal_translation": "pussy-mouthed / cunt-mouthed",
+    "english_equivalent": "cunt-mouth / foul-mouthed",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Saying someone's mouth is like a vagina - implying everything they say is worthless or obscene.",
+    "cultural_context": "Combining body parts in insults is a common Turkish profanity technique.",
+    "example_usage": "Amcık ağızlı, konuşma! (Cunt-mouth, don't talk!)",
+    "ipa_pronunciation": "amdʒɯk aːɯzlɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yarrak",
+    "literal_translation": "penis / cock / dick",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Highly vulgar term for penis. Used as an expletive and in many compound insults.",
+    "cultural_context": "One of the most common vulgar words. Has many variant spellings and pronunciations across regions.",
+    "example_usage": "Yarrak gibi kaldık. (We were left like a dick / We were left standing stupidly.)",
+    "ipa_pronunciation": "jaɾɾak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yarak",
+    "literal_translation": "penis / cock (variant spelling)",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Variant spelling/pronunciation of 'yarrak'.",
+    "cultural_context": "Same word, different regional pronunciation.",
+    "example_usage": "Same usage as 'yarrak'.",
+    "ipa_pronunciation": "jaɾak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yarrak kafa",
+    "literal_translation": "dick head",
+    "english_equivalent": "dickhead",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Direct equivalent of 'dickhead'. Implies stupidity.",
+    "cultural_context": "Similar usage to English 'dickhead'.",
+    "example_usage": "Yarrak kafa, ne yapıyorsun? (Dickhead, what are you doing?)",
+    "ipa_pronunciation": "jaɾɾak kafa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yarrak ağızlı",
+    "literal_translation": "dick-mouthed",
+    "english_equivalent": "dick-mouth",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Saying someone's mouth is like a penis. Implies they talk nonsense or perform oral sex.",
+    "cultural_context": "Combining body parts in creative insults.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "jaɾɾak aːɯzlɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dalyarak",
+    "literal_translation": "thin/branch dick",
+    "english_equivalent": "dickhead / fuckwit",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Compound insult combining 'dal' (branch/thin) with 'yarak' (dick). General-purpose strong insult.",
+    "cultural_context": "Very commonly used compound insult. 'Dal' may reference a tree branch, suggesting a thin or useless penis.",
+    "example_usage": "Dalyarak, buraya gel! (You dickhead, come here!)",
+    "ipa_pronunciation": "daljaɾak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sik kafa",
+    "literal_translation": "dick head",
+    "english_equivalent": "dickhead",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Same meaning as 'yarrak kafa' using the other word for penis.",
+    "cultural_context": "Uses 'sik' instead of 'yarrak' for the same insult.",
+    "example_usage": "Sik kafalı herif! (Dickheaded bastard!)",
+    "ipa_pronunciation": "sik kafa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sik kırığı",
+    "literal_translation": "broken dick",
+    "english_equivalent": "limp dick / useless bastard",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone a broken penis - implying they are useless and impotent.",
+    "cultural_context": "Attacks masculinity by implying sexual dysfunction.",
+    "example_usage": "Sik kırığı, işe yaramaz! (Broken dick, you're useless!)",
+    "ipa_pronunciation": "sik kɯɾɯːɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yarrağımı ye",
+    "literal_translation": "eat my dick",
+    "english_equivalent": "eat my dick / suck my dick",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Vulgar dismissal telling someone to perform oral sex.",
+    "cultural_context": "Highly aggressive sexual insult. Implies domination over the target.",
+    "example_usage": "Yarrağımı ye! (Eat my dick!)",
+    "ipa_pronunciation": "jaɾɾaːɯmɯ je",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "göt",
+    "literal_translation": "ass / butt / anus",
+    "english_equivalent": "ass / arse",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Vulgar term for buttocks/anus. Used in many compound insults.",
+    "cultural_context": "Core vulgar anatomical term. Less severe than genital terms but still offensive.",
+    "example_usage": "Göt gibi kaldık. (We were left like an ass / We were embarrassed.)",
+    "ipa_pronunciation": "ɡøt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "göt lalesi",
+    "literal_translation": "ass tulip",
+    "english_equivalent": "asshole / asswipe",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "One of the most uniquely Turkish insults. Calling someone a tulip growing from an ass.",
+    "cultural_context": "The tulip is Turkey's national flower and a symbol of Ottoman refinement. Combining it with 'ass' creates a particularly Turkish oxymoronic insult.",
+    "example_usage": "Göt lalesi, defol! (You ass tulip, get lost!)",
+    "ipa_pronunciation": "ɡøt lalesi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "göt herif",
+    "literal_translation": "ass fellow",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Calling someone an ass-fellow. General purpose insult.",
+    "cultural_context": "'Herif' (fellow) is already slightly derogatory; combined with 'göt' it becomes a real insult.",
+    "example_usage": "Göt herif, ne yapıyorsun? (Asshole, what are you doing?)",
+    "ipa_pronunciation": "ɡøt heɾif",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "göt deliği",
+    "literal_translation": "asshole (the literal hole)",
+    "english_equivalent": "asshole",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Literal term for anus used as an insult.",
+    "cultural_context": "More anatomically explicit than 'göt' alone.",
+    "example_usage": "Göt deliği! (Asshole!)",
+    "ipa_pronunciation": "ɡøt deliːi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götveren",
+    "literal_translation": "one who gives ass / one who receives anal",
+    "english_equivalent": "faggot / takes it up the ass",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone the passive partner in anal sex. Extremely offensive homophobic slur.",
+    "cultural_context": "In Turkish masculine culture, being the passive sexual partner is considered deeply shameful. This is one of the most cutting masculinity-attacking insults.",
+    "example_usage": "Used as a severe direct insult.",
+    "ipa_pronunciation": "ɡøtveɾen",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götten bacaklı",
+    "literal_translation": "legs from the ass / short-arse",
+    "english_equivalent": "short-arse / stumpy",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Derogatory term for someone who is short, implying their legs start from their buttocks.",
+    "cultural_context": "Body-shaming insult. Less severe than sexual insults but still offensive.",
+    "example_usage": "Götten bacaklı herif! (You stumpy bastard!)",
+    "ipa_pronunciation": "ɡøtten badʒaklɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "koca göt",
+    "literal_translation": "big ass / huge ass",
+    "english_equivalent": "fat ass",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Calling someone a fat ass.",
+    "cultural_context": "Body-shaming insult targeting weight/size.",
+    "example_usage": "Koca göt, kalk bakalım! (Fat ass, get up!)",
+    "ipa_pronunciation": "kodʒa ɡøt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götoğlanı",
+    "literal_translation": "ass boy",
+    "english_equivalent": "catamite / boy toy",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Archaic insult referring to a young male used for sexual purposes.",
+    "cultural_context": "References historical practice of using young boys sexually. Extremely offensive.",
+    "example_usage": "Used as a severe insult.",
+    "ipa_pronunciation": "ɡøtoːlanɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "çük",
+    "literal_translation": "small penis (childish term)",
+    "english_equivalent": "wee-wee / pee-pee / tiny dick",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Childish/diminutive term for penis. Sometimes used as a mild insult implying someone has a small penis.",
+    "cultural_context": "Children's word. When used among adults it can be mocking.",
+    "example_usage": "Mild/childish usage.",
+    "ipa_pronunciation": "tʃyk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "taşak",
+    "literal_translation": "testicles / balls",
+    "english_equivalent": "balls / nuts",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Vulgar term for testicles. Also used in the expression 'taşak geçmek' (to make fun of).",
+    "cultural_context": "'Taşak geçmek' (to pass testicles) means to mock or tease someone. 'Taşaklı' (having big balls) means brave or bold.",
+    "example_usage": "Taşak geçme benimle! (Don't fuck with me / Don't mock me!)",
+    "ipa_pronunciation": "taʃak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "taşaklı",
+    "literal_translation": "having (big) balls",
+    "english_equivalent": "ballsy / having balls",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Having big testicles - meaning brave, bold, or tough. Can be a compliment.",
+    "cultural_context": "Uniquely can be positive - used to describe someone with courage.",
+    "example_usage": "Taşaklı adam! (A man with balls! / A brave man!)",
+    "ipa_pronunciation": "taʃaklɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "meme",
+    "literal_translation": "breast / boob",
+    "english_equivalent": "boob / tit",
+    "severity": 2,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Breast. Can be vulgar depending on context.",
+    "cultural_context": "Not always profane - it's the standard word for breast. Becomes vulgar in sexual or insulting contexts.",
+    "example_usage": "Context-dependent usage.",
+    "ipa_pronunciation": "meme",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "döl",
+    "literal_translation": "sperm / semen / offspring",
+    "english_equivalent": "cum / spawn",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Literally means sperm or semen. Also used to mean offspring in a derogatory way.",
+    "cultural_context": "Used in compound insults attacking someone's parentage.",
+    "example_usage": "Used in compound insults like 'gavurun dölü' (infidel's spawn).",
+    "ipa_pronunciation": "døl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "orospu",
+    "literal_translation": "whore / prostitute",
+    "english_equivalent": "whore / bitch",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "One of the most common and severe insults. Calling a woman (or by extension someone's mother) a prostitute.",
+    "cultural_context": "In Turkish honor culture, a woman's sexual purity is tied to family honor. Calling someone 'orospu' attacks the deepest cultural values.",
+    "example_usage": "Used as a direct insult or in compounds.",
+    "ipa_pronunciation": "oɾospu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "orospu çocuğu",
+    "literal_translation": "son of a whore",
+    "english_equivalent": "son of a bitch / son of a whore",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone the child of a prostitute. One of the most common severe insults.",
+    "cultural_context": "Attacks both the person and their mother's honor. Among the most fighting-words insults in Turkish. Often abbreviated as OÇ.",
+    "example_usage": "Orospu çocuğu! (Son of a bitch!)",
+    "ipa_pronunciation": "oɾospu tʃodʒuːu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "orospu evladı",
+    "literal_translation": "offspring/descendant of a whore",
+    "english_equivalent": "whore's offspring",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Slightly more formal version of 'orospu çocuğu'. Same meaning.",
+    "cultural_context": "'Evlad' is a more literary/formal word for offspring than 'çocuk' (child).",
+    "example_usage": "Used as a severe insult.",
+    "ipa_pronunciation": "oɾospu evladɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kahpe",
+    "literal_translation": "treacherous woman / whore",
+    "english_equivalent": "treacherous bitch / whore",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling a woman treacherous and sexually immoral. Combines betrayal with sexual insult.",
+    "cultural_context": "From Persian. Implies both sexual impropriety and treachery/backstabbing. Can also be used for fate: 'kahpe felek' (treacherous fate).",
+    "example_usage": "Kahpe kadın! (Treacherous woman!)",
+    "ipa_pronunciation": "kahpe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kahpenin feryadı",
+    "literal_translation": "cry/scream of a whore",
+    "english_equivalent": "whore's wail",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone the wail of a whore - they are nothing but noise from a prostitute.",
+    "cultural_context": "Reduces the person to an insignificant sound from an already despised figure.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "kahpenin feɾjadɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sürtük",
+    "literal_translation": "one who drags/rubs / slut",
+    "english_equivalent": "slut / skank",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling a woman a slut. Implies she 'rubs against' many men.",
+    "cultural_context": "Common insult directed at women. The word comes from 'sürtmek' (to rub/drag).",
+    "example_usage": "Sürtük! (Slut!)",
+    "ipa_pronunciation": "syɾtyk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kaşar",
+    "literal_translation": "aged/processed cheese (kaşar peyniri)",
+    "english_equivalent": "slut / worn-out whore",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Literally a type of cheese, used to call a woman promiscuous or 'experienced'. Implies she has been 'processed' or 'used'.",
+    "cultural_context": "Uniquely Turkish insult deriving from cheese. The metaphor of aging/processing cheese applied to women is deeply misogynistic.",
+    "example_usage": "Kaşar kadın! (That slut!)",
+    "ipa_pronunciation": "kaʃaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fahişe",
+    "literal_translation": "prostitute (from Arabic fāḥisha)",
+    "english_equivalent": "prostitute / whore",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Formal/literary word for prostitute, from Arabic. Used as an insult.",
+    "cultural_context": "More formal than 'orospu'. Has Arabic/Islamic religious connotations of sinfulness.",
+    "example_usage": "Fahişe! (Prostitute!)",
+    "ipa_pronunciation": "fahiʃe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kevaşe",
+    "literal_translation": "whore / slut",
+    "english_equivalent": "whore / slut",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Another word for prostitute/promiscuous woman.",
+    "cultural_context": "Less common than 'orospu' but equally offensive. From Persian.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "kevaʃe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yosma",
+    "literal_translation": "coquettish woman / flirty woman",
+    "english_equivalent": "floozy / hussy",
+    "severity": 2,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Originally meant a pretty, flirtatious woman. Now used pejoratively for a loose woman.",
+    "cultural_context": "Has somewhat old-fashioned flavor. Less harsh than 'orospu' but still derogatory.",
+    "example_usage": "Used to describe a flirtatious or loose woman.",
+    "ipa_pronunciation": "josma",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kaltak",
+    "literal_translation": "saddle piece / bitch (for female dogs)",
+    "english_equivalent": "bitch / slut",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling a woman a bitch. Originally a saddlery term or term for a female dog.",
+    "cultural_context": "Common harsh insult for women. Similar to English 'bitch'.",
+    "example_usage": "Kaltak! (Bitch!)",
+    "ipa_pronunciation": "kaltak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kancık",
+    "literal_translation": "female dog / bitch (literal animal term)",
+    "english_equivalent": "bitch",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "The actual zoological term for a female dog, used as an insult for women or treacherous men.",
+    "cultural_context": "Can be used for both genders. When directed at men, implies sneakiness and untrustworthiness.",
+    "example_usage": "Kancık herif! (Bitchy/treacherous bastard!)",
+    "ipa_pronunciation": "kandʒɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "şıllık",
+    "literal_translation": "loose woman / slut",
+    "english_equivalent": "slut / tramp",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling a woman loose or promiscuous.",
+    "cultural_context": "Regional variation. Less commonly used than 'sürtük' but equally offensive.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "ʃɯllɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "şırfıntı",
+    "literal_translation": "slut / hussy",
+    "english_equivalent": "slut / hussy",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Another word for promiscuous woman.",
+    "cultural_context": "Less common synonym. Listed in Wiktionary as a Turkish swear word.",
+    "example_usage": "Used as a direct insult.",
+    "ipa_pronunciation": "ʃɯɾfɯntɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "aşüfte",
+    "literal_translation": "loose woman (from Persian)",
+    "english_equivalent": "slut / loose woman",
+    "severity": 2,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Persian-origin word for a loose or promiscuous woman.",
+    "cultural_context": "More literary/old-fashioned than modern equivalents. From Persian 'āshüfte'.",
+    "example_usage": "Used as a derogatory term for women.",
+    "ipa_pronunciation": "aʃyfte",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "nataşa",
+    "literal_translation": "Natasha (Russian female name)",
+    "english_equivalent": "whore / prostitute (specifically foreign/Russian)",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Slang for a foreign prostitute, specifically associated with Russian/Eastern European women.",
+    "cultural_context": "Derived from the stereotype of Russian women working as sex workers in Turkey, especially in coastal tourist areas. The Russian name 'Natasha' became generic slang for foreign prostitutes.",
+    "example_usage": "Used as a derogatory term for foreign women.",
+    "ipa_pronunciation": "nataʃa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ibne",
+    "literal_translation": "homosexual man (derogatory)",
+    "english_equivalent": "faggot / queer",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Highly derogatory term for a gay man. Used as a general insult implying weakness or unmanliness.",
+    "cultural_context": "From Arabic. Extremely offensive homophobic slur. In Turkish masculine culture, this attacks the core of someone's manhood. Also used loosely to mean 'backstabber' or 'untrustworthy'.",
+    "example_usage": "İbne herif! (Faggot!)",
+    "ipa_pronunciation": "ibne",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "puşt",
+    "literal_translation": "passive homosexual (from Persian 'pusht' meaning back)",
+    "english_equivalent": "faggot / queer",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Derogatory term for the passive partner in homosexual sex. General insult implying cowardice.",
+    "cultural_context": "From Persian 'pusht' (back), referring to someone who 'gives their back'. Strong homophobic slur also implying untrustworthiness.",
+    "example_usage": "Puşt herif! (Faggot!)",
+    "ipa_pronunciation": "puʃt",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "top",
+    "literal_translation": "ball / cannon ball",
+    "english_equivalent": "faggot / gay (derogatory)",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Slang derogatory term for a homosexual man.",
+    "cultural_context": "Less severe than 'ibne' but still clearly homophobic. Origin of the sexual meaning is debated.",
+    "example_usage": "Used as a derogatory term.",
+    "ipa_pronunciation": "top",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "oğlancı",
+    "literal_translation": "boy-lover / pederast",
+    "english_equivalent": "pederast / boy-chaser",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Someone who sexually pursues young boys. Implies pedophilia.",
+    "cultural_context": "References historical Ottoman-era practice. Extremely offensive accusation.",
+    "example_usage": "Used as a severe accusation.",
+    "ipa_pronunciation": "oːlandʒɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pezevenk",
+    "literal_translation": "pimp",
+    "english_equivalent": "pimp / scumbag",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone a pimp. One of the most severe character insults for a man.",
+    "cultural_context": "From Armenian 'bozavag'. A pimp profits from women's sexual exploitation, making this a profound honor insult. Implies the man has no honor regarding his female family members.",
+    "example_usage": "Pezevenk herif! (You pimp!)",
+    "ipa_pronunciation": "pezevenk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pezo",
+    "literal_translation": "pimp (shortened slang form)",
+    "english_equivalent": "pimp",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Shortened/slang version of 'pezevenk'.",
+    "cultural_context": "Abbreviated form, slightly less formal but same meaning.",
+    "example_usage": "Used as a slang insult.",
+    "ipa_pronunciation": "pezo",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gavat",
+    "literal_translation": "cuckold / pimp",
+    "english_equivalent": "cuckold / pimp",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "A man who knowingly tolerates his wife's infidelity or profits from it. Implies the ultimate failure of masculine honor.",
+    "cultural_context": "From Italian 'gavazzo'. In Turkish honor culture, a 'gavat' is a man who has completely surrendered his honor. This is one of the most devastating masculinity insults.",
+    "example_usage": "Gavat herif! (You cuckold!)",
+    "ipa_pronunciation": "ɡavat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kavat",
+    "literal_translation": "variant spelling of gavat",
+    "english_equivalent": "cuckold / pimp",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Same as 'gavat', alternative spelling.",
+    "cultural_context": "Same cultural weight as 'gavat'.",
+    "example_usage": "Same as 'gavat'.",
+    "ipa_pronunciation": "kavat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sapık",
+    "literal_translation": "deviant / pervert",
+    "english_equivalent": "pervert / creep",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone a sexual deviant or pervert.",
+    "cultural_context": "Used for someone displaying inappropriate sexual behavior. From 'sapmak' (to deviate).",
+    "example_usage": "Sapık herif, uzak dur! (You pervert, stay away!)",
+    "ipa_pronunciation": "sapɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "abaza",
+    "literal_translation": "hungry (for sex) / horny",
+    "english_equivalent": "horndog / sex-crazed",
+    "severity": 2,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone sexually desperate or constantly horny.",
+    "cultural_context": "Comes from the Abkhaz ethnic group name, used derogatorily. Now means someone who is desperately horny.",
+    "example_usage": "Abaza herif! (You horndog!)",
+    "ipa_pronunciation": "abaza",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "düzmek",
+    "literal_translation": "to arrange / to fuck",
+    "english_equivalent": "to fuck / to screw",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Vulgar verb for sexual intercourse. Also means 'to arrange' in non-vulgar usage.",
+    "cultural_context": "Double meaning word. Context determines whether it means 'to arrange' or 'to fuck'.",
+    "example_usage": "Context-dependent usage.",
+    "ipa_pronunciation": "dyzmek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sakso",
+    "literal_translation": "blowjob (from saxophone)",
+    "english_equivalent": "blowjob",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Slang for oral sex (fellatio). Derived from the word 'saxophone' due to the mouth position.",
+    "cultural_context": "Modern slang. The connection to saxophone is humorous/visual.",
+    "example_usage": "Sakso çekmek (to give a blowjob).",
+    "ipa_pronunciation": "sakso",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "otuz bir",
+    "literal_translation": "thirty-one",
+    "english_equivalent": "masturbation / jacking off",
+    "severity": 2,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Slang for male masturbation. The number 31 became code for masturbation.",
+    "cultural_context": "Origin debated - possibly from a card game or from the hand gesture. '31 çekmek' means to masturbate. Very commonly used slang especially among young men.",
+    "example_usage": "31 çekmek (to jack off).",
+    "ipa_pronunciation": "otuz biɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "otuz birci",
+    "literal_translation": "one who does thirty-one / chronic masturbator",
+    "english_equivalent": "wanker / jerk-off",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone a chronic masturbator.",
+    "cultural_context": "Implies someone who can't get a sexual partner and must resort to masturbation.",
+    "example_usage": "Used as an insult.",
+    "ipa_pronunciation": "otuz biɾdʒi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "domalmak",
+    "literal_translation": "to bend over / to get on all fours",
+    "english_equivalent": "to bend over",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Vulgar term for bending over, with strong sexual connotation of presenting oneself for sex from behind.",
+    "cultural_context": "Used in sexual context to imply submission. 'Domal!' (Bend over!) is used as a threatening/dominating command.",
+    "example_usage": "Domal! (Bend over!)",
+    "ipa_pronunciation": "domalmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "malafat",
+    "literal_translation": "penis (slang, from Arabic ma'alafat)",
+    "english_equivalent": "dong / cock",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Slang term for penis, somewhat humorous.",
+    "cultural_context": "Less aggressive than 'yarrak' or 'sik'. Has a slightly comical ring to it.",
+    "example_usage": "Used in crude humor.",
+    "ipa_pronunciation": "malafat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ejderha",
+    "literal_translation": "dragon",
+    "english_equivalent": "dick (slang)",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Slang term for penis, comparing it to a dragon.",
+    "cultural_context": "Humorous/boastful slang. Used more in joking contexts.",
+    "example_usage": "Slang/humorous usage.",
+    "ipa_pronunciation": "eʒdeɾha",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dalga",
+    "literal_translation": "wave",
+    "english_equivalent": "dick / boner",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Slang for penis. Also means 'wave' or 'joke'. 'Dalga geçmek' means to mock someone.",
+    "cultural_context": "Multi-meaning word. 'Dalga geçmek' (to pass a wave) means to mock or tease.",
+    "example_usage": "Dalga geçme! (Don't mock me!) - also has double meaning.",
+    "ipa_pronunciation": "dalɡa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "at hırsızı",
+    "literal_translation": "horse thief",
+    "english_equivalent": "ugly bastard / unkempt person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone ugly or poorly groomed, like a horse thief on the run.",
+    "cultural_context": "In Ottoman/rural culture, horse thieves were despised criminals who lived rough. Used specifically against poorly-groomed males.",
+    "example_usage": "At hırsızı gibi görünüyorsun! (You look like a horse thief!)",
+    "ipa_pronunciation": "at hɯɾsɯzɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "çekirge götü",
+    "literal_translation": "cricket's ass",
+    "english_equivalent": "shrimp / shorty (derogatory)",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Derogatory term for someone who is very short.",
+    "cultural_context": "Comparing someone's size to a cricket's behind. Creatively Turkish insult.",
+    "example_usage": "Used to mock short people.",
+    "ipa_pronunciation": "tʃekiɾɡe ɡøty",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sırık",
+    "literal_translation": "long stick / pole",
+    "english_equivalent": "beanpole / string bean",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term for someone who is very tall and thin.",
+    "cultural_context": "Comparing someone to a long pole. Body-shaming insult.",
+    "example_usage": "Sırık gibi uzun! (Tall as a pole!)",
+    "ipa_pronunciation": "sɯɾɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zübük",
+    "literal_translation": "self-seeker / opportunist",
+    "english_equivalent": "opportunist / sycophant",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A scheming, self-serving person. Made famous by a novel and film character.",
+    "cultural_context": "The character 'Zübük' from Aziz Nesin's novel became a Turkish archetype of the shameless opportunist politician.",
+    "example_usage": "Zübük herif! (You scheming opportunist!)",
+    "ipa_pronunciation": "zybyk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kaypak",
+    "literal_translation": "slippery",
+    "english_equivalent": "slippery / two-faced / untrustworthy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone slippery and untrustworthy.",
+    "cultural_context": "Implies someone who can't be pinned down and changes positions for advantage.",
+    "example_usage": "Kaypak herif! (You slippery bastard!)",
+    "ipa_pronunciation": "kajpak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yalaka",
+    "literal_translation": "one who licks / licker",
+    "english_equivalent": "ass-kisser / bootlicker / sycophant",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a sycophant or bootlicker.",
+    "cultural_context": "From 'yalamak' (to lick). Implies someone who flatters authority figures for personal gain.",
+    "example_usage": "Yalaka herif! (You bootlicker!)",
+    "ipa_pronunciation": "jalaka",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ucube",
+    "literal_translation": "freak / monstrosity",
+    "english_equivalent": "freak / weirdo / monstrosity",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a freak or monstrosity.",
+    "cultural_context": "From Arabic. Can refer to physical or behavioral abnormality.",
+    "example_usage": "Ucube! (Freak!)",
+    "ipa_pronunciation": "udʒube",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "şişko",
+    "literal_translation": "fatty / fatso",
+    "english_equivalent": "fatso / fatty",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone fat.",
+    "cultural_context": "Body-shaming insult. Commonly used.",
+    "example_usage": "Şişko! (Fatso!)",
+    "ipa_pronunciation": "ʃiʃko",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zargana",
+    "literal_translation": "garfish (a thin fish)",
+    "english_equivalent": "beanpole / skinny",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Comparing someone to a thin fish. Mocking someone for being too skinny.",
+    "cultural_context": "The garfish is extremely thin and long. Body-shaming insult.",
+    "example_usage": "Zargana gibi! (Thin as a garfish!)",
+    "ipa_pronunciation": "zaɾɡana",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "herif",
+    "literal_translation": "fellow / guy (dismissive)",
+    "english_equivalent": "bastard / fellow (derogatory)",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Dismissive way to refer to a man. Mildly derogatory on its own, becomes stronger in compounds.",
+    "cultural_context": "Not extremely offensive alone, but using it to refer to someone shows disrespect. Very common in compound insults.",
+    "example_usage": "Herif ne diyor bakın! (Look what this bastard is saying!)",
+    "ipa_pronunciation": "heɾif",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "godoş",
+    "literal_translation": "fat person / tubby",
+    "english_equivalent": "fatso / tubby",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term for an overweight person.",
+    "cultural_context": "Regional insult for overweight people.",
+    "example_usage": "Used as a body-shaming insult.",
+    "ipa_pronunciation": "ɡodoʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "odun",
+    "literal_translation": "firewood / log",
+    "english_equivalent": "blockhead / stiff",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a log - implying they are stiff, unresponsive, or stupid.",
+    "cultural_context": "Mild insult comparing someone to an inanimate piece of wood.",
+    "example_usage": "Odun gibi durma! (Don't stand there like a log!)",
+    "ipa_pronunciation": "odun",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kazma",
+    "literal_translation": "pickaxe",
+    "english_equivalent": "blockhead / boor",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a pickaxe - implying they are crude, rough, and unsophisticated.",
+    "cultural_context": "Comparing someone to a primitive tool. Implies rural crudeness.",
+    "example_usage": "Kazma herif! (You boor!)",
+    "ipa_pronunciation": "kazma",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "moloz",
+    "literal_translation": "rubble / debris",
+    "english_equivalent": "trash / worthless person",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone rubble or debris - completely worthless.",
+    "cultural_context": "Reduces a person to construction waste.",
+    "example_usage": "Used as an insult for worthless people.",
+    "ipa_pronunciation": "moloz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "moron",
+    "literal_translation": "moron (borrowed from English/French)",
+    "english_equivalent": "moron",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Loanword insult meaning moron.",
+    "cultural_context": "Borrowed from Western languages, commonly understood.",
+    "example_usage": "Moron musun? (Are you a moron?)",
+    "ipa_pronunciation": "moɾon",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "velet",
+    "literal_translation": "brat / kid (derogatory)",
+    "english_equivalent": "brat / little shit",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term for a child or immature person.",
+    "cultural_context": "From Arabic 'walad' (child). Used dismissively for young people or adults acting immaturely.",
+    "example_usage": "Velet gibi davranma! (Don't act like a brat!)",
+    "ipa_pronunciation": "velet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "am budalası",
+    "literal_translation": "pussy fool / cunt-crazy",
+    "english_equivalent": "pussy-whipped / simp",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "A man who is foolishly obsessed with women/sex.",
+    "cultural_context": "Attacks a man's judgment by suggesting he's controlled by sexual desire.",
+    "example_usage": "Am budalası herif! (You pussy-crazy fool!)",
+    "ipa_pronunciation": "am budalasɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "milli olmak",
+    "literal_translation": "to become national",
+    "english_equivalent": "to lose one's virginity",
+    "severity": 2,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Slang for losing virginity. Playing on the word 'national' as achieving something significant.",
+    "cultural_context": "Humorous euphemism. Playing on the football concept of 'becoming a national team player' (achieving a milestone).",
+    "example_usage": "Milli olmuş. (He/she has 'become national' / lost virginity.)",
+    "ipa_pronunciation": "milli olmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fıstık",
+    "literal_translation": "pistachio",
+    "english_equivalent": "hottie / babe (slang)",
+    "severity": 1,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Slang for an attractive young woman. Not offensive, more complimentary slang.",
+    "cultural_context": "Turkey is a major pistachio producer. The small, sweet, desirable nut became slang for an attractive woman.",
+    "example_usage": "Fıstık gibi kız! (A girl as cute as a pistachio!)",
+    "ipa_pronunciation": "fɯstɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kanı bozuk",
+    "literal_translation": "spoiled/bad blood",
+    "english_equivalent": "bad blood / ill-bred",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Saying someone has bad blood - implying they come from a bad family line.",
+    "cultural_context": "Attacks lineage and genetics. In a culture valuing family honor, this attacks the root of someone's being.",
+    "example_usage": "Kanı bozuk adam! (A man of bad blood!)",
+    "ipa_pronunciation": "kanɯ bozuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sütü bozuk",
+    "literal_translation": "spoiled milk / bad milk",
+    "english_equivalent": "ill-bred / raised wrong",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Saying someone was raised on spoiled milk - implying they were poorly raised from birth.",
+    "cultural_context": "Mother's milk is sacred in Turkish culture. Saying someone's milk was spoiled attacks their mother and upbringing.",
+    "example_usage": "Sütü bozuk herif! (Ill-bred bastard!)",
+    "ipa_pronunciation": "syty bozuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ecdadını sikeyim",
+    "literal_translation": "let me fuck your ancestors",
+    "english_equivalent": "fuck your ancestors",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Threatening to violate someone's entire ancestral line. Extends the mother insult to all forebears.",
+    "cultural_context": "Attacks not just parents but the entire family lineage. In honor culture, this is maximally offensive.",
+    "example_usage": "Ecdadını sikeyim! (Fuck your ancestors!)",
+    "ipa_pronunciation": "edʒdadɯnɯ sikejim",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sülaleni sikeyim",
+    "literal_translation": "let me fuck your entire extended family/clan",
+    "english_equivalent": "fuck your whole family",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Threatening to violate someone's entire extended family. Maximum scope family insult.",
+    "cultural_context": "Süläle means the entire extended family/clan. This is the broadest possible family-based sexual insult.",
+    "example_usage": "Sülaleni sikeyim! (Fuck your whole clan!)",
+    "ipa_pronunciation": "sylaleni sikejim",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bacını sikeyim",
+    "literal_translation": "let me fuck your sister",
+    "english_equivalent": "fuck your sister",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Threatening to violate someone's sister. Extremely provocative.",
+    "cultural_context": "Sisters are protected figures in Turkish family honor. This insult is as provocative as the mother version.",
+    "example_usage": "Used in extreme anger.",
+    "ipa_pronunciation": "badʒɯnɯ sikejim",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amına sokam",
+    "literal_translation": "let me shove it in your pussy",
+    "english_equivalent": "fuck you",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Vulgar threat. Variant of 'amına koyayım'.",
+    "cultural_context": "Regional/dialectal variant of the standard 'amına koyayım'.",
+    "example_usage": "Used as a severe curse.",
+    "ipa_pronunciation": "amɯna sokam",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götüne koyayım",
+    "literal_translation": "let me put it in your ass",
+    "english_equivalent": "fuck you in the ass",
+    "severity": 5,
+    "categories": [
+      "sexual",
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Threatening anal penetration. Combines sexual and dominance insult.",
+    "cultural_context": "Anal penetration threats are particularly emasculating in Turkish masculine culture.",
+    "example_usage": "Used as a severe curse.",
+    "ipa_pronunciation": "ɡøtyne kojajɯm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kodumun",
+    "literal_translation": "contraction of 'koyduğumun' (of the one I put it in)",
+    "english_equivalent": "fucking (adjective)",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Contracted form used as a modifier meaning 'fucking'. Precedes nouns.",
+    "cultural_context": "Very common in compound curses. Short form makes it easy to attach to any noun.",
+    "example_usage": "Kodumun çocuğu! (Fucking kid!)",
+    "ipa_pronunciation": "kodumun",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ver",
+    "literal_translation": "to give (in sexual context: to give oneself sexually)",
+    "english_equivalent": "to put out / to give it up",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "In sexual slang, means to submit sexually, to be the passive partner.",
+    "cultural_context": "Being the one who 'gives' (passive partner) is stigmatized in Turkish sexual dynamics.",
+    "example_usage": "Slang context.",
+    "ipa_pronunciation": "veɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "eline vermek",
+    "literal_translation": "to give to his/her hand",
+    "english_equivalent": "to beat someone / to school someone",
+    "severity": 2,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Slang meaning to beat or defeat someone, with vulgar undertone of forcing them to masturbate you.",
+    "cultural_context": "Double meaning: defeating someone at something AND the vulgar sexual implication.",
+    "example_usage": "Ellerine verdim. (I schooled them.)",
+    "ipa_pronunciation": "eline veɾmek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "paçoz",
+    "literal_translation": "slovenly / unkempt woman",
+    "english_equivalent": "slob / frump",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A woman who is unkempt and slovenly.",
+    "cultural_context": "Insult targeting appearance and hygiene.",
+    "example_usage": "Used as an insult for unkempt women.",
+    "ipa_pronunciation": "patʃoz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pasaklı",
+    "literal_translation": "dirty / unkempt",
+    "english_equivalent": "dirty / slovenly / grubby",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone dirty and unkempt, particularly a woman.",
+    "cultural_context": "Cleanliness is highly valued in Turkish-Islamic culture. This insult is particularly pointed.",
+    "example_usage": "Pasaklı kadın! (Dirty/slovenly woman!)",
+    "ipa_pronunciation": "pasaklɯ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "palavra",
+    "literal_translation": "bullshit / nonsense (from Portuguese/Italian)",
+    "english_equivalent": "bullshit / hot air",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling something bullshit or empty talk.",
+    "cultural_context": "Loanword from Romance languages (Portuguese 'palavra' = word). Implies someone is full of hot air.",
+    "example_usage": "Palavra atma! (Don't talk bullshit!)",
+    "ipa_pronunciation": "palavɾa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hasiktir",
+    "literal_translation": "euphemistic form of 'hassiktir'",
+    "english_equivalent": "holy shit / oh fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Exclamation of surprise or disbelief. Softened form of the f-word based phrases.",
+    "cultural_context": "Slightly softened version used when the full form feels too strong. Still recognized as profanity.",
+    "example_usage": "Hasiktir, gerçekten mi? (Holy shit, really?)",
+    "ipa_pronunciation": "hasiktiɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "hassiktir",
+    "literal_translation": "emphatic form of 'siktir'",
+    "english_equivalent": "holy fuck / oh shit",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Emphatic exclamation of surprise, with the 'has' prefix intensifying 'siktir'.",
+    "cultural_context": "'Has' is an intensifier. 'Has siktir' = genuine/real fuck. Expression of extreme surprise.",
+    "example_usage": "Hassiktir! (Holy fuck!)",
+    "ipa_pronunciation": "hassiktiɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "geber",
+    "literal_translation": "die / drop dead (for animals)",
+    "english_equivalent": "drop dead / croak",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "exclamation"
+    ],
+    "meaning": "Telling someone to die, using the verb reserved for animal death (not human death 'ölmek').",
+    "cultural_context": "'Gebermek' is the verb for animals dying, as opposed to 'ölmek' for humans. Using it for a person dehumanizes them.",
+    "example_usage": "Geber! (Drop dead! / Croak!)",
+    "ipa_pronunciation": "ɡebeɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kahpe felek",
+    "literal_translation": "treacherous fate/fortune",
+    "english_equivalent": "cruel fate / damn fate",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "religious"
+    ],
+    "meaning": "Cursing fate or fortune as treacherous. Not directed at a person.",
+    "cultural_context": "Literary/poetic expression. 'Felek' (from Arabic falak) means fate/destiny. Common in Turkish folk poetry and music.",
+    "example_usage": "Kahpe felek! (Treacherous fate!)",
+    "ipa_pronunciation": "kahpe felek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "madara",
+    "literal_translation": "humiliated / degraded",
+    "english_equivalent": "humiliated / made a fool of",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Being humiliated or degraded. 'Madara etmek' = to humiliate someone.",
+    "cultural_context": "Being publicly humiliated is deeply feared in honor culture.",
+    "example_usage": "Madara etme beni! (Don't humiliate me!)",
+    "ipa_pronunciation": "madaɾa",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "zıkkım",
+    "literal_translation": "poison / venom",
+    "english_equivalent": "poison / vile stuff",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "exclamation"
+    ],
+    "meaning": "Calling something poisonous or vile. 'Zıkkımını ye' = eat your poison (eat shit).",
+    "cultural_context": "From Arabic. Used to curse food or drink someone offers.",
+    "example_usage": "Zıkkımını ye! (Eat your poison! / Eat shit!)",
+    "ipa_pronunciation": "zɯkkɯm",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kerhane",
+    "literal_translation": "brothel / whorehouse",
+    "english_equivalent": "whorehouse / brothel",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Literally means brothel. Used to describe a chaotic or immoral place.",
+    "cultural_context": "From Persian. Can be used to describe any disorderly situation.",
+    "example_usage": "Burası kerhane mi? (Is this a whorehouse?)",
+    "ipa_pronunciation": "keɾhane",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götelek",
+    "literal_translation": "hand-on-ass / ass-handler",
+    "english_equivalent": "ass-grabber / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Insulting term implying someone is an ass-handler or scoundrel.",
+    "cultural_context": "Creative compound insult.",
+    "example_usage": "Götelek herif! (You scoundrel!)",
+    "ipa_pronunciation": "ɡøtelek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "çomar",
+    "literal_translation": "shepherd dog / uncultured person",
+    "english_equivalent": "redneck / yokel / ignoramus",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Originally a breed of shepherd dog. Now used to describe an ignorant, uncultured person who blindly follows authority.",
+    "cultural_context": "Modern political slang. Often used to describe blindly loyal political supporters. Has become very politically charged.",
+    "example_usage": "Çomar! (You ignorant follower!)",
+    "ipa_pronunciation": "tʃomaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "liboş",
+    "literal_translation": "derogatory for liberal",
+    "english_equivalent": "libtard (Turkish equivalent)",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Derogatory term for liberal-minded people, combining 'liberal' with the homophobic suffix '-oş'.",
+    "cultural_context": "Modern political slang. The '-oş' suffix comes from 'godoş' and has homophobic overtones.",
+    "example_usage": "Used in political discourse as an insult.",
+    "ipa_pronunciation": "liboʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "götoş",
+    "literal_translation": "ass-ish / having qualities of an ass",
+    "english_equivalent": "asshole-ish",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "body_part"
+    ],
+    "meaning": "Having qualities related to being an ass. General derogatory term.",
+    "cultural_context": "The '-oş' suffix is derogatory.",
+    "example_usage": "Used as a derogatory term.",
+    "ipa_pronunciation": "ɡøtoʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dalaksız",
+    "literal_translation": "without a spleen",
+    "english_equivalent": "gutless / spineless",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone spineless or gutless, literally saying they have no spleen.",
+    "cultural_context": "The spleen was historically associated with courage in Turkish folk medicine.",
+    "example_usage": "Dalaksız herif! (You gutless bastard!)",
+    "ipa_pronunciation": "dalaksɯz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yaraksız",
+    "literal_translation": "dickless / without a penis",
+    "english_equivalent": "dickless / no-balls",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling a man dickless - implying he is not a real man.",
+    "cultural_context": "Direct attack on masculinity.",
+    "example_usage": "Yaraksız herif! (You dickless bastard!)",
+    "ipa_pronunciation": "jaɾaksɯz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "amsız",
+    "literal_translation": "without a pussy / pussyless",
+    "english_equivalent": "sexless / frigid",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Insulting a woman by saying she lacks female genitalia.",
+    "cultural_context": "Gender-specific insult.",
+    "example_usage": "Used as an insult.",
+    "ipa_pronunciation": "amsɯz",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ukala",
+    "literal_translation": "know-it-all / smart-ass",
+    "english_equivalent": "smart-ass / know-it-all",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a pretentious know-it-all.",
+    "cultural_context": "From Arabic 'uqala' (wise/intelligent), used ironically.",
+    "example_usage": "Ukala gibi konuşma! (Don't talk like a know-it-all!)",
+    "ipa_pronunciation": "ukala",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "şirret",
+    "literal_translation": "shrewish / bitchy",
+    "english_equivalent": "shrew / harridan / bitchy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling a woman shrewish, nagging, and difficult.",
+    "cultural_context": "Gendered insult typically directed at women perceived as quarrelsome.",
+    "example_usage": "Şirret kadın! (Shrewish woman!)",
+    "ipa_pronunciation": "ʃiɾɾet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "am biti",
+    "literal_translation": "pubic louse / pussy louse",
+    "english_equivalent": "crab / worthless person",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Calling someone a pubic louse - the lowest, most parasitic creature imaginable.",
+    "cultural_context": "Reduces someone to a genital parasite. Extremely degrading.",
+    "example_usage": "Am biti! (You pubic louse!)",
+    "ipa_pronunciation": "am biti",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bok böceği",
+    "literal_translation": "shit beetle / dung beetle",
+    "english_equivalent": "shit beetle / lowlife",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "scatological"
+    ],
+    "meaning": "Calling someone a dung beetle - they live in and feed on excrement.",
+    "cultural_context": "Comparing someone to an insect that lives in feces.",
+    "example_usage": "Bok böceği gibi! (Like a dung beetle!)",
+    "ipa_pronunciation": "bok bødʒeːi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "koyun",
+    "literal_translation": "sheep",
+    "english_equivalent": "sheep / sheeple",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a sheep - they blindly follow without thinking.",
+    "cultural_context": "Used in political contexts to describe blind followers.",
+    "example_usage": "Koyun gibi herkesin peşinden gidiyorsun! (You follow everyone like a sheep!)",
+    "ipa_pronunciation": "kojun",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kuş beyinli",
+    "literal_translation": "bird-brained",
+    "english_equivalent": "bird-brained / scatterbrained",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Having a brain the size of a bird's - very stupid or flighty.",
+    "cultural_context": "Universal animal-intelligence insult.",
+    "example_usage": "Kuş beyinli kadın! (Bird-brained woman!)",
+    "ipa_pronunciation": "kuʃ bejinli",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "yılışık",
+    "literal_translation": "slimy / creepily friendly",
+    "english_equivalent": "slimy / creepy / sleazy",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Describing someone who is creepily over-familiar or slimy in their behavior.",
+    "cultural_context": "Used for people who invade personal space or are inappropriately friendly.",
+    "example_usage": "Yılışık herif! (You slimy creep!)",
+    "ipa_pronunciation": "jɯlɯʃɯk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "düdük",
+    "literal_translation": "whistle",
+    "english_equivalent": "idiot / airhead",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a whistle - empty and makes noise. Implies stupidity.",
+    "cultural_context": "A whistle is hollow inside, implying an empty head.",
+    "example_usage": "Düdük gibi herif! (Airheaded idiot!)",
+    "ipa_pronunciation": "dydyk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ahmak",
+    "literal_translation": "fool / idiot (from Arabic)",
+    "english_equivalent": "fool / idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a fool. From Arabic 'ahmaq'.",
+    "cultural_context": "Somewhat old-fashioned but still used. More formal register than 'aptal'.",
+    "example_usage": "Ahmak! (Fool!)",
+    "ipa_pronunciation": "ahmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ebleh",
+    "literal_translation": "dimwit / simpleton (from Arabic)",
+    "english_equivalent": "dimwit / simpleton",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a dimwit. From Arabic 'ablah'.",
+    "cultural_context": "Old-fashioned/literary insult. From Arabic.",
+    "example_usage": "Ebleh herif! (You dimwit!)",
+    "ipa_pronunciation": "ebleh",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "idiyot",
+    "literal_translation": "idiot (from French/Greek)",
+    "english_equivalent": "idiot",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Loanword from French 'idiot'.",
+    "cultural_context": "Borrowed insult, commonly understood.",
+    "example_usage": "İdiyot! (Idiot!)",
+    "ipa_pronunciation": "idijot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "çakal",
+    "literal_translation": "jackal",
+    "english_equivalent": "jackal / cunning bastard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a jackal - sly, cunning, and predatory.",
+    "cultural_context": "Can be almost admiring of someone's cunning, or genuinely insulting.",
+    "example_usage": "Çakal herif! (You cunning bastard!)",
+    "ipa_pronunciation": "tʃakal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tilki",
+    "literal_translation": "fox",
+    "english_equivalent": "fox / sly bastard",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone a fox - clever and sneaky.",
+    "cultural_context": "Can be admiring or insulting depending on context.",
+    "example_usage": "Tilki gibi kurnaz! (Cunning as a fox!)",
+    "ipa_pronunciation": "tilki",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "halamın taşakları olsaydı amcam olurdu",
+    "literal_translation": "if my aunt had balls she'd be my uncle",
+    "english_equivalent": "if my aunt had balls she'd be my uncle / if ifs and buts were candy and nuts",
+    "severity": 3,
+    "categories": [
+      "sexual",
+      "exclamation"
+    ],
+    "meaning": "Sarcastic response to hypothetical or 'what if' statements. Implies the hypothetical is absurd.",
+    "cultural_context": "Colorful way to dismiss 'what if' scenarios. Combines family and genital references in a humorous way.",
+    "example_usage": "Used to dismiss hypothetical arguments.",
+    "ipa_pronunciation": "halamɯn taʃaklaɾɯ olsajdɯ amdʒam oluɾdu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "imam osurursa cemaat sıçar",
+    "literal_translation": "if the imam farts, the congregation shits",
+    "english_equivalent": "shit rolls downhill / monkey see monkey do",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "religious"
+    ],
+    "meaning": "If the leader sets a bad example, the followers will be even worse.",
+    "cultural_context": "Combines religious and scatological imagery. Satirizes blind following of religious authority.",
+    "example_usage": "Proverbial expression about leadership.",
+    "ipa_pronunciation": "imam osuɾuɾsa dʒemaat sɯtʃaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "herbokolog",
+    "literal_translation": "expert-in-all-shit (her + bok + -olog)",
+    "english_equivalent": "bullshit artist / know-it-all",
+    "severity": 2,
+    "categories": [
+      "scatological",
+      "insult"
+    ],
+    "meaning": "Someone who pretends to be an expert on everything. Combines 'her' (every), 'bok' (shit), and the Greek suffix '-olog' (expert).",
+    "cultural_context": "Creative modern Turkish compound word. Satirizes people who think they know everything.",
+    "example_usage": "Herbokolog gibi konuşma! (Don't talk like a bullshit know-it-all!)",
+    "ipa_pronunciation": "heɾbokoloɡ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kömür",
+    "literal_translation": "coal",
+    "english_equivalent": "very dark-skinned person (racist)",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Racist slang for a very dark-skinned person.",
+    "cultural_context": "Racial slur comparing skin color to coal. Offensive.",
+    "example_usage": "Used as a racial slur.",
+    "ipa_pronunciation": "kømyɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "dönme",
+    "literal_translation": "convert / one who has turned",
+    "english_equivalent": "convert / turncoat (derogatory)",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "Derogatory term for religious converts, historically referring to crypto-Jews in Ottoman Empire. Also slang for transgender.",
+    "cultural_context": "Has complex historical and modern meanings. Can be anti-Semitic, transphobic, or simply mean 'turncoat'.",
+    "example_usage": "Used as a derogatory label.",
+    "ipa_pronunciation": "dønme",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pis",
+    "literal_translation": "dirty / filthy",
+    "english_equivalent": "dirty / filthy",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone dirty. Often used as a modifier before other insults.",
+    "cultural_context": "Cleanliness is extremely valued in Turkish-Islamic culture, so 'pis' carries extra weight.",
+    "example_usage": "Pis herif! (Dirty bastard!)",
+    "ipa_pronunciation": "pis",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "leş",
+    "literal_translation": "carrion / carcass",
+    "english_equivalent": "disgusting / rotten",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone or something a rotting carcass. Implies extreme disgust.",
+    "cultural_context": "Strong disgust-based insult.",
+    "example_usage": "Leş gibi kokuyor! (It stinks like a carcass!)",
+    "ipa_pronunciation": "leʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "süprüntü",
+    "literal_translation": "sweepings / trash",
+    "english_equivalent": "trash / garbage / scum",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Calling someone sweepings/trash - the stuff you sweep up and throw away.",
+    "cultural_context": "Reduces someone to literal garbage.",
+    "example_usage": "Süprüntü herif! (You trash!)",
+    "ipa_pronunciation": "sypɾynty",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kıçını yırtmak",
+    "literal_translation": "to tear one's ass",
+    "english_equivalent": "to bust one's ass / to work extremely hard",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "exclamation"
+    ],
+    "meaning": "To work extremely hard, to the point of tearing your backside.",
+    "cultural_context": "Vulgar expression for extreme effort.",
+    "example_usage": "Kıçımı yırttım bu iş için! (I busted my ass for this job!)",
+    "ipa_pronunciation": "kɯtʃɯnɯ jɯɾtmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "siklemek",
+    "literal_translation": "to give a fuck about",
+    "english_equivalent": "to give a fuck / to care",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "To care about something (usually used negatively: 'siklememek' = to not give a fuck).",
+    "cultural_context": "Derived from 'sik' (dick). 'Siklemiyorum' = I don't give a fuck.",
+    "example_usage": "Siklemiyorum! (I don't give a fuck!)",
+    "ipa_pronunciation": "siklemek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "osuruk",
+    "literal_translation": "fart",
+    "english_equivalent": "fart",
+    "severity": 1,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "A fart. Used as a mild insult or exclamation.",
+    "cultural_context": "Mild scatological term. 'Osuruk gibi' = like a fart (insignificant).",
+    "example_usage": "Osuruk gibi bir adam! (A man as insignificant as a fart!)",
+    "ipa_pronunciation": "osuɾuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "patlak zar",
+    "literal_translation": "burst membrane / broken hymen",
+    "english_equivalent": "broken cherry / non-virgin (derogatory)",
+    "severity": 4,
+    "categories": [
+      "sexual",
+      "insult"
+    ],
+    "meaning": "Derogatory reference to a woman who has lost her virginity. Extremely misogynistic.",
+    "cultural_context": "Virginity is extremely important in traditional Turkish culture. This insult attacks a woman's sexual purity in the most clinical way.",
+    "example_usage": "Used as a severe insult against women.",
+    "ipa_pronunciation": "patlak zaɾ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kedi götünü görmüş yaram var demiş",
+    "literal_translation": "the wound saw a cat's ass and said 'I have one too'",
+    "english_equivalent": "pot calling the kettle black (vulgar version)",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Saying someone is projecting or comparing themselves to something they're not.",
+    "cultural_context": "Colorful Turkish proverb/insult using vulgar imagery.",
+    "example_usage": "Proverbial expression.",
+    "ipa_pronunciation": "kedi ɡøtyny ɡøɾmyʃ jaɾam vaɾ demiʃ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "itin götüne sokmak",
+    "literal_translation": "to shove into a dog's ass",
+    "english_equivalent": "to tell someone to shove it",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "scatological",
+      "insult"
+    ],
+    "meaning": "Expression meaning something is worthless and should be discarded in the most degrading way.",
+    "cultural_context": "Combines dog insult with anal reference for maximum degradation.",
+    "example_usage": "İtin götüne sok! (Shove it up a dog's ass!)",
+    "ipa_pronunciation": "itin ɡøtyne sokmak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]

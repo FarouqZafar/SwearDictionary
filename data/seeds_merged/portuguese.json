@@ -1,0 +1,871 @@
+[
+  {
+    "word": "porra",
+    "literal_translation": "semen / cum",
+    "english_equivalent": "fuck / shit / damn / hell",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "bodily_fluids",
+      "universal_filler"
+    ],
+    "meaning": "The most versatile word in Brazilian Portuguese. Literally 'cum/semen' but functions as noun, verb, adjective, and interjection.",
+    "cultural_context": "Ubiquitous in Brazilian speech across all classes (except formal). Can express anger, joy, surprise, emphasis. 'Porra nenhuma' = absolutely nothing. 'Que porra é essa?' = What the fuck is this? Milder than English equivalents; rarely results in physical confrontation unless directed aggressively.",
+    "example_usage": "Porra! Esqueci minha carteira! (Fuck! I forgot my wallet!) / Que porra é essa? (What the fuck is this?)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈpo.ha",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "caralho",
+    "literal_translation": "dick / cock / penis",
+    "english_equivalent": "fuck / damn / holy shit / dick",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "anatomical",
+      "intensifier"
+    ],
+    "meaning": "Male genitalia; used as exclamation of surprise/anger or intensifier.",
+    "cultural_context": "Extremely common. 'Vai pro caralho' = go to hell/fuck off. 'Bom pra caralho' = fucking good. 'Caraio' is colloquial pronunciation. 'Caralhos' plural form used in 'e o caralho a quatro' (and so on/et cetera, literally 'and dicks at four'). Minced oath: 'caramba' (used freely even by children).",
+    "example_usage": "Caralho! Que susto! (Holy shit! What a scare!) / Frio pra caralho (Fucking cold)",
+    "needs_review": false,
+    "ipa_pronunciation": "kaˈɾa.ʎu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "puta",
+    "literal_translation": "whore / prostitute",
+    "english_equivalent": "whore / bitch / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "gendered",
+      "sexual"
+    ],
+    "meaning": "Woman who sells sex; highly offensive gendered slur.",
+    "cultural_context": "Extremely offensive when directed at women. However, forms the basis of Brazil's most creative compound swear: 'puta que pariu' (the whore who gave birth). 'Puto' (masculine) means boy/kid in Portugal and 'angry' in Brazil, not necessarily offensive. Regional: 'puta' can be intensifier in some contexts ('puta merda' = holy shit).",
+    "example_usage": "Filho da puta! (Son of a bitch!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈputɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "puta que pariu",
+    "literal_translation": "the whore who gave birth",
+    "english_equivalent": "holy fuck / motherfucker / goddamn",
+    "severity": 4,
+    "categories": [
+      "compound",
+      "exclamation",
+      "creative"
+    ],
+    "meaning": "Unique Portuguese construction combining 'puta' + relative clause 'who gave birth.'",
+    "cultural_context": "One of the most distinctive Brazilian expressions. Can express surprise, anger, or emphasis. Abbreviated as 'pqp' in texting. 'Vai pra puta que te pariu' = go back to the whore who birthed you (extreme 'fuck off'). Used casually among friends but shocking to outsiders.",
+    "example_usage": "Puta que pariu! O carro não liga! (Holy fuck! The car won't start!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈputɐ ki paˈɾiw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "filho da puta",
+    "literal_translation": "son of the whore",
+    "english_equivalent": "son of a bitch / motherfucker",
+    "severity": 4,
+    "categories": [
+      "compound",
+      "familial",
+      "gendered"
+    ],
+    "meaning": "Attack on parentage; implies illegitimacy and low birth.",
+    "cultural_context": "Universal insult across Lusophone world. Can be affectionate between very close friends ('Seu filho da puta!' = You sly dog!) but highly aggressive with strangers. In Portugal, sometimes shortened to 'filho da mãe' (son of the mother) as euphemism.",
+    "example_usage": "Aquele filho da puta roubou meu celular! (That son of a bitch stole my phone!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈfi.ʎu dɐ ˈputɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "merda",
+    "literal_translation": "shit",
+    "english_equivalent": "shit / crap",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Excrement; standard exclamation for frustration.",
+    "cultural_context": "Identical usage to Spanish 'mierda' and French 'merde.' 'Monte de merda' = piece of shit (insult). 'Fazer merda' = to screw up. 'Vai à merda' = go to hell. 'Puta merda' = holy shit (compound intensification).",
+    "example_usage": "Merda! Atrasado de novo! (Shit! Late again!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈmeʁ.dɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "bosta",
+    "literal_translation": "turd / crap",
+    "english_equivalent": "crap / shit",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "scatological",
+      "animal"
+    ],
+    "meaning": "Turd, especially animal excrement; less severe than 'merda.'",
+    "cultural_context": "Originally cow dung. 'Bosta' is milder than 'merda' and acceptable in more contexts. 'Seu bosta' = you piece of crap (insulting competence).",
+    "example_usage": "Que bosta de filme! (What a crappy movie!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈbɔs.tɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "foder",
+    "literal_translation": "to fuck",
+    "english_equivalent": "to fuck / to screw up",
+    "severity": 4,
+    "categories": [
+      "verb",
+      "sexual"
+    ],
+    "meaning": "Sexual intercourse; to ruin/mess up.",
+    "cultural_context": "Highly versatile verb. 'Foda-se' = fuck it/fuck off (interjection). 'Vai se foder' = go fuck yourself. 'Tá fodido' = you're fucked (in trouble). 'Nem fodendo' = no fucking way. 'Quer me foder, me beija' = If you want to fuck me over, kiss me first (humorous saying).",
+    "example_usage": "Vai se foder! (Go fuck yourself!) / Fodi tudo (I screwed everything up)",
+    "needs_review": false,
+    "ipa_pronunciation": "foˈdeʁ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "foda-se",
+    "literal_translation": "fuck itself / fuck off",
+    "english_equivalent": "fuck it / fuck off / who cares",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "indifference"
+    ],
+    "meaning": "Expression of dismissal or indifference.",
+    "cultural_context": "Brazilian mantra of apathy. 'Foda-se, vou fazer assim mesmo' = Fuck it, I'll do it anyway. Less aggressive than 'vai se foder' (go fuck yourself), more about resignation.",
+    "example_usage": "Foda-se, eu vou sair mesmo assim (Fuck it, I'm going out anyway)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈfɔ.dɐ si",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cu",
+    "literal_translation": "asshole / anus",
+    "english_equivalent": "ass / asshole",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "scatological"
+    ],
+    "meaning": "Anus; used in hundreds of idiomatic expressions.",
+    "cultural_context": "The anatomical center of Portuguese profanity. 'Vai tomar no cu' = go take it in the ass (go fuck yourself). 'Tá com fogo no cu' = hyperactive/literally 'ass on fire.' 'Cu na mão' = scared shitless (ass in hand). 'É de cair o cu da bunda' = unbelievable/indignant (ass falls out of butt). 'Pau no cu' = annoying person (dick in ass).",
+    "example_usage": "Vai tomar no cu! (Go fuck yourself! / Go take it up the ass!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "vai tomar no cu",
+    "literal_translation": "go take it in the ass",
+    "english_equivalent": "go fuck yourself / fuck off",
+    "severity": 4,
+    "categories": [
+      "command",
+      "anatomical",
+      "sexual"
+    ],
+    "meaning": "Aggressive dismissal implying receptive anal sex.",
+    "cultural_context": "Extremely common Brazilian insult. Can be used jokingly among close friends but aggressive with strangers. The grammatical structure 'tomar no cu' (take in the ass) implies submission and humiliation. 'Vai apanhar no cu' is variant (go receive in the ass).",
+    "example_usage": "Ah, vai tomar no cu, cara! (Ah, go fuck yourself, man!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈvaj toˈmaʁ nu ˈku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "buceta",
+    "literal_translation": "pussy / cunt",
+    "english_equivalent": "cunt / pussy",
+    "severity": 5,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "vulgar"
+    ],
+    "meaning": "Vulgar slang for female genitalia.",
+    "cultural_context": "Extremely vulgar, comparable to English 'cunt.' Rarely used in casual conversation unlike 'caralho' or 'porra.' 'Vai mamar na cona da tia' (go suck on your aunt's cunt) is Portuguese variant. 'Buceta' is strictly Brazilian; Portuguese use 'cona' (extremely offensive).",
+    "example_usage": "NOTE: Extremely anatomical/vulgar reference",
+    "needs_review": false,
+    "ipa_pronunciation": "buˈsɛ.tɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "pica",
+    "literal_translation": "dick / cock",
+    "english_equivalent": "dick / cock",
+    "severity": 4,
+    "categories": [
+      "anatomical",
+      "sexual",
+      "brazilian"
+    ],
+    "meaning": "Slang for penis, specifically Brazilian usage.",
+    "cultural_context": "Brazilian specific; Portuguese use 'pila' or 'caralho.' 'Pica' also means 'peak/mountain peak' in standard Portuguese, causing confusion. 'Pica' is vulgar slang in Brazil.",
+    "example_usage": "NOTE: Anatomical slang",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈpi.kɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cacete",
+    "literal_translation": "club / truncheon / penis",
+    "english_equivalent": "dick / fuck / hell",
+    "severity": 3,
+    "categories": [
+      "anatomical",
+      "weapon",
+      "exclamation"
+    ],
+    "meaning": "Originally wooden club; slang for penis; used as exclamation.",
+    "cultural_context": "Interchangeable with 'caralho' in many contexts. 'Cacete!' = damn! 'Machuca pra cacete' = hurts like hell/fucking hurts. 'Te dou um cacete' = I'll kick your ass (literally 'I'll give you a club').",
+    "example_usage": "Cacete! Deixei a chave no carro! (Damn! I left the key in the car!)",
+    "needs_review": false,
+    "ipa_pronunciation": "kaˈsɛ.t͡ʃi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "arrombado",
+    "literal_translation": "busted open / broken open",
+    "english_equivalent": "asshole / scumbag / busted",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "anatomical",
+      "violence"
+    ],
+    "meaning": "From 'arrombar' (to break down/bust open), implying anal tearing.",
+    "cultural_context": "Rio de Janeiro slang implying the person is 'broken' from anal sex. Highly offensive, homophobic undertones suggesting submission. 'Arrombado' = asshole/scumbag. Extremely aggressive.",
+    "example_usage": "Esse arrombado me passou pra trás! (That scumbag screwed me over!)",
+    "needs_review": false,
+    "ipa_pronunciation": "a.ʁõˈba.du",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "pau no cu",
+    "literal_translation": "dick in the ass",
+    "english_equivalent": "pain in the ass / dickhead",
+    "severity": 3,
+    "categories": [
+      "compound",
+      "anatomical",
+      "descriptive"
+    ],
+    "meaning": "Person who is annoying or obstructive; literally 'dick in ass.'",
+    "cultural_context": "Describes someone who is difficult or unpleasant. Perfect example: Bender from Futurama is 'o maior pau no cu' (the biggest pain in the ass). Can be used affectionately for stubborn friends.",
+    "example_usage": "Ele é um pau no cu (He's a pain in the ass / dickhead)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈpaw nu ˈku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "viado",
+    "literal_translation": "deer / faggot",
+    "english_equivalent": "faggot / queer",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "homophobic",
+      "hate_speech",
+      "animal"
+    ],
+    "meaning": "Slur for gay men, especially effeminate ones.",
+    "cultural_context": "HATE SPEECH. Originally meant 'deer.' Being reclaimed by Brazilian LGBTQ+ communities (similar to English 'queer') but extremely dangerous for straight/cis people to use. Can result in violence if used aggressively. 'Viadinho' is diminutive/less severe.",
+    "example_usage": "NOTE: Hate speech, included for recognition",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈvja.du",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "baitola",
+    "literal_translation": "faggot / queer",
+    "english_equivalent": "faggot",
+    "severity": 5,
+    "categories": [
+      "insult",
+      "homophobic",
+      "hate_speech"
+    ],
+    "meaning": "Another strong slur for gay men.",
+    "cultural_context": "HATE SPEECH. Alternative to 'viado.' Extremely offensive. 'Aboiado' is regional variant. Do not use.",
+    "example_usage": "NOTE: Hate speech",
+    "needs_review": false,
+    "ipa_pronunciation": "bajˈtɔ.lɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "corno",
+    "literal_translation": "horn / cuckold",
+    "english_equivalent": "cuckold",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "masculine",
+      "sexual_shame"
+    ],
+    "meaning": "Man whose wife/girlfriend cheats on him; symbolized by horns.",
+    "cultural_context": "Extremely offensive to masculine pride in Latin cultures. 'Chifrudo' is synonym (horned one). Accusing a man of being 'corno' is fighting words. 'Fazer chifre' = to cuckold someone. The shame of the 'corno' is a major theme in Brazilian culture.",
+    "example_usage": "Dizem que ele é corno e nem sabe (They say he's a cuckold and doesn't even know)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈkoʁ.nu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "desgraçado",
+    "literal_translation": "disgraced one / wretched",
+    "english_equivalent": "bastard / wretch / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "moral_judgment"
+    ],
+    "meaning": "Person without grace/disgrace; morally reprehensible.",
+    "cultural_context": "Strong moral condemnation. 'Desgraça' = disgrace/misfortune. 'Desgraçado' implies the person brings misfortune to others or is inherently bad. Can be used playfully ('Seu desgraçado!' = You rascal!).",
+    "example_usage": "Aquele desgraçado me enganou! (That bastard fooled me!)",
+    "needs_review": false,
+    "ipa_pronunciation": "dez.ɡɾaˈsa.du",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "otário",
+    "literal_translation": "sucker / chump",
+    "english_equivalent": "sucker / chump / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "gullibility"
+    ],
+    "meaning": "Person who is easily fooled; gullible person.",
+    "cultural_context": "Implies lack of street smarts. 'Cair como otário' = to fall for it like a sucker. Less vulgar than sexual terms but insults intelligence and social awareness.",
+    "example_usage": "Ele caiu no golpe como um otário (He fell for the scam like a sucker)",
+    "needs_review": false,
+    "ipa_pronunciation": "oˈta.ɾju",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "babaca",
+    "literal_translation": "drooler / fool",
+    "english_equivalent": "jerk / asshole / idiot",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "behavior"
+    ],
+    "meaning": "Foolish or obnoxious person; originally 'drooler.'",
+    "cultural_context": "Mild insult, similar to English 'jerk.' 'Babaca' implies social awkwardness or obnoxious behavior rather than malice. Common among younger Brazilians.",
+    "example_usage": "Você foi um babaca com ela (You were a jerk to her)",
+    "needs_review": false,
+    "ipa_pronunciation": "baˈba.kɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "imbecil",
+    "literal_translation": "imbecile",
+    "english_equivalent": "imbecile / moron",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "intelligence"
+    ],
+    "meaning": "Stupid or incompetent person.",
+    "cultural_context": "Medical term repurposed as insult. Stronger than 'idiota.' Used for serious incompetence.",
+    "example_usage": "Esse imbecil estacionou na minha vaga (That imbecile parked in my spot)",
+    "needs_review": false,
+    "ipa_pronunciation": "ĩ.beˈsiw",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "burro",
+    "literal_translation": "donkey",
+    "english_equivalent": "donkey / idiot / ass",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "intelligence",
+      "animal"
+    ],
+    "meaning": "Stupid person; compares person to donkey.",
+    "cultural_context": "Standard insult across Romance languages. 'Burrice' = stupidity. Less vulgar than sexual terms.",
+    "example_usage": "Não seja burro! (Don't be an ass/idiot!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈbu.ʁu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cabeça de vento",
+    "literal_translation": "wind head",
+    "english_equivalent": "airhead / scatterbrain",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "intelligence",
+      "poetic"
+    ],
+    "meaning": "Person with no substance; head full of wind.",
+    "cultural_context": "Poetic/figurative insult. Less offensive, more descriptive. Implies forgetfulness and lack of focus.",
+    "example_usage": "Você é uma cabeça de vento (You're an airhead)",
+    "needs_review": false,
+    "ipa_pronunciation": "kaˈbe.sɐ d͡ʒi ˈvẽ.tu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "droga",
+    "literal_translation": "drug",
+    "english_equivalent": "damn / crap",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "euphemism"
+    ],
+    "meaning": "Mild exclamation; originally 'drug' but used as minced oath.",
+    "cultural_context": "Acceptable in most contexts. 'Droga!' = Damn! Much milder than 'merda' or 'porra.' Child-safe.",
+    "example_usage": "Droga! Esqueci minha carteira! (Damn! I forgot my wallet!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈdɾɔ.ɡɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "caramba",
+    "literal_translation": "gosh / darn",
+    "english_equivalent": "darn / wow / holy cow",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "euphemism"
+    ],
+    "meaning": "Minced oath for 'caralho' (dick).",
+    "cultural_context": "The 'safe' version of 'caralho.' Used by all ages, even children. 'Caramba!' = Wow!/Darn! 'Caraças' (Portugal) is equivalent. Can express surprise or disappointment.",
+    "example_usage": "Caramba! Que lugar lindo! (Wow! What a beautiful place!)",
+    "needs_review": false,
+    "ipa_pronunciation": "kaˈɾɐ̃.bɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "poxa",
+    "literal_translation": "oh man / geez",
+    "english_equivalent": "oh man / geez / shoot",
+    "severity": 1,
+    "categories": [
+      "exclamation",
+      "euphemism"
+    ],
+    "meaning": "Mild expression of disappointment.",
+    "cultural_context": "Very mild, acceptable everywhere. 'Poxa vida' = geez louise. 'Poxa' is softening of religious 'poxa' (wound/sacrifice).",
+    "example_usage": "Poxa, eu queria ir à festa (Oh man, I wanted to go to the party)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈpɔ.ʃɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "vaca",
+    "literal_translation": "cow",
+    "english_equivalent": "cow / bitch",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "gendered",
+      "animal"
+    ],
+    "meaning": "Derogatory term for woman; implies fatness or unpleasantness.",
+    "cultural_context": "Mild to moderate insult for women. Can imply physical appearance (fat) or personality (nagging). Not as severe as 'puta' but still offensive.",
+    "example_usage": "Ela é uma vaca (She's a cow/bitch)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈva.kɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "vagabundo / vagabunda",
+    "literal_translation": "vagabond / vagrant",
+    "english_equivalent": "bum / good-for-nothing / slut (fem)",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "social_class",
+      "gendered"
+    ],
+    "meaning": "Lazy unemployed person; feminine form implies promiscuity.",
+    "cultural_context": "Class-based insult. 'Vagabundo' = lazy bum. 'Vagabunda' carries heavy sexual connotation (slut/loose woman). Gender asymmetry is significant.",
+    "example_usage": "Ele é um vagabundo (He's a bum) / Ela é uma vagabunda (She's a slut)",
+    "needs_review": false,
+    "ipa_pronunciation": "va.ɡaˈbũ.du / va.ɡaˈbũ.dɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "estou cagando e andando",
+    "literal_translation": "I'm walking and shitting",
+    "english_equivalent": "I don't give a shit / I couldn't care less",
+    "severity": 3,
+    "categories": [
+      "expression",
+      "indifference",
+      "scatological"
+    ],
+    "meaning": "Expression of total indifference.",
+    "cultural_context": "Origin: horses walk and poop simultaneously without stopping. 'Cagar' = to shit; 'andar' = to walk. 'Estou cagando' = I don't care. 'Cagando e andando' = I care even less than not caring.",
+    "example_usage": "Estou cagando e andando pro que ele pensa (I don't give a shit what he thinks)",
+    "needs_review": false,
+    "ipa_pronunciation": "esˈtoʊ kaˈɡɐ̃w i ɐ̃ˈdɐ̃.du",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "fazer merda",
+    "literal_translation": "to make shit",
+    "english_equivalent": "to screw up / to fuck up",
+    "severity": 3,
+    "categories": [
+      "expression",
+      "failure",
+      "scatological"
+    ],
+    "meaning": "To make a mistake; to do something stupid.",
+    "cultural_context": "Extremely common. 'Fiz merda!' = I fucked up! 'Fazendo merda' = screwing up. Refers to actions, not literally creating excrement.",
+    "example_usage": "Fiz merda no trabalho (I screwed up at work)",
+    "needs_review": false,
+    "ipa_pronunciation": "faˈzeʁ ˈmeʁ.dɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "tá de sacanagem",
+    "literal_translation": "is doing mischief / is fucking around",
+    "english_equivalent": "are you kidding me? / you're shitting me",
+    "severity": 2,
+    "categories": [
+      "expression",
+      "disbelief"
+    ],
+    "meaning": "Expression of disbelief; implies someone is joking or deceiving.",
+    "cultural_context": "'Sacanagem' = naughtiness/mischief/sexual play. 'Tá de sacanagem?' = Are you kidding? Can be playful or angry depending on tone.",
+    "example_usage": "Tá de sacanagem? Você comprou outro carro? (Are you kidding? You bought another car?)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈta d͡ʒi sa.kaˈna.ʒẽj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "tá com fogo no cu",
+    "literal_translation": "has fire in the ass",
+    "english_equivalent": "hyperactive / ants in the pants / won't sit still",
+    "severity": 3,
+    "categories": [
+      "expression",
+      "behavior",
+      "anatomical"
+    ],
+    "meaning": "Describes someone (usually child) who can't stay still.",
+    "cultural_context": "Common for hyperactive children. 'Fogo no rabo' (fire in the tail) is variant. Implies excessive energy and inability to focus.",
+    "example_usage": "Essa criança tá com fogo no cu (That kid has ants in his pants)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈta kũ ˈfo.ɡu nu ˈku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cu na mão",
+    "literal_translation": "ass in hand",
+    "english_equivalent": "scared shitless / terrified",
+    "severity": 3,
+    "categories": [
+      "expression",
+      "fear",
+      "anatomical"
+    ],
+    "meaning": "Extreme fear; holding one's ass in fear.",
+    "cultural_context": "Vivid metaphor for terror. 'Ficar com o cu na mão' = to be scared shitless. 'Cu trancado' (ass clenched) is similar.",
+    "example_usage": "Fiquei com o cu na mão naquela montanha russa (I was scared shitless on that roller coaster)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈku nɐ ˈmɐ̃w",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "peste",
+    "literal_translation": "plague / pest",
+    "english_equivalent": "brat / pest / damn it",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "regional",
+      "nordeste"
+    ],
+    "meaning": "Annoying person, especially child; mild exclamation.",
+    "cultural_context": "Northeastern Brazil (Nordeste) dialect. Can be affectionate ('Ô peste, me dá isso' = Hey you, give me that) or angry depending on context.",
+    "example_usage": "Essa peste vive fazendo bagunça! (That brat is always making a mess!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈpɛs.t͡ʃi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cabra safado",
+    "literal_translation": "dirty goat / scoundrel goat",
+    "english_equivalent": "dirty bastard / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "regional",
+      "nordeste",
+      "animal"
+    ],
+    "meaning": "Sly, dishonest person; 'goat' implies stubbornness.",
+    "cultural_context": "Northeastern regionalism. 'Cabra' = goat/guy; 'safado' = dirty/shady. Can be playful or aggressive. 'Safado' alone means dirty/immoral.",
+    "example_usage": "Cabra safado, ficou com o dinheiro todo! (You dirty bastard, kept all the money!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈka.bɾa saˈfa.du",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cuzão",
+    "literal_translation": "big asshole",
+    "english_equivalent": "asshole / big ass",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "anatomical",
+      "augmentative"
+    ],
+    "meaning": "Augmentative of 'cu' (ass); extremely unpleasant person.",
+    "cultural_context": "'-ão' suffix intensifies. 'Cuzão' is worse than simple anatomical reference; implies the person is defined by their negative qualities. Very offensive.",
+    "example_usage": "Você é um cuzão! (You're a big asshole!)",
+    "needs_review": false,
+    "ipa_pronunciation": "kuˈzɐ̃w",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "vai se ferrar",
+    "literal_translation": "go screw yourself",
+    "english_equivalent": "screw you / get lost",
+    "severity": 2,
+    "categories": [
+      "command",
+      "euphemism"
+    ],
+    "meaning": "Milder version of 'vai se foder' (go fuck yourself).",
+    "cultural_context": "TV-safe alternative. 'Ferrar' = to screw (as in screwing metal). Acceptable in semi-formal contexts where 'foder' would be shocking.",
+    "example_usage": "Vai se ferrar! (Screw you! / Get lost!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈvaj si feˈʁaʁ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "vai mamar na quinta pata do cavalo",
+    "literal_translation": "go suck on the fifth leg of the horse",
+    "english_equivalent": "go to hell / go suck a horse's dick",
+    "severity": 4,
+    "categories": [
+      "command",
+      "poetic",
+      "absurdist"
+    ],
+    "meaning": "Absurdist creative insult implying bestiality.",
+    "cultural_context": "Humorous/poetic Portuguese insult. The 'fifth leg' is the horse's penis. Extremely vulgar but creative. 'Vai mamar na cona da tia' (go suck your aunt's cunt) is even more offensive variant.",
+    "example_usage": "Vai mamar na quinta pata do cavalo! (Go suck a horse's dick!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈvaj maˈmaʁ nɐ ˈkĩ.tɐ ˈpa.tɐ du kaˈva.lu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "raios te partam",
+    "literal_translation": "may rays break you",
+    "english_equivalent": "damn you / to hell with you",
+    "severity": 2,
+    "categories": [
+      "curse",
+      "religious",
+      "archaic"
+    ],
+    "meaning": "Wish for lightning/divine punishment to strike.",
+    "cultural_context": "Archaic/religious curse. Shortened to 'raisparta' or 'poça' in modern speech. 'Raios' = lightning rays. Catholic influence on profanity.",
+    "example_usage": "Raios te partam! (Damn you! / May lightning strike you!)",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈʁaj.uʃ t͡ʃi ˈpaʁ.tɐ̃w",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "rapariga",
+    "literal_translation": "young girl / harlot",
+    "english_equivalent": "slut / whore (Brazil) / girl (Portugal)",
+    "severity": 4,
+    "categories": [
+      "false_friend",
+      "gendered",
+      "regional"
+    ],
+    "meaning": "In Brazil: promiscuous woman. In Portugal: neutral term for girl.",
+    "cultural_context": "CRITICAL FALSE FRIEND. In Portugal 'rapariga' = girl (neutral). In Brazil 'rapariga' = slut/whore (highly offensive). Major cultural misunderstanding possible between PT-BR and PT-PT speakers.",
+    "example_usage": "Brazil: Você é uma rapariga (You're a slut) / Portugal: Ela é uma rapariga (She is a girl)",
+    "needs_review": false,
+    "ipa_pronunciation": "ʁa.pɐˈɾi.ɡɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "cona",
+    "literal_translation": "cunt / pussy",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "anatomical",
+      "european_portuguese"
+    ],
+    "meaning": "Vulgar term for female genitalia (European Portuguese).",
+    "cultural_context": "EXTREMELY vulgar in Portugal; equivalent to English 'cunt.' Brazilians use 'buceta' instead; 'cona' in Brazil is archaic or confusing. 'Vai mamar na cona da tia' (go suck your aunt's cunt) is Portuguese specific.",
+    "example_usage": "NOTE: European Portuguese anatomical vulgarity",
+    "needs_review": false,
+    "ipa_pronunciation": "ˈko.nɐ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  },
+  {
+    "word": "bocó",
+    "literal_translation": "stupid / silly",
+    "english_equivalent": "dummy / silly billy / doofus",
+    "severity": 1,
+    "categories": [
+      "insult",
+      "playful",
+      "affectionate"
+    ],
+    "meaning": "Silly person; often used affectionately.",
+    "cultural_context": "Playful, rarely offensive. Used between friends and couples. Implies harmless stupidity rather than malice. 'Não seja bocó' = don't be silly.",
+    "example_usage": "Que bocó! Esqueceu o próprio nome! (What a dummy! He forgot his own name!)",
+    "needs_review": false,
+    "ipa_pronunciation": "boˈkɔ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null
+  }
+]

@@ -1,0 +1,1472 @@
+[
+  {
+    "word": "anjing",
+    "literal_translation": "dog",
+    "english_equivalent": "bitch / bastard / fuck",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A dog.",
+    "cultural_context": "The most ubiquitous swear word in Indonesia. In Islamic culture, dogs are considered unclean, making it a severe insult to call a human a dog. Also used universally as an exclamation of shock or anger.",
+    "example_usage": "Anjing, gue telat! (Fuck, I'm late!)",
+    "ipa_pronunciation": "an.dʒiŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "babi",
+    "literal_translation": "pig",
+    "english_equivalent": "pig / asshole",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A pig.",
+    "cultural_context": "Similar to dog, pigs are haram in Islam. Calling someone a pig is deeply offensive and insulting.",
+    "example_usage": "Dasar babi lu! (You absolute pig!)",
+    "ipa_pronunciation": "ba.bi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bangsat",
+    "literal_translation": "bedbug",
+    "english_equivalent": "bastard / motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally a bedbug, a blood-sucking pest.",
+    "cultural_context": "Has evolved into one of the harshest insults for a treacherous, horrible person. Also used as an angry exclamation.",
+    "example_usage": "Bangsat kau! (You bastard!)",
+    "ipa_pronunciation": "baŋ.sat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bajingan",
+    "literal_translation": "thief / scoundrel",
+    "english_equivalent": "scumbag / bastard",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Historically an ox-cart driver, later evolved to mean a thief or scoundrel.",
+    "cultural_context": "An explicitly vulgar insult regarding a person's lack of morals.",
+    "example_usage": "Pria itu bajingan. (That man is a scumbag.)",
+    "ipa_pronunciation": "ba.dʒi.ŋan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jancok",
+    "literal_translation": "fuck / damn",
+    "english_equivalent": "fuck / motherfucker",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "Rooted in East Javanese (Surabaya) slang.",
+    "cultural_context": "Highly versatile. Can be an aggressive insult, an exclamation of pain/surprise, or a term of endearment among very close male friends from East Java. Often spelled 'Dancuk' or 'Cuk'.",
+    "example_usage": "Jancok, sakit banget! (Fuck, that hurts so much!)",
+    "ipa_pronunciation": "dʒan.tʃok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ngentot",
+    "literal_translation": "to fuck",
+    "english_equivalent": "fuck / motherfucker",
+    "severity": 5,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "The act of sexual intercourse.",
+    "cultural_context": "An extremely vulgar curse word, comparable to the heaviest usage of 'fuck' in English.",
+    "example_usage": "Ngentot lu! (Fuck you!)",
+    "ipa_pronunciation": "ŋen.tot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kontol",
+    "literal_translation": "dick",
+    "english_equivalent": "dick / cock",
+    "severity": 5,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Male genitalia.",
+    "cultural_context": "A deeply vulgar anatomical swear word. Used to insult people or express extreme rage.",
+    "example_usage": "Dasar kontol! (You absolute dick!)",
+    "ipa_pronunciation": "kon.tol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "memek",
+    "literal_translation": "cunt",
+    "english_equivalent": "cunt",
+    "severity": 5,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "Female genitalia.",
+    "cultural_context": "Highly offensive and taboo. Rare in casual polite company, used only in extreme anger or crude jokes.",
+    "example_usage": "Tutup mulut memek lu. (Shut your cunt mouth.)",
+    "ipa_pronunciation": "me.mek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tai",
+    "literal_translation": "shit",
+    "english_equivalent": "shit / bullshit",
+    "severity": 3,
+    "categories": [
+      "scatological"
+    ],
+    "meaning": "Feces.",
+    "cultural_context": "Used to describe bad situations, poor quality, or to call someone out on lies.",
+    "example_usage": "Omongan lu tai semua. (Everything you say is shit/bullshit.)",
+    "ipa_pronunciation": "ta.i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "goblok",
+    "literal_translation": "stupid",
+    "english_equivalent": "fucking stupid / dumbass",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Extreme stupidity.",
+    "cultural_context": "Harsher than 'bodoh' (dumb). Means someone is painfully foolish or made a catastrophic error.",
+    "example_usage": "Kenapa lu goblok banget? (Why are you so fucking stupid?)",
+    "ipa_pronunciation": "gob.lok",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tolol",
+    "literal_translation": "idiot",
+    "english_equivalent": "moron / idiot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Brainless or idiotic.",
+    "cultural_context": "Similar weight to goblok, attacking someone's mental capacity.",
+    "example_usage": "Orang tolol. (Idiot person.)",
+    "ipa_pronunciation": "to.lol",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bego",
+    "literal_translation": "dumb",
+    "english_equivalent": "dumb / stupid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Slow or dumb.",
+    "cultural_context": "Often used in Jakarta slang among friends. Slightly lighter than goblok.",
+    "example_usage": "Bego amat sih lu. (You're so dumb, man.)",
+    "ipa_pronunciation": "be.go",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "monyet",
+    "literal_translation": "monkey",
+    "english_equivalent": "monkey / idiot",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A monkey.",
+    "cultural_context": "Used to call someone uncultured, wild, or idiotically annoying. Very common traffic insult.",
+    "example_usage": "Monyet lu! (You monkey!)",
+    "ipa_pronunciation": "mo.ɲet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kampret",
+    "literal_translation": "small bat",
+    "english_equivalent": "damn / bastard",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "A microbat.",
+    "cultural_context": "A relatively mild, socially acceptable curse word meaning 'damn it' or 'little bastard'.",
+    "example_usage": "Kampret, dompet gue ketinggalan! (Damn, I left my wallet!)",
+    "ipa_pronunciation": "kam.pret",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sialan",
+    "literal_translation": "cursed / unlucky",
+    "english_equivalent": "dammit / bastard",
+    "severity": 2,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "From the word 'sial' (unlucky).",
+    "cultural_context": "A very standard PG-13 curse meaning 'damn' or 'you cursed person'.",
+    "example_usage": "Sialan lu! (You bastard/dammit!)",
+    "ipa_pronunciation": "si.a.lan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "brengsek",
+    "literal_translation": "broken / messed up",
+    "english_equivalent": "jerk / asshole / piece of shit",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something that doesn't work right, applied to humans to mean they are useless jerks.",
+    "cultural_context": "A very popular insult for someone who is useless, annoying, or mean.",
+    "example_usage": "Cowok brengsek. (Jerk boyfriend.)",
+    "ipa_pronunciation": "breŋ.sek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "perek",
+    "literal_translation": "prostitute",
+    "english_equivalent": "whore / slut",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Originally an acronym for 'perempuan eksperimen' (experimental woman) from 1980s Jakarta slang.",
+    "cultural_context": "Now widely universally understood as 'slut'.",
+    "example_usage": "Gaya lu kayak perek. (You dress like a slut.)",
+    "ipa_pronunciation": "pe.rek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jalang",
+    "literal_translation": "wild / stray",
+    "english_equivalent": "strumpet / whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A stray animal, usually applied to women to mean a literal whore ('perempuan jalang').",
+    "cultural_context": "A slightly more formal/literary term for whore compared to perek.",
+    "example_usage": "Perempuan jalang. (Wild woman/whore.)",
+    "ipa_pronunciation": "dʒa.laŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jablay",
+    "literal_translation": "rarely touched",
+    "english_equivalent": "desperate housewife / hoe",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Portmanteau of 'jarang dibelai' (rarely caressed/touched).",
+    "cultural_context": "Pop culture slang from the 2000s referring to a woman desperate for male attention or sex.",
+    "example_usage": "Dasar jablay. (You desperate hoe.)",
+    "ipa_pronunciation": "dʒab.laj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pantat",
+    "literal_translation": "buttocks",
+    "english_equivalent": "ass",
+    "severity": 1,
+    "categories": [
+      "body_part"
+    ],
+    "meaning": "The physical bum.",
+    "cultural_context": "Not explicitly vulgar unless used aggressively.",
+    "example_usage": "Cium pantat gue. (Kiss my ass.)",
+    "ipa_pronunciation": "pan.tat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jembut",
+    "literal_translation": "pubic hair",
+    "english_equivalent": "pubes / ugly piece of shit",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Hair on the genitals.",
+    "cultural_context": "Highly vulgar word used to insult someone's appearance or messy nature. (Muka lu kayak jembut = Your face looks like pubes)",
+    "example_usage": "Dasar jembut! (You pubes!)",
+    "ipa_pronunciation": "dʒem.but",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "lonte",
+    "literal_translation": "whore (Javanese)",
+    "english_equivalent": "cheap whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A cheap street prostitute.",
+    "cultural_context": "Rooted in Javanese but widely understood across Indonesia. Highly dismissive and cruel.",
+    "example_usage": "Lonte jalanan. (Street whore.)",
+    "ipa_pronunciation": "lon.te",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "banci",
+    "literal_translation": "transvestite / effeminate",
+    "english_equivalent": "pussy / sissy / tranny",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Historically a cross-dresser or transgender woman (waria).",
+    "cultural_context": "Often used aggressively against men to call them cowards or unmanly.",
+    "example_usage": "Jangan jadi banci dong lu! (Don't be a pussy!)",
+    "ipa_pronunciation": "ban.tʃi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bencong",
+    "literal_translation": "sissy",
+    "english_equivalent": "sissy / faggot",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A harsher, slangy version of banci.",
+    "cultural_context": "Highly derogatory when used as an insult.",
+    "example_usage": "Dasar bencong. (You absolute sissy.)",
+    "ipa_pronunciation": "ben.tʃoŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kampungan",
+    "literal_translation": "village-like",
+    "english_equivalent": "trashy / ghetto / redneck",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone or something from a rural village (kampung).",
+    "cultural_context": "A classist insult meaning uncultured, tacky, or possessing bad taste.",
+    "example_usage": "Gaya bajunya kampungan banget. (His style is so trashy/uncultured.)",
+    "ipa_pronunciation": "kam.pu.ŋan",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "norak",
+    "literal_translation": "tacky",
+    "english_equivalent": "tacky / cringe",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Over-the-top, loud, or embarrassingly uncool.",
+    "cultural_context": "Often paired with 'kampungan'. Someone being excessively loud at a nice restaurant is norak.",
+    "example_usage": "Norak banget sih. (That is so tacky.)",
+    "ipa_pronunciation": "no.rak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "peler",
+    "literal_translation": "testicles",
+    "english_equivalent": "balls / bollocks",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Male testicles or scrotal sac.",
+    "cultural_context": "Highly vulgar term for the genitals, often used as an exclamation of disbelief (like English 'bollocks').",
+    "example_usage": "Peler lah! (Bollocks to that!)",
+    "ipa_pronunciation": "pe.ler",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "titit",
+    "literal_translation": "little dick",
+    "english_equivalent": "wiener / pecker",
+    "severity": 2,
+    "categories": [
+      "body_part",
+      "insult"
+    ],
+    "meaning": "Childish word for penis.",
+    "cultural_context": "Used mockingly to insult a man's masculinity or size.",
+    "example_usage": "Titit kecil. (Little wiener.)",
+    "ipa_pronunciation": "ti.tit",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bedebah",
+    "literal_translation": "wretch",
+    "english_equivalent": "wretch / scoundrel",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A wretched, damned person.",
+    "cultural_context": "More poetic and dated (often heard in dubbed movies for 'bastard'), but still used for dramatic effect.",
+    "example_usage": "Kau bedebah! (You wretch!)",
+    "ipa_pronunciation": "be.de.bah",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sundel",
+    "literal_translation": "whore / back-hollow ghost",
+    "english_equivalent": "evil whore",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious",
+      "sexual"
+    ],
+    "meaning": "Derived from 'Sundel Bolong', a mythical ghost of a prostitute with a hole in her back.",
+    "cultural_context": "Used to call a woman an evil, manipulative whore.",
+    "example_usage": "Dasar sundel. (You evil whore.)",
+    "ipa_pronunciation": "sun.del",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kunyuk",
+    "literal_translation": "macaque monkey",
+    "english_equivalent": "chump / little monkey",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A specific type of monkey.",
+    "cultural_context": "Lighter than bangsat but heavier than kampret. Used when someone is acting foolishly malicious.",
+    "example_usage": "Anak kunyuk. (Monkey child.)",
+    "ipa_pronunciation": "ku.ɲuk",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jenglot",
+    "literal_translation": "vampiric doll",
+    "english_equivalent": "ugly freak",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A mythical, tiny, ugly, deformed vampiric creature in Indonesian folklore.",
+    "cultural_context": "Used to vividly insult someone who is very short, ugly, or starved looking.",
+    "example_usage": "Muka lu kayak jenglot. (Your face looks like a jenglot.)",
+    "ipa_pronunciation": "dʒeŋ.lot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kampang",
+    "literal_translation": "bastard (Sumatran)",
+    "english_equivalent": "bastard / motherfucker",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A severe insult originating from Sumatra (Palembang/Lampung).",
+    "cultural_context": "Equivalent to 'anak haram' (child of sin). Used to start violent fights.",
+    "example_usage": "Mati kau kampang! (Die, you bastard!)",
+    "ipa_pronunciation": "kam.paŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pantasan",
+    "literal_translation": "no wonder",
+    "english_equivalent": "no shit / figures",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Expression meaning 'that makes sense' or 'no wonder'.",
+    "cultural_context": "Not a swear word, but often paired with them. 'Pantasan dia goblok' = 'No wonder he is fucking stupid'.",
+    "example_usage": "Oh pantasan. (Oh, no shit.)",
+    "ipa_pronunciation": "pan.ta.san",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ngehe",
+    "literal_translation": "annoying",
+    "english_equivalent": "pain in the ass / annoying fuck",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Something that is deeply irritating or unfortunate.",
+    "cultural_context": "Jakarta slang from the 80s/90s. Often used to describe a person who is difficult to deal with.",
+    "example_usage": "Orang itu ngehe banget. (That guy is a massive pain in the ass.)",
+    "ipa_pronunciation": "ŋe.he",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kimpoi",
+    "literal_translation": "to mate (animals)",
+    "english_equivalent": "to fuck / to bang",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "A corruption/slang of 'kawin' (to marry/mate).",
+    "cultural_context": "Internet/Kaskus forum slang initially, used as a cheeky way to say having sex without using the heavier 'ngentot'.",
+    "example_usage": "Pengen kimpoi. (Want to bang.)",
+    "ipa_pronunciation": "kim.po.i",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bodo amat",
+    "literal_translation": "very stupid",
+    "english_equivalent": "I don't give a fuck",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literally 'very stupid', but Idiomatically means completely ignoring something out of apathy.",
+    "cultural_context": "The Indonesian equivalent of 'I couldn't care less'.",
+    "example_usage": "Bodo amat lah! (I don't give a fuck!)",
+    "ipa_pronunciation": "bo.do a.mat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bacot",
+    "literal_translation": "mouth / talking",
+    "english_equivalent": "shut the fuck up / loudmouth",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Literally means 'mouth', but used aggressively to tell someone they talk too much.",
+    "cultural_context": "Very common command.",
+    "example_usage": "Banyak bacot lu! (You run your fucking mouth too much!)",
+    "ipa_pronunciation": "ba.tʃot",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sok tahu / sotoy",
+    "literal_translation": "pretend to know",
+    "english_equivalent": "smartass / know-it-all",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who pretends to know everything but actually knows nothing.",
+    "cultural_context": "A prominent cultural annoyance in Indonesia. 'Sotoy' is the slangified version.",
+    "example_usage": "Jangan sotoy deh lu. (Don't be a smartass.)",
+    "ipa_pronunciation": "so.toj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "buaya",
+    "literal_translation": "crocodile",
+    "english_equivalent": "player / fuckboy",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A crocodile.",
+    "cultural_context": "'Buaya darat' (land crocodile) refers to an unfaithful man, a scammer, or a massive player who lies to women.",
+    "example_usage": "Dasar buaya darat. (You lying player.)",
+    "ipa_pronunciation": "bu.a.ja",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cabe-cabean",
+    "literal_translation": "little chilies",
+    "english_equivalent": "trashy teen girls / underage hoes",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Slang for underage girls who wear cheap, revealing clothes, ride on motorcycles with older guys, and act trashy.",
+    "cultural_context": "A very specific 2010s cultural phenomenon in Indonesia.",
+    "example_usage": "Kumpulan cabe-cabean. (A group of trashy teen girls.)",
+    "ipa_pronunciation": "tʃa.be tʃa.be.an",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "alay",
+    "literal_translation": "tacky kid",
+    "english_equivalent": "cringe / try-hard",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Acronym for 'anak layangan' (kite kids).",
+    "cultural_context": "Meaning someone who is painfully cringeworthy, overly dramatic, obsessively follows low-quality trends, or texts with alternating capitalization.",
+    "example_usage": "Alay banget sumpah. (I swear you're so cringe.)",
+    "ipa_pronunciation": "a.laj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "anjir",
+    "literal_translation": "dog (censored)",
+    "english_equivalent": "damn / frick",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A softened, slang version of 'anjing'.",
+    "cultural_context": "Used constantly by younger generations online and offline to express shock without officially 'swearing'. Similar to 'anjay' or 'anjrit'.",
+    "example_usage": "Anjir keren banget! (Damn that's so cool!)",
+    "ipa_pronunciation": "an.dʒir",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "anjay",
+    "literal_translation": "dog (censored/positive)",
+    "english_equivalent": "sheesh / damn",
+    "severity": 1,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Another mutation of 'anjing', usually used for positive awe.",
+    "cultural_context": "Became a massive meme in Indonesia.",
+    "example_usage": "Anjay mabar. (Sheesh, let's play games.)",
+    "ipa_pronunciation": "an.dʒaj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bgst",
+    "literal_translation": "bangsat abbreviation",
+    "english_equivalent": "bastard (text slang)",
+    "severity": 4,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Texting abbreviation for Bangsat.",
+    "cultural_context": "Used on Twitter/TikTok to bypass filters.",
+    "example_usage": "Temen bgst. (Bastard friend.)",
+    "ipa_pronunciation": "baŋ.sat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "ngaceng",
+    "literal_translation": "standing up",
+    "english_equivalent": "hard-on / horny",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Having an erection.",
+    "cultural_context": "Vulgar slang used heavily among men.",
+    "example_usage": "Gue ngaceng liat dia. (I get a hard-on looking at her.)",
+    "ipa_pronunciation": "ŋa.tʃeŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jual mahal",
+    "literal_translation": "selling expensive",
+    "english_equivalent": "playing hard to get / stuck up",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Someone who acts like their time/attention is priced too high.",
+    "cultural_context": "Idiom for someone overly arrogant in dating.",
+    "example_usage": "Jangan sok jual mahal. (Don't act stuck up / hard to get.)",
+    "ipa_pronunciation": "dʒu.al ma.hal",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kamseupay",
+    "literal_translation": "tacky villager",
+    "english_equivalent": "ugly hillbilly",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "An acronym: Kampung, sekali, udik, payah (Village, very, backward, pathetic).",
+    "cultural_context": "A 2010s pop-culture slang meant to brutally insult someone's lack of urban sophistication.",
+    "example_usage": "Dasar kamseupay. (You ugly hillbilly.)",
+    "ipa_pronunciation": "kam.sə.paj",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sange",
+    "literal_translation": "horny",
+    "english_equivalent": "horny as fuck",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Extreme sexual arousal.",
+    "cultural_context": "A very common vulgar slang replacing formal words for arousal.",
+    "example_usage": "Bikin sange aja. (Just making me horny.)",
+    "ipa_pronunciation": "sa.ŋe",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "toket",
+    "literal_translation": "breasts",
+    "english_equivalent": "tits / knockers",
+    "severity": 3,
+    "categories": [
+      "body_part",
+      "sexual"
+    ],
+    "meaning": "Female breasts.",
+    "cultural_context": "Vulgar, juvenile slang. 'Susu' is milk/formal breasts, 'toket' is strictly vulgar slang.",
+    "example_usage": "Toket gede. (Big tits.)",
+    "ipa_pronunciation": "to.ket",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pele",
+    "literal_translation": "stupid/slow",
+    "english_equivalent": "retard / slowpoke",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Stupid, clumsy, or slow-witted.",
+    "cultural_context": "Jakarta youth slang.",
+    "example_usage": "Lu mah pele. (You are such a retard.)",
+    "ipa_pronunciation": "pe.le",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kudet",
+    "literal_translation": "kurang update",
+    "english_equivalent": "out of the loop / boomer",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Acronym for 'Kurang Update' (lacking updates).",
+    "cultural_context": "Used to make fun of someone who doesn't know the latest news or trends.",
+    "example_usage": "Bapak kudet banget. (You are so out of the loop/boomer.)",
+    "ipa_pronunciation": "ku.det",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mati aja lu",
+    "literal_translation": "just die",
+    "english_equivalent": "go kill yourself / drop dead",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "insult"
+    ],
+    "meaning": "Commanding someone to die.",
+    "cultural_context": "A direct, angry dismissal.",
+    "example_usage": "Mati aja lu anjing! (Just drop dead you dog!)",
+    "ipa_pronunciation": "ma.ti a.dʒa lu",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pantek",
+    "literal_translation": "nail / fuck (Minangkabau)",
+    "english_equivalent": "motherfucker / fuck",
+    "severity": 4,
+    "categories": [
+      "exclamation",
+      "sexual"
+    ],
+    "meaning": "A severe curse word originating from Minangkabau / Padang.",
+    "cultural_context": "Often associated with the vagina locally, but used broadly as an explosive exclamation of anger.",
+    "example_usage": "Pantek kau! (Motherfucker!)",
+    "ipa_pronunciation": "pan.tek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pukimak",
+    "literal_translation": "mother's cunt (Malay/Sumatran)",
+    "english_equivalent": "motherfucker",
+    "severity": 5,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A severe slur targeting the mother's genitalia. Brought over from Malay and Sumatran influence.",
+    "cultural_context": "Extremely offensive.",
+    "example_usage": "Dasar pukimak! (You absolute motherfucker!)",
+    "ipa_pronunciation": "pu.ki.mak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "asu",
+    "literal_translation": "dog (Javanese)",
+    "english_equivalent": "dog / bitch",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "The Javanese word for dog, adopted into national slang.",
+    "cultural_context": "Less intensely evil than 'anjing' in formal Indonesian, often used among friends playfully in Java, but still an insult.",
+    "example_usage": "Asu tenan! (Truly a dog! / Damn!)",
+    "ipa_pronunciation": "a.su",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gatel",
+    "literal_translation": "itchy",
+    "english_equivalent": "horny / thirsty / slutty",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Physically itchy, but universally used as slang for a promiscuous or desperately horny person, usually female.",
+    "cultural_context": "Calling a woman 'cewek gatel' means she is a thirsty slut.",
+    "example_usage": "Jangan gatel sama cowok orang. (Don't be a slut with other people's boyfriends.)",
+    "ipa_pronunciation": "ga.təl",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pelakor",
+    "literal_translation": "man stealer",
+    "english_equivalent": "homewrecker",
+    "severity": 4,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Acronym for 'Perebut Laki Orang' (Snatcher of Other People's Men).",
+    "cultural_context": "A relatively modern acronym that has become the definitive, highly stigmatized word for a mistress or homewrecker. Gossip media runs on this word.",
+    "example_usage": "Dasar pelakor jahat! (You evil homewrecker!)",
+    "ipa_pronunciation": "pə.la.kor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "pebinor",
+    "literal_translation": "wife stealer",
+    "english_equivalent": "homewrecker (male)",
+    "severity": 3,
+    "categories": [
+      "sexual"
+    ],
+    "meaning": "Acronym for 'Perebut Bini Orang'.",
+    "cultural_context": "The male equivalent of pelakor, though culturally used less often because society blames women more via 'pelakor'.",
+    "example_usage": "Munafik lo pebinor. (You hypocrite wife-stealer.)",
+    "ipa_pronunciation": "pə.bi.nor",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bodo",
+    "literal_translation": "stupid",
+    "english_equivalent": "dumb",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Stupid/foolish.",
+    "cultural_context": "Standard Indonesian. Lighter than goblok/tolol.",
+    "example_usage": "Ah bodo amat. (Ah whatever/I'm too dumb to care.)",
+    "ipa_pronunciation": "bo.do",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "geblek",
+    "literal_translation": "stupid (Betawi)",
+    "english_equivalent": "idiot / blockhead",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Jakarta/Betawi slang for incredibly foolish.",
+    "cultural_context": "Has a slightly comedic, head-smacking tone.",
+    "example_usage": "Geblek lu ya! (Are you a blockhead!)",
+    "ipa_pronunciation": "gəb.lek",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "koplak",
+    "literal_translation": "empty-headed / silly",
+    "english_equivalent": "goofball / stupid",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Javanese origin. Means foolish but often in an entertaining, silly way.",
+    "cultural_context": "Used to describe friends who do remarkably stupid but funny things.",
+    "example_usage": "Ide lu koplak banget. (Your idea is so foolishly stupid.)",
+    "ipa_pronunciation": "ko.plak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "saraf",
+    "literal_translation": "nerves",
+    "english_equivalent": "crazy / mentally ill",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Refers to having crossed/broken nerves. Crazy.",
+    "cultural_context": "Used against someone acting irrationally or dangerously.",
+    "example_usage": "Orang saraf. (Crazy person.)",
+    "ipa_pronunciation": "sa.raf",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "sinting",
+    "literal_translation": "insane",
+    "english_equivalent": "lunatic / psycho",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Severely crazy, unhinged.",
+    "cultural_context": "Targeting someone's sanity.",
+    "example_usage": "Sinting kau ya? (Are you a psycho?)",
+    "ipa_pronunciation": "sin.tiŋ",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "gila",
+    "literal_translation": "crazy",
+    "english_equivalent": "crazy / insane",
+    "severity": 2,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "Crazy.",
+    "cultural_context": "Very common exclamation of awe ('Gila bener!' = Absolutely crazy!) or an insult.",
+    "example_usage": "Gila lu ndro. (You are crazy, bro.)",
+    "ipa_pronunciation": "gi.la",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "makan tahi",
+    "literal_translation": "eat shit",
+    "english_equivalent": "eat shit",
+    "severity": 3,
+    "categories": [
+      "exclamation",
+      "scatological"
+    ],
+    "meaning": "Telling someone to consume feces.",
+    "cultural_context": "Direct, combative phrase.",
+    "example_usage": "Makan tahi lu. (Eat shit, you.)",
+    "ipa_pronunciation": "ma.kan ta.hi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "biji peler",
+    "literal_translation": "testicle seeds",
+    "english_equivalent": "nutsack",
+    "severity": 4,
+    "categories": [
+      "body_part",
+      "insult",
+      "sexual"
+    ],
+    "meaning": "The actual balls in the sac.",
+    "cultural_context": "Highly vulgar.",
+    "example_usage": "Sakit biji peler gue. (My nutsack hurts.)",
+    "ipa_pronunciation": "bi.dʒi pe.ler",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "tuyul",
+    "literal_translation": "thieving goblin",
+    "english_equivalent": "little shit / thieving gnome",
+    "severity": 2,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A small bald ghost in mythology that steals money.",
+    "cultural_context": "Used to insult a small child who is annoying or steals things.",
+    "example_usage": "Dasar anak tuyul. (You little goblin child.)",
+    "ipa_pronunciation": "tu.jul",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "babi ngepet",
+    "literal_translation": "demon pig",
+    "english_equivalent": "greedy demon pig",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A mythical black magic pig demon that steals money.",
+    "cultural_context": "Calling a corrupt politician or a greedy person this connects them to black magic and filth.",
+    "example_usage": "Pemerintah babi ngepet. (Demon pig government.)",
+    "ipa_pronunciation": "ba.bi ŋe.pet",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bangke",
+    "literal_translation": "carcass",
+    "english_equivalent": "corpse / damn it",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "A rotting animal carcass (bangkai).",
+    "cultural_context": "Often abbreviated to exclaim frustration or to describe someone lazy who just lays around rotting.",
+    "example_usage": "Bangke, gue kalah lagi! (Carcass/Damn, I lost again!)",
+    "ipa_pronunciation": "baŋ.ke",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "keparat",
+    "literal_translation": "heathen / infidel",
+    "english_equivalent": "damned bastard",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "A cursed person, heathen, or someone who is damned.",
+    "cultural_context": "A heavy, somewhat classical/cinematic curse denoting deep anger.",
+    "example_usage": "Manusia keparat! (Damned human!)",
+    "ipa_pronunciation": "kə.pa.rat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "jahanam",
+    "literal_translation": "Hell / Jahannam",
+    "english_equivalent": "hellish / evil",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "The Islamic concept of Hellfire.",
+    "cultural_context": "Used to describe an intensely evil person, equating them to the inhabitants of Hell.",
+    "example_usage": "Dasar orang jahanam. (You person from Hell.)",
+    "ipa_pronunciation": "dʒa.ha.nam",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "haram jadah",
+    "literal_translation": "forbidden bastard",
+    "english_equivalent": "bastard",
+    "severity": 4,
+    "categories": [
+      "insult",
+      "religious"
+    ],
+    "meaning": "An illegitimate child produced through 'haram' (forbidden/sinful) relations.",
+    "cultural_context": "A deeply wounding religious and familial slur.",
+    "example_usage": "Anak haram jadah! (Forbidden bastard child!)",
+    "ipa_pronunciation": "ha.ram dʒa.dah",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "kutu buku",
+    "literal_translation": "book flea",
+    "english_equivalent": "bookworm / nerd",
+    "severity": 1,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "A bookworm.",
+    "cultural_context": "A minor playground insult for a nerd.",
+    "example_usage": "Si kutu buku itu. (That book flea there.)",
+    "ipa_pronunciation": "ku.tu bu.ku",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "buang sat",
+    "literal_translation": "discard the pest",
+    "english_equivalent": "good riddance to a bastard",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Wordplay on 'bangsat'. Meaning discarding the wretched pest/person.",
+    "cultural_context": "Often used when someone terrible leaves the group.",
+    "example_usage": "Biarin dia pergi, buang sat. (Let him leave, good riddance to the pest.)",
+    "ipa_pronunciation": "bu.aŋ sat",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cabul",
+    "literal_translation": "obscene",
+    "english_equivalent": "pervert / lecherous",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "A sexual deviant or someone committing obscene acts.",
+    "cultural_context": "A heavy label applied to older creepy men or sexual harassers.",
+    "example_usage": "Kakek cabul. (Perverted old man.)",
+    "ipa_pronunciation": "tʃa.bul",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "mesum",
+    "literal_translation": "immoral / filthy",
+    "english_equivalent": "dirty / perverted",
+    "severity": 3,
+    "categories": [
+      "insult",
+      "sexual"
+    ],
+    "meaning": "Mind in the gutter, or doing something sexually inappropriate.",
+    "cultural_context": "Similar to cabul, but often describes a broader 'dirty' mind.",
+    "example_usage": "Otak mesum lu! (Your dirty perverted brain!)",
+    "ipa_pronunciation": "mə.sum",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "bodo pis",
+    "literal_translation": "stupid peace",
+    "english_equivalent": "dumbfuck",
+    "severity": 3,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Intensified version of bodo.",
+    "cultural_context": "Used to denote extreme stupidity without saying goblok.",
+    "example_usage": "Bodo pis dia sumpah. (He's a massive dumbfuck I swear.)",
+    "ipa_pronunciation": "bo.do pis",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "cumi",
+    "literal_translation": "squid (Cuma Minjam)",
+    "english_equivalent": "freeloader",
+    "severity": 2,
+    "categories": [
+      "insult"
+    ],
+    "meaning": "Literal squid, but slang acronym for 'Cuma Minjam' (only borrowing [but never returning]).",
+    "cultural_context": "Insulting a friend who constantly begs or lives off you.",
+    "example_usage": "Dasar tukang cumi lu. (You absolute freeloader.)",
+    "ipa_pronunciation": "tʃu.mi",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  },
+  {
+    "word": "fak",
+    "literal_translation": "fuck",
+    "english_equivalent": "fuck",
+    "severity": 3,
+    "categories": [
+      "exclamation"
+    ],
+    "meaning": "The Indonesianized spelling of the English 'fuck'.",
+    "cultural_context": "Heavily used by urban youth to sound cool or bypass language constraints.",
+    "example_usage": "Fak lah lu. (Fuck off, you.)",
+    "ipa_pronunciation": "fak",
+    "example_sentences": [],
+    "regional_variations": [],
+    "related_words": [],
+    "audio_url": null,
+    "needs_review": false
+  }
+]
