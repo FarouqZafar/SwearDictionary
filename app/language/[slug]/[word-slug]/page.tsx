@@ -1,17 +1,20 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage, getAllWordSlugs } from "@/lib/queries";
+import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 import PronounceButton from "./PronounceButton";
 
 export const revalidate = 3600;
+export const dynamicParams = true;
 
 export async function generateStaticParams() {
-  const slugs = await getAllWordSlugs();
-  return slugs.map((s) => ({ slug: s.slug, "word-slug": s.wordSlug }));
+  // Only pre-build language index pages at build time.
+  // Individual word pages are generated on-demand via ISR
+  // to keep build times fast (~2,700 pages otherwise).
+  return [];
 }
 
 export async function generateMetadata({
