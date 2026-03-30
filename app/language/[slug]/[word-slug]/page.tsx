@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getWordBySlug, getRelatedWords, getAllWordSlugs } from "@/lib/queries";
+import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage, getAllWordSlugs } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
@@ -79,7 +79,8 @@ export default async function WordPage({
   const word = await getWordBySlug(slug, wordSlug);
   if (!word) notFound();
 
-  const related = await getRelatedWords(word.language_id, word.slug);
+  const otherLanguages = await getWordInOtherLanguages(word, word.language_id);
+  const moreWords = await getMoreWordsInLanguage(word.language_id, word.slug, []);
   const flag = word.language.flag_emoji || "🌍";
   const categories = word.categories.map((c) => c.replace("_", " ")).join(", ");
 
@@ -272,6 +273,72 @@ export default async function WordPage({
                 </div>
               </section>
             )}
+
+            {/* Regional Variations */}
+            {word.regional_variations && word.regional_variations.length > 0 && (
+              <section className="word-section">
+                <h2 className="word-section-label">
+                  <span className="word-label-line word-label-line--dim" /> Regional Variations
+                </h2>
+                <div className="word-regions-grid">
+                  {word.regional_variations.map((rv, i) => {
+                    // Handle both string[] and {region, severity, note}[] formats
+                    const isString = typeof rv === "string";
+                    const region = isString ? rv : rv.region;
+                    const sev = isString ? null : rv.severity;
+                    const note = isString ? null : rv.note;
+                    return (
+                      <div key={i} className="word-region-card">
+                        <div className="word-region-header">
+                          <span className="word-region-name">{region}</span>
+                          {sev && (
+                            <span
+                              className="word-region-sev"
+                              style={{ color: severityColor(sev) }}
+                            >
+                              {SEVERITY_LABELS[sev as SeverityLevel] || ""}
+                            </span>
+                          )}
+                        </div>
+                        {note && <p className="word-region-note">{note}</p>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            )}
+
+            {/* When to use / When NOT to use */}
+            <section className="word-section">
+              <h2 className="word-section-label word-section-label--accent">
+                <span className="word-label-line" /> When to Use It
+              </h2>
+              <div className="word-usage-grid">
+                <div className="word-usage-card word-usage-card--do">
+                  <h3 className="word-usage-card-title word-usage-card-title--do">Context</h3>
+                  <ul className="word-usage-list">
+                    {word.severity <= 2 && <li>Casual conversations with friends</li>}
+                    {word.severity <= 3 && <li>Informal settings where profanity is accepted</li>}
+                    {word.severity >= 3 && <li>Expressing strong frustration or emphasis</li>}
+                    {word.severity >= 4 && <li>Only among very close friends who share this register</li>}
+                    {word.categories.includes("exclamation") && <li>As a spontaneous exclamation</li>}
+                    {word.categories.includes("insult") && <li>Direct confrontation (use with caution)</li>}
+                  </ul>
+                </div>
+                <div className="word-usage-card word-usage-card--dont">
+                  <h3 className="word-usage-card-title word-usage-card-title--dont">Avoid</h3>
+                  <ul className="word-usage-list">
+                    <li>Professional or formal settings</li>
+                    {word.severity >= 3 && <li>Around elders or authority figures</li>}
+                    {word.severity >= 4 && <li>Public spaces — will cause genuine offense</li>}
+                    {word.severity >= 5 && <li>Almost any situation — this is as offensive as it gets</li>}
+                    {word.categories.includes("religious") && <li>Around religious or conservative communities</li>}
+                    {word.categories.includes("sexual") && <li>Mixed company or unfamiliar social groups</li>}
+                    <li>Job interviews, meetings, or customer-facing situations</li>
+                  </ul>
+                </div>
+              </div>
+            </section>
           </div>
 
           {/* Sidebar */}
@@ -317,30 +384,36 @@ export default async function WordPage({
               </div>
             )}
 
-            {/* Related Words */}
-            {related.length > 0 && (
+            {/* In Other Languages */}
+            {otherLanguages.length > 0 && (
               <div className="word-related">
                 <div className="word-related-header">
-                  <h3 className="word-sidebar-label">Related Words</h3>
+                  <h3 className="word-sidebar-label">In Other Languages</h3>
                 </div>
                 <div className="word-related-list">
-                  {related.map((r) => (
+                  {otherLanguages.map((ol) => (
                     <Link
-                      key={r.id}
-                      href={`/language/${slug}/${r.slug}`}
+                      key={ol.id}
+                      href={`/language/${ol.language.slug}/${ol.slug}`}
                       className="word-related-card"
                     >
                       <div>
-                        <h4 className="word-related-name">{r.word}</h4>
-                        <p className="word-related-translation">
-                          {r.english_equivalent || r.literal_translation || ""}
-                        </p>
+                        <div className="word-other-lang-row">
+                          <span className="word-other-lang-flag">{ol.language.flag_emoji || "🌍"}</span>
+                          <span className="word-other-lang-name">{ol.language.name}</span>
+                        </div>
+                        <h4 className="word-related-name">{ol.word}</h4>
+                        {ol.english_equivalent && (
+                          <p className="word-related-translation">
+                            &ldquo;{ol.english_equivalent}&rdquo;
+                          </p>
+                        )}
                       </div>
                       <span
                         className="word-related-sev"
-                        style={{ color: severityColor(r.severity) }}
+                        style={{ color: severityColor(ol.severity) }}
                       >
-                        {SEVERITY_LABELS[r.severity as SeverityLevel] || ""}
+                        {SEVERITY_LABELS[ol.severity as SeverityLevel] || ""}
                       </span>
                     </Link>
                   ))}
@@ -350,6 +423,55 @@ export default async function WordPage({
 
           </aside>
         </div>
+
+        {/* More in [Language] */}
+        {moreWords.length > 0 && (
+          <section className="word-more-section">
+            <div className="word-more-header">
+              <h2 className="word-more-title">
+                More in {word.language.name} {flag}
+              </h2>
+              <Link href={`/language/${slug}`} className="word-more-link">
+                View all →
+              </Link>
+            </div>
+            <div className="word-more-grid">
+              {moreWords.map((mw) => (
+                <Link
+                  key={mw.id}
+                  href={`/language/${slug}/${mw.slug}`}
+                  className="word-card"
+                >
+                  <div className="word-card-top">
+                    <span
+                      className="word-card-sev"
+                      style={{ color: severityColor(mw.severity) }}
+                    >
+                      {mw.severity} / 5
+                    </span>
+                    <span className="word-card-cat">
+                      {mw.categories.slice(0, 2).map((c) => c.replace("_", " ")).join(", ")}
+                    </span>
+                  </div>
+                  <div className="word-card-name-row">
+                    <h3 className="word-card-name">{mw.word}</h3>
+                  </div>
+                  {mw.ipa_pronunciation && (
+                    <span className="word-card-ipa">/{mw.ipa_pronunciation}/</span>
+                  )}
+                  {mw.english_equivalent && (
+                    <p className="word-card-equiv">&ldquo;{mw.english_equivalent}&rdquo;</p>
+                  )}
+                  {mw.meaning && (
+                    <p className="word-card-meaning">{mw.meaning}</p>
+                  )}
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+
+
       </div>
     </main>
   );

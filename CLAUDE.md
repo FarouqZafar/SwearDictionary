@@ -145,7 +145,7 @@ The world's most comprehensive multilingual profanity encyclopedia. A browsable,
 
 The initial database is seeded using AI (Claude API) to generate structured word entries, then manually reviewed. Each word entry is generated as JSON matching the `words` table schema.
 
-Current data: **31 languages, 2,030 words**. Lowest: English (26), Farsi (26), Vietnamese (27). Highest: Turkish (223), Bosnian (100), Dutch (90).
+Current data: **31 languages, 2,672 words**. Lowest: Vietnamese (81), Arabic (88), Spanish (96). Highest: Turkish (223), Dari (131), English (131).
 
 ## SEO strategy
 

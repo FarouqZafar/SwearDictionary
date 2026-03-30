@@ -1240,6 +1240,12 @@ body {
   color: var(--text-muted);
   margin-bottom: 12px;
 }
+.word-card-equiv {
+  font-size: 12px;
+  color: var(--accent);
+  font-style: italic;
+  margin-bottom: 4px;
+}
 .word-card-meaning {
   font-size: 13px;
   color: var(--text-dim);
@@ -2367,6 +2373,244 @@ body {
   border: 1px solid var(--border);
 }
 
+/* Regional Variations */
+.word-regions-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+}
+@media (min-width: 640px) {
+  .word-regions-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+.word-region-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  transition: border-color 0.2s;
+}
+.word-region-card:hover {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+.word-region-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+.word-region-name {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+.word-region-sev {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 10px;
+  text-transform: capitalize;
+  background: var(--bg);
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+}
+.word-region-note {
+  font-size: 13px;
+  color: var(--text-dim);
+  line-height: 1.6;
+}
+
+/* When to use / avoid */
+.word-usage-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+@media (min-width: 640px) {
+  .word-usage-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.word-usage-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.word-usage-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 100%;
+}
+.word-usage-card--do::before {
+  background: var(--green);
+}
+.word-usage-card--dont::before {
+  background: var(--red);
+}
+.word-usage-card-title {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 16px;
+}
+.word-usage-card-title--do {
+  color: var(--green);
+}
+.word-usage-card-title--dont {
+  color: var(--red);
+}
+.word-usage-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.word-usage-list li {
+  font-size: 13px;
+  color: var(--text-dim);
+  line-height: 1.5;
+  padding-left: 18px;
+  position: relative;
+}
+.word-usage-card--do .word-usage-list li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--green);
+  font-size: 12px;
+  font-weight: 600;
+}
+.word-usage-card--dont .word-usage-list li::before {
+  content: "✕";
+  position: absolute;
+  left: 0;
+  color: var(--red);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* More in [Language] */
+.word-more-section {
+  margin-top: 64px;
+  padding-top: 48px;
+  border-top: 1px solid var(--border);
+}
+.word-more-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+.word-more-title {
+  font-family: var(--font-instrument-serif), 'Instrument Serif', serif;
+  font-size: 24px;
+  color: var(--text);
+}
+.word-more-link {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 12px;
+  color: var(--accent);
+  text-decoration: none;
+  transition: opacity 0.15s;
+}
+.word-more-link:hover {
+  opacity: 0.8;
+}
+.word-more-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+@media (min-width: 640px) {
+  .word-more-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 1024px) {
+  .word-more-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.word-more-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, transform 0.15s;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.word-more-card:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+  transform: translateY(-2px);
+}
+.word-more-card-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.word-more-card-word {
+  font-family: var(--font-instrument-serif), 'Instrument Serif', serif;
+  font-size: 18px;
+  color: var(--text);
+  transition: color 0.15s;
+}
+.word-more-card:hover .word-more-card-word {
+  color: var(--accent);
+}
+.word-more-card-sev {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 10px;
+  text-transform: capitalize;
+  background: var(--bg);
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.word-more-card-equiv {
+  font-size: 12px;
+  color: var(--accent);
+  font-style: italic;
+}
+.word-more-card-meaning {
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+/* In Other Languages */
+.word-other-lang-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 4px;
+}
+.word-other-lang-flag {
+  font-size: 14px;
+  line-height: 1;
+}
+.word-other-lang-name {
+  font-family: var(--font-jetbrains-mono), 'JetBrains Mono', monospace;
+  font-size: 10px;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 /* Audio button */
 .word-audio-btn {
   width: 100%;
@@ -3473,8 +3717,17 @@ body {
 [data-theme="light"] .word-severity-card,
 [data-theme="light"] .word-context-block,
 [data-theme="light"] .word-related,
-[data-theme="light"] .word-definition-card {
+[data-theme="light"] .word-definition-card,
+[data-theme="light"] .word-region-card,
+[data-theme="light"] .word-usage-card,
+[data-theme="light"] .word-more-card,
+[data-theme="light"] .word-more-section {
   border-color: rgba(0, 0, 0, 0.08);
+}
+[data-theme="light"] .word-region-card:hover,
+[data-theme="light"] .word-usage-card:hover,
+[data-theme="light"] .word-more-card:hover {
+  border-color: rgba(0, 0, 0, 0.15);
 }
 
 [data-theme="light"] .word-card:hover {

@@ -261,6 +261,9 @@ export default function WordFilters({
                   {w.ipa_pronunciation && (
                     <span className="word-card-ipa">/{w.ipa_pronunciation}/</span>
                   )}
+                  {w.english_equivalent && (
+                    <p className="word-card-equiv">&ldquo;{w.english_equivalent}&rdquo;</p>
+                  )}
                   {w.meaning && (
                     <p className="word-card-meaning">{w.meaning}</p>
                   )}

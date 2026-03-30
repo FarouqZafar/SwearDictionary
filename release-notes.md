@@ -98,7 +98,7 @@
 
 ### Data Expansion
 - Added 16 new languages: Bosnian, Czech, Danish, Dari, Dutch, Filipino, Finnish, Greek, Indonesian, Korean, Norwegian, Polish, Romanian, Swedish, Thai, Ukrainian
-- Total: **31 languages, 2,030 words**
+- Total: **31 languages, 2,672 words**
 - Built `data/validate_and_fix_seeds.py` — validates schema, maps 72 expanded categories to 6 DB categories, fixes field names, generates slugs, removes extra fields
 - Built `data/upload_seeds.py` — uploads seed JSON to Supabase with duplicate detection and batch inserts
 - Updated all language `flag_emoji` values in database (no more globe fallbacks)
@@ -219,6 +219,61 @@
 
 ---
 
+## v1.3.0 — Word Page Enhancements & Cross-Language Links (2026-03-30)
+
+### New Sections on Word Detail Pages
+- **Regional Variations** — 2-column grid showing how severity/usage changes by region (e.g. "casual in Marseille, shocking in Paris"). Handles both object and string array formats from DB.
+- **When to Use It** — side-by-side Context/Avoid cards with dynamic bullets based on severity level and categories. Green checkmarks for acceptable contexts, red crosses for situations to avoid.
+- **More in [Language]** — full-width 3-column grid of 8 additional words from the same language at the bottom of each word page. Uses the same `word-card` design as the language page for visual consistency.
+- **In Other Languages** — sidebar section showing the same word concept across up to 6 different languages. Fuzzy matching algorithm: splits `english_equivalent` on `/` and `,`, matches any term as substring, deduplicates by language. Falls back to category + severity matching when equivalent matching returns fewer than 6 results.
+
+### Word Card Improvements
+- Added **english equivalent** in accent-colored italic to word cards on language pages (e.g. *"fuck / shit / damn"* under the word name)
+- Consistent card design across language pages and "More in [Language]" sections
+
+### Cross-Language Matching Algorithm
+- `getWordInOtherLanguages()` in `lib/queries.ts` — two-pass strategy:
+  1. Split english_equivalent into terms, ilike-search across all other languages
+  2. Fallback: match by overlapping categories + similar severity (±1)
+- `getMoreWordsInLanguage()` — fetches additional words excluding current and sidebar words
+
+### Dynamic Footer Stats
+- Footer word count and language count now fetched live from Supabase instead of hardcoded
+- Updated CLAUDE.md and release-notes.md counts to 2,672 words
+
+---
+
+## v1.2.0 — Data Enrichment & Merge Pipeline (2026-03-28)
+
+### New Words — 642 uploaded across 10 languages
+| Language | Before | After | New |
+|----------|--------|-------|-----|
+| Arabic | 35 | 88 | +53 |
+| Dari | 68 | 131 | +63 |
+| English | 26 | 131 | +105 |
+| Farsi | 26 | 103 | +77 |
+| French | 49 | 116 | +67 |
+| Italian | 41 | 97 | +56 |
+| Kurdish | 32 | 86 | +54 |
+| Russian | 43 | 104 | +61 |
+| Spanish | 44 | 96 | +52 |
+| Vietnamese | 27 | 81 | +54 |
+
+Total words in database: **2,672 across 31 languages**
+
+### Enriched Content
+- AI-generated entries with cultural linguist voice — varied lengths, regional context, example sentences, IPA pronunciation
+- Farsi: honor system vocabulary, kos/kir families, Tehran street slang, animal hierarchy, death/burial expressions
+- French: sacres québécois, colonial echoes, gendered grammar in profanity, argot parisien
+- Italian: bestemmie system, regional North/South splits, gesture-linked expressions, mamma insults
+
+### Merge Pipeline
+- **`scripts/merge_seeds.py`** — merges `data/seeds/` + `data/seeds_enriched/` into `data/seeds_merged/` with normalization, dedup, and backfill
+- **`data/upload_merged.py`** — uploads merged data to Supabase with smart slugify for non-Latin scripts (Arabic, Cyrillic, CJK), dry-run mode, batch inserts, duplicate detection
+- Slug override map for DB mismatches (farsi → farsi-persian, bosnian → bosnian-serbo-croatian)
+
+---
+
 ## v1.1.0 — SEO Enhancements, Article Sidebar & Hreflang (2026-03-28)
 
 ### og:image — Social Sharing Image
@@ -325,7 +380,7 @@
 
 ### Data
 
-- **31 languages** with **2,030 words** in Supabase
+- **31 languages** with **2,672 words** in Supabase
 - Average: 65.5 words/language
 - Lowest: English (26), Farsi (26), Vietnamese (27)
 - Highest: Turkish (223), Bosnian (100), Dutch (90)
@@ -360,12 +415,12 @@
 | Task | Status | Notes |
 |------|--------|-------|
 | Next.js project setup with Tailwind + Supabase | Done | Next.js 16, Tailwind v4, Supabase client in `lib/supabase.ts` |
-| Database schema and seed script | Done | Schema in Supabase, seed JSONs in `data/seeds/`, upload script in `data/upload_seeds.py` |
+| Database schema and seed script | Done | Schema in Supabase, seed JSONs in `data/seeds/`, enriched in `data/seeds_enriched/`, merged in `data/seeds_merged/`, upload via `data/upload_merged.py` |
 | Homepage | Done | Redesigned with hero, search, quick links, WotD, severity scale, trending, mission |
 | Language page with filters | Done | Severity pills, category checkboxes, search bar, 18-per-page pagination |
 | Word detail page with pronunciation | Done | IPA display + Web Speech API button, severity bar, cultural context, examples, related words |
 | Search | Done | Server-side ilike search, grouped by language, severity badges |
-| SEO: sitemap, meta tags, structured data | Done | Sitemap (2,065 URLs), robots.txt, meta tags on all pages, JSON-LD on all key pages, canonical URLs everywhere |
+| SEO: sitemap, meta tags, structured data | Done | Sitemap (2,700+ URLs), robots.txt, meta tags on all pages, JSON-LD on all key pages, canonical URLs everywhere |
 | Deploy to Vercel | Done | Live at sweardictionary.com, env vars set, PostHog + Vercel Analytics running |
 
 ---
@@ -380,7 +435,7 @@
 6. ~~**`next.config.ts` is empty**~~ — Configured with security headers in v0.5.0
 7. **Audio pronunciation** — Web Speech API works for most languages; no pre-generated audio files
 8. **Robots disallows `/api/`** — but ViewTracker calls `/api/track-view` from client (works fine, crawlers just won't index it)
-9. **Low word counts for some languages** — English (26), Farsi (26), Vietnamese (27) need more content
+9. ~~**Low word counts for some languages**~~ — Resolved in v1.2.0: English (131), Farsi (103), Vietnamese (81)
 10. **No error logging** — `error.tsx` catches but doesn't report errors anywhere
 11. ~~**Duplicate word slugs in DB**~~ — Fixed by unicode slug migration in v1.0.0 (0 duplicates remaining)
 
@@ -390,7 +445,7 @@
 
 1. ~~**Add `SUPABASE_SERVICE_ROLE_KEY` to Vercel env**~~ — Done, added to Vercel env vars
 2. **Google AdSense setup** — add ad script, ensure content passes review
-3. **Expand low-count languages** — target 50+ words for English, Farsi, Vietnamese
+3. ~~**Expand low-count languages**~~ — Done in v1.2.0, all languages now 50+ words
 4. **Fix duplicate word slugs in DB** — ~49 duplicates causing build warnings
 5. **Phase 2: Community submissions** — auth, moderation queue, upvotes
 

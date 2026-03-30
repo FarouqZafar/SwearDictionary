@@ -5,6 +5,7 @@ import Script from "next/script";
 import Navbar from "@/components/Navbar";
 import { Analytics } from "@vercel/analytics/next";
 import { PostHogProvider } from "@/components/PostHogProvider";
+import { getTotalWordCount, getLanguages } from "@/lib/queries";
 import "./globals.css";
 
 const instrumentSerif = Instrument_Serif({
@@ -44,11 +45,13 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://sweardictionary.com" },
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const [wordCount, languages] = await Promise.all([getTotalWordCount(), getLanguages()]);
+  const langCount = languages.length;
   return (
     <html lang="en" data-theme="light" suppressHydrationWarning>
       <body
@@ -70,7 +73,7 @@ export default function RootLayout({
                   <span className="logo-dict">dictionary</span>
                 </Link>
                 <p>The internet&apos;s most comprehensive profanity database. Exploring how the world swears — with cultural context, severity ratings, and zero filter.</p>
-                <div className="stat-line"><strong>2,030</strong> words &middot; <strong>31</strong> languages</div>
+                <div className="stat-line"><strong>{wordCount.toLocaleString()}</strong> words &middot; <strong>{langCount}</strong> languages</div>
               </div>
               <div className="footer-col">
                 <h4>Explore</h4>

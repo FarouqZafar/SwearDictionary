@@ -259,6 +259,123 @@ export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: strin
   return all;
 }
 
+export async function getWordInOtherLanguages(
+  word: { english_equivalent: string | null; categories: string[]; severity: number },
+  excludeLanguageId: string,
+  limit = 6
+): Promise<(Word & { language: Language })[]> {
+  // Strategy 1: Match by english_equivalent terms
+  let results = await matchByEquivalent(word.english_equivalent, excludeLanguageId, limit);
+
+  // Strategy 2: If not enough results, fill with same categories + similar severity
+  if (results.length < limit) {
+    const existingLangIds = new Set(results.map((r) => r.language_id));
+    existingLangIds.add(excludeLanguageId);
+    const fallback = await matchByCategory(word.categories, word.severity, existingLangIds, limit - results.length);
+    results = [...results, ...fallback];
+  }
+
+  return results;
+}
+
+async function matchByEquivalent(
+  englishEquivalent: string | null,
+  excludeLanguageId: string,
+  limit: number
+): Promise<(Word & { language: Language })[]> {
+  if (!englishEquivalent) return [];
+
+  // Split "fuck / shit / damn" into individual terms
+  const terms = englishEquivalent
+    .split(/[\/,]/)
+    .map((t) => t.trim().toLowerCase())
+    .filter((t) => t.length >= 3);
+
+  if (terms.length === 0) return [];
+
+  const orFilters = terms
+    .slice(0, 4)
+    .map((t) => `english_equivalent.ilike.%${t}%`)
+    .join(",");
+
+  const { data, error } = await supabase
+    .from("words")
+    .select("*, language:languages(*)")
+    .eq("is_published", true)
+    .neq("language_id", excludeLanguageId)
+    .or(orFilters)
+    .order("views", { ascending: false })
+    .limit(limit * 5);
+
+  if (error) return [];
+
+  const seen = new Set<string>();
+  const results: (Word & { language: Language })[] = [];
+  for (const row of (data ?? []) as (Word & { language: Language })[]) {
+    if (seen.has(row.language_id)) continue;
+    seen.add(row.language_id);
+    results.push(row);
+    if (results.length >= limit) break;
+  }
+  return results;
+}
+
+async function matchByCategory(
+  categories: string[],
+  severity: number,
+  excludeLangIds: Set<string>,
+  limit: number
+): Promise<(Word & { language: Language })[]> {
+  if (categories.length === 0 || limit <= 0) return [];
+
+  // Find words with overlapping categories and similar severity (±1)
+  const { data, error } = await supabase
+    .from("words")
+    .select("*, language:languages(*)")
+    .eq("is_published", true)
+    .gte("severity", Math.max(1, severity - 1))
+    .lte("severity", Math.min(5, severity + 1))
+    .overlaps("categories", categories)
+    .order("views", { ascending: false })
+    .limit(limit * 5);
+
+  if (error) return [];
+
+  const seen = new Set<string>();
+  const results: (Word & { language: Language })[] = [];
+  for (const row of (data ?? []) as (Word & { language: Language })[]) {
+    if (excludeLangIds.has(row.language_id)) continue;
+    if (seen.has(row.language_id)) continue;
+    seen.add(row.language_id);
+    results.push(row);
+    if (results.length >= limit) break;
+  }
+  return results;
+}
+
+export async function getMoreWordsInLanguage(
+  languageId: string,
+  excludeSlug: string,
+  excludeSlugs: string[],
+  limit = 8
+): Promise<Word[]> {
+  const allExclude = [excludeSlug, ...excludeSlugs];
+  const { data, error } = await supabase
+    .from("words")
+    .select("*")
+    .eq("language_id", languageId)
+    .eq("is_published", true)
+    .not("slug", "in", `(${allExclude.join(",")})`)
+    .order("views", { ascending: false })
+    .limit(limit);
+
+  if (error) {
+    console.error("Failed to fetch more words:", error.message);
+    return [];
+  }
+  return data ?? [];
+}
+
 // ── Blog Articles ──────────────────────────────────────────
 
 export async function getPublishedArticles(): Promise<Article[]> {
