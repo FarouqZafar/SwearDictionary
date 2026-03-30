@@ -3523,10 +3523,13 @@ body {
   margin-bottom: 32px;
   border-radius: 12px;
   overflow: hidden;
+  height: 500px;
 }
 .article-cover img {
   width: 100%;
-  height: auto;
+  height: 500px;
+  object-fit: cover;
+  object-position: center 15%;
   display: block;
 }
 
