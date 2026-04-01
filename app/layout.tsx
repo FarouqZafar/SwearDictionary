@@ -54,6 +54,9 @@ export default async function RootLayout({
   const langCount = languages.length;
   return (
     <html lang="en" data-theme="light" suppressHydrationWarning>
+      <head>
+        <Script src="https://analytics.ahrefs.com/analytics.js" data-key="kSiSPOCvuvEZ/2sofqwGkQ" async strategy="afterInteractive" />
+      </head>
       <body
         className={`${instrumentSerif.variable} ${dmSans.variable} ${jetbrainsMono.variable} antialiased bg-bg text-text min-h-screen flex flex-col`}
       >
