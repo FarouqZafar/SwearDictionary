@@ -52,7 +52,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     url: `${BASE_URL}/language/${lang.slug}`,
     lastModified: langLastUpdated.get(lang.id) || FIXED_DATE,
     changeFrequency: "weekly" as const,
-    priority: 0.8,
+    priority: 0.9,
   }));
 
   const wordPages: MetadataRoute.Sitemap = (words ?? []).map(
@@ -60,7 +60,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${BASE_URL}/language/${(w.language as Record<string, string>)?.slug}/${w.slug}`,
       lastModified: w.updated_at ? new Date(w.updated_at as string) : FIXED_DATE,
       changeFrequency: "monthly" as const,
-      priority: 0.6,
+      priority: 0.8,
     })
   );
 

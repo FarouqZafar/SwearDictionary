@@ -42,10 +42,6 @@ export async function generateMetadata({
     twitter: { card: "summary", title, description },
     alternates: {
       canonical: `https://sweardictionary.com/language/${slug}`,
-      languages: {
-        [language.iso_code || LANGUAGE_LOCALE_MAP[slug] || "en"]: `https://sweardictionary.com/language/${slug}`,
-        "x-default": "https://sweardictionary.com/languages",
-      },
     },
   };
 }
@@ -68,7 +64,7 @@ export default async function LanguagePage({
     description:
       language.description ||
       `Browse ${language.word_count} swear words in ${language.name} with severity ratings, translations, and cultural context.`,
-    inLanguage: language.name,
+    inLanguage: language.iso_code || LANGUAGE_LOCALE_MAP[slug] || "en",
     url: `https://sweardictionary.com/language/${slug}`,
   };
 
@@ -78,7 +74,7 @@ export default async function LanguagePage({
     itemListElement: [
       { "@type": "ListItem", position: 1, name: "Home", item: "https://sweardictionary.com" },
       { "@type": "ListItem", position: 2, name: "Languages", item: "https://sweardictionary.com/languages" },
-      { "@type": "ListItem", position: 3, name: language.name },
+      { "@type": "ListItem", position: 3, name: language.name, item: `https://sweardictionary.com/language/${slug}` },
     ],
   };
 
@@ -122,6 +118,26 @@ export default async function LanguagePage({
         nativeName={language.native_name}
         isoCode={language.iso_code}
       />
+
+      {/* Server-rendered full word index for SEO — ensures every word has an internal link */}
+      {words.length > 0 && (
+        <details className="lang-word-index">
+          <summary className="lang-word-index-summary">
+            All {language.name} Words ({words.length})
+          </summary>
+          <div className="lang-word-index-list">
+            {words.map((w) => (
+              <Link
+                key={w.id}
+                href={`/language/${slug}/${w.slug}`}
+                className="lang-word-index-link"
+              >
+                {w.word}
+              </Link>
+            ))}
+          </div>
+        </details>
+      )}
     </div>
     </main>
   );

@@ -24,10 +24,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://sweardictionary.com/languages",
-    languages: {
-      "x-default": "https://sweardictionary.com/languages",
-      en: "https://sweardictionary.com/languages",
-    },
   },
 };
 

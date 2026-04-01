@@ -46,8 +46,8 @@ const websiteJsonLd = {
 export default async function HomePage() {
   const [languages, trendingWords, diverseWords, totalWords, latestArticles] = await Promise.all([
     getLanguages(),
-    getTrendingWords(8),
-    getDiverseFeaturedWords(8),
+    getTrendingWords(24),
+    getDiverseFeaturedWords(24),
     getTotalWordCount(),
     getLatestArticles(2),
   ]);
@@ -64,10 +64,20 @@ export default async function HomePage() {
     ? featuredWords[dayOfYear % featuredWords.length]
     : null;
 
-  // Trending: exclude word of the day, take top 6
+  // Trending: exclude word of the day, deduplicate by language, take top 20
+  const seenLangs = new Set<string>();
   const trending = featuredWords
     .filter((w) => w.id !== wotd?.id)
-    .slice(0, 6);
+    .filter((w) => {
+      const langId = w.language_id;
+      if (seenLangs.size < 20 && !seenLangs.has(langId)) {
+        seenLangs.add(langId);
+        return true;
+      }
+      // Allow duplicates only after we've used all unique languages
+      return seenLangs.size >= 20;
+    })
+    .slice(0, 20);
 
   // Severity scale examples (pick one word per level from trending data)
   const severityExamples: { level: number; label: string; color: string; desc: string }[] = [

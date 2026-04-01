@@ -2,6 +2,32 @@
 
 ---
 
+## v1.4.0 — SEO Audit Fixes (2026-04-01)
+
+### Analytics
+- **Ahrefs Web Analytics** added to root layout (`app/layout.tsx`) via Next.js `<Script>` component
+
+### JSON-LD Structured Data Fixes (2,627 errors resolved)
+- **BreadcrumbList**: Last `ListItem` was missing `item` URL on both word and language pages — validators require it on all entries. Added full absolute URL.
+- **DefinedTerm `inLanguage`**: Was falling back to language display name (e.g. "Spanish") instead of BCP 47 code. Now uses `iso_code → LANGUAGE_LOCALE_MAP → "en"` fallback chain on both word and language pages.
+- **FAQPage**: Was always rendered even with only 1 question or when `meaning` was null (generic fallback text). Now only renders with 2+ real questions, skips questions where the answer would be empty.
+- **Null values**: Removed generic fallback strings that injected meaningless answers into FAQ schema.
+
+### Orphan Pages Fixed (1,110 pages now reachable)
+- **Server-rendered word index** (`app/language/[slug]/page.tsx`): Added `<details><summary>` section at the bottom of every language page listing every word as a link. Collapsed by default for clean UI, fully crawlable by bots. All 2,672 words now have at least one server-rendered internal link.
+- **Homepage trending expanded** (`app/page.tsx`): Increased from 6 to 20 trending words, deduplicated by language so homepage authority spreads across languages.
+- **Sitemap priority bump** (`app/sitemap.ts`): Word pages 0.6 → 0.8, language pages 0.8 → 0.9.
+
+### Hreflang Removed (2,703 reciprocal errors + 2,570 mismatches resolved)
+- **Root cause**: Every word/language page declared a non-reciprocal hreflang tag (e.g. `hreflang="es"` pointing to itself with no Spanish-language counterpart linking back). Hreflang requires reciprocal tags between alternate-language versions — SwearDictionary is a single-language (English UI) site, so hreflang was fundamentally wrong.
+- **Removed from**: `app/language/[slug]/[word-slug]/page.tsx`, `app/language/[slug]/page.tsx`, `app/languages/page.tsx`
+- **Kept**: `<html lang="en">` on root layout, canonical URLs on all pages
+
+### CSS
+- Added `.lang-word-index`, `.lang-word-index-summary`, `.lang-word-index-list`, `.lang-word-index-link` styles for the collapsible word index
+
+---
+
 ## v0.1.0 — Database Foundation (2025-03-25)
 
 ### Database Schema
