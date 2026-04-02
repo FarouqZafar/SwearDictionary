@@ -5,6 +5,7 @@ import Link from "next/link";
 import type { Word } from "@/types";
 import { type SeverityLevel } from "@/types";
 import PronounceButton from "@/app/language/[slug]/[word-slug]/PronounceButton";
+import ImpressionTracker from "@/components/ImpressionTracker";
 
 const CARDS_PER_PAGE = 18;
 
@@ -236,6 +237,7 @@ export default function WordFilters({
                   key={w.id}
                   href={`/language/${languageSlug}/${w.slug}`}
                   className="word-card"
+                  data-word-id={w.id}
                 >
                   <div className="word-card-top">
                     <span
@@ -307,6 +309,7 @@ export default function WordFilters({
         )}
       </div>
     </div>
+    <ImpressionTracker />
     </div>
   );
 }

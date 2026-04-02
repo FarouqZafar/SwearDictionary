@@ -31,6 +31,7 @@ export interface Word {
   is_published: boolean;
   submitted_by: string | null;
   views: number;
+  impressions: number;
   created_at: string;
   updated_at: string;
 }

@@ -11,24 +11,19 @@ export async function POST(request: Request) {
     const body = await request.json();
     const { wordId, articleId } = body;
 
-    const table = articleId ? "articles" : "words";
     const id = articleId || wordId;
 
     if (!id || typeof id !== "string") {
       return NextResponse.json({ error: "Invalid id" }, { status: 400 });
     }
 
-    const { data } = await supabaseAdmin
-      .from(table)
-      .select("views")
-      .eq("id", id)
-      .single();
+    const rpcName = articleId ? "increment_article_views" : "increment_views";
+    const paramName = articleId ? "article_id" : "word_id";
 
-    if (data) {
-      await supabaseAdmin
-        .from(table)
-        .update({ views: (data.views || 0) + 1 })
-        .eq("id", id);
+    const { error } = await supabaseAdmin.rpc(rpcName, { [paramName]: id });
+
+    if (error) {
+      return NextResponse.json({ error: "Failed" }, { status: 500 });
     }
 
     return NextResponse.json({ ok: true });

@@ -15,18 +15,31 @@ export async function getLanguages(): Promise<Language[]> {
 }
 
 export async function getTrendingWords(limit = 6): Promise<(Word & { language: Language })[]> {
+  // Use DB-level RPC to sort by weighted score: views * 3 + impressions
   const { data, error } = await supabase
-    .from("words")
-    .select("*, language:languages(*)")
-    .eq("is_published", true)
-    .order("views", { ascending: false })
-    .limit(limit);
+    .rpc("get_trending_words", { lim: limit });
 
   if (error) {
     console.error("Failed to fetch trending words:", error.message);
     return [];
   }
-  return (data ?? []) as (Word & { language: Language })[];
+
+  // The RPC returns flat rows with language fields prefixed — reshape to match expected type
+  return (data ?? []).map((row: Record<string, unknown>) => ({
+    ...row,
+    language: {
+      id: row.language_id,
+      name: row.language_name,
+      slug: row.language_slug,
+      native_name: row.language_native_name,
+      iso_code: row.language_iso_code,
+      flag_emoji: row.language_flag_emoji,
+      word_count: row.language_word_count,
+      description: row.language_description,
+      cultural_notes: row.language_cultural_notes,
+      created_at: row.language_created_at,
+    },
+  })) as (Word & { language: Language })[];
 }
 
 export async function getWordsByLanguage(

@@ -162,15 +162,15 @@ export default async function HomePage() {
 
       {/* STATS */}
       <div className="home-stats-row">
-        <div className="stat-chip">
+        <Link href="/languages" className="stat-chip stat-chip--link">
           <b>{languages.length}</b> languages
-        </div>
-        <div className="stat-chip">
+        </Link>
+        <Link href="/words" className="stat-chip stat-chip--link">
           <b>{totalWords.toLocaleString()}+</b> words
-        </div>
-        <div className="stat-chip">
+        </Link>
+        <Link href="/words" className="stat-chip stat-chip--link">
           <b>5</b> severity levels
-        </div>
+        </Link>
         <div className="stat-chip">
           🔥 <b>12k</b> monthly explorers
         </div>
@@ -306,7 +306,7 @@ export default async function HomePage() {
             </div>
             <div className="home-trending-meaning">{w.meaning}</div>
             <div className="home-trending-views">
-              {w.views.toLocaleString()} views
+              {(w.views + (w.impressions ?? 0)).toLocaleString()} views
             </div>
           </Link>
         ))}
