@@ -6,8 +6,9 @@ import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 import PronounceButton from "./PronounceButton";
+import { cleanIpa } from "@/lib/ipa";
 
-export const revalidate = 3600;
+export const revalidate = 604800;
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
@@ -117,7 +118,7 @@ export default async function WordPage({
       name: `How do you pronounce ${word.word}?`,
       acceptedAnswer: {
         "@type": "Answer",
-        text: `${word.word} is pronounced /${word.ipa_pronunciation}/.`,
+        text: `${word.word} is pronounced [${cleanIpa(word.ipa_pronunciation)}] in IPA.`,
       },
     });
   }
@@ -185,7 +186,7 @@ export default async function WordPage({
               <h1 className="word-hero-title">{word.word}</h1>
               <div className="word-hero-meta">
                 {word.ipa_pronunciation && (
-                  <span className="word-ipa-badge">/{word.ipa_pronunciation}/</span>
+                  <span className="word-ipa-badge">{cleanIpa(word.ipa_pronunciation)}</span>
                 )}
                 <PronounceButton
                   word={word.word}
@@ -462,7 +463,7 @@ export default async function WordPage({
                     <h3 className="word-card-name">{mw.word}</h3>
                   </div>
                   {mw.ipa_pronunciation && (
-                    <span className="word-card-ipa">/{mw.ipa_pronunciation}/</span>
+                    <span className="word-card-ipa">{cleanIpa(mw.ipa_pronunciation)}</span>
                   )}
                   {mw.english_equivalent && (
                     <p className="word-card-equiv">&ldquo;{mw.english_equivalent}&rdquo;</p>

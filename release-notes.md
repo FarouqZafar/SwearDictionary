@@ -2,6 +2,66 @@
 
 ---
 
+## v1.6.0 — ISR Budget & IPA 404 Cleanup (2026-04-19)
+
+### ISR Write Budget Fix
+- **Problem**: Vercel ISR Writes hit 577K against the 200K Hobby-tier limit. Root cause: `revalidate = 3600` (1h) across ~2,710 SSG pages. Every crawler hit past the 1h window triggered a background regen = 1 write.
+- **TTL bumps**:
+  - `/language/[slug]/[word-slug]` (2,672 pages): 1h → **7d**
+  - `/language/[slug]` (31): 1h → **1d**
+  - `/words`, `/languages`: 1h → **1d**
+  - `/blog`, `/blog/[slug]`: 1h → **1d**
+  - `/` (homepage): kept at **1h** (trending changes frequently)
+- **Projected reduction**: 577K → ~25K writes/month (23× drop, well under the 200K cap).
+
+### IPA 404s — Googlebot Crawling Phonetic Strings as URLs
+- **Problem**: Google Search Console reported 58 URLs like `/pʲɪzˈdʲets/`, `/bɪtʃ/`, `/jopt/` returning 404. Googlebot was extracting `/IPA/` strings from word page HTML as root-relative URLs.
+- **Render fix** — removed `/.../` wrappers from JSX so no URL-like patterns appear in HTML:
+  - `app/language/[slug]/[word-slug]/page.tsx` — hero IPA badge + "more words" cards
+  - `app/language/[slug]/WordFilters.tsx` — language-page word cards
+- **Data normalization** — `lib/ipa.ts` `cleanIpa()` helper strips any surrounding `/.../` wrappers since DB has mixed data (774 entries stored with slashes, 1,894 without).
+- **Visual preservation** — `.word-ipa-badge::before/::after` and `.word-card-ipa::before/::after` add `/` via CSS `content:` generated content. Renders identically to users, invisible to URL extraction.
+- **FAQ JSON-LD** (`page.tsx:120`) — changed `/${ipa}/` to `[${ipa}] in IPA` (brackets are valid IPA phonetic notation, not URL-looking).
+
+### Proxy Middleware — 410 Gone for Historic Bad URLs
+- **`proxy.ts`** (new, Next.js 16 convention — formerly `middleware.ts`): matches root-level single-segment paths containing IPA Unicode chars (`U+0250-02FF`, `U+0300-036F`) or explicit ASCII exceptions (`jopt`, `nuj`), returns **410 Gone**. Signals permanent removal to Googlebot → faster deindex than passive 404.
+- **Matcher** excludes `_next`, `api`, static files.
+- **Verified**: `/bɪtʃ` → 410, `/jopt` → 410, `/pʲɪzˈdʲets` → 410; `/about`, `/words`, `/` unaffected.
+
+### Build
+- Clean `npm run build` — zero TypeScript errors, all pages generated, proxy registered.
+
+---
+
+## v1.5.0 — Impression Tracking & Atomic View Counts (2026-04-02)
+
+### Impression Tracking
+- **`ImpressionTracker` component** (`components/ImpressionTracker.tsx`): New client component using `IntersectionObserver` to detect when word cards scroll into the viewport (50% threshold). Batches word IDs every 2 seconds and sends to API. Deduplicates per session, flushes on tab switch/close via `visibilitychange`. Uses `MutationObserver` to pick up new cards after pagination/filter changes.
+- **`POST /api/track-impression`** (`app/api/track-impression/route.ts`): New API route accepting `{ wordIds: string[] }` (max 50). Calls Supabase RPC `increment_impressions` for each word — atomic single-statement increment, no read-then-write race condition.
+- **`impressions` column**: Added `impressions int NOT NULL DEFAULT 0` to `words` table with descending index.
+- **Wired into word grids**: `WordFilters.tsx` (language pages) and `WordsGrid.tsx` (`/words` page) now render `<ImpressionTracker />` and add `data-word-id` to each word card `<Link>`.
+
+### Trending Algorithm Update
+- **DB-level weighted sort**: `getTrendingWords()` now calls Supabase RPC `get_trending_words(lim)` which sorts by `(views * 3 + impressions) DESC` in SQL — no application-layer re-sorting, no over-fetching.
+- **Homepage display**: Trending card view counts now show `views + impressions` combined, keeping the same "X views" label.
+
+### Atomic View Increments
+- **`track-view` API refactored** (`app/api/track-view/route.ts`): Replaced non-atomic read-then-increment with Supabase RPC calls (`increment_views` for words, `increment_article_views` for articles). Eliminates race condition under concurrent requests.
+
+### Supabase Functions Added
+- `increment_views(word_id uuid)` — atomic word view increment
+- `increment_article_views(article_id uuid)` — atomic article view increment
+- `increment_impressions(word_id uuid)` — atomic word impression increment
+- `get_trending_words(lim int)` — returns top words sorted by weighted score with joined language data
+
+### Homepage
+- **Clickable stat chips**: "31 languages" links to `/languages`, "2,672+ words" and "5 severity levels" link to `/words`. Hover effect with accent border. "12k monthly explorers" remains non-clickable.
+
+### Build
+- Clean `npx tsc --noEmit` and `npm run build` — zero TypeScript errors
+
+---
+
 ## v1.4.0 — SEO Audit Fixes (2026-04-01)
 
 ### Analytics
@@ -429,6 +489,11 @@ Total words in database: **2,672 across 31 languages**
 | NavLinks | `components/NavLinks.tsx` | ~40 |
 | BlogGrid | `app/blog/BlogGrid.tsx` | ~80 |
 | ArticleViewTracker | `app/blog/[slug]/ArticleViewTracker.tsx` | ~15 |
+
+### Utilities
+
+- `lib/ipa.ts` — `cleanIpa()` strips surrounding `/.../` from stored IPA strings so render can't expose them as URLs
+- `proxy.ts` (root) — returns 410 Gone for historic Googlebot-extracted IPA URL paths
 
 ### Queries (17 functions in `lib/queries.ts`)
 

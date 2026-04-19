@@ -7,7 +7,7 @@ import { ARTICLE_CATEGORIES } from "@/types";
 import ArticleViewTracker from "./ArticleViewTracker";
 import ArticleTOC from "./ArticleTOC";
 
-export const revalidate = 3600;
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   const slugs = await getAllArticleSlugs();
