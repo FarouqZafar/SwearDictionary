@@ -243,6 +243,28 @@ export async function getDiverseFeaturedWords(
   return results;
 }
 
+export async function getTopWordSlugs(
+  limit = 200
+): Promise<{ slug: string; wordSlug: string }[]> {
+  const { data, error } = await supabase
+    .from("words")
+    .select("slug, language:languages(slug)")
+    .eq("is_published", true)
+    .order("views", { ascending: false })
+    .order("severity", { ascending: false })
+    .limit(limit);
+
+  if (error) {
+    console.error("Failed to fetch top word slugs:", error.message);
+    return [];
+  }
+
+  return (data ?? []).map((w: Record<string, unknown>) => ({
+    slug: (w.language as Record<string, string>)?.slug ?? "",
+    wordSlug: w.slug as string,
+  }));
+}
+
 export async function getAllWordSlugs(): Promise<{ slug: string; wordSlug: string }[]> {
   // Supabase default limit is 1000 rows — fetch in batches
   const all: { slug: string; wordSlug: string }[] = [];

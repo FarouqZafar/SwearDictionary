@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage } from "@/lib/queries";
+import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage, getTopWordSlugs } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
@@ -12,10 +12,11 @@ export const revalidate = 604800;
 export const dynamicParams = true;
 
 export async function generateStaticParams() {
-  // Only pre-build language index pages at build time.
-  // Individual word pages are generated on-demand via ISR
-  // to keep build times fast (~2,700 pages otherwise).
-  return [];
+  // Pre-render the top 200 words by views/severity at build time so Googlebot
+  // hits warm HTML instead of cold ISR renders. Long tail (~2,500 words) still
+  // works via on-demand ISR thanks to dynamicParams = true.
+  const top = await getTopWordSlugs(200);
+  return top.map(({ slug, wordSlug }) => ({ slug, "word-slug": wordSlug }));
 }
 
 export async function generateMetadata({
