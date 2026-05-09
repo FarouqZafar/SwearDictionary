@@ -346,6 +346,16 @@ export default async function WordPage({
                 </div>
               </div>
             </section>
+
+            {/* Cultural Context */}
+            {word.cultural_context && (
+              <section className="word-section">
+                <div className="word-context-block">
+                  <h3 className="word-context-title">Cultural Context</h3>
+                  <p className="word-context-text">{word.cultural_context}</p>
+                </div>
+              </section>
+            )}
           </div>
 
           {/* Sidebar */}
@@ -382,14 +392,6 @@ export default async function WordPage({
                 {severityDesc(word.severity)}
               </p>
             </div>
-
-            {/* Cultural Context */}
-            {word.cultural_context && (
-              <div className="word-context-block">
-                <h3 className="word-context-title">Cultural Context</h3>
-                <p className="word-context-text">{word.cultural_context}</p>
-              </div>
-            )}
 
             {/* In Other Languages */}
             {otherLanguages.length > 0 && (

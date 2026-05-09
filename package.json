@@ -11,6 +11,7 @@
     "seed": "node --env-file=.env supabase/seed.mjs"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "@supabase/supabase-js": "^2.49.0",
     "@vercel/analytics": "^2.0.1",
     "marked": "^17.0.5",
