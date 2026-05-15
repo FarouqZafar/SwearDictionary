@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { getLanguages } from "@/lib/queries";
 import LanguageGrid from "./LanguageGrid";
 
-export const revalidate = 86400;
+export const revalidate = false;
 
 export const metadata: Metadata = {
   title: "Swear Words by Language — SwearDictionary",

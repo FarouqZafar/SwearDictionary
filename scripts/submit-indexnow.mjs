@@ -28,7 +28,7 @@ const SUPABASE_KEY = env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
 const HOST = "sweardictionary.com";
 const BASE_URL = `https://${HOST}`;
 const API_KEY = "f8b43f7e1ece40ecb92b667248179b1c";
-const INDEXNOW_ENDPOINT = "https://api.indexnow.org/indexnow";
+const INDEXNOW_ENDPOINT = "https://www.bing.com/indexnow";
 const BATCH_SIZE = 10000;
 
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);

@@ -1,22 +1,19 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage, getTopWordSlugs } from "@/lib/queries";
+import { getWordBySlug, getWordInOtherLanguages, getMoreWordsInLanguage, getAllWordSlugs } from "@/lib/queries";
 import { SEVERITY_LABELS, type SeverityLevel } from "@/types";
 import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 import PronounceButton from "./PronounceButton";
 import { cleanIpa } from "@/lib/ipa";
 
-export const revalidate = 604800;
-export const dynamicParams = true;
+export const revalidate = false;
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
-  // Pre-render the top 200 words by views/severity at build time so Googlebot
-  // hits warm HTML instead of cold ISR renders. Long tail (~2,500 words) still
-  // works via on-demand ISR thanks to dynamicParams = true.
-  const top = await getTopWordSlugs(200);
-  return top.map(({ slug, wordSlug }) => ({ slug, "word-slug": wordSlug }));
+  const all = await getAllWordSlugs();
+  return all.map(({ slug, wordSlug }) => ({ slug, "word-slug": wordSlug }));
 }
 
 export async function generateMetadata({
@@ -352,7 +349,15 @@ export default async function WordPage({
               <section className="word-section">
                 <div className="word-context-block">
                   <h3 className="word-context-title">Cultural Context</h3>
-                  <p className="word-context-text">{word.cultural_context}</p>
+                  {word.cultural_context
+                    .split(/\n\s*\n/)
+                    .map((p) => p.trim())
+                    .filter((p) => p.length > 0)
+                    .map((para, i) => (
+                      <p key={i} className="word-context-text">
+                        {para}
+                      </p>
+                    ))}
                 </div>
               </section>
             )}

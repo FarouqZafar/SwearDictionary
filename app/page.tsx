@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://sweardictionary.com" },
 };
 
-export const revalidate = 3600;
+export const revalidate = false;
 
 const websiteJsonLd = {
   "@context": "https://schema.org",

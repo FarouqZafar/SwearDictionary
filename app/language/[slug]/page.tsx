@@ -9,7 +9,7 @@ import {
 import WordFilters from "./WordFilters";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 
-export const revalidate = 86400;
+export const revalidate = false;
 
 export async function generateStaticParams() {
   const slugs = await getAllLanguageSlugs();

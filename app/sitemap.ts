@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { getLanguages, getPublishedArticles } from "@/lib/queries";
 import { supabase } from "@/lib/supabase";
 
-export const revalidate = 86400;
+export const revalidate = false;
 
 const BASE_URL = "https://sweardictionary.com";
 const FIXED_DATE = "2026-03-27";
