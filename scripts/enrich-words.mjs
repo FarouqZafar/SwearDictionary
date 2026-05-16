@@ -15,9 +15,9 @@
 import { GoogleGenerativeAI, SchemaType } from "@google/generative-ai";
 import { createClient } from "@supabase/supabase-js";
 
-const MODEL = "gemini-2.5-flash-lite";
+const MODEL = "gemini-2.5-flash";
 const DELAY_MS = 6000;            // ~10 RPM, fits free tier
-const MAX_WORDS = 3;              // probe tightened prompt on flash-lite
+const MAX_WORDS = 10;             // batch size per run
 const PROGRESS_INTERVAL = 10;
 const BATCH_BOUNDARY = 50;
 const MIN_SENTENCES = 3;
