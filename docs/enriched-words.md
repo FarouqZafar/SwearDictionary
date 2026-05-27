@@ -6,9 +6,9 @@ Words enriched with `example_sentences`, `cultural_context`, and `regional_varia
 
 | Metric | Count |
 |---|---|
-| Total enriched | 61 |
+| Total enriched | 109 |
 | Total published | 2,672 |
-| Still eligible | 2,602 |
+| Still eligible | 2,552 |
 
 ## Run 1 — 2026-05-08 · gemini-2.5-flash · 10 words
 
@@ -119,6 +119,82 @@ Same-day continuation on a fresh daily quota. 10 attempted, 9 succeeded, daily q
 | 59 | `054d3643-fa11-4c8a-92e3-954658e04740` | spanish | puto | puto | 5 |
 | 60 | `dd02f342-2116-4566-a228-4f938ebeb4b6` | korean | 쌍놈 (ssangnom) | ssangnom | 5 |
 | 61 | `0c96b767-ef3a-4515-8553-4b6c72e67b4b` | japanese | 弱虫 (yowamushi) | yowamushi | 5 |
+
+## Run 7 — 2026-05-17 · gemini-2.5-flash · 10 words
+
+Clean run. 10/10 succeeded, no quota or 503 errors.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 62 | `b1f1218b-fc49-4e07-8da0-4ebb5a4e460d` | farsi-persian | کون (Kun) | kun | 7 |
+| 63 | `037a2a76-306f-436c-bca4-8d769139572e` | japanese | 嘘つき (usotsuki) | usotsuki | 7 |
+| 64 | `c2c3a048-dbf0-4e4e-9625-26c9be3421b5` | english | son of a bitch | son-of-a-bitch | 7 |
+| 65 | `6af5c44e-aa76-4623-8fb0-ffeddd5a0ba1` | english | bloody hell | bloody-hell | 6 |
+| 66 | `d9551c78-6822-4565-8353-b651bd815a17` | chinese | 狗东西 (gǒu dōng xi) | gou-dong-xi | 6 |
+| 67 | `72a3904b-4dda-43b1-b031-065a6c30e27d` | farsi-persian | لاشی (Lāshi) | lashi | 6 |
+| 68 | `10c1fd4f-9206-4d8d-b560-05cb9c6c1cbd` | japanese | まんこ (manko) | manko | 6 |
+| 69 | `340fdab7-d3b7-4502-b013-12cbb6a95158` | japanese | クズ (kuzu) | kuzu | 6 |
+| 70 | `c95ff7d0-fcee-47d6-ad56-1ccf7b6fc2e7` | indonesian | kontol | kontol | 5 |
+| 71 | `94983305-ea80-4a53-b426-b261f4e599c6` | japanese | 黙れ (damare) | damare | 5 |
+
+## Run 8 — 2026-05-17 · gemini-2.5-flash · 9 words
+
+Script reported 10/10 succeeded but one word's existing data was already sufficient on all three fields, so `buildUpdates` returned empty and no DB write happened. 9 words actually enriched.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 72 | `00769ca4-d68b-4d20-b07f-58db299e4eed` | english | jizz | jizz | 5 |
+| 73 | `cd12c085-b3eb-422e-851c-1ed781ebff33` | german | Fick dich | fick-dich | 5 |
+| 74 | `492d9e6a-60f1-45d1-918a-87ae1511cb62` | turkish | gavat | gavat | 5 |
+| 75 | `ae601284-8ccd-44bc-9ecc-62c5c76b3f6a` | spanish | follar | follar | 5 |
+| 76 | `f9f61e99-8f99-46a0-b3ae-25fba21ecbc9` | portuguese | buceta | buceta | 5 |
+| 77 | `36d56180-4c92-4192-8409-510109b7f585` | kurdish | کوڕی سەگ (Kurrî seg) | kurri-seg | 5 |
+| 78 | `712df022-e71e-40d3-831c-787e7a14a550` | english | bampot | bampot | 5 |
+| 79 | `a9a0ec98-6f67-4e7e-98e4-4a0d946dd59e` | english | piss | piss | 5 |
+| 80 | `b91e76dc-c4e8-4006-a850-20d33705c557` | kurdish | Qûnek | qunek | 5 |
+
+## Run 9 — 2026-05-27 · gemini-2.5-flash · 9 words
+
+Script processed 10/10, but 1 had no DB updates needed (all three fields already sufficient). 9 words actually enriched.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 81 | `92c7d523-eafb-409b-b214-4858427537c4` | chinese | SB / 2B | sb-2b | 12 |
+| 82 | `9626a8df-4730-483b-989a-434dedf202d6` | chinese | 操 | fuck | 11 |
+| 83 | `849477a6-6e59-4e1c-b55c-0ba081862d2d` | german | Scheiße | schei-e | 10 |
+| 84 | `eb2d88d4-df78-457d-b4d4-7471c1032418` | filipino | puki (poo-kee) | puki | 10 |
+| 85 | `a2ba94f3-29f8-47d2-bd70-a2375138c860` | filipino | inutil (ee-noo-til) | inutil | 10 |
+| 86 | `acb0d0b7-2e08-47cf-9fdb-0f8e66e68fb4` | chinese | 傻逼 (shǎ bī) | sha-bi | 9 |
+| 87 | `929fa672-0a20-4e04-8431-ed7cb0610b44` | chinese | 草泥马 (cǎo ní mǎ) [euphemism] | cao-ni-ma-euphemism | 9 |
+| 88 | `33bf3f18-80d7-4b1b-a091-303d680a3b7d` | english | holy shit | holy-shit | 8 |
+| 89 | `b47d417c-69d8-4fd7-bbce-9375cde7ff33` | indonesian | anjing | anjing | 8 |
+
+## Run 10 — 2026-05-27 · claude-opus-4-7 · 20 words
+
+Hand-written enrichment by Claude (no Gemini). All 20 succeeded. Data written via `scripts/enrich-claude-batch.mjs`.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 90 | `24ce5f49-1eaa-4d52-8488-1d64a2fd38d4` | spanish | chingar | chingar | 8 |
+| 91 | `3bf3bb21-6069-4432-b644-f66c23174990` | japanese | 糞 (kuso) | kuso | 8 |
+| 92 | `5dcd8cdf-27d3-47b0-9dfd-f06e3aa1cb96` | russian | пизда (pizda) | pizda | 8 |
+| 93 | `d010f220-9aee-4210-99e1-dff18e253d1e` | arabic | كسّ (Kuss) | kuss | 7 |
+| 94 | `042bf587-398b-4f6f-8069-a5f29e6b606b` | indonesian | memek | memek | 7 |
+| 95 | `496370c4-ea2a-4ae3-a44a-26ec39f31b2c` | indonesian | toket | toket | 7 |
+| 96 | `2fdd1cd9-7241-4aca-9029-5fd2940c996a` | english | kiss my ass | kiss-my-ass | 7 |
+| 97 | `c8dc9f45-d795-4801-82f6-98b67af93851` | japanese | チョン (chon) | chon | 7 |
+| 98 | `7d024794-33f6-473c-a771-162ecdc8d7f4` | korean | 개새끼 (gaesaekki) | gaesaekki | 7 |
+| 99 | `d2869ab8-9863-4f38-9b1d-1358bd626c25` | indonesian | ngentot | ngentot | 7 |
+| 100 | `b394eb5a-1a77-4c89-8976-58460284cb74` | german | Schlampe | schlampe | 6 |
+| 101 | `308438a2-3112-4085-a6c6-5090768be2c6` | filipino | putang ina | putang-ina | 6 |
+| 102 | `e3d4c8c4-cef1-4dc8-a7af-1a08e3ab6b00` | spanish | concha | concha | 6 |
+| 103 | `70962f33-5916-49c7-b64e-bc33212ba221` | chinese | TMD | tmd | 6 |
+| 104 | `aeff31a2-b862-49a6-98e5-b4331f9dd408` | japanese | 馬鹿 (baka) | baka | 6 |
+| 105 | `691371b1-43f5-4933-a7d6-d38892782bcf` | russian | ебало (yebalo) | yebalo | 6 |
+| 106 | `ba53b42d-f528-41ed-82d0-065dc98af3ba` | greek | μούτζα (moo-tzah) | moo-tzah | 6 |
+| 107 | `869c0159-f631-4cc0-974d-c20597a2cea7` | russian | блин (blin) | blin | 6 |
+| 108 | `bd657b28-199d-4d83-a8a8-6e8704c38678` | spanish | pelotudo | pelotudo | 6 |
+| 109 | `294f8b5b-9db1-4a60-a191-20fc2b5a301f` | chinese | 鸭子 (yā zi) | ya-zi | 6 |
 
 ## Quota notes
 

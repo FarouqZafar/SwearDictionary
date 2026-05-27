@@ -11,7 +11,6 @@
 //   - regional_variations: set only if existing is empty.
 //
 // Run: node --env-file=.env scripts/enrich-words.mjs
-
 import { GoogleGenerativeAI, SchemaType } from "@google/generative-ai";
 import { createClient } from "@supabase/supabase-js";
 
