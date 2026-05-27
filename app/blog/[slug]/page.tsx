@@ -8,6 +8,7 @@ import ArticleViewTracker from "./ArticleViewTracker";
 import ArticleTOC from "./ArticleTOC";
 
 export const revalidate = false;
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   const slugs = await getAllArticleSlugs();

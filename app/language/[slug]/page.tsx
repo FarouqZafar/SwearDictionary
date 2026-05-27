@@ -10,6 +10,7 @@ import WordFilters from "./WordFilters";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 
 export const revalidate = false;
+export const dynamicParams = false;
 
 export async function generateStaticParams() {
   const slugs = await getAllLanguageSlugs();
