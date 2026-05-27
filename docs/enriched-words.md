@@ -6,9 +6,9 @@ Words enriched with `example_sentences`, `cultural_context`, and `regional_varia
 
 | Metric | Count |
 |---|---|
-| Total enriched | 109 |
+| Total enriched | 129 |
 | Total published | 2,672 |
-| Still eligible | 2,552 |
+| Still eligible | 2,532 |
 
 ## Run 1 — 2026-05-08 · gemini-2.5-flash · 10 words
 
@@ -195,6 +195,33 @@ Hand-written enrichment by Claude (no Gemini). All 20 succeeded. Data written vi
 | 107 | `869c0159-f631-4cc0-974d-c20597a2cea7` | russian | блин (blin) | blin | 6 |
 | 108 | `bd657b28-199d-4d83-a8a8-6e8704c38678` | spanish | pelotudo | pelotudo | 6 |
 | 109 | `294f8b5b-9db1-4a60-a191-20fc2b5a301f` | chinese | 鸭子 (yā zi) | ya-zi | 6 |
+
+## Run 11 — 2026-05-27 · claude-opus-4-7 · 20 words
+
+Hand-written enrichment by Claude (batch 2). All 20 succeeded. Data written via `scripts/enrich-claude-batch-2.mjs`.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 110 | `6fffe833-7007-427d-8057-455b5b1ad0a9` | english | cunt | cunt | 8 |
+| 111 | `b533ee16-81d9-4059-a3fb-9ca65ae554b4` | japanese | クソ野郎 (kusoyarou) | kusoyarou | 7 |
+| 112 | `1bfe7aa0-f746-455b-80f4-3ab1698130a1` | japanese | 野郎 (yarou) | yarou | 6 |
+| 113 | `5cde9f1e-1056-4f93-95ac-74223ce8e289` | norwegian | Faen | faen | 6 |
+| 114 | `a987c0fc-8da1-4ed9-8dcc-15980fcfcc8a` | italian | vaffanculo | vaffanculo | 6 |
+| 115 | `f3d635fb-62a1-4454-b548-6010ddb1aad1` | japanese | どけ (doke) | doke | 6 |
+| 116 | `9d64284f-e46b-4f28-8b6d-3fd596c779ac` | hindi | चमार (chamar) | chamar | 6 |
+| 117 | `0e2d63c9-cd31-454d-ba45-f647d5c4b234` | english | cum-dumpster | cum-dumpster | 6 |
+| 118 | `410e15ae-e8f9-4f65-94c7-3af73aed619a` | hindi | चूत (choot/chut) | choot-chut | 6 |
+| 119 | `396580c3-870e-4187-bbd0-4f0f18b0d090` | hindi | रंडी (randi) | randi | 6 |
+| 120 | `eadb185a-e5f5-4742-b98e-983bc0fc8b28` | indonesian | jembut | jembut | 6 |
+| 121 | `ce51081c-429b-4b15-8b8c-c5d7d90db542` | korean | 새끼 (saekki) | saekki | 6 |
+| 122 | `6005cf10-1902-4dc1-a93b-ba29b7216842` | filipino | bobo | bobo | 6 |
+| 123 | `45025ad8-754b-4f84-9991-3525510c3db3` | english | bellend | bellend | 5 |
+| 124 | `819f3b82-125c-4cdd-a79c-756d23bc61d3` | turkish | velet | velet | 5 |
+| 125 | `b2f7e016-8967-4d3b-a423-f438aba15944` | italian | palle | palle | 5 |
+| 126 | `dd11592f-bc9c-4881-a5e3-764b8ce9d18c` | portuguese | filho da puta | filho-da-puta | 5 |
+| 127 | `6becfcf1-c0c1-4dac-ad06-6ad439656c80` | spanish | gilipollas | gilipollas | 5 |
+| 128 | `0dae96f2-c537-44fe-a590-fd952e0fbcbc` | english | douchebag | douchebag | 5 |
+| 129 | `7f361f1c-d27c-4d2a-9c32-b200c21122cb` | chinese | BT | bt | 5 |
 
 ## Quota notes
 
