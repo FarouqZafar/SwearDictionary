@@ -7,6 +7,7 @@ import ViewTracker from "./ViewTracker";
 import { LANGUAGE_LOCALE_MAP } from "@/lib/hreflang";
 import PronounceButton from "./PronounceButton";
 import { cleanIpa } from "@/lib/ipa";
+import { isWordEnriched } from "@/lib/enrichment";
 
 export const revalidate = false;
 export const dynamicParams = false;
@@ -34,6 +35,7 @@ export async function generateMetadata({
   return {
     title,
     description,
+    robots: isWordEnriched(word) ? undefined : { index: false, follow: true },
     openGraph: {
       title,
       description,

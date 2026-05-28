@@ -6,9 +6,9 @@ Words enriched with `example_sentences`, `cultural_context`, and `regional_varia
 
 | Metric | Count |
 |---|---|
-| Total enriched | 129 |
+| Total enriched | 139 |
 | Total published | 2,672 |
-| Still eligible | 2,532 |
+| Still eligible | 2,522 |
 
 ## Run 1 — 2026-05-08 · gemini-2.5-flash · 10 words
 
@@ -222,6 +222,23 @@ Hand-written enrichment by Claude (batch 2). All 20 succeeded. Data written via 
 | 127 | `6becfcf1-c0c1-4dac-ad06-6ad439656c80` | spanish | gilipollas | gilipollas | 5 |
 | 128 | `0dae96f2-c537-44fe-a590-fd952e0fbcbc` | english | douchebag | douchebag | 5 |
 | 129 | `7f361f1c-d27c-4d2a-9c32-b200c21122cb` | chinese | BT | bt | 5 |
+
+## Run 12 — 2026-05-28 · claude-opus-4-7 · 10 words
+
+Hand-written enrichment by Claude (batch 3). All 10 succeeded. Data written via `scripts/enrich-claude-batch-3.mjs`. Next-eligible words found with new helper `scripts/list-next-eligible.mjs`.
+
+| # | ID | Lang | Word | Slug | Views |
+|---|---|---|---|---|---|
+| 130 | `6dc5071d-f274-4aa6-9edb-36f2697d10b6` | spanish | la madre que te parió | la-madre-que-te-pario | 9 |
+| 131 | `0145da8b-e2de-46d5-8135-407eca1f72e9` | chinese | 婊子 (biǎo zi) | biao-zi | 8 |
+| 132 | `36b0e35b-642d-4dd9-a576-624dcd37ed33` | vietnamese | mẹ mày | me-may | 6 |
+| 133 | `7a2ff39e-7e51-44f9-afdf-37d723e94d89` | japanese | アホ (aho) | aho | 6 |
+| 134 | `a66479c7-3a58-4d93-901b-c42532712087` | japanese | 死ね (shine) | shine | 6 |
+| 135 | `646603ab-cecc-4b40-8e57-757eba4c6019` | vietnamese | địt mẹ | it-me | 6 |
+| 136 | `7b0dab6d-1db2-4259-aa4e-e4edce2f8a4b` | vietnamese | vl | vl | 5 |
+| 137 | `1b46b486-1510-40db-b88a-cb915c5b41df` | filipino | unggoy (oong-goy) | unggoy | 5 |
+| 138 | `1093eeb7-7141-49c6-aa1e-63aee1c40e3c` | norwegian | Hore | hore | 5 |
+| 139 | `be8ee27a-a77a-42ab-b4ba-e935fdd02bc7` | thai | อีหอย (ee hoi) | ee-hoi | 5 |
 
 ## Quota notes
 

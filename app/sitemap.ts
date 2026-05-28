@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getLanguages, getPublishedArticles } from "@/lib/queries";
 import { supabase } from "@/lib/supabase";
+import { isWordEnriched } from "@/lib/enrichment";
 
 export const revalidate = false;
 
@@ -55,12 +56,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.9,
   }));
 
-  // Only include enriched words in sitemap (3+ example sentences AND 200+ char cultural context)
-  const enrichedWords = (words ?? []).filter((w: Record<string, unknown>) => {
-    const sentences = w.example_sentences as unknown[] | null;
-    const ctx = w.cultural_context as string | null;
-    return Array.isArray(sentences) && sentences.length >= 3 && (ctx || "").length > 200;
-  });
+  // Only include enriched words in sitemap; noindexed thin pages are excluded.
+  const enrichedWords = (words ?? []).filter(isWordEnriched);
 
   const wordPages: MetadataRoute.Sitemap = enrichedWords.map(
     (w: Record<string, unknown>) => ({
