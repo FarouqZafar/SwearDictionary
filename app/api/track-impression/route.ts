@@ -19,13 +19,14 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: "Invalid wordIds" }, { status: 400 });
     }
 
-    // Increment impressions for each word using rpc or individual updates
-    // Supabase doesn't support bulk increment natively, so we use a small batch
-    await Promise.all(
-      wordIds.map((id) =>
-        supabaseAdmin.rpc("increment_impressions", { word_id: id })
-      )
-    );
+    // One round trip for the whole batch; writes go to the small word_stats table
+    const { error } = await supabaseAdmin.rpc("increment_impressions_batch", {
+      word_ids: wordIds,
+    });
+
+    if (error) {
+      return NextResponse.json({ error: "Failed" }, { status: 500 });
+    }
 
     return NextResponse.json({ ok: true });
   } catch {

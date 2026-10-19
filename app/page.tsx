@@ -25,7 +25,8 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://sweardictionary.com" },
 };
 
-export const revalidate = false;
+// Hourly: keeps Word of the Day rotating and trending counts fresh (counts sync hourly in DB)
+export const revalidate = 3600;
 
 const websiteJsonLd = {
   "@context": "https://schema.org",
@@ -60,8 +61,10 @@ export default async function HomePage() {
   const dayOfYear = Math.floor(
     (Date.now() - new Date(new Date().getFullYear(), 0, 0).getTime()) / 86400000
   );
-  const wotd = featuredWords.length > 0
-    ? featuredWords[dayOfYear % featuredWords.length]
+  // Pick from a stable order so hourly trending reshuffles don't change it mid-day
+  const wotdPool = [...featuredWords].sort((a, b) => a.id.localeCompare(b.id));
+  const wotd = wotdPool.length > 0
+    ? wotdPool[dayOfYear % wotdPool.length]
     : null;
 
   // Trending: exclude word of the day, deduplicate by language, take top 20
