@@ -47,15 +47,17 @@ export default function MobileMenu() {
         <div className="mobile-menu-overlay" onClick={() => setOpen(false)}>
           <nav className="mobile-menu" onClick={(e) => e.stopPropagation()}>
             {[
-              { href: "/words", label: "Words" },
+              // /words is a huge payload and /search runs on the server: never prefetch them.
+              { href: "/words", label: "Words", prefetch: false },
               { href: "/languages", label: "Languages" },
               { href: "/blog", label: "Blog" },
-              { href: "/search", label: "Search" },
+              { href: "/search", label: "Search", prefetch: false },
               { href: "/about", label: "About" },
             ].map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
+                prefetch={item.prefetch === false ? false : undefined}
                 className={`mobile-menu-link${pathname.startsWith(item.href) ? " mobile-menu-active" : ""}`}
               >
                 {pathname.startsWith(item.href) && <span className="mobile-menu-indicator" />}

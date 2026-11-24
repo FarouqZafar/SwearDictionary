@@ -80,7 +80,7 @@ export default async function RootLayout({
               </div>
               <div className="footer-col">
                 <h4>Explore</h4>
-                <Link href="/words">All words</Link>
+                <Link href="/words" prefetch={false}>All words</Link>
                 <Link href="/languages">All languages</Link>
                 <Link href="/blog">Blog</Link>
               </div>

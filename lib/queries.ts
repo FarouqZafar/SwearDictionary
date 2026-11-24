@@ -1,5 +1,6 @@
+import { cache } from "react";
 import { supabase } from "./supabase";
-import type { Language, Word, Article } from "@/types";
+import type { Language, Word, Article, GridWord } from "@/types";
 
 export async function getLanguages(): Promise<Language[]> {
   const { data, error } = await supabase
@@ -182,16 +183,23 @@ export async function searchWords(
   return (data ?? []) as (Word & { language: Language })[];
 }
 
-export async function getAllWords(): Promise<(Word & { language: Language })[]> {
+// The cards clamp the meaning to 3 lines, so longer text is never shown.
+const GRID_MEANING_MAX = 200;
+
+// Every word on /words ships inside the page, so select only what the grid reads.
+// `cache` makes generateMetadata and the page share one fetch per render.
+export const getGridWords = cache(async (): Promise<GridWord[]> => {
   // Supabase default limit is 1000 rows — fetch in batches
-  const all: (Word & { language: Language })[] = [];
+  const all: GridWord[] = [];
   const batchSize = 1000;
   let offset = 0;
 
   while (true) {
     const { data, error } = await supabase
       .from("words")
-      .select("*, language:languages(*)")
+      .select(
+        "id, word, slug, severity, categories, english_equivalent, meaning, views, created_at, language:languages(slug, name, flag_emoji, iso_code)"
+      )
       .eq("is_published", true)
       .order("views", { ascending: false })
       .range(offset, offset + batchSize - 1);
@@ -200,14 +208,19 @@ export async function getAllWords(): Promise<(Word & { language: Language })[]> 
       console.error("Failed to fetch all words:", error.message);
       break;
     }
-    const batch = (data ?? []) as (Word & { language: Language })[];
+    const batch = (data ?? []) as unknown as GridWord[];
+    for (const w of batch) {
+      if (w.meaning && w.meaning.length > GRID_MEANING_MAX) {
+        w.meaning = w.meaning.slice(0, GRID_MEANING_MAX);
+      }
+    }
     all.push(...batch);
     if (batch.length < batchSize) break;
     offset += batchSize;
   }
 
   return all;
-}
+});
 
 // Returns one high-severity word per language (top N languages by word count).
 // Used as a diverse fallback for trending/WotD when views are all zero.

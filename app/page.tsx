@@ -34,14 +34,6 @@ const websiteJsonLd = {
   name: "SwearDictionary",
   url: "https://sweardictionary.com",
   description: "The world's most comprehensive multilingual profanity encyclopedia. Swear words, curse words and profanity from 30+ languages with severity ratings and cultural context.",
-  potentialAction: {
-    "@type": "SearchAction",
-    target: {
-      "@type": "EntryPoint",
-      urlTemplate: "https://sweardictionary.com/search?q={search_term_string}",
-    },
-    "query-input": "required name=search_term_string",
-  },
 };
 
 export default async function HomePage() {
@@ -168,10 +160,10 @@ export default async function HomePage() {
         <Link href="/languages" className="stat-chip stat-chip--link">
           <b>{languages.length}</b> languages
         </Link>
-        <Link href="/words" className="stat-chip stat-chip--link">
+        <Link href="/words" prefetch={false} className="stat-chip stat-chip--link">
           <b>{totalWords.toLocaleString()}+</b> words
         </Link>
-        <Link href="/words" className="stat-chip stat-chip--link">
+        <Link href="/words" prefetch={false} className="stat-chip stat-chip--link">
           <b>5</b> severity levels
         </Link>
         <div className="stat-chip">
@@ -181,7 +173,7 @@ export default async function HomePage() {
 
       {/* QUICK LINKS */}
       <div className="home-quick-links">
-        <Link href="/words" className="home-quick-card">
+        <Link href="/words" prefetch={false} className="home-quick-card">
           <span className="home-quick-icon">📖</span>
           <div>
             <h3>Browse All Words</h3>
@@ -284,7 +276,7 @@ export default async function HomePage() {
       {/* TRENDING */}
       <div className="section-head">
         <h2>Trending Right Now</h2>
-        <Link href="/words" className="see-all">
+        <Link href="/words" prefetch={false} className="see-all">
           all words →
         </Link>
       </div>

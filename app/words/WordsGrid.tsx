@@ -2,9 +2,8 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
-import type { Word, Language } from "@/types";
+import type { GridWord, Language } from "@/types";
 import PronounceButton from "@/app/language/[slug]/[word-slug]/PronounceButton";
-import ImpressionTracker from "@/components/ImpressionTracker";
 
 const CARDS_PER_PAGE = 12;
 
@@ -55,7 +54,7 @@ export default function WordsGrid({
   words,
   languages,
 }: {
-  words: (Word & { language: Language })[];
+  words: GridWord[];
   languages: Language[];
 }) {
   const [severityFilter, setSeverityFilter] = useState(0);
@@ -420,7 +419,6 @@ export default function WordsGrid({
           )}
         </>
       )}
-    <ImpressionTracker />
     </div>
   );
 }

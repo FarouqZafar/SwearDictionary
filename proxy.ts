@@ -4,7 +4,7 @@ import type { NextRequest } from "next/server";
 // IPA Unicode ranges: Spacing Modifiers (02B0-02FF), IPA Extensions (0250-02AF),
 // Combining Diacritics (0300-036F). Googlebot mistakenly extracted /IPA/ strings
 // from word page HTML as root-relative URLs. Return 410 Gone to speed deindexing.
-const IPA_CHARS = /[\u0250-\u02FF\u0300-\u036F]/;
+const IPA_CHARS = /[ɐ-˿̀-ͯ]/;
 const IPA_ASCII_EXCEPTIONS = new Set(["jopt", "nuj"]);
 
 export function proxy(request: NextRequest) {
@@ -18,8 +18,11 @@ export function proxy(request: NextRequest) {
   return NextResponse.next();
 }
 
+// Proxy runs as a function on every matched request, even for cached pages, and
+// each run is billed. Only one-segment paths can be junk IPA URLs, so match just
+// those, and skip the real top-level routes and root files.
 export const config = {
   matcher: [
-    "/((?!_next|api|favicon.ico|robots.txt|sitemap.xml|og-default.png|icon.png).*)",
+    "/((?!_next|api|about|blog|language|search|submit|words|favicon|robots|sitemap|icon|og-default)[^/]+)",
   ],
 };

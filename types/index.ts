@@ -36,6 +36,22 @@ export interface Word {
   updated_at: string;
 }
 
+/** Slim word shape for the /words grid. Only the fields the cards, filters and sort read. */
+export type GridWord = Pick<
+  Word,
+  | "id"
+  | "word"
+  | "slug"
+  | "severity"
+  | "categories"
+  | "english_equivalent"
+  | "meaning"
+  | "views"
+  | "created_at"
+> & {
+  language: Pick<Language, "slug" | "name" | "flag_emoji" | "iso_code">;
+};
+
 export interface Article {
   id: string;
   slug: string;

@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import { getAllWords, getLanguages } from "@/lib/queries";
+import { getGridWords, getLanguages } from "@/lib/queries";
 import WordsGrid from "./WordsGrid";
 
 export const revalidate = false;
 
 export async function generateMetadata(): Promise<Metadata> {
-  const words = await getAllWords();
-  const langCount = new Set(words.map((w) => w.language.id)).size;
+  const words = await getGridWords();
+  const langCount = new Set(words.map((w) => w.language.slug)).size;
   const title = `Swear Words from Every Language | SwearDictionary`;
   const description = `Browse ${words.length.toLocaleString()} swear words & curse words from ${langCount}+ languages. Filter by severity, category, or language. Every word rated, translated & explained.`;
 
@@ -27,7 +27,7 @@ export async function generateMetadata(): Promise<Metadata> {
 
 export default async function WordsPage() {
   const [words, languages] = await Promise.all([
-    getAllWords(),
+    getGridWords(),
     getLanguages(),
   ]);
 

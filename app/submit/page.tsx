@@ -82,7 +82,7 @@ export default function SubmitPage() {
       <div className="submit-browse">
         <p>In the meantime, explore what we have:</p>
         <div className="submit-browse-links">
-          <Link href="/words" className="submit-browse-link">Browse existing words</Link>
+          <Link href="/words" prefetch={false} className="submit-browse-link">Browse existing words</Link>
           <Link href="/languages" className="submit-browse-link">Browse by language</Link>
         </div>
       </div>

@@ -16,7 +16,7 @@ export default function Navbar() {
 
         <div className="header-right">
           <ThemeToggle />
-          <Link href="/search" className="nav-search-icon" aria-label="Search">
+          <Link href="/search" prefetch={false} className="nav-search-icon" aria-label="Search">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <circle cx="11" cy="11" r="8" />
               <path d="m21 21-4.35-4.35" />
