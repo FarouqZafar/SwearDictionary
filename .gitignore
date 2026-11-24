@@ -20,3 +20,5 @@ data/seeds/
 # build / misc
 *.tsbuildinfo
 next-env.d.ts
+.vercel
+.env*
