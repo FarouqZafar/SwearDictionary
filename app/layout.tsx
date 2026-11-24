@@ -42,7 +42,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "SwearDictionary — The world's rudest encyclopedia",
   },
-  alternates: { canonical: "https://sweardictionary.com" },
+  // No canonical here: every page that does not set its own would inherit the
+  // homepage URL and tell Google to skip itself. Each page sets its own canonical.
 };
 
 export default async function RootLayout({
